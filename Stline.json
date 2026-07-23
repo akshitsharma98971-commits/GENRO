@@ -1,0 +1,4245 @@
+{
+  "Physics": {
+    "Straight Line": {
+      "Easy": {
+        "Position, Distance & Displacement": [
+          {
+            "question": "Which equation of motion gives final velocity?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) s=vt"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which equation relates displacement and time?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) v=st"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which equation does NOT contain time?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) v=st"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The symbol u represents:",
+            "options": [
+              "A) Final velocity",
+              "B) Initial velocity",
+              "C) Uniform velocity",
+              "D) Average velocity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The symbol v represents:",
+            "options": [
+              "A) Initial velocity",
+              "B) Average velocity",
+              "C) Final velocity",
+              "D) Variable velocity"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The symbol a represents:",
+            "options": [
+              "A) Area",
+              "B) Acceleration",
+              "C) Amplitude",
+              "D) Average speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The symbol s represents:",
+            "options": [
+              "A) Speed",
+              "B) Distance",
+              "C) Displacement",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The equations of motion are valid only for:",
+            "options": [
+              "A) Variable acceleration",
+              "B) Uniform acceleration",
+              "C) Circular motion",
+              "D) Projectile motion"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body starts from rest. What is its initial velocity?",
+            "options": [
+              "A) 10 m/s",
+              "B) 5 m/s",
+              "C) 0 m/s",
+              "D) Cannot be determined"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moving with uniform acceleration has:",
+            "options": [
+              "A) Constant acceleration",
+              "B) Variable acceleration",
+              "C) Zero velocity",
+              "D) Infinite acceleration"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A car starts from rest and accelerates at 2 m/s² for 5 s. Its final velocity is:",
+            "options": [
+              "A) 5 m/s",
+              "B) 7 m/s",
+              "C) 10 m/s",
+              "D) 15 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body starts from rest and accelerates at 3 m/s² for 4 s. Find the final velocity.",
+            "options": [
+              "A) 7 m/s",
+              "B) 10 m/s",
+              "C) 12 m/s",
+              "D) 15 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A car has an initial velocity of 10 m/s and acceleration 2 m/s² for 5 s. Final velocity is:",
+            "options": [
+              "A) 15 m/s",
+              "B) 20 m/s",
+              "C) 25 m/s",
+              "D) 30 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body starts from rest with acceleration 2 m/s² for 5 s. Displacement is:",
+            "options": [
+              "A) 20 m",
+              "B) 25 m",
+              "C) 30 m",
+              "D) 35 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves with u = 4 m/s, a = 2 m/s², t = 3 s. Find displacement.",
+            "options": [
+              "A) 18 m",
+              "B) 21 m",
+              "C) 24 m",
+              "D) 27 m"
+            ],
+            "answer": "B",
+            "explanation": "(s=ut+12at2=4×3+12×2×9=12+9=21)"
+          },
+          {
+            "question": "A body moving with constant velocity has acceleration:",
+            "options": [
+              "A) Positive",
+              "B) Negative",
+              "C) Zero",
+              "D) Infinite"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which equation is used when time is unknown?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) None"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If acceleration is zero, then:",
+            "options": [
+              "A) Velocity changes",
+              "B) Velocity remains constant",
+              "C) Speed becomes zero",
+              "D) Motion stops"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body comes to rest from 20 m/s in 4 s. Its acceleration is:",
+            "options": [
+              "A) -5 m/s²",
+              "B) 5 m/s²",
+              "C) -4 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "If u = 0, then v = u + at becomes:",
+            "options": [
+              "A) v=t",
+              "B) v=at",
+              "C) v=a+t",
+              "D) v=0"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A freely falling body near Earth's surface has acceleration approximately:",
+            "options": [
+              "A) 5 m/s²",
+              "B) 9.8 m/s²",
+              "C) 15 m/s²",
+              "D) 20 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity is measured in m/s²?",
+            "options": [
+              "A) Velocity",
+              "B) Speed",
+              "C) Acceleration",
+              "D) Displacement"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moves with u = 2 m/s, a = 4 m/s², t = 2 s. Final velocity is:",
+            "options": [
+              "A) 8 m/s",
+              "B) 10 m/s",
+              "C) 12 m/s",
+              "D) 14 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A train moving at 15 m/s accelerates uniformly at 1 m/s² for 10 s. Final velocity is:",
+            "options": [
+              "A) 20 m/s",
+              "B) 25 m/s",
+              "C) 30 m/s",
+              "D) 35 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body starts from rest and travels 20 m with uniform acceleration. Which equation is most suitable if time is not given?",
+            "options": [
+              "A) v=u+at",
+              "B) v2=u2+2as",
+              "C) s=ut+12at2",
+              "D) v=st"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The first equation of motion is derived from the definition of:",
+            "options": [
+              "A) Velocity",
+              "B) Acceleration",
+              "C) Distance",
+              "D) Speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which equation gives displacement directly if u, a, and t are known?",
+            "options": [
+              "A) v=u+at",
+              "B) v2=u2+2as",
+              "C) s=ut+12at2",
+              "D) a=v−ut"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A car moving at 8 m/s accelerates at 3 m/s² for 4 s. Final velocity is:",
+            "options": [
+              "A) 16 m/s",
+              "B) 18 m/s",
+              "C) 20 m/s",
+              "D) 22 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moving with uniform acceleration has:",
+            "options": [
+              "A) Equal changes in velocity in equal intervals of time",
+              "B) Equal distances in equal intervals of time",
+              "C) Constant speed only",
+              "D) Zero displacement"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) Equations of motion are valid for any type of acceleration.",
+              "B) Equations of motion are valid only for constant (uniform) acceleration.",
+              "C) Equations of motion apply only when the object starts from rest.",
+              "D) Equations of motion apply only to circular motion."
+            ],
+            "answer": "B"
+          }
+        ],
+        "Speed & Velocity": [
+          {
+            "question": "A car travels 120 km in 2 hours and then 60 km in 1 hour. Its average speed is:",
+            "options": [
+              "A) 50 km/h",
+              "B) 60 km/h",
+              "C) 70 km/h",
+              "D) 80 km/h"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A person walks 3 km east and then 4 km west in 2 hours. The magnitude of average velocity is:",
+            "options": [
+              "A) 0.5 km/h",
+              "B) 1 km/h",
+              "C) 3.5 km/h",
+              "D) 3 km/h"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "In Question 2, the average speed is:",
+            "options": [
+              "A) 0.5 km/h",
+              "B) 1 km/h",
+              "C) 3.5 km/h",
+              "D) 7 km/h"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which statement is always true?",
+            "options": [
+              "A) Average speed ≥ Magnitude of average velocity",
+              "B) Average speed ≤ Magnitude of average velocity",
+              "C) Average speed = Average velocity",
+              "D) Average velocity is always positive"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle moves with constant speed but changes direction. Which quantity changes?",
+            "options": [
+              "A) Speed only",
+              "B) Velocity only",
+              "C) Distance only",
+              "D) Time only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body covers equal distances with speeds v1and v2. Its average speed is:",
+            "options": [
+              "A) v1+v22",
+              "B) 2v1v2v1+v2",
+              "C) v1−v2",
+              "D) v1v2"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body covers equal time intervals with speeds v1and v2. The average speed is:",
+            "options": [
+              "A) v1+v22",
+              "B) 2v1v2v1+v2",
+              "C) v1v2",
+              "D) v1−v22"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which instrument measures instantaneous speed?",
+            "options": [
+              "A) Odometer",
+              "B) Speedometer",
+              "C) Stopwatch",
+              "D) Ammeter"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which instrument measures the total distance travelled?",
+            "options": [
+              "A) Speedometer",
+              "B) Odometer",
+              "C) Voltmeter",
+              "D) Thermometer"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves 10 m east in 2 s and then 10 m west in 2 s. The average velocity is:",
+            "options": [
+              "A) 5 m/s east",
+              "B) 5 m/s west",
+              "C) 0 m/s",
+              "D) 10 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "In Question 10, the average speed is:",
+            "options": [
+              "A) 2.5 m/s",
+              "B) 5 m/s",
+              "C) 10 m/s",
+              "D) 0 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Velocity can change if:",
+            "options": [
+              "A) Only speed changes",
+              "B) Only direction changes",
+              "C) Both speed and direction can change",
+              "D) All of the above"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "Which of the following can be negative?",
+            "options": [
+              "A) Speed",
+              "B) Distance",
+              "C) Velocity",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If an object moves with constant velocity, then:",
+            "options": [
+              "A) Speed changes",
+              "B) Direction changes",
+              "C) Speed and direction remain constant",
+              "D) Acceleration increases"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A runner completes one full lap of a circular track in 40 s. The average velocity is:",
+            "options": [
+              "A) Zero",
+              "B) Equal to average speed",
+              "C) Maximum",
+              "D) Cannot be determined"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which graph has a slope equal to velocity?",
+            "options": [
+              "A) Velocity–time graph",
+              "B) Position–time graph",
+              "C) Acceleration–time graph",
+              "D) Speed–time graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Instantaneous velocity is:",
+            "options": [
+              "A) Velocity at a particular instant",
+              "B) Average velocity",
+              "C) Total displacement divided by total time",
+              "D) Constant velocity"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "If displacement is zero, then average velocity is:",
+            "options": [
+              "A) Zero",
+              "B) Equal to average speed",
+              "C) Infinite",
+              "D) Negative"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which quantity depends on displacement?",
+            "options": [
+              "A) Average speed",
+              "B) Average velocity",
+              "C) Instantaneous speed",
+              "D) Distance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves with velocity +8 m/s. The positive sign indicates:",
+            "options": [
+              "A) High speed",
+              "B) Motion in the chosen positive direction",
+              "C) Increasing acceleration",
+              "D) Constant speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves with velocity -12 m/s. This means:",
+            "options": [
+              "A) Speed is negative",
+              "B) Motion is opposite to the chosen positive direction",
+              "C) Distance is negative",
+              "D) Time is negative"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity is always non-negative?",
+            "options": [
+              "A) Velocity",
+              "B) Displacement",
+              "C) Speed",
+              "D) Position"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves 20 m east in 5 s and then 20 m north in 5 s. The magnitude of average velocity is:",
+            "options": [
+              "A) 4 m/s",
+              "B) 42m/s",
+              "C) 2 m/s",
+              "D) 22m/s"
+            ],
+            "answer": "D",
+            "explanation": "Displacement =202+202=202m Average velocity =20210=22m/s"
+          },
+          {
+            "question": "The average speed in Question 23 is:",
+            "options": [
+              "A) 2 m/s",
+              "B) 22m/s",
+              "C) 4 m/s",
+              "D) 42m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If a body is at rest, then:",
+            "options": [
+              "A) Speed = 0 and Velocity = 0",
+              "B) Speed = 0 but Velocity ≠ 0",
+              "C) Velocity = 0 but Speed ≠ 0",
+              "D) None of these"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The ratio of average speed to the magnitude of average velocity is:",
+            "options": [
+              "A) Always less than 1",
+              "B) Always equal to 1",
+              "C) Always greater than or equal to 1",
+              "D) Always greater than 2"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A straight-line position–time graph with constant slope represents:",
+            "options": [
+              "A) Uniform acceleration",
+              "B) Constant velocity",
+              "C) Variable velocity",
+              "D) Zero speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is incorrect?",
+            "options": [
+              "A) Speed is a scalar quantity.",
+              "B) Velocity is a vector quantity.",
+              "C) Speed can be negative.",
+              "D) Velocity has magnitude and direction."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If the speed of an object is constant but its velocity changes, the motion is:",
+            "options": [
+              "A) Impossible",
+              "B) Along a curved path",
+              "C) Always in a straight line",
+              "D) At rest"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body travels 100 m in a straight line and returns to the starting point in 40 s. Its:",
+            "options": [
+              "A) Average speed = 5 m/s, Average velocity = 0",
+              "B) Average speed = 2.5 m/s, Average velocity = 5 m/s",
+              "C) Average speed = 0, Average velocity = 5 m/s",
+              "D) Average speed = 5 m/s, Average velocity = 5 m/s"
+            ],
+            "answer": "A"
+          }
+        ],
+        "Acceleration": [
+          {
+            "question": "A car increases its velocity from 10 m/s to 30 m/s in 5 s. Its average acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 4 m/s²",
+              "C) 5 m/s²",
+              "D) 6 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A train slows down from 25 m/s to 5 m/s in 10 s. Its acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) -2 m/s²",
+              "C) -5 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is always true?",
+            "options": [
+              "A) Positive acceleration means speed always increases.",
+              "B) Negative acceleration means speed always decreases.",
+              "C) Acceleration is the rate of change of velocity.",
+              "D) Constant velocity means constant positive acceleration."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "An object moves with constant speed in a circular path. Its acceleration is:",
+            "options": [
+              "A) Zero",
+              "B) Constant in magnitude but changing in direction",
+              "C) Infinite",
+              "D) Negative"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If velocity changes only in direction, then:",
+            "options": [
+              "A) Acceleration is zero.",
+              "B) Acceleration is present.",
+              "C) Speed becomes zero.",
+              "D) Distance becomes zero."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following is a vector quantity?",
+            "options": [
+              "A) Speed",
+              "B) Distance",
+              "C) Acceleration",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body starts from rest and reaches 20 m/s in 4 s. The acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 4 m/s²",
+              "C) 5 m/s²",
+              "D) 10 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If the acceleration of a body is zero, then:",
+            "options": [
+              "A) It must be at rest.",
+              "B) Its velocity remains constant.",
+              "C) Its speed becomes zero.",
+              "D) It cannot move."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle has a velocity of -8 m/s and acceleration of +2 m/s². The speed of the particle:",
+            "options": [
+              "A) Increases",
+              "B) Decreases",
+              "C) Remains constant",
+              "D) Becomes zero immediately"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which condition always causes acceleration?",
+            "options": [
+              "A) Change in speed",
+              "B) Change in direction",
+              "C) Change in velocity",
+              "D) Increase in distance"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moving with constant velocity has:",
+            "options": [
+              "A) Zero acceleration",
+              "B) Constant positive acceleration",
+              "C) Constant negative acceleration",
+              "D) Variable acceleration"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body moving with constant acceleration has:",
+            "options": [
+              "A) Equal distances in equal intervals of time",
+              "B) Equal changes in velocity in equal intervals of time",
+              "C) Constant speed",
+              "D) Zero displacement"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph has a slope equal to acceleration?",
+            "options": [
+              "A) Position–time graph",
+              "B) Velocity–time graph",
+              "C) Acceleration–time graph",
+              "D) Distance–time graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The SI unit of acceleration is:",
+            "options": [
+              "A) m/s",
+              "B) m²/s",
+              "C) m/s²",
+              "D) km/h"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle changes its velocity from 15 m/s to 9 m/s in 3 s. The acceleration is:",
+            "options": [
+              "A) -2 m/s²",
+              "B) +2 m/s²",
+              "C) -3 m/s²",
+              "D) +3 m/s²"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is incorrect?",
+            "options": [
+              "A) Acceleration can be negative.",
+              "B) Acceleration can be zero.",
+              "C) Acceleration is always positive.",
+              "D) Acceleration is a vector."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moving in a straight line has positive velocity and negative acceleration. The particle is:",
+            "options": [
+              "A) Speeding up",
+              "B) Slowing down",
+              "C) At rest",
+              "D) Moving backward"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moving in a straight line has negative velocity and negative acceleration. The particle is:",
+            "options": [
+              "A) Slowing down",
+              "B) Speeding up",
+              "C) At rest",
+              "D) Moving with constant speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following is an example of uniform acceleration?",
+            "options": [
+              "A) Freely falling body near Earth's surface (ignoring air resistance)",
+              "B) Car moving in traffic",
+              "C) Pendulum motion",
+              "D) Random motion of dust particles"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "If acceleration is constant, the velocity–time graph is:",
+            "options": [
+              "A) Horizontal",
+              "B) Straight line",
+              "C) Circle",
+              "D) Parabola"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body accelerates uniformly from 5 m/s to 25 m/s in 10 s. The average acceleration is:",
+            "options": [
+              "A) 1 m/s²",
+              "B) 2 m/s²",
+              "C) 3 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity changes due to acceleration?",
+            "options": [
+              "A) Only speed",
+              "B) Only direction",
+              "C) Velocity",
+              "D) Mass"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A ball thrown vertically upward has acceleration:",
+            "options": [
+              "A) Zero at the highest point",
+              "B) Constant downward throughout the motion",
+              "C) Upward while rising",
+              "D) Downward while falling only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) Positive acceleration always increases speed.",
+              "B) Negative acceleration always decreases speed.",
+              "C) The effect of acceleration depends on the direction of velocity.",
+              "D) Acceleration depends only on distance."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moving with velocity 10 m/s changes to 10 m/s north from 10 m/s east. The acceleration is:",
+            "options": [
+              "A) Zero",
+              "B) Present because direction changes",
+              "C) Negative",
+              "D) Impossible"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The area under an acceleration–time graph represents:",
+            "options": [
+              "A) Distance",
+              "B) Velocity",
+              "C) Change in velocity",
+              "D) Speed"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moves with constant speed in a straight line. Its acceleration is:",
+            "options": [
+              "A) Positive",
+              "B) Negative",
+              "C) Zero",
+              "D) Variable"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following can have zero acceleration but non-zero velocity?",
+            "options": [
+              "A) A car moving at constant speed on a straight highway",
+              "B) A freely falling stone",
+              "C) A ball thrown upward",
+              "D) A car taking a circular turn"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The dimensions of acceleration are:",
+            "options": [
+              "A) LT−1",
+              "B) LT−2",
+              "C) L2T−2",
+              "D) MLT−2"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle's velocity changes from -4 m/s to +8 m/s in 6 s. The average acceleration is:",
+            "options": [
+              "A) 1 m/s²",
+              "B) 2 m/s²",
+              "C) 3 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "B"
+          }
+        ],
+        "Graphs": [
+          {
+            "question": "The slope of a position–time graph gives:",
+            "options": [
+              "A) Speed only",
+              "B) Velocity",
+              "C) Acceleration",
+              "D) Displacement"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The area under a velocity–time graph represents:",
+            "options": [
+              "A) Velocity",
+              "B) Acceleration",
+              "C) Displacement",
+              "D) Speed"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The slope of a velocity–time graph represents:",
+            "options": [
+              "A) Velocity",
+              "B) Distance",
+              "C) Acceleration",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A horizontal position–time graph indicates that the object is:",
+            "options": [
+              "A) Moving with constant velocity",
+              "B) At rest",
+              "C) Accelerating",
+              "D) Moving with increasing speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A straight-line position–time graph with constant positive slope represents:",
+            "options": [
+              "A) Uniform acceleration",
+              "B) Constant velocity",
+              "C) Zero velocity",
+              "D) Variable acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A curved position–time graph indicates:",
+            "options": [
+              "A) Constant velocity",
+              "B) Changing velocity",
+              "C) Zero acceleration",
+              "D) Object at rest"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A velocity–time graph is a horizontal line above the time axis. This means:",
+            "options": [
+              "A) Constant velocity",
+              "B) Constant acceleration",
+              "C) Zero velocity",
+              "D) Increasing velocity"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A straight-line velocity–time graph with positive slope represents:",
+            "options": [
+              "A) Constant velocity",
+              "B) Uniform acceleration",
+              "C) Variable acceleration",
+              "D) Zero acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A straight-line velocity–time graph with negative slope represents:",
+            "options": [
+              "A) Uniform positive acceleration",
+              "B) Uniform negative acceleration",
+              "C) Constant velocity",
+              "D) Zero acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the slope of a position–time graph is zero, the object is:",
+            "options": [
+              "A) Accelerating",
+              "B) Moving with constant velocity",
+              "C) At rest",
+              "D) Moving with constant acceleration"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which graph can be used to calculate displacement directly by finding the area?",
+            "options": [
+              "A) Position–time",
+              "B) Velocity–time",
+              "C) Acceleration–time",
+              "D) Speed–time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The area under an acceleration–time graph gives:",
+            "options": [
+              "A) Velocity",
+              "B) Change in velocity",
+              "C) Distance",
+              "D) Displacement"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving with constant acceleration has a velocity–time graph that is:",
+            "options": [
+              "A) Curved",
+              "B) Straight line",
+              "C) Horizontal",
+              "D) Vertical"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the velocity–time graph is below the time axis, the velocity is:",
+            "options": [
+              "A) Positive",
+              "B) Negative",
+              "C) Zero",
+              "D) Constant acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A steeper position–time graph indicates:",
+            "options": [
+              "A) Greater acceleration",
+              "B) Greater velocity",
+              "C) Less displacement",
+              "D) Less speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph represents zero acceleration?",
+            "options": [
+              "A) Horizontal velocity–time graph",
+              "B) Curved position–time graph",
+              "C) Sloping acceleration–time graph",
+              "D) Curved velocity–time graph"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body moves with constant negative velocity. Its position–time graph is:",
+            "options": [
+              "A) Straight line with positive slope",
+              "B) Straight line with negative slope",
+              "C) Horizontal line",
+              "D) Curved line"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The slope of an acceleration–time graph represents:",
+            "options": [
+              "A) Velocity",
+              "B) Jerk (rate of change of acceleration)",
+              "C) Displacement",
+              "D) Speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the velocity–time graph is a straight line passing through the origin, then:",
+            "options": [
+              "A) Velocity is constant",
+              "B) Acceleration is constant",
+              "C) Acceleration is zero",
+              "D) Speed is zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves with increasing velocity. The velocity–time graph must have:",
+            "options": [
+              "A) Positive slope",
+              "B) Negative slope",
+              "C) Zero slope",
+              "D) Vertical slope"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which graph best shows an object at rest?",
+            "options": [
+              "A) Horizontal position–time graph",
+              "B) Straight-line velocity–time graph with positive slope",
+              "C) Curved position–time graph",
+              "D) Straight-line acceleration–time graph above the axis"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) Area under a position–time graph gives velocity.",
+              "B) Slope of a position–time graph gives velocity.",
+              "C) Area under a velocity–time graph gives acceleration.",
+              "D) Slope of a velocity–time graph gives displacement."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The graph of acceleration versus time is a horizontal line above the time axis. This represents:",
+            "options": [
+              "A) Constant positive acceleration",
+              "B) Constant velocity",
+              "C) Increasing acceleration",
+              "D) Zero acceleration"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle moves with uniform velocity. Its acceleration–time graph is:",
+            "options": [
+              "A) Horizontal line at zero",
+              "B) Horizontal line above zero",
+              "C) Straight line with positive slope",
+              "D) Curved line"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which graph helps determine acceleration most directly?",
+            "options": [
+              "A) Position–time",
+              "B) Velocity–time",
+              "C) Distance–time",
+              "D) Speed–time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the slope of a velocity–time graph increases with time, the acceleration is:",
+            "options": [
+              "A) Constant",
+              "B) Increasing",
+              "C) Zero",
+              "D) Negative"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A curved velocity–time graph indicates:",
+            "options": [
+              "A) Uniform acceleration",
+              "B) Variable acceleration",
+              "C) Constant velocity",
+              "D) Zero velocity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body has a straight-line position–time graph with negative slope. This means:",
+            "options": [
+              "A) Positive velocity",
+              "B) Negative velocity",
+              "C) Positive acceleration",
+              "D) Zero velocity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following statements is incorrect?",
+            "options": [
+              "A) Slope of a position–time graph gives velocity.",
+              "B) Area under a velocity–time graph gives displacement.",
+              "C) Slope of a velocity–time graph gives acceleration.",
+              "D) Area under a position–time graph gives displacement."
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A particle starts from rest and accelerates uniformly. Which graph correctly represents its velocity–time relationship?",
+            "options": [
+              "A) Horizontal line",
+              "B) Straight line through the origin with positive slope",
+              "C) Straight line with negative slope",
+              "D) Curved line parallel to the time axis"
+            ],
+            "answer": "B"
+          }
+        ]
+      },
+       "Medium": {
+        "Position, Distance & Displacement": [
+          {
+            "question": "Position of an object is described with respect to:",
+            "options": [
+              "A) Time",
+              "B) Reference point (Origin)",
+              "C) Speed",
+              "D) Mass"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following is a scalar quantity?",
+            "options": [
+              "A) Displacement",
+              "B) Velocity",
+              "C) Distance",
+              "D) Acceleration"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following is a vector quantity?",
+            "options": [
+              "A) Distance",
+              "B) Speed",
+              "C) Displacement",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "SI unit of displacement is:",
+            "options": [
+              "A) km",
+              "B) cm",
+              "C) m",
+              "D) mm"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Distance travelled by an object is always:",
+            "options": [
+              "A) Negative",
+              "B) Positive or Zero",
+              "C) Equal to displacement",
+              "D) Negative or Positive"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Displacement depends on:",
+            "options": [
+              "A) Actual path travelled",
+              "B) Initial and final positions",
+              "C) Speed",
+              "D) Time only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A person walks 5 m east and then 5 m west. The displacement is:",
+            "options": [
+              "A) 10 m",
+              "B) 5 m",
+              "C) 0 m",
+              "D) 2.5 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "In the above question, the total distance travelled is:",
+            "options": [
+              "A) 0 m",
+              "B) 5 m",
+              "C) 10 m",
+              "D) 15 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which statement is always true?",
+            "options": [
+              "A) Distance = Displacement",
+              "B) Distance ≥ Magnitude of Displacement",
+              "C) Distance ≤ Displacement",
+              "D) Distance is always zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves 20 m north. Its displacement is:",
+            "options": [
+              "A) 20 m north",
+              "B) 20 m",
+              "C) 0",
+              "D) Cannot be determined"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The shortest distance between initial and final positions is:",
+            "options": [
+              "A) Distance",
+              "B) Speed",
+              "C) Displacement",
+              "D) Velocity"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Can displacement be negative?",
+            "options": [
+              "A) Yes",
+              "B) No",
+              "C) Always positive",
+              "D) Depends on mass"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Distance can never be:",
+            "options": [
+              "A) Zero",
+              "B) Positive",
+              "C) Negative",
+              "D) Equal to displacement"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If an object completes one full circle and returns to the starting point, its displacement is:",
+            "options": [
+              "A) Radius",
+              "B) Circumference",
+              "C) Zero",
+              "D) Diameter"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "In the above question, the distance travelled is:",
+            "options": [
+              "A) Zero",
+              "B) Radius",
+              "C) Circumference",
+              "D) Diameter"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which quantity requires direction?",
+            "options": [
+              "A) Distance",
+              "B) Speed",
+              "C) Displacement",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The change in position of an object is called:",
+            "options": [
+              "A) Speed",
+              "B) Velocity",
+              "C) Displacement",
+              "D) Acceleration"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A student walks 8 m east and then 6 m east. The displacement is:",
+            "options": [
+              "A) 2 m",
+              "B) 14 m east",
+              "C) 8 m",
+              "D) 6 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The distance travelled in Question 18 is:",
+            "options": [
+              "A) 8 m",
+              "B) 6 m",
+              "C) 14 m",
+              "D) 2 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If displacement is zero, then distance is:",
+            "options": [
+              "A) Always zero",
+              "B) Always negative",
+              "C) Zero or Positive",
+              "D) Always equal to 10 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "An object moves from A to B in a straight line without changing direction. Then:",
+            "options": [
+              "A) Distance > Displacement",
+              "B) Distance = Displacement",
+              "C) Distance < Displacement",
+              "D) None"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity depends on the actual path followed?",
+            "options": [
+              "A) Displacement",
+              "B) Position",
+              "C) Distance",
+              "D) Velocity"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Position is generally measured from:",
+            "options": [
+              "A) Centre of Earth",
+              "B) Origin",
+              "C) Speed",
+              "D) Mass"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which one has only magnitude?",
+            "options": [
+              "A) Velocity",
+              "B) Acceleration",
+              "C) Distance",
+              "D) Displacement"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A person moves 12 m east and 5 m west. The displacement is:",
+            "options": [
+              "A) 17 m east",
+              "B) 7 m east",
+              "C) 7 m west",
+              "D) 12 m east"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The distance travelled in Question 25 is:",
+            "options": [
+              "A) 7 m",
+              "B) 17 m",
+              "C) 12 m",
+              "D) 5 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is false?",
+            "options": [
+              "A) Distance is a scalar.",
+              "B) Displacement is a vector.",
+              "C) Distance can be negative.",
+              "D) Displacement can be zero."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "An object's position changes from x=−3 mto x=5 m. The displacement is:",
+            "options": [
+              "A) 2 m",
+              "B) 5 m",
+              "C) 8 m",
+              "D) -8 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The distance travelled in Question 28 is:",
+            "options": [
+              "A) 5 m",
+              "B) 8 m",
+              "C) 2 m",
+              "D) Cannot be determined"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following is correct?",
+            "options": [
+              "A) Distance is always less than displacement.",
+              "B) Distance is always greater than or equal to the magnitude of displacement.",
+              "C) Distance is always equal to displacement.",
+              "D) Displacement is always greater than distance."
+            ],
+            "answer": "B"
+          }
+        ],
+        "Speed & Velocity": [
+          {
+            "question": "Speed is defined as:",
+            "options": [
+              "A) Distance × Time",
+              "B) Distance / Time",
+              "C) Displacement / Time",
+              "D) Time / Distance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Velocity is defined as:",
+            "options": [
+              "A) Distance / Time",
+              "B) Displacement / Time",
+              "C) Distance × Time",
+              "D) Speed × Time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Speed is a:",
+            "options": [
+              "A) Vector quantity",
+              "B) Scalar quantity",
+              "C) Tensor quantity",
+              "D) Dimensionless quantity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Velocity is a:",
+            "options": [
+              "A) Scalar quantity",
+              "B) Vector quantity",
+              "C) Dimensionless quantity",
+              "D) Constant quantity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The SI unit of speed is:",
+            "options": [
+              "A) km/h",
+              "B) m/s",
+              "C) cm/s",
+              "D) m/min"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The SI unit of velocity is:",
+            "options": [
+              "A) m/s",
+              "B) km/h",
+              "C) cm/s",
+              "D) m/min"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Speed is always:",
+            "options": [
+              "A) Positive or Zero",
+              "B) Negative",
+              "C) Positive or Negative",
+              "D) Always Zero"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Velocity can be:",
+            "options": [
+              "A) Only positive",
+              "B) Positive, negative, or zero",
+              "C) Only negative",
+              "D) Always positive"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body travels 100 m in 20 s. Its speed is:",
+            "options": [
+              "A) 2 m/s",
+              "B) 4 m/s",
+              "C) 5 m/s",
+              "D) 10 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body has a displacement of 60 m in 20 s. Its velocity is:",
+            "options": [
+              "A) 2 m/s",
+              "B) 3 m/s",
+              "C) 4 m/s",
+              "D) 5 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If a body moves with constant speed in a straight line, then:",
+            "options": [
+              "A) Velocity changes",
+              "B) Velocity remains constant",
+              "C) Acceleration increases",
+              "D) Distance becomes zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Average speed is:",
+            "options": [
+              "A) Total distance / Total time",
+              "B) Total displacement / Total time",
+              "C) Distance × Time",
+              "D) Displacement × Time"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Average velocity is:",
+            "options": [
+              "A) Total distance / Total time",
+              "B) Total displacement / Total time",
+              "C) Speed × Time",
+              "D) Distance × Time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity requires direction?",
+            "options": [
+              "A) Speed",
+              "B) Distance",
+              "C) Velocity",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A car travels 120 km in 2 hours. Its average speed is:",
+            "options": [
+              "A) 50 km/h",
+              "B) 60 km/h",
+              "C) 70 km/h",
+              "D) 80 km/h"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body returns to its starting point. Its average velocity is:",
+            "options": [
+              "A) Maximum",
+              "B) Minimum",
+              "C) Zero",
+              "D) Equal to average speed"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "In the above question, the average speed is:",
+            "options": [
+              "A) Zero",
+              "B) Positive",
+              "C) Negative",
+              "D) Infinite"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Speedometer in a car measures:",
+            "options": [
+              "A) Velocity",
+              "B) Speed",
+              "C) Acceleration",
+              "D) Distance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Odometer in a car measures:",
+            "options": [
+              "A) Speed",
+              "B) Distance travelled",
+              "C) Velocity",
+              "D) Time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves 40 m east in 10 s. Its velocity is:",
+            "options": [
+              "A) 4 m/s east",
+              "B) 4 m/s",
+              "C) 5 m/s east",
+              "D) 5 m/s"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "If distance travelled is equal to displacement, then:",
+            "options": [
+              "A) Average speed = Magnitude of average velocity",
+              "B) Average speed > Average velocity",
+              "C) Average speed < Average velocity",
+              "D) None"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which graph represents constant velocity?",
+            "options": [
+              "A) Curved position-time graph",
+              "B) Straight-line position-time graph",
+              "C) Curved speed-time graph",
+              "D) Zig-zag graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Instantaneous speed is:",
+            "options": [
+              "A) Speed at a particular instant",
+              "B) Average speed",
+              "C) Total distance/time",
+              "D) Constant speed"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Instantaneous velocity is:",
+            "options": [
+              "A) Velocity at a particular instant",
+              "B) Average velocity",
+              "C) Distance/time",
+              "D) Total displacement"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which quantity can never be negative?",
+            "options": [
+              "A) Velocity",
+              "B) Speed",
+              "C) Displacement",
+              "D) Acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves 30 m east and then 30 m west in 20 s. Average velocity is:",
+            "options": [
+              "A) 3 m/s",
+              "B) 0 m/s",
+              "C) 6 m/s",
+              "D) 1.5 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The average speed in Question 26 is:",
+            "options": [
+              "A) 0 m/s",
+              "B) 3 m/s",
+              "C) 6 m/s",
+              "D) 1.5 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Velocity changes if:",
+            "options": [
+              "A) Only speed changes",
+              "B) Only direction changes",
+              "C) Speed or direction changes",
+              "D) Neither changes"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following is correct?",
+            "options": [
+              "A) Speed = Magnitude of velocity",
+              "B) Speed = Displacement/Time",
+              "C) Velocity has no direction",
+              "D) Speed is a vector"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body moves with constant speed in a circular path. Its velocity:",
+            "options": [
+              "A) Remains constant",
+              "B) Changes continuously",
+              "C) Becomes zero",
+              "D) Increases only"
+            ],
+            "answer": "B"
+          }
+        ],
+        "Acceleration": [
+          {
+            "question": "Acceleration is defined as:",
+            "options": [
+              "A) Distance per unit time",
+              "B) Change in velocity per unit time",
+              "C) Displacement per unit time",
+              "D) Force per unit mass"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The SI unit of acceleration is:",
+            "options": [
+              "A) m/s",
+              "B) m/s²",
+              "C) km/h²",
+              "D) cm/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Acceleration is a:",
+            "options": [
+              "A) Scalar quantity",
+              "B) Vector quantity",
+              "C) Dimensionless quantity",
+              "D) Constant quantity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The formula for average acceleration is:",
+            "options": [
+              "A) a=vt",
+              "B) a=v−ut",
+              "C) a=st",
+              "D) a=ut"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the velocity of a body remains constant, its acceleration is:",
+            "options": [
+              "A) Positive",
+              "B) Negative",
+              "C) Zero",
+              "D) Infinite"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A car increases its velocity from 10 m/s to 20 m/s in 5 s. Its acceleration is:",
+            "options": [
+              "A) 1 m/s²",
+              "B) 2 m/s²",
+              "C) 3 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If velocity decreases with time, the acceleration is:",
+            "options": [
+              "A) Positive",
+              "B) Negative",
+              "C) Zero",
+              "D) Infinite"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Negative acceleration is also called:",
+            "options": [
+              "A) Uniform acceleration",
+              "B) Retardation (Deceleration)",
+              "C) Constant acceleration",
+              "D) Variable speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity changes when acceleration is present?",
+            "options": [
+              "A) Mass",
+              "B) Velocity",
+              "C) Distance only",
+              "D) Time only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If acceleration is positive, velocity:",
+            "options": [
+              "A) Must always increase",
+              "B) May increase or become less negative",
+              "C) Is always zero",
+              "D) Must decrease"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Uniform acceleration means:",
+            "options": [
+              "A) Acceleration changes with time",
+              "B) Acceleration remains constant",
+              "C) Velocity is constant",
+              "D) Speed is zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Variable acceleration means:",
+            "options": [
+              "A) Acceleration is constant",
+              "B) Acceleration changes with time",
+              "C) Velocity is zero",
+              "D) Speed is constant"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body starts from rest. Its initial velocity is:",
+            "options": [
+              "A) 10 m/s",
+              "B) 1 m/s",
+              "C) 0 m/s",
+              "D) Cannot be determined"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body comes to rest. Its final velocity is:",
+            "options": [
+              "A) 1 m/s",
+              "B) 0 m/s",
+              "C) -1 m/s",
+              "D) Depends on distance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A car slows down from 30 m/s to 20 m/s in 5 s. The acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) -2 m/s²",
+              "C) -10 m/s²",
+              "D) 10 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph represents uniform acceleration?",
+            "options": [
+              "A) Straight-line velocity-time graph with constant slope",
+              "B) Horizontal position-time graph",
+              "C) Curved velocity-time graph",
+              "D) Zig-zag graph"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "If velocity increases uniformly, acceleration is:",
+            "options": [
+              "A) Constant",
+              "B) Zero",
+              "C) Infinite",
+              "D) Negative only"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Acceleration can be:",
+            "options": [
+              "A) Positive only",
+              "B) Negative only",
+              "C) Positive, negative, or zero",
+              "D) Always constant"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If a body changes only its direction while keeping the same speed, then:",
+            "options": [
+              "A) Acceleration is zero",
+              "B) Acceleration is present",
+              "C) Velocity remains constant",
+              "D) Distance becomes zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity has the same direction as positive acceleration?",
+            "options": [
+              "A) Change in velocity",
+              "B) Distance",
+              "C) Time",
+              "D) Speed"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A train increases its speed from 15 m/s to 25 m/s in 10 s. The acceleration is:",
+            "options": [
+              "A) 0.5 m/s²",
+              "B) 1 m/s²",
+              "C) 2 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving with constant velocity has:",
+            "options": [
+              "A) Constant positive acceleration",
+              "B) Constant negative acceleration",
+              "C) Zero acceleration",
+              "D) Infinite acceleration"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following is correct?",
+            "options": [
+              "A) Acceleration is the rate of change of distance.",
+              "B) Acceleration is the rate of change of velocity.",
+              "C) Acceleration is the rate of change of displacement.",
+              "D) Acceleration is the rate of change of time."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the velocity changes by 12 m/s in 4 s, the acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 48 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Deceleration means:",
+            "options": [
+              "A) Speed increasing",
+              "B) Negative acceleration opposite to the direction of motion",
+              "C) Zero velocity",
+              "D) Constant displacement"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following is NOT possible?",
+            "options": [
+              "A) Positive acceleration and positive velocity",
+              "B) Negative acceleration and positive velocity",
+              "C) Zero acceleration and constant velocity",
+              "D) Negative acceleration and zero time"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "If velocity changes from 5 m/s to 5 m/s in 8 s, the acceleration is:",
+            "options": [
+              "A) 5 m/s²",
+              "B) 8 m/s²",
+              "C) 0 m/s²",
+              "D) 10 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following is a unit of acceleration?",
+            "options": [
+              "A) m/s",
+              "B) km",
+              "C) m/s²",
+              "D) N"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moving in a straight line with constant acceleration has:",
+            "options": [
+              "A) Equal changes in velocity in equal intervals of time",
+              "B) Equal distances in equal intervals of time",
+              "C) Constant speed only",
+              "D) Zero displacement"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) Zero acceleration always means the object is at rest.",
+              "B) An object can move with constant velocity and have zero acceleration.",
+              "C) Acceleration and velocity always have the same direction.",
+              "D) Acceleration can never be negative."
+            ],
+            "answer": "B"
+          }
+        ],
+        "Graphs": [
+          {
+            "question": "The slope of a position-time (x–t) graph represents:",
+            "options": [
+              "A) Acceleration",
+              "B) Velocity",
+              "C) Speed",
+              "D) Distance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The slope of a velocity-time (v–t) graph represents:",
+            "options": [
+              "A) Distance",
+              "B) Velocity",
+              "C) Acceleration",
+              "D) Displacement"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The area under a velocity-time graph represents:",
+            "options": [
+              "A) Speed",
+              "B) Distance/Displacement",
+              "C) Acceleration",
+              "D) Time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A horizontal position-time graph indicates:",
+            "options": [
+              "A) Constant velocity",
+              "B) Constant acceleration",
+              "C) Object at rest",
+              "D) Increasing speed"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A straight-line position-time graph with constant positive slope indicates:",
+            "options": [
+              "A) Uniform acceleration",
+              "B) Constant velocity",
+              "C) Zero velocity",
+              "D) Variable speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A steeper position-time graph means:",
+            "options": [
+              "A) Smaller velocity",
+              "B) Greater velocity",
+              "C) Greater acceleration",
+              "D) Zero acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A horizontal velocity-time graph indicates:",
+            "options": [
+              "A) Zero velocity",
+              "B) Constant velocity",
+              "C) Constant acceleration",
+              "D) Increasing velocity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A horizontal acceleration-time graph above the time axis represents:",
+            "options": [
+              "A) Zero acceleration",
+              "B) Constant positive acceleration",
+              "C) Constant velocity",
+              "D) Negative acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the slope of a velocity-time graph is zero, then:",
+            "options": [
+              "A) Acceleration is zero",
+              "B) Velocity is zero",
+              "C) Distance is zero",
+              "D) Time is zero"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The area under an acceleration-time graph gives:",
+            "options": [
+              "A) Velocity",
+              "B) Change in velocity",
+              "C) Distance",
+              "D) Speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A downward-sloping velocity-time graph indicates:",
+            "options": [
+              "A) Positive acceleration",
+              "B) Negative acceleration",
+              "C) Zero acceleration",
+              "D) Constant speed only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A curved position-time graph indicates:",
+            "options": [
+              "A) Constant velocity",
+              "B) Changing velocity",
+              "C) Zero acceleration",
+              "D) Object at rest"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph is used to determine displacement directly by calculating the area?",
+            "options": [
+              "A) Position-time graph",
+              "B) Velocity-time graph",
+              "C) Acceleration-time graph",
+              "D) Distance-time graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph directly shows whether an object is accelerating?",
+            "options": [
+              "A) Position-time graph",
+              "B) Velocity-time graph",
+              "C) Distance-time graph",
+              "D) Time graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the velocity-time graph is a straight line with positive slope, the motion has:",
+            "options": [
+              "A) Constant velocity",
+              "B) Constant acceleration",
+              "C) Zero acceleration",
+              "D) Variable acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A vertical line on a position-time graph represents:",
+            "options": [
+              "A) Physically impossible motion",
+              "B) Constant velocity",
+              "C) Uniform acceleration",
+              "D) Object at rest"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which graph can have a negative slope?",
+            "options": [
+              "A) Position-time graph",
+              "B) Velocity-time graph",
+              "C) Both A and B",
+              "D) Neither"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If the acceleration-time graph lies along the time axis, then:",
+            "options": [
+              "A) Acceleration is positive",
+              "B) Acceleration is zero",
+              "C) Velocity is zero",
+              "D) Speed increases"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving with constant negative velocity has a position-time graph that is:",
+            "options": [
+              "A) Horizontal",
+              "B) Straight line with positive slope",
+              "C) Straight line with negative slope",
+              "D) Curved"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If the velocity-time graph is below the time axis, the velocity is:",
+            "options": [
+              "A) Positive",
+              "B) Negative",
+              "C) Zero",
+              "D) Constant acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph has units of m/s² on its vertical axis?",
+            "options": [
+              "A) Position-time graph",
+              "B) Velocity-time graph",
+              "C) Acceleration-time graph",
+              "D) Distance-time graph"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The slope of an acceleration-time graph represents:",
+            "options": [
+              "A) Velocity",
+              "B) Jerk (rate of change of acceleration)",
+              "C) Distance",
+              "D) Speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the velocity-time graph is a horizontal line on the time axis, the object is:",
+            "options": [
+              "A) Moving with constant speed",
+              "B) At rest",
+              "C) Accelerating",
+              "D) Decelerating"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The area under a velocity-time graph can never represent:",
+            "options": [
+              "A) Displacement",
+              "B) Distance (when velocity does not change sign)",
+              "C) Acceleration",
+              "D) Change in position"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If the slope of the position-time graph increases with time, then:",
+            "options": [
+              "A) Velocity is decreasing",
+              "B) Velocity is increasing",
+              "C) Velocity is constant",
+              "D) Object is at rest"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A straight-line velocity-time graph with a negative slope indicates:",
+            "options": [
+              "A) Constant positive acceleration",
+              "B) Constant negative acceleration",
+              "C) Zero acceleration",
+              "D) Increasing speed only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph best represents motion with zero acceleration?",
+            "options": [
+              "A) Curved velocity-time graph",
+              "B) Horizontal velocity-time graph",
+              "C) Sloping acceleration-time graph",
+              "D) Curved position-time graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "In a position-time graph, if the slope is zero:",
+            "options": [
+              "A) Velocity is zero",
+              "B) Acceleration is zero",
+              "C) Distance is zero",
+              "D) Time is zero"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) Slope of the velocity-time graph gives displacement.",
+              "B) Area under the velocity-time graph gives displacement.",
+              "C) Area under the position-time graph gives velocity.",
+              "D) Slope of the acceleration-time graph gives displacement."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph is most useful for finding acceleration directly?",
+            "options": [
+              "A) Position-time graph",
+              "B) Velocity-time graph",
+              "C) Acceleration-time graph",
+              "D) Distance-time graph"
+            ],
+            "answer": "B"
+          }
+        ],
+        "Equations of Motion": [
+          {
+            "question": "A car starts from rest and accelerates uniformly at 3 m/s² for 6 s. Its final velocity is:",
+            "options": [
+              "A) 12 m/s",
+              "B) 18 m/s",
+              "C) 24 m/s",
+              "D) 36 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving at 10 m/s accelerates uniformly at 2 m/s² for 5 s. The displacement is:",
+            "options": [
+              "A) 50 m",
+              "B) 75 m",
+              "C) 100 m",
+              "D) 125 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which equation of motion is independent of time?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) a=v−ut"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle starts from rest and covers 100 m with an acceleration of 2 m/s². Its final velocity is:",
+            "options": [
+              "A) 10 m/s",
+              "B) 20 m/s",
+              "C) 25 m/s",
+              "D) 30 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A train moving at 30 m/s comes to rest in 10 s. Its acceleration is:",
+            "options": [
+              "A) 3 m/s²",
+              "B) -3 m/s²",
+              "C) -2 m/s²",
+              "D) 2 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following assumptions is necessary for using the equations of motion?",
+            "options": [
+              "A) Constant speed",
+              "B) Uniform acceleration",
+              "C) Zero displacement",
+              "D) Constant force only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body starts from rest and reaches 40 m/s in 8 s. The acceleration is:",
+            "options": [
+              "A) 4 m/s²",
+              "B) 5 m/s²",
+              "C) 6 m/s²",
+              "D) 8 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving with u = 5 m/s, a = 3 m/s², and t = 4 s has a final velocity:",
+            "options": [
+              "A) 15 m/s",
+              "B) 16 m/s",
+              "C) 17 m/s",
+              "D) 18 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle starts from rest and accelerates at 4 m/s² for 5 s. The displacement is:",
+            "options": [
+              "A) 40 m",
+              "B) 50 m",
+              "C) 60 m",
+              "D) 80 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which equation should be used when u, v, and a are known and s is required?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) Rearranged form of v2=u2+2as"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A particle moving with u = 15 m/s accelerates at 2 m/s² for 5 s. Final velocity is:",
+            "options": [
+              "A) 20 m/s",
+              "B) 25 m/s",
+              "C) 30 m/s",
+              "D) 35 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The graph of velocity versus time for uniform acceleration is:",
+            "options": [
+              "A) Horizontal line",
+              "B) Straight line",
+              "C) Circle",
+              "D) Parabola"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving at 20 m/s is retarded uniformly at 5 m/s². Time taken to stop is:",
+            "options": [
+              "A) 2 s",
+              "B) 3 s",
+              "C) 4 s",
+              "D) 5 s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A freely falling object has an acceleration approximately equal to:",
+            "options": [
+              "A) 5 m/s²",
+              "B) 9.8 m/s² downward",
+              "C) 15 m/s² upward",
+              "D) Zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle starts from rest. After 4 s, its velocity is 16 m/s. The acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moving with constant acceleration covers 24 m in 4 s from an initial velocity of 2 m/s. The acceleration is:",
+            "options": [
+              "A) 1 m/s²",
+              "B) 2 m/s²",
+              "C) 3 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body moving with u = 8 m/s, v = 20 m/s, and a = 3 m/s² covers a displacement of:",
+            "options": [
+              "A) 48 m",
+              "B) 56 m",
+              "C) 60 m",
+              "D) 72 m"
+            ],
+            "answer": "B",
+            "explanation": "v2−u2=2as 400−64=6s 336=6s s=56 m"
+          },
+          {
+            "question": "Which quantity is not required in the equation v2=u2+2as?",
+            "options": [
+              "A) Time",
+              "B) Initial velocity",
+              "C) Acceleration",
+              "D) Displacement"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A car moving at 15 m/s accelerates uniformly at 1.5 m/s² for 10 s. Final velocity is:",
+            "options": [
+              "A) 25 m/s",
+              "B) 30 m/s",
+              "C) 35 m/s",
+              "D) 40 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body starts from rest and accelerates uniformly. The distance covered in the first second is:",
+            "options": [
+              "A) a",
+              "B) a2",
+              "C) 2a",
+              "D) a22"
+            ],
+            "answer": "B",
+            "explanation": "(Using s=12at2with t=1s.)"
+          },
+          {
+            "question": "If acceleration is zero, the first equation of motion becomes:",
+            "options": [
+              "A) v=u",
+              "B) v=at",
+              "C) s=at",
+              "D) v=u+t"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle has u = 0, a = 5 m/s², and t = 3 s. The displacement is:",
+            "options": [
+              "A) 15 m",
+              "B) 22.5 m",
+              "C) 30 m",
+              "D) 45 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which equation directly gives displacement when u, a, and t are known?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) a=v−ut"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving with uniform acceleration experiences:",
+            "options": [
+              "A) Equal changes in velocity in equal intervals of time",
+              "B) Equal distances in equal intervals of time",
+              "C) Constant speed only",
+              "D) Zero displacement"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle starts from rest and accelerates uniformly. After 6 s, its velocity is 24 m/s. The acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which equation should be used to find acceleration when u, v, and t are given?",
+            "options": [
+              "A) v=u+at",
+              "B) v2=u2+2as",
+              "C) s=ut+12at2",
+              "D) s=u+v2t"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body moving with u = 6 m/s, a = 2 m/s², and t = 5 s has a displacement of:",
+            "options": [
+              "A) 45 m",
+              "B) 50 m",
+              "C) 55 m",
+              "D) 60 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A train slows uniformly from 18 m/s to 6 m/s in 4 s. The acceleration is:",
+            "options": [
+              "A) -3 m/s²",
+              "B) -4 m/s²",
+              "C) -5 m/s²",
+              "D) -6 m/s²"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) Equations of motion are valid for variable acceleration.",
+              "B) They are valid only for uniform acceleration.",
+              "C) They are valid only for circular motion.",
+              "D) They are valid only when initial velocity is zero."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle starts from rest and moves with a uniform acceleration of 2 m/s². The distance covered in 5 s is:",
+            "options": [
+              "A) 20 m",
+              "B) 25 m",
+              "C) 30 m",
+              "D) 40 m"
+            ],
+            "answer": "B"
+          }
+        ]
+      },
+      "Hard": {
+        "Position, Distance & Displacement": [
+          {
+            "question": "A particle moves from x=2m to x=14m and then to x=−8m. The distance travelled and displacement are:",
+            "options": [
+              "A) 34 m, -10 m",
+              "B) 22 m, -10 m",
+              "C) 34 m, 10 m",
+              "D) 22 m, 10 m"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle moves from the origin to +20 m, then to -10 m, and finally to +15 m. The total distance travelled is:",
+            "options": [
+              "A) 45 m",
+              "B) 55 m",
+              "C) 65 m",
+              "D) 75 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The displacement in Question 2 is:",
+            "options": [
+              "A) 15 m",
+              "B) 20 m",
+              "C) 25 m",
+              "D) 65 m"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is always true?",
+            "options": [
+              "A) Distance = |Displacement|",
+              "B) Distance ≥ |Displacement|",
+              "C) Distance ≤ |Displacement|",
+              "D) Distance is always greater than displacement"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle starts from x=−12m and ends at x=18m after moving along a complicated path. The displacement is:",
+            "options": [
+              "A) 6 m",
+              "B) 18 m",
+              "C) 30 m",
+              "D) Depends on the path"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves 12 m east, 5 m west, and 9 m east. The displacement is:",
+            "options": [
+              "A) 26 m east",
+              "B) 16 m east",
+              "C) 12 m east",
+              "D) 8 m east"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The distance travelled in Question 6 is:",
+            "options": [
+              "A) 16 m",
+              "B) 18 m",
+              "C) 26 m",
+              "D) 34 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body returns to its initial position after travelling along any path. Which quantity must be zero?",
+            "options": [
+              "A) Distance",
+              "B) Speed",
+              "C) Displacement",
+              "D) Path length"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves from +8 m to -6 m. The displacement is:",
+            "options": [
+              "A) -14 m",
+              "B) 14 m",
+              "C) -2 m",
+              "D) 2 m"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which quantity depends only on the initial and final positions?",
+            "options": [
+              "A) Distance",
+              "B) Speed",
+              "C) Displacement",
+              "D) Path length"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle covers 60 m in the forward direction and 35 m backward. The magnitude of displacement is:",
+            "options": [
+              "A) 25 m",
+              "B) 35 m",
+              "C) 60 m",
+              "D) 95 m"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The distance travelled in Question 11 is:",
+            "options": [
+              "A) 25 m",
+              "B) 60 m",
+              "C) 95 m",
+              "D) 35 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following cannot be negative?",
+            "options": [
+              "A) Position",
+              "B) Displacement",
+              "C) Distance",
+              "D) Velocity"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves along the x-axis from x=4m to x=−11m. The magnitude of displacement is:",
+            "options": [
+              "A) 7 m",
+              "B) 11 m",
+              "C) 15 m",
+              "D) 17 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle starts from 10 m, reaches 25 m, and returns to 18 m. The distance travelled is:",
+            "options": [
+              "A) 15 m",
+              "B) 22 m",
+              "C) 30 m",
+              "D) 32 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The displacement in Question 15 is:",
+            "options": [
+              "A) 8 m",
+              "B) 18 m",
+              "C) 22 m",
+              "D) 15 m"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "If distance travelled equals the magnitude of displacement, then:",
+            "options": [
+              "A) Motion is necessarily along a straight line without reversing direction.",
+              "B) Motion is circular.",
+              "C) Velocity is constant.",
+              "D) Acceleration is zero."
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle moves from x=−5m to x=12m, then to x=6m. The total distance travelled is:",
+            "options": [
+              "A) 17 m",
+              "B) 23 m",
+              "C) 29 m",
+              "D) 11 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The displacement in Question 18 is:",
+            "options": [
+              "A) 6 m",
+              "B) 11 m",
+              "C) 17 m",
+              "D) 23 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is incorrect?",
+            "options": [
+              "A) Distance is a scalar quantity.",
+              "B) Displacement is a vector quantity.",
+              "C) Distance can be less than the magnitude of displacement.",
+              "D) Displacement may be zero."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle completes three full revolutions on a circular track and stops at the starting point. Its displacement is:",
+            "options": [
+              "A) 6πr",
+              "B) 3×2πr",
+              "C) 0",
+              "D) 2r"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The distance travelled in Question 21 is:",
+            "options": [
+              "A) 0",
+              "B) 2πr",
+              "C) 4πr",
+              "D) 6πr"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A particle moves from +6 m to -9 m and then to +2 m. The displacement is:",
+            "options": [
+              "A) -4 m",
+              "B) +4 m",
+              "C) -13 m",
+              "D) +13 m"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The distance travelled in Question 23 is:",
+            "options": [
+              "A) 13 m",
+              "B) 17 m",
+              "C) 24 m",
+              "D) 28 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which graph can represent an object changing direction?",
+            "options": [
+              "A) Position–time graph with changing slope sign",
+              "B) Horizontal position–time graph only",
+              "C) Straight line with constant positive slope only",
+              "D) None"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "In one-dimensional motion, position is represented by:",
+            "options": [
+              "A) Area",
+              "B) Coordinate on the chosen axis",
+              "C) Speed",
+              "D) Time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the displacement of a particle is zero, which statement is always true?",
+            "options": [
+              "A) Distance is zero.",
+              "B) Initial and final positions are the same.",
+              "C) Speed is zero.",
+              "D) Velocity is zero throughout."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves from x=−20m to x=5m. The displacement is:",
+            "options": [
+              "A) -25 m",
+              "B) +25 m",
+              "C) +15 m",
+              "D) -15 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves 40 m east and then 40 m west. The ratio of distance to the magnitude of displacement is:",
+            "options": [
+              "A) 1",
+              "B) 2",
+              "C) 0",
+              "D) Undefined (division by zero)"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A particle moves successively from 0 m → 10 m → -20 m → 30 m. The distance travelled is:",
+            "options": [
+              "A) 50 m",
+              "B) 60 m",
+              "C) 70 m",
+              "D) 80 m"
+            ],
+            "answer": "D"
+          }
+        ],
+        "Speed & Velocity": [
+          {
+            "question": "A particle covers the first half of a distance with speed vand the second half with speed 2v. The average speed is:",
+            "options": [
+              "A) 3v2",
+              "B) 4v3",
+              "C) 5v3",
+              "D) 2v"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle travels equal distances with speeds 20 m/s and 30 m/s. The average speed is:",
+            "options": [
+              "A) 24 m/s",
+              "B) 25 m/s",
+              "C) 26 m/s",
+              "D) 28 m/s"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A car moves for 2 hours at 40 km/h and then for 3 hours at 60 km/h. The average speed is:",
+            "options": [
+              "A) 48 km/h",
+              "B) 50 km/h",
+              "C) 52 km/h",
+              "D) 55 km/h"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves along a straight line and returns to the starting point after 20 s. Its average velocity is:",
+            "options": [
+              "A) 10 m/s",
+              "B) 5 m/s",
+              "C) 0",
+              "D) Cannot be determined"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which statement is always correct?",
+            "options": [
+              "A) Average speed ≥ magnitude of average velocity",
+              "B) Average speed = average velocity",
+              "C) Average speed ≤ average velocity",
+              "D) None"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle has a velocity of -15 m/s. This means:",
+            "options": [
+              "A) Speed is negative",
+              "B) It moves opposite to the chosen positive direction",
+              "C) It is slowing down",
+              "D) Acceleration is negative"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves east at 15 m/s and then west at 15 m/s for equal times. Its average velocity is:",
+            "options": [
+              "A) 15 m/s",
+              "B) 7.5 m/s",
+              "C) 0",
+              "D) 30 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The average speed in Question 7 is:",
+            "options": [
+              "A) 15 m/s",
+              "B) 7.5 m/s",
+              "C) 30 m/s",
+              "D) 0"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which quantity is represented by the slope of an x–t graph?",
+            "options": [
+              "A) Speed",
+              "B) Velocity",
+              "C) Acceleration",
+              "D) Distance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves 12 m east and 5 m west in 1 s each. The magnitude of average velocity is:",
+            "options": [
+              "A) 17 m/s",
+              "B) 8.5 m/s",
+              "C) 3.5 m/s",
+              "D) 7 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body has constant speed but variable velocity when:",
+            "options": [
+              "A) It moves in a straight line",
+              "B) It moves along a curved path",
+              "C) It is at rest",
+              "D) It has zero acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A train travels 180 km in 3 h and then 120 km in 2 h. The average speed is:",
+            "options": [
+              "A) 50 km/h",
+              "B) 60 km/h",
+              "C) 70 km/h",
+              "D) 75 km/h"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Instantaneous velocity is:",
+            "options": [
+              "A) Velocity over a long interval",
+              "B) Velocity at a particular instant",
+              "C) Average velocity",
+              "D) Total displacement divided by total time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The velocity of a body changes if:",
+            "options": [
+              "A) Only speed changes",
+              "B) Only direction changes",
+              "C) Either speed or direction changes",
+              "D) Both speed and direction must change"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves 5 m east, 12 m north in 1 s each. Magnitude of average velocity is:",
+            "options": [
+              "A) 6.5 m/s",
+              "B) 13 m/s",
+              "C) 8.5 m/s",
+              "D) 10 m/s"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The average speed in Question 15 is:",
+            "options": [
+              "A) 6.5 m/s",
+              "B) 8.5 m/s",
+              "C) 10 m/s",
+              "D) 13 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves with constant velocity. Which is true?",
+            "options": [
+              "A) Speed changes",
+              "B) Direction changes",
+              "C) Acceleration is zero",
+              "D) Distance is zero"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The ratio of average speed to the magnitude of average velocity is:",
+            "options": [
+              "A) Always less than 1",
+              "B) Equal to 1 only for straight-line motion without reversal",
+              "C) Always greater than 1",
+              "D) Always equal to 2"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves with velocities 10 m/s, 20 m/s and 30 m/s for equal time intervals. Average velocity is:",
+            "options": [
+              "A) 15 m/s",
+              "B) 20 m/s",
+              "C) 25 m/s",
+              "D) 30 m/s"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The SI unit of velocity is:",
+            "options": [
+              "A) km/h",
+              "B) m/s",
+              "C) cm/s",
+              "D) m/min"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph has area representing displacement?",
+            "options": [
+              "A) x–t graph",
+              "B) v–t graph",
+              "C) a–t graph",
+              "D) None"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves with velocities 6 m/s and 12 m/s over equal distances. Average speed is:",
+            "options": [
+              "A) 8 m/s",
+              "B) 9 m/s",
+              "C) 10 m/s",
+              "D) 12 m/s"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "If displacement is zero, average velocity is:",
+            "options": [
+              "A) Zero",
+              "B) Equal to average speed",
+              "C) Infinite",
+              "D) Cannot be determined"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which quantity can be negative?",
+            "options": [
+              "A) Speed",
+              "B) Distance",
+              "C) Velocity",
+              "D) Time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moves 40 m east in 4 s and 30 m west in 3 s. Average velocity is:",
+            "options": [
+              "A) 107m/s east",
+              "B) 10 m/s east",
+              "C) 5 m/s east",
+              "D) 0"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The average speed in Question 25 is:",
+            "options": [
+              "A) 5 m/s",
+              "B) 10 m/s",
+              "C) 70/7 = 10 m/s",
+              "D) 107m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which instrument records total distance travelled?",
+            "options": [
+              "A) Speedometer",
+              "B) Odometer",
+              "C) Stopwatch",
+              "D) Tachometer"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is false?",
+            "options": [
+              "A) Velocity is a vector.",
+              "B) Speed is scalar.",
+              "C) Speed can be negative.",
+              "D) Velocity may be negative."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves with velocity +10 m/s for 5 s and -10 m/s for 5 s. Average velocity is:",
+            "options": [
+              "A) 10 m/s",
+              "B) 5 m/s",
+              "C) 0",
+              "D) -10 m/s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle covers one side of a square at constant speed and then stops. The magnitude of displacement is:",
+            "options": [
+              "A) Equal to the distance travelled",
+              "B) Zero",
+              "C) Less than the distance travelled",
+              "D) Greater than the distance travelled"
+            ],
+            "answer": "A"
+          }
+        ],
+        "Acceleration": [
+          {
+            "question": "A particle moves with velocity v=−20 m/sand acceleration a=+5 m/s2. The particle is:",
+            "options": [
+              "A) Speeding up",
+              "B) Slowing down",
+              "C) Moving with constant speed",
+              "D) At rest"
+            ],
+            "answer": "B",
+            "explanation": "Since velocity and acceleration are in opposite directions, the speed decreases."
+          },
+          {
+            "question": "A particle has velocity +15 m/sand acceleration −3 m/s2. After 5 s, its velocity becomes:",
+            "options": [
+              "A) 0 m/s",
+              "B) 30 m/s",
+              "C) -15 m/s",
+              "D) 15 m/s"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body changes its velocity from 10 m/s east to 10 m/s west in 2 s. The magnitude of average acceleration is:",
+            "options": [
+              "A) 5 m/s²",
+              "B) 10 m/s²",
+              "C) 20 m/s²",
+              "D) Zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is always true?",
+            "options": [
+              "A) Positive acceleration means increasing speed.",
+              "B) Negative acceleration means decreasing speed.",
+              "C) Speed increases only when velocity and acceleration have the same sign.",
+              "D) Speed always decreases when acceleration is negative."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves with constant speed in a circle. Which quantity remains constant?",
+            "options": [
+              "A) Velocity",
+              "B) Acceleration",
+              "C) Speed",
+              "D) Displacement"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moves with constant velocity. Then:",
+            "options": [
+              "A) Acceleration is constant but non-zero.",
+              "B) Acceleration is zero.",
+              "C) Speed is zero.",
+              "D) Velocity changes continuously."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The slope of a velocity–time graph gives:",
+            "options": [
+              "A) Speed",
+              "B) Distance",
+              "C) Acceleration",
+              "D) Displacement"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The area under an acceleration–time graph gives:",
+            "options": [
+              "A) Velocity",
+              "B) Change in velocity",
+              "C) Displacement",
+              "D) Speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body accelerates uniformly from 5 m/s to 25 m/s in 4 s. The acceleration is:",
+            "options": [
+              "A) 2.5 m/s²",
+              "B) 5 m/s²",
+              "C) 7.5 m/s²",
+              "D) 10 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If acceleration is zero, then:",
+            "options": [
+              "A) Velocity must be zero.",
+              "B) Velocity remains constant.",
+              "C) Body is at rest.",
+              "D) Speed increases."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle has velocity +8 m/sand acceleration +4 m/s2. Its speed:",
+            "options": [
+              "A) Decreases",
+              "B) Increases",
+              "C) Remains constant",
+              "D) Becomes zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following has dimensions of acceleration?",
+            "options": [
+              "A) LT−1",
+              "B) LT−2",
+              "C) MLT−2",
+              "D) L2T−2"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A ball thrown vertically upward has acceleration:",
+            "options": [
+              "A) Zero at the highest point",
+              "B) Downward throughout the motion",
+              "C) Upward while rising",
+              "D) Upward while falling"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The SI unit of acceleration is:",
+            "options": [
+              "A) m/s",
+              "B) m²/s²",
+              "C) m/s²",
+              "D) N/kg"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body changes its velocity by 24 m/s in 6 s. The average acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which graph represents uniform acceleration?",
+            "options": [
+              "A) Curved velocity–time graph",
+              "B) Straight-line velocity–time graph",
+              "C) Horizontal position–time graph",
+              "D) Zig-zag graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the slope of a velocity–time graph is negative, then:",
+            "options": [
+              "A) Velocity is zero.",
+              "B) Acceleration is negative.",
+              "C) Speed is constant.",
+              "D) Distance is decreasing."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves with velocity −12 m/sand acceleration −4 m/s2. The speed:",
+            "options": [
+              "A) Increases",
+              "B) Decreases",
+              "C) Remains constant",
+              "D) Becomes zero"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which statement is false?",
+            "options": [
+              "A) Acceleration can be zero.",
+              "B) Acceleration can be negative.",
+              "C) Acceleration is always in the direction of velocity.",
+              "D) Acceleration is a vector."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The area under a velocity–time graph represents:",
+            "options": [
+              "A) Distance only",
+              "B) Displacement",
+              "C) Acceleration",
+              "D) Speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A train slows from 30 m/s to 10 m/s in 5 s. The acceleration is:",
+            "options": [
+              "A) -2 m/s²",
+              "B) -4 m/s²",
+              "C) -5 m/s²",
+              "D) +4 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which quantity changes due to acceleration?",
+            "options": [
+              "A) Only speed",
+              "B) Only direction",
+              "C) Velocity",
+              "D) Mass"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moving with constant speed along a curved path:",
+            "options": [
+              "A) Has zero acceleration.",
+              "B) Has acceleration because its direction changes.",
+              "C) Has zero velocity.",
+              "D) Has zero displacement."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The acceleration of a freely falling object near Earth's surface (ignoring air resistance) is approximately:",
+            "options": [
+              "A) 5 m/s² upward",
+              "B) 9.8 m/s² downward",
+              "C) 15 m/s² upward",
+              "D) Zero"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving in a straight line has velocity and acceleration in opposite directions. Then:",
+            "options": [
+              "A) Speed increases.",
+              "B) Speed decreases.",
+              "C) Velocity becomes zero immediately.",
+              "D) Motion stops instantly."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph directly gives acceleration from its slope?",
+            "options": [
+              "A) Position–time graph",
+              "B) Velocity–time graph",
+              "C) Acceleration–time graph",
+              "D) Distance–time graph"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If a body moves with constant acceleration, then in equal intervals of time it has:",
+            "options": [
+              "A) Equal displacements",
+              "B) Equal changes in velocity",
+              "C) Equal speeds",
+              "D) Equal distances only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle changes its velocity from −6 m/sto +12 m/sin 3 s. The average acceleration is:",
+            "options": [
+              "A) 4 m/s²",
+              "B) 5 m/s²",
+              "C) 6 m/s²",
+              "D) 8 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body moving with constant velocity has:",
+            "options": [
+              "A) Constant positive acceleration",
+              "B) Constant negative acceleration",
+              "C) Zero acceleration",
+              "D) Variable acceleration"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle has acceleration but zero velocity at a particular instant. Which situation is possible?",
+            "options": [
+              "A) A ball thrown vertically upward at its highest point",
+              "B) A body at rest on a table",
+              "C) A car moving with constant speed",
+              "D) A particle with uniform velocity"
+            ],
+            "answer": "A"
+          }
+        ],
+        "Graphs": [
+          {
+            "question": "The slope of a position–time graph represents:",
+            "options": [
+              "A) Acceleration",
+              "B) Distance",
+              "C) Velocity",
+              "D) Speed only"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The area under a velocity–time graph gives:",
+            "options": [
+              "A) Distance only",
+              "B) Displacement",
+              "C) Acceleration",
+              "D) Velocity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The slope of a velocity–time graph represents:",
+            "options": [
+              "A) Velocity",
+              "B) Acceleration",
+              "C) Distance",
+              "D) Position"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A horizontal line on a velocity–time graph above the time axis represents:",
+            "options": [
+              "A) Uniform acceleration",
+              "B) Constant positive velocity",
+              "C) Increasing velocity",
+              "D) Object at rest"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A straight-line position–time graph with negative slope indicates:",
+            "options": [
+              "A) Positive acceleration",
+              "B) Constant negative velocity",
+              "C) Zero velocity",
+              "D) Increasing speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A curved position–time graph indicates:",
+            "options": [
+              "A) Constant velocity",
+              "B) Variable velocity",
+              "C) Zero acceleration",
+              "D) Constant speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph has an area equal to the change in velocity?",
+            "options": [
+              "A) Position–time",
+              "B) Velocity–time",
+              "C) Acceleration–time",
+              "D) Speed–time"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If the slope of a velocity–time graph is zero, then:",
+            "options": [
+              "A) Velocity is zero",
+              "B) Acceleration is zero",
+              "C) Distance is zero",
+              "D) Position is constant"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moving with uniform acceleration has a velocity–time graph that is:",
+            "options": [
+              "A) Horizontal",
+              "B) Straight line",
+              "C) Parabola",
+              "D) Circle"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The slope of an acceleration–time graph represents:",
+            "options": [
+              "A) Velocity",
+              "B) Jerk (rate of change of acceleration)",
+              "C) Displacement",
+              "D) Distance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the velocity–time graph lies below the time axis, then:",
+            "options": [
+              "A) Velocity is negative",
+              "B) Acceleration is positive",
+              "C) Speed is negative",
+              "D) Distance is negative"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A steeper position–time graph means:",
+            "options": [
+              "A) Greater acceleration",
+              "B) Greater velocity",
+              "C) Greater displacement",
+              "D) Greater time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The acceleration–time graph is a horizontal line above the time axis. This means:",
+            "options": [
+              "A) Constant positive acceleration",
+              "B) Constant velocity",
+              "C) Zero acceleration",
+              "D) Variable acceleration"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A horizontal position–time graph indicates:",
+            "options": [
+              "A) Uniform velocity",
+              "B) Uniform acceleration",
+              "C) Object at rest",
+              "D) Negative velocity"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The area under a negative portion of a velocity–time graph represents:",
+            "options": [
+              "A) Positive displacement",
+              "B) Negative displacement",
+              "C) Distance only",
+              "D) Acceleration"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the slope of a position–time graph changes from positive to negative, the object:",
+            "options": [
+              "A) Stops permanently",
+              "B) Changes direction",
+              "C) Accelerates uniformly",
+              "D) Has constant speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A velocity–time graph is a straight line passing through the origin. This indicates:",
+            "options": [
+              "A) Constant velocity",
+              "B) Uniform acceleration from rest",
+              "C) Zero acceleration",
+              "D) Object at rest"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph can show an object moving with constant velocity?",
+            "options": [
+              "A) Horizontal velocity–time graph",
+              "B) Straight-line position–time graph",
+              "C) Both A and B",
+              "D) Neither"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle first moves with positive velocity and later with negative velocity. The velocity–time graph:",
+            "options": [
+              "A) Always remains above the time axis",
+              "B) Crosses the time axis",
+              "C) Is horizontal",
+              "D) Is impossible"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle is at rest from 2 s to 5 s. On the position–time graph, this interval appears as:",
+            "options": [
+              "A) Vertical line",
+              "B) Horizontal line",
+              "C) Straight line with positive slope",
+              "D) Curved line"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) Area under the position–time graph gives displacement.",
+              "B) Slope of the velocity–time graph gives acceleration.",
+              "C) Area under the acceleration–time graph gives displacement.",
+              "D) Slope of the acceleration–time graph gives velocity."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle has constant negative acceleration. The velocity–time graph is:",
+            "options": [
+              "A) Straight line with positive slope",
+              "B) Straight line with negative slope",
+              "C) Horizontal line",
+              "D) Curved line"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A curved velocity–time graph indicates:",
+            "options": [
+              "A) Constant acceleration",
+              "B) Variable acceleration",
+              "C) Zero acceleration",
+              "D) Constant velocity"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If the area under a velocity–time graph from 0 to 5 s is zero, then:",
+            "options": [
+              "A) Distance travelled is zero.",
+              "B) Displacement is zero.",
+              "C) Velocity is zero throughout.",
+              "D) Acceleration is zero."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves with constant acceleration. Which graph is always linear?",
+            "options": [
+              "A) Position–time",
+              "B) Velocity–time",
+              "C) Distance–time",
+              "D) Speed–time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph can have a negative slope?",
+            "options": [
+              "A) Position–time",
+              "B) Velocity–time",
+              "C) Both A and B",
+              "D) Neither"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "If the velocity–time graph is above the time axis and has a negative slope, the object is:",
+            "options": [
+              "A) Moving forward and slowing down",
+              "B) Moving backward and speeding up",
+              "C) At rest",
+              "D) Moving forward with constant speed"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "The slope of the tangent to a position–time curve at any point gives:",
+            "options": [
+              "A) Average velocity",
+              "B) Instantaneous velocity",
+              "C) Instantaneous acceleration",
+              "D) Average speed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which graph is sufficient to determine both displacement and acceleration directly (using area and slope)?",
+            "options": [
+              "A) Position–time",
+              "B) Velocity–time",
+              "C) Acceleration–time",
+              "D) Distance–time"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A velocity–time graph is a straight line with positive slope that cuts the velocity axis above the origin. This represents:",
+            "options": [
+              "A) The body starts from rest.",
+              "B) The body has an initial positive velocity and constant positive acceleration.",
+              "C) The body has zero acceleration.",
+              "D) The body is moving with constant velocity."
+            ],
+            "answer": "B"
+          }
+        ],
+        "Equations of Motion": [
+          {
+            "question": "A car starts from rest with an acceleration of 4 m/s². The distance covered in the 5th second is:",
+            "options": [
+              "A) 14 m",
+              "B) 18 m",
+              "C) 22 m",
+              "D) 30 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves with u=10 m/s, a=2 m/s2. Time required to reach 30 m/s is:",
+            "options": [
+              "A) 5 s",
+              "B) 8 s",
+              "C) 10 s",
+              "D) 12 s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle starts from rest and moves with constant acceleration. If it covers 72 m in 6 s, the acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which equation of motion does not involve time?",
+            "options": [
+              "A) v=u+at",
+              "B) s=ut+12at2",
+              "C) v2=u2+2as",
+              "D) s=(u+v)t2"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A train moving at 25 m/s is uniformly retarded at 5 m/s². Distance covered before stopping is:",
+            "options": [
+              "A) 50 m",
+              "B) 62.5 m",
+              "C) 75 m",
+              "D) 125 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moves with constant acceleration. Which quantity changes uniformly?",
+            "options": [
+              "A) Distance",
+              "B) Velocity",
+              "C) Speed only",
+              "D) Momentum only"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle starts from rest and reaches 20 m/s after covering 100 m. The acceleration is:",
+            "options": [
+              "A) 1 m/s²",
+              "B) 2 m/s²",
+              "C) 3 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body moving at 8 m/s accelerates uniformly at 3 m/s² for 4 s. Its displacement is:",
+            "options": [
+              "A) 48 m",
+              "B) 56 m",
+              "C) 64 m",
+              "D) 72 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moving with u = 30 m/s comes to rest in 6 s. The retardation is:",
+            "options": [
+              "A) 3 m/s²",
+              "B) 4 m/s²",
+              "C) 5 m/s²",
+              "D) 6 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "The distance covered by a body in the first second starting from rest with acceleration 6 m/s2is:",
+            "options": [
+              "A) 2 m",
+              "B) 3 m",
+              "C) 6 m",
+              "D) 9 m"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "If a particle has zero initial velocity, the equation v=u+atbecomes:",
+            "options": [
+              "A) v=at",
+              "B) v=t/a",
+              "C) v=a/t",
+              "D) v=0"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body moving with uniform acceleration covers 20 m in the first 2 s and 44 m in the next 2 s. The acceleration is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 6 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The velocity-time graph for uniformly accelerated motion is:",
+            "options": [
+              "A) Circle",
+              "B) Straight line",
+              "C) Hyperbola",
+              "D) Parabola"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A body starts from rest and accelerates at 5 m/s². Its velocity after travelling 45 m is:",
+            "options": [
+              "A) 15 m/s",
+              "B) 20 m/s",
+              "C) 25 m/s",
+              "D) 30 m/s"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle moves with u=12 m/s, a=−2 m/s2. Time to stop is:",
+            "options": [
+              "A) 4 s",
+              "B) 5 s",
+              "C) 6 s",
+              "D) 8 s"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which equation is most suitable when u, a, and t are known?",
+            "options": [
+              "A) v=u+at",
+              "B) v2=u2+2as",
+              "C) a=v−ut",
+              "D) All of the above"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle accelerates from 5 m/s to 25 m/s in 10 s. The displacement is:",
+            "options": [
+              "A) 100 m",
+              "B) 125 m",
+              "C) 150 m",
+              "D) 175 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body starts from rest and travels 64 m in 8 s. Its acceleration is:",
+            "options": [
+              "A) 1 m/s²",
+              "B) 2 m/s²",
+              "C) 3 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The equations of motion are valid only when:",
+            "options": [
+              "A) Speed is constant.",
+              "B) Acceleration is uniform.",
+              "C) Velocity is zero.",
+              "D) Displacement is constant."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moving at 15 m/s accelerates uniformly at 1 m/s². Distance covered in 10 s is:",
+            "options": [
+              "A) 150 m",
+              "B) 180 m",
+              "C) 200 m",
+              "D) 250 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body starts from rest. The ratio of distances covered in the 1st, 2nd, and 3rd seconds is:",
+            "options": [
+              "A) 1 : 2 : 3",
+              "B) 1 : 3 : 5",
+              "C) 1 : 4 : 9",
+              "D) 2 : 3 : 4"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A train moving at 20 m/s stops uniformly after travelling 80 m. The retardation is:",
+            "options": [
+              "A) 2.5 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A body moving with constant acceleration has equal changes in:",
+            "options": [
+              "A) Distance",
+              "B) Velocity",
+              "C) Speed only",
+              "D) Position"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "The average velocity during uniformly accelerated motion is:",
+            "options": [
+              "A) u+v2",
+              "B) uv",
+              "C) u−v",
+              "D) v−u2"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle starts from rest with acceleration 3 m/s². Distance covered in 4 s is:",
+            "options": [
+              "A) 12 m",
+              "B) 18 m",
+              "C) 24 m",
+              "D) 36 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A particle moving at 40 m/s is retarded uniformly and stops after 200 m. Retardation is:",
+            "options": [
+              "A) 2 m/s²",
+              "B) 3 m/s²",
+              "C) 4 m/s²",
+              "D) 5 m/s²"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A body covers 30 m in the first 3 s and 66 m in the next 3 s. The acceleration is:",
+            "options": [
+              "A) 1 m/s²",
+              "B) 2 m/s²",
+              "C) 3 m/s²",
+              "D) 4 m/s²"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A particle moves with u=5 m/sand a=4 m/s2. The distance travelled in 5 s is:",
+            "options": [
+              "A) 50 m",
+              "B) 60 m",
+              "C) 75 m",
+              "D) 80 m"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which statement is correct?",
+            "options": [
+              "A) The second equation of motion is derived using constant acceleration.",
+              "B) It is valid for variable acceleration.",
+              "C) It applies only when u=0.",
+              "D) It is independent of displacement."
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A particle starts from rest with constant acceleration. The ratio of distances covered in the first 4 s and the next 4 s is:",
+            "options": [
+              "A) 1 : 2",
+              "B) 1 : 3",
+              "C) 1 : 4",
+              "D) 1 : 5"
+            ],
+            "answer": "B"
+          }
+        ]
+      }
+    }
+  }
+}

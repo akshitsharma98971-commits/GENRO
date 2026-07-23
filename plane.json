@@ -1,0 +1,3347 @@
+{
+ "Physics": {
+  "Motion in Plane":{
+  "Easy": {
+       "Vectors": [
+        {
+          "qid": 1,
+          "question": "Which of the following is a scalar quantity?",
+          "options": ["A) Velocity", "B) Displacement", "C) Speed", "D) Force"],
+          "answer": "C"
+        },
+        {
+          "qid": 2,
+          "question": "Which of the following is a vector quantity?",
+          "options": ["A) Time", "B) Distance", "C) Velocity", "D) Mass"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "A vector has:",
+          "options": ["A) Magnitude only", "B) Direction only", "C) Magnitude and direction", "D) No magnitude"],
+          "answer": "C"
+        },
+    
+        {
+          "qid": 1,
+          "question": "Which branch of mathematics is mainly used to find the rate of change of a quantity?",
+          "options": ["A) Algebra", "B) Geometry", "C) Differentiation", "D) Statistics"],
+          "answer": "C"
+        },
+        {
+          "qid": 2,
+          "question": "Integration in physics is mainly used to find:",
+          "options": ["A) Rate of change", "B) Area under a graph", "C) Speed only", "D) Force only"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "Which of the following is a scalar quantity?",
+          "options": ["A) Velocity", "B) Displacement", "C) Speed", "D) Force"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "Which of the following is a vector quantity?",
+          "options": ["A) Time", "B) Distance", "C) Velocity", "D) Mass"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "A vector has:",
+          "options": ["A) Magnitude only", "B) Direction only", "C) Magnitude and direction", "D) No magnitude"],
+          "answer": "C"
+        },
+        {
+          "qid": 6,
+          "question": "Which of the following is NOT a vector?",
+          "options": ["A) Acceleration", "B) Force", "C) Temperature", "D) Momentum"],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "Position vector represents:",
+          "options": ["A) Speed of an object", "B) Distance travelled", "C) Position of an object relative to the origin", "D) Acceleration"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "The SI unit of displacement is:",
+          "options": ["A) m", "B) m/s", "C) N", "D) kg"],
+          "answer": "A"
+        },
+        {
+          "qid": 9,
+          "question": "Displacement is:",
+          "options": ["A) Scalar", "B) Vector", "C) Neither", "D) Dimensionless"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "Two vectors are equal if they have:",
+          "options": ["A) Same magnitude only", "B) Same direction only", "C) Same magnitude and same direction", "D) Same initial point"],
+          "answer": "C"
+        },
+        {
+          "qid": 11,
+          "question": "Adding two vectors follows:",
+          "options": ["A) Commutative law", "B) Division law", "C) Logarithmic law", "D) None"],
+          "answer": "A"
+        },
+        {
+          "qid": 12,
+          "question": "Which method is commonly used to add two vectors?",
+          "options": ["A) Triangle law", "B) Circle law", "C) Rectangle law", "D) Both A and C"],
+          "answer": "D"
+        },
+        {
+          "qid": 13,
+          "question": "Subtracting vector B from A is equivalent to:",
+          "options": ["A) A + B", "B) A + (−B)", "C) B − A", "D) B + A"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "Multiplying a vector by 2 makes its magnitude:",
+          "options": ["A) Half", "B) Double", "C) Zero", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "Multiplying a vector by −1:",
+          "options": ["A) Changes magnitude only", "B) Reverses its direction", "C) Makes it zero", "D) Rotates it by 90°"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "Which is a unit vector along the x-axis?",
+          "options": ["A) î", "B) ĵ", "C) k̂", "D) r̂"],
+          "answer": "A"
+        },
+        {
+          "qid": 17,
+          "question": "Which is a unit vector along the y-axis?",
+          "options": ["A) î", "B) ĵ", "C) k̂", "D) n̂"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "The magnitude of a unit vector is:",
+          "options": ["A) 0", "B) 1", "C) 2", "D) Depends on direction"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "A vector along the positive x-axis is written as:",
+          "options": ["A) ...", "B) ...", "C) ...", "D) ..."],
+          "answer": "A"
+        },
+        {
+          "qid": 20,
+          "question": "A vector points along:",
+          "options": ["A) Positive x-axis", "B) Positive y-axis", "C) Negative x-axis", "D) Negative y-axis"],
+          "answer": "B"
+        },
+        {
+          "qid": 21,
+          "question": "A vector can be resolved into:",
+          "options": ["A) Components", "B) Scalars only", "C) Numbers only", "D) Angles only"],
+          "answer": "A"
+        },
+        {
+          "qid": 22,
+          "question": "The horizontal component of a vector is along:",
+          "options": ["A) x-axis", "B) y-axis", "C) z-axis", "D) None"],
+          "answer": "A"
+        },
+        {
+          "qid": 23,
+          "question": "The vertical component of a vector is along:",
+          "options": ["A) x-axis", "B) y-axis", "C) z-axis", "D) None"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "If a vector makes an angle θ with the x-axis, its x-component is:",
+          "options": ["A) ...", "B) ...", "C) ...", "D) ..."],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "The y-component of a vector is:",
+          "options": ["A) ...", "B) ...", "C) ...", "D) ..."],
+          "answer": "C"
+        },
+        {
+          "qid": 26,
+          "question": "Which function is used to calculate the x-component?",
+          "options": ["A) sin", "B) cos", "C) tan", "D) sec"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "The resultant of two vectors acting in the same direction is:",
+          "options": ["A) Difference of magnitudes", "B) Sum of magnitudes", "C) Zero", "D) Product of magnitudes"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "The resultant of two equal vectors acting in opposite directions is:",
+          "options": ["A) Double the magnitude", "B) Zero", "C) Half the magnitude", "D) Equal to one vector"],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "Which statement is correct?",
+          "options": ["A) Scalars have only magnitude.", "B) Vectors have only direction.", "C) Scalars have magnitude and direction.", "D) Vectors have no magnitude."],
+          "answer": "A"
+        },
+        {
+          "qid": 30,
+          "question": "Which of the following is represented using unit vectors?",
+          "options": ["A) ...", "B) 7 kg", "C) 20 s", "D) 5°C"],
+          "answer": "A"
+        }
+      ],
+      "Relative Velocity": [
+        {
+          "qid": 1,
+          "question": "Relative velocity is the velocity of one object:",
+          "options": ["A) Relative to the ground", "B) Relative to another object", "C) Relative to the Sun", "D) Relative to Earth only"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The relative velocity of object A with respect to object B is written as:",
+          "options": ["A) V_AB", "B) V_BA", "C) V_A", "D) V_B"],
+          "answer": "A"
+        },
+        {
+          "qid": 3,
+          "question": "If two cars move with the same speed in the same direction, their relative velocity is:",
+          "options": ["A) Zero", "B) Equal to their speed", "C) Double their speed", "D) Half their speed"],
+          "answer": "A"
+        },
+        {
+          "qid": 4,
+          "question": "Two cars move in the same direction with speeds 30 m/s and 20 m/s. Their relative speed is:",
+          "options": ["A) 10 m/s", "B) 20 m/s", "C) 30 m/s", "D) 50 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 5,
+          "question": "Two cars move in opposite directions with speeds 20 m/s and 30 m/s. Their relative speed is:",
+          "options": ["A) 10 m/s", "B) 20 m/s", "C) 30 m/s", "D) 50 m/s"],
+          "answer": "D"
+        },
+        {
+          "qid": 6,
+          "question": "The SI unit of relative velocity is:",
+          "options": ["A) km/h", "B) m/s", "C) N", "D) kg"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "Relative velocity is a:",
+          "options": ["A) Scalar quantity", "B) Vector quantity", "C) Dimensionless quantity", "D) Constant quantity"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "The relative velocity of A with respect to B is:",
+          "options": ["A) V_A + V_B", "B) V_A - V_B", "C) V_B - V_A", "D) V_A V_B"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "If object B is at rest, then the relative velocity of A with respect to B is:",
+          "options": ["A) Zero", "B) Equal to the velocity of A", "C) Equal to the velocity of B", "D) Infinite"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "Two trains move in the same direction at 60 km/h and 40 km/h. Relative speed is:",
+          "options": ["A) 20 km/h", "B) 40 km/h", "C) 60 km/h", "D) 100 km/h"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "Two trains move in opposite directions at 60 km/h each. Relative speed is:",
+          "options": ["A) 0 km/h", "B) 60 km/h", "C) 90 km/h", "D) 120 km/h"],
+          "answer": "D"
+        },
+        {
+          "qid": 12,
+          "question": "Which of the following is true?",
+          "options": ["A) Relative velocity depends on the observer.", "B) Relative velocity is always zero.", "C) Relative velocity is always positive.", "D) Relative velocity is a scalar."],
+          "answer": "A"
+        },
+        {
+          "qid": 13,
+          "question": "If two particles move together with the same velocity, their relative velocity is:",
+          "options": ["A) Equal to their velocity", "B) Zero", "C) Double their velocity", "D) Half their velocity"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "Relative velocity becomes maximum when two objects move:",
+          "options": ["A) In the same direction", "B) In opposite directions", "C) Perpendicular to each other", "D) With zero velocity"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "The velocity of B with respect to A is:",
+          "options": ["A) V_B - V_A", "B) V_A - V_B", "C) V_A + V_B", "D) V_A V_B"],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "Which quantity changes when the observer changes?",
+          "options": ["A) Mass", "B) Relative velocity", "C) Time", "D) Length"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "A bus moves at 15 m/s and a passenger walks inside it at 2 m/s in the same direction. The passenger's speed relative to the bus is:",
+          "options": ["A) 17 m/s", "B) 15 m/s", "C) 2 m/s", "D) 13 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 18,
+          "question": "In Question 17, the passenger's speed relative to the ground is:",
+          "options": ["A) 13 m/s", "B) 15 m/s", "C) 17 m/s", "D) 2 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 19,
+          "question": "A man walks backward in a moving train. Relative to the train, he is moving:",
+          "options": ["A) Forward", "B) Backward", "C) At rest", "D) Upward"],
+          "answer": "B"
+        },
+        {
+          "qid": 20,
+          "question": "Two cyclists move with equal speeds in opposite directions. Their relative speed equals:",
+          "options": ["A) Zero", "B) Speed of one cyclist", "C) Twice the speed of one cyclist", "D) Half the speed of one cyclist"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "Relative velocity can be zero only when:",
+          "options": ["A) Both objects are at rest.", "B) Both have the same velocity.", "C) Both move in opposite directions.", "D) One object is stationary."],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "Relative velocity is useful in solving problems involving:",
+          "options": ["A) Trains", "B) Boats", "C) Rain", "D) All of these"],
+          "answer": "D"
+        },
+        {
+          "qid": 23,
+          "question": "The relative velocity of A with respect to B is +5 m/s. This means:",
+          "options": ["A) A is moving 5 m/s faster than B in the chosen positive direction.", "B) B is faster than A by 5 m/s.", "C) Both are stationary.", "D) Their velocities are equal."],
+          "answer": "A"
+        },
+        {
+          "qid": 24,
+          "question": "If V_A=25 m/s and V_B=10 m/s in the same direction, then V_AB is:",
+          "options": ["A) 15 m/s", "B) 25 m/s", "C) 35 m/s", "D) 10 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 25,
+          "question": "If V_A=15 m/s east and V_B=10 m/s west, the relative speed is:",
+          "options": ["A) 5 m/s", "B) 10 m/s", "C) 15 m/s", "D) 25 m/s"],
+          "answer": "D"
+        },
+        {
+          "qid": 26,
+          "question": "Relative velocity follows:",
+          "options": ["A) Vector addition and subtraction", "B) Scalar addition only", "C) Multiplication only", "D) Division only"],
+          "answer": "A"
+        },
+        {
+          "qid": 27,
+          "question": "Which of the following is an application of relative velocity?",
+          "options": ["A) Boat crossing a river", "B) Rain falling on a moving car", "C) Aeroplane flying in wind", "D) All of these"],
+          "answer": "D"
+        },
+        {
+          "qid": 28,
+          "question": "If two objects move with equal velocities, the magnitude of their relative velocity is:",
+          "options": ["A) Zero", "B) Equal to one velocity", "C) Double the velocity", "D) Cannot be determined"],
+          "answer": "A"
+        },
+        {
+          "qid": 29,
+          "question": "Relative velocity depends on:",
+          "options": ["A) Only the velocity of object A", "B) Only the velocity of object B", "C) The velocities of both objects", "D) Their masses"],
+          "answer": "C"
+        },
+        {
+          "qid": 30,
+          "question": "Which branch of mechanics commonly uses the concept of relative velocity?",
+          "options": ["A) Kinematics", "B) Thermodynamics", "C) Optics", "D) Electrostatics"],
+          "answer": "A"
+        }
+      ],
+      "Scalar (Dot) Product & Vector (Cross) Product": [
+        {
+          "qid": 1,
+          "question": "The dot product of two vectors is a:",
+          "options": ["A) Scalar", "B) Vector", "C) Tensor", "D) Matrix"],
+          "answer": "A"
+        },
+        {
+          "qid": 2,
+          "question": "The cross product of two vectors is a:",
+          "options": ["A) Scalar", "B) Vector", "C) Dimensionless quantity", "D) Number"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "The dot product of vectors A and B is written as:",
+          "options": ["A) A × B", "B) A · B", "C) A/B", "D) AB"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "The cross product of vectors A and B is written as:",
+          "options": ["A) A + B", "B) A · B", "C) A × B", "D) AB"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "The formula for the dot product is:",
+          "options": ["A) AB sinθ", "B) AB cosθ", "C) A+B", "D) A−B"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "The magnitude of the cross product is:",
+          "options": ["A) AB cosθ", "B) AB sinθ", "C) A+B", "D) A−B"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "If two vectors are perpendicular, their dot product is:",
+          "options": ["A) Maximum", "B) Zero", "C) One", "D) Infinite"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "If two vectors are parallel in the same direction, their dot product is:",
+          "options": ["A) Zero", "B) Maximum", "C) Negative", "D) Minimum"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "If two vectors are perpendicular, the magnitude of their cross product is:",
+          "options": ["A) Zero", "B) Maximum", "C) Negative", "D) One"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "If two vectors are parallel, their cross product is:",
+          "options": ["A) Maximum", "B) Zero", "C) One", "D) Negative"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "The angle between two perpendicular vectors is:",
+          "options": ["A) 0°", "B) 45°", "C) 90°", "D) 180°"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "The angle between two parallel vectors is:",
+          "options": ["A) 0°", "B) 45°", "C) 90°", "D) 180°"],
+          "answer": "A"
+        },
+        {
+          "qid": 13,
+          "question": "The dot product of a vector with itself is:",
+          "options": ["A) Zero", "B) A²", "C) A", "D) 2A"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "The cross product of a vector with itself is:",
+          "options": ["A) A", "B) A²", "C) Zero", "D) One"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "The SI unit of the dot product depends on:",
+          "options": ["A) The units of the original vectors", "B) It is always unitless", "C) Newton only", "D) Joule only"],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "Which of the following is a scalar quantity?",
+          "options": ["A) Force", "B) Velocity", "C) Work", "D) Displacement"],
+          "answer": "C"
+        },
+        {
+          "qid": 17,
+          "question": "Which physical quantity is obtained using the cross product?",
+          "options": ["A) Work", "B) Power", "C) Torque", "D) Speed"],
+          "answer": "C"
+        },
+        {
+          "qid": 18,
+          "question": "The cross product follows:",
+          "options": ["A) Commutative law", "B) Anti-commutative law", "C) Division law", "D) Associative law only"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "The dot product follows:",
+          "options": ["A) Commutative law", "B) Anti-commutative law", "C) Division law", "D) None"],
+          "answer": "A"
+        },
+        {
+          "qid": 20,
+          "question": "If A·B=0, then the vectors are:",
+          "options": ["A) Parallel", "B) Perpendicular", "C) Equal", "D) Opposite"],
+          "answer": "B"
+        },
+        {
+          "qid": 21,
+          "question": "If |A×B|=0, then the vectors are:",
+          "options": ["A) Perpendicular", "B) Parallel or anti-parallel", "C) At 45°", "D) Random"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "Which product depends on cos θ?",
+          "options": ["A) Cross product", "B) Dot product", "C) Both", "D) Neither"],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "Which product depends on sin θ?",
+          "options": ["A) Dot product", "B) Cross product", "C) Both", "D) Neither"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "The direction of the cross product is determined by:",
+          "options": ["A) Triangle law", "B) Right-hand rule", "C) Left-hand rule", "D) Parallelogram law"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "The unit vectors satisfy:",
+          "options": ["A) î·ĵ=0", "B) î·î=0", "C) î×î=1", "D) î×ĵ=0"],
+          "answer": "A"
+        },
+        {
+          "qid": 26,
+          "question": "The value of î·î is:",
+          "options": ["A) 0", "B) 1", "C) -1", "D) 2"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "The value of î×ĵ is:",
+          "options": ["A) k̂", "B) −k̂", "C) î", "D) 0"],
+          "answer": "A"
+        },
+        {
+          "qid": 28,
+          "question": "The value of ĵ×î is:",
+          "options": ["A) k̂", "B) −k̂", "C) î", "D) 0"],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "Which statement is correct?",
+          "options": ["A) Dot product gives a scalar.", "B) Cross product gives a vector.", "C) Both A and B are correct.", "D) Neither A nor B is correct."],
+          "answer": "C"
+        },
+        {
+          "qid": 30,
+          "question": "Which operation is commonly used to calculate work done?",
+          "options": ["A) Cross product", "B) Dot product", "C) Vector subtraction", "D) Scalar multiplication"],
+          "answer": "B"
+        }
+      ],
+
+      "Motion in a Plane": [
+        {
+          "qid": 1,
+          "question": "Motion in a plane is also called:",
+          "options": ["A) One-dimensional motion", "B) Two-dimensional motion", "C) Three-dimensional motion", "D) Circular motion only"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "In motion in a plane, an object's position is described by:",
+          "options": ["A) One coordinate", "B) Two coordinates", "C) Three coordinates only", "D) Time only"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "Which pair of axes is commonly used to describe motion in a plane?",
+          "options": ["A) x-axis and y-axis", "B) y-axis and z-axis", "C) x-axis and z-axis", "D) Only x-axis"],
+          "answer": "A"
+        },
+        {
+          "qid": 4,
+          "question": "Displacement in plane motion is a:",
+          "options": ["A) Scalar", "B) Vector", "C) Number", "D) Constant"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "The velocity of a particle moving in a plane is:",
+          "options": ["A) Scalar", "B) Vector", "C) Dimensionless", "D) Constant"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "Acceleration in plane motion is:",
+          "options": ["A) Scalar", "B) Vector", "C) Dimensionless", "D) Always zero"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "The SI unit of velocity is:",
+          "options": ["A) m", "B) m/s", "C) m/s²", "D) N"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "The SI unit of acceleration is:",
+          "options": ["A) m", "B) m/s", "C) m/s²", "D) kg"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "A particle moving with constant velocity has:",
+          "options": ["A) Zero acceleration", "B) Positive acceleration", "C) Negative acceleration", "D) Infinite acceleration"],
+          "answer": "A"
+        },
+        {
+          "qid": 10,
+          "question": "Uniform velocity means:",
+          "options": ["A) Constant speed only", "B) Constant magnitude and direction", "C) Changing direction", "D) Changing speed"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "Uniform acceleration means:",
+          "options": ["A) Acceleration changes continuously", "B) Acceleration remains constant", "C) Velocity remains zero", "D) Speed is constant"],
+          "answer": "B"
+        },
+        {
+          "qid": 12,
+          "question": "Motion in a plane generally requires:",
+          "options": ["A) One component", "B) Two perpendicular components", "C) Three components", "D) No components"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "A vector in a plane is usually resolved into:",
+          "options": ["A) Horizontal and vertical components", "B) Two equal vectors", "C) Three vectors", "D) Scalar quantities"],
+          "answer": "A"
+        },
+        {
+          "qid": 14,
+          "question": "Which quantity determines the direction of motion?",
+          "options": ["A) Mass", "B) Velocity", "C) Time", "D) Distance"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "If both x- and y-components of velocity are constant, the object moves in:",
+          "options": ["A) A straight line", "B) A circle", "C) A parabola", "D) A spiral"],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "Which quantity changes when the direction of motion changes?",
+          "options": ["A) Mass", "B) Velocity", "C) Time", "D) Distance only"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "The resultant velocity is obtained by:",
+          "options": ["A) Scalar addition", "B) Vector addition", "C) Multiplication", "D) Division"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "Motion in a plane combines motion along:",
+          "options": ["A) Only x-axis", "B) Only y-axis", "C) x-axis and y-axis", "D) Time axis only"],
+          "answer": "C"
+        },
+        {
+          "qid": 19,
+          "question": "If acceleration is zero, the particle moves with:",
+          "options": ["A) Constant velocity", "B) Increasing velocity", "C) Decreasing velocity", "D) Zero velocity only"],
+          "answer": "A"
+        },
+        {
+          "qid": 20,
+          "question": "Which of the following is an example of motion in a plane?",
+          "options": ["A) Car moving on a straight road", "B) Projectile motion", "C) Lift moving upward", "D) Train on a straight track"],
+          "answer": "B"
+        },
+        {
+          "qid": 21,
+          "question": "The path followed by a particle is called its:",
+          "options": ["A) Velocity", "B) Trajectory", "C) Speed", "D) Momentum"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "The direction of acceleration is always the same as velocity in:",
+          "options": ["A) Uniform straight-line motion", "B) All types of motion", "C) Not necessarily", "D) Circular motion only"],
+          "answer": "C"
+        },
+        {
+          "qid": 23,
+          "question": "Motion in a plane is analyzed using:",
+          "options": ["A) Algebra only", "B) Vector methods", "C) Geometry only", "D) Statistics"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "In two-dimensional motion, displacement depends on:",
+          "options": ["A) Initial and final positions", "B) Time only", "C) Speed only", "D) Mass"],
+          "answer": "A"
+        },
+        {
+          "qid": 25,
+          "question": "Which of the following is always a vector?",
+          "options": ["A) Distance", "B) Speed", "C) Displacement", "D) Time"],
+          "answer": "C"
+        },
+        {
+          "qid": 26,
+          "question": "A particle moving in the xy-plane has:",
+          "options": ["A) One coordinate", "B) Two coordinates", "C) Three coordinates", "D) No coordinates"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "The velocity components along x and y axes are generally:",
+          "options": ["A) Independent of each other", "B) Always equal", "C) Always opposite", "D) Always zero"],
+          "answer": "A"
+        },
+        {
+          "qid": 28,
+          "question": "Which law is used to find the resultant of two vectors?",
+          "options": ["A) Ohm's law", "B) Triangle law of vector addition", "C) Hooke's law", "D) Newton's law of gravitation"],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "If the x-component of velocity is zero, the particle moves:",
+          "options": ["A) Only along the y-axis", "B) Only along the x-axis", "C) In a circle", "D) Along both axes equally"],
+          "answer": "A"
+        },
+        {
+          "qid": 30,
+          "question": "Which of the following topics is a special case of motion in a plane?",
+          "options": ["A) Projectile motion", "B) Uniform circular motion", "C) Both A and B", "D) Relative velocity"],
+          "answer": "C"
+        }
+      ],
+       "Projectile Motion":[
+    
+        {
+          "qid": 1,
+          "question": "Projectile motion is an example of:",
+          "options": ["A) One-dimensional motion", "B) Two-dimensional motion", "C) Circular motion", "D) Oscillatory motion"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "A projectile is an object that moves under the influence of:",
+          "options": ["A) Only gravity (neglecting air resistance)", "B) Magnetic force", "C) Electric force", "D) Friction only"],
+          "answer": "A"
+        },
+        {
+          "qid": 3,
+          "question": "The path followed by a projectile is called:",
+          "options": ["A) Circle", "B) Straight line", "C) Parabola", "D) Ellipse"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "The acceleration of a projectile is:",
+          "options": ["A) Zero", "B) Constant and vertically downward", "C) Horizontal", "D) Variable"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "The horizontal component of velocity in projectile motion is:",
+          "options": ["A) Constant", "B) Increasing", "C) Decreasing", "D) Zero"],
+          "answer": "A"
+        },
+        {
+          "qid": 6,
+          "question": "The vertical component of velocity:",
+          "options": ["A) Remains constant", "B) Changes due to gravity", "C) Is always zero", "D) Is always equal to the horizontal component"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "At the highest point of a projectile, the vertical component of velocity is:",
+          "options": ["A) Maximum", "B) Zero", "C) Equal to horizontal velocity", "D) Negative"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "At the highest point, the horizontal component of velocity is:",
+          "options": ["A) Zero", "B) Constant", "C) Maximum and increasing", "D) Negative"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "The angle at which a projectile is launched is called:",
+          "options": ["A) Angle of deviation", "B) Angle of projection", "C) Angle of friction", "D) Angle of incidence"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "The SI unit of range is:",
+          "options": ["A) m", "B) m/s", "C) m/s²", "D) N"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "The maximum height of a projectile depends mainly on:",
+          "options": ["A) Vertical component of initial velocity", "B) Horizontal component only", "C) Mass only", "D) Time only"],
+          "answer": "A"
+        },
+        {
+          "qid": 12,
+          "question": "The horizontal range is measured:",
+          "options": ["A) Vertically", "B) Along the horizontal ground", "C) Along the trajectory", "D) Diagonally"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "Which force acts continuously on an ideal projectile?",
+          "options": ["A) Friction", "B) Gravity", "C) Tension", "D) Magnetic force"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "Air resistance is generally:",
+          "options": ["A) Considered in basic projectile motion", "B) Neglected in NCERT projectile motion", "C) Equal to gravity", "D) Infinite"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "The trajectory of a projectile is:",
+          "options": ["A) Linear", "B) Circular", "C) Parabolic", "D) Elliptical"],
+          "answer": "C"
+        },
+        {
+          "qid": 16,
+          "question": "Which quantity remains constant during projectile motion (ignoring air resistance)?",
+          "options": ["A) Horizontal velocity", "B) Vertical velocity", "C) Total velocity", "D) Acceleration"],
+          "answer": "A"
+        },
+        {
+          "qid": 17,
+          "question": "The acceleration of a projectile near Earth's surface is approximately:",
+          "options": ["A) 5 m/s²", "B) 9.8 m/s² downward", "C) 15 m/s²", "D) Zero"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "Time of flight depends mainly on:",
+          "options": ["A) Vertical component of initial velocity", "B) Horizontal component only", "C) Mass", "D) Range only"],
+          "answer": "A"
+        },
+        {
+          "qid": 19,
+          "question": "At the point of projection, the velocity makes:",
+          "options": ["A) 0°", "B) Angle of projection with the horizontal", "C) 90°", "D) 180°"],
+          "answer": "B"
+        },
+        {
+          "qid": 20,
+          "question": "A projectile reaches the same height during ascent and descent. At those two points, the horizontal velocity is:",
+          "options": ["A) Different", "B) Same", "C) Zero", "D) Double"],
+          "answer": "B"
+        },
+        {
+          "qid": 21,
+          "question": "At equal heights during ascent and descent, the vertical velocity is:",
+          "options": ["A) Same in magnitude but opposite in direction", "B) Same in both magnitude and direction", "C) Zero", "D) Equal to horizontal velocity"],
+          "answer": "A"
+        },
+        {
+          "qid": 22,
+          "question": "If the angle of projection is increased from 30° to 45° (same speed), the range:",
+          "options": ["A) Increases", "B) Decreases", "C) Remains the same", "D) Becomes zero"],
+          "answer": "A"
+        },
+        {
+          "qid": 23,
+          "question": "Which angle gives the maximum range on level ground?",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "A projectile launched vertically upward has:",
+          "options": ["A) Only horizontal motion", "B) Only vertical motion", "C) Circular motion", "D) No acceleration"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "During projectile motion, the horizontal and vertical motions are:",
+          "options": ["A) Dependent on each other", "B) Independent of each other", "C) Always equal", "D) Opposite"],
+          "answer": "B"
+        },
+        {
+          "qid": 26,
+          "question": "Which component of velocity changes uniformly due to gravity?",
+          "options": ["A) Horizontal component", "B) Vertical component", "C) Both components", "D) Neither component"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "Which graph best represents the vertical velocity of a projectile versus time?",
+          "options": ["A) Horizontal line", "B) Straight line with negative slope", "C) Circle", "D) Parabola"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "At the highest point of a projectile, the acceleration is:",
+          "options": ["A) Zero", "B) Horizontal", "C) Vertically downward", "D) Upward"],
+          "answer": "C"
+        },
+        {
+          "qid": 29,
+          "question": "The motion of a projectile is produced by combining:",
+          "options": ["A) Uniform horizontal motion and uniformly accelerated vertical motion", "B) Two uniform motions", "C) Two circular motions", "D) Two accelerated horizontal motions"],
+          "answer": "A"
+        },
+        {
+          "qid": 30,
+          "question": "Which of the following is an example of projectile motion?",
+          "options": ["A) A ball thrown at an angle", "B) A train moving on a straight track", "C) A lift moving upward", "D) A fan rotating"],
+          "answer": "A"
+        }
+      ],
+      "Uniform Circular Motion": [
+        {
+          "qid": 1,
+          "question": "Uniform circular motion is the motion of an object:",
+          "options": ["A) Along a straight line with constant speed", "B) Along a circular path with constant speed", "C) Along a circular path with constant acceleration", "D) Along a parabolic path"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "In uniform circular motion, which quantity remains constant?",
+          "options": ["A) Velocity", "B) Speed", "C) Acceleration", "D) Displacement"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "In uniform circular motion, the direction of velocity:",
+          "options": ["A) Remains constant", "B) Changes continuously", "C) Becomes zero", "D) Is always upward"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "Uniform circular motion is an example of:",
+          "options": ["A) One-dimensional motion", "B) Motion with zero acceleration", "C) Accelerated motion", "D) Motion at rest"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "The acceleration in uniform circular motion is called:",
+          "options": ["A) Linear acceleration", "B) Tangential acceleration", "C) Centripetal acceleration", "D) Gravitational acceleration"],
+          "answer": "C"
+        },
+        {
+          "qid": 6,
+          "question": "The direction of centripetal acceleration is:",
+          "options": ["A) Away from the center", "B) Towards the center", "C) Tangential to the circle", "D) Upward"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "The direction of velocity in uniform circular motion is:",
+          "options": ["A) Towards the center", "B) Away from the center", "C) Tangential to the circle", "D) Vertical"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "The SI unit of centripetal acceleration is:",
+          "options": ["A) m", "B) m/s", "C) m/s²", "D) N"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "The formula for centripetal acceleration is:",
+          "options": ["A) a=v/r", "B) a=v²/r", "C) a=vr", "D) a=r/v²"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "The SI unit of angular velocity is:",
+          "options": ["A) rad/s", "B) m/s", "C) rev/s", "D) degree/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "The velocity vector is always:",
+          "options": ["A) Along the radius", "B) Tangential to the path", "C) Towards the center", "D) Constant in direction"],
+          "answer": "B"
+        },
+        {
+          "qid": 12,
+          "question": "If the speed doubles, the centripetal acceleration becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "If the radius doubles (speed constant), centripetal acceleration becomes:",
+          "options": ["A) Double", "B) Half", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "Which force is responsible for uniform circular motion?",
+          "options": ["A) Centripetal force", "B) Friction only", "C) Gravity only", "D) Magnetic force only"],
+          "answer": "A"
+        },
+        {
+          "qid": 15,
+          "question": "Centripetal force always acts:",
+          "options": ["A) Tangentially", "B) Towards the center", "C) Away from the center", "D) Upward"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "In UCM, acceleration is:",
+          "options": ["A) Zero", "B) Constant in magnitude but changing in direction", "C) Constant in both magnitude and direction", "D) Variable in magnitude only"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "Which quantity changes continuously in UCM?",
+          "options": ["A) Speed", "B) Velocity", "C) Radius", "D) Mass"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "The period of motion is:",
+          "options": ["A) Distance covered in one revolution", "B) Time taken for one revolution", "C) Speed of the object", "D) Radius of the circle"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "The frequency of revolution is:",
+          "options": ["A) Number of revolutions per second", "B) Time for one revolution", "C) Distance covered per second", "D) Radius per second"],
+          "answer": "A"
+        },
+        {
+          "qid": 20,
+          "question": "The SI unit of frequency is:",
+          "options": ["A) rad/s", "B) m/s", "C) Hertz (Hz)", "D) Newton"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "The relation between period T and frequency f is:",
+          "options": ["A) T=f", "B) T=1/f", "C) T=f²", "D) T=2f"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "Angular velocity is represented by:",
+          "options": ["A) v", "B) a", "C) ω", "D) r"],
+          "answer": "C"
+        },
+        {
+          "qid": 23,
+          "question": "The relation between linear speed and angular speed is:",
+          "options": ["A) v=ωr", "B) v=ω/r", "C) v=r/ω", "D) v=ω+r"],
+          "answer": "A"
+        },
+        {
+          "qid": 24,
+          "question": "A satellite moving in a circular orbit is an example of:",
+          "options": ["A) Projectile motion", "B) Uniform circular motion", "C) Rectilinear motion", "D) Oscillatory motion"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "A stone tied to a string and rotated in a circle shows:",
+          "options": ["A) Straight-line motion", "B) Uniform circular motion", "C) Projectile motion", "D) Random motion"],
+          "answer": "B"
+        },
+        {
+          "qid": 26,
+          "question": "At any instant, the displacement from the center to the particle is called:",
+          "options": ["A) Diameter", "B) Radius vector", "C) Tangent", "D) Arc length"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "The angle covered in one complete revolution is:",
+          "options": ["A) 90°", "B) 180°", "C) 270°", "D) 360°"],
+          "answer": "D"
+        },
+        {
+          "qid": 28,
+          "question": "One complete revolution corresponds to:",
+          "options": ["A) π radians", "B) 2π radians", "C) 1 radian", "D) 4 radians"],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "Which statement is correct?",
+          "options": ["A) Speed remains constant but velocity changes.", "B) Both speed and velocity remain constant.", "C) Speed changes continuously.", "D) Acceleration is zero."],
+          "answer": "A"
+        },
+        {
+          "qid": 30,
+          "question": "Which of the following is an example of uniform circular motion?",
+          "options": ["A) Earth revolving around the Sun (approximately)", "B) Lift moving upward", "C) Ball falling vertically", "D) Train moving on a straight track"],
+          "answer": "A"
+        }
+      ]
+    },
+  
+    "Medium": [
+    {
+      "name": "Vectors",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "Which quantity is represented by the slope of a displacement–time graph?",
+          "options": ["A) Speed", "B) Velocity", "C) Acceleration", "D) Force"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The area under a velocity–time graph represents:",
+          "options": ["A) Acceleration", "B) Speed", "C) Displacement", "D) Momentum"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "Which of the following is a scalar quantity?",
+          "options": ["A) Momentum", "B) Impulse", "C) Power", "D) Force"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "Which pair contains only vector quantities?",
+          "options": ["A) Force, Velocity", "B) Speed, Time", "C) Work, Energy", "D) Mass, Distance"],
+          "answer": "A"
+        },
+        {
+          "qid": 5,
+          "question": "The position vector of a particle is measured from:",
+          "options": ["A) Any point", "B) Origin", "C) Final position", "D) Midpoint"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "The magnitude of displacement is always:",
+          "options": ["A) Greater than distance", "B) Less than or equal to distance", "C) Equal to speed", "D) Greater than speed"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "Two vectors are equal if they have:",
+          "options": ["A) Same magnitude only", "B) Same direction only", "C) Same magnitude and direction", "D) Same initial point"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "If A⃗ and B⃗ are equal vectors, then:",
+          "options": ["A) A⃗−B⃗=0", "B) A⃗+B⃗=0", "C) |A|=0", "D) |B|=0"],
+          "answer": "A"
+        },
+        {
+          "qid": 9,
+          "question": "The maximum magnitude of the resultant of two vectors of magnitudes 4 and 6 is:",
+          "options": ["A) 2", "B) 6", "C) 10", "D) 24"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "The minimum magnitude of the resultant of vectors 8 N and 5 N is:",
+          "options": ["A) 3 N", "B) 5 N", "C) 8 N", "D) 13 N"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "Two equal vectors acting in opposite directions have a resultant of:",
+          "options": ["A) Equal magnitude", "B) Double magnitude", "C) Zero", "D) Half magnitude"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "A vector of magnitude 12 units is multiplied by –3. The new magnitude is:",
+          "options": ["A) 12", "B) 24", "C) 36", "D) –36"],
+          "answer": "C"
+        },
+        {
+          "qid": 13,
+          "question": "Multiplication of a vector by a negative scalar changes:",
+          "options": ["A) Magnitude only", "B) Direction only", "C) Both magnitude and direction", "D) Neither"],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "The unit vector along the negative x-axis is:",
+          "options": ["A) î", "B) −î", "C) ĵ", "D) −ĵ"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "The magnitude of every unit vector is:",
+          "options": ["A) 0", "B) 1", "C) –1", "D) Depends on direction"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "A vector is represented as: 3î + 4ĵ. Its magnitude is:",
+          "options": ["A) 5", "B) 7", "C) 12", "D) 25"],
+          "answer": "A"
+        },
+        {
+          "qid": 17,
+          "question": "The x-component of a vector A making angle θ with x-axis is:",
+          "options": ["A) A sinθ", "B) A cosθ", "C) A tanθ", "D) A cotθ"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "The y-component of a vector is:",
+          "options": ["A) A cosθ", "B) A tanθ", "C) A sinθ", "D) A secθ"],
+          "answer": "C"
+        },
+        {
+          "qid": 19,
+          "question": "If θ = 0°, then the y-component of a vector is:",
+          "options": ["A) A", "B) 0", "C) A/2", "D) √2A"],
+          "answer": "B"
+        },
+        {
+          "qid": 20,
+          "question": "If θ = 90°, then the x-component of a vector is:",
+          "options": ["A) A", "B) 0", "C) A/2", "D) √2A"],
+          "answer": "B"
+        },
+        {
+          "qid": 21,
+          "question": "A vector has x-component 6 and y-component 8. Its magnitude is:",
+          "options": ["A) 10", "B) 12", "C) 14", "D) 16"],
+          "answer": "A"
+        },
+        {
+          "qid": 22,
+          "question": "If A⃗=4î and B⃗=6î, then A⃗+B⃗ equals:",
+          "options": ["A) 10î", "B) 2î", "C) 24î", "D) 0"],
+          "answer": "A"
+        },
+        {
+          "qid": 23,
+          "question": "If A⃗=8ĵ and B⃗=3ĵ, then A⃗−B⃗ equals:",
+          "options": ["A) 5ĵ", "B) 11ĵ", "C) 24ĵ", "D) −5ĵ"],
+          "answer": "A"
+        },
+        {
+          "qid": 24,
+          "question": "The resultant of two perpendicular vectors of magnitudes 3 and 4 is:",
+          "options": ["A) 5", "B) 7", "C) 12", "D) 1"],
+          "answer": "A"
+        },
+        {
+          "qid": 25,
+          "question": "The angle between two equal vectors whose resultant equals either vector is:",
+          "options": ["A) 30°", "B) 60°", "C) 90°", "D) 120°"],
+          "answer": "D"
+        },
+        {
+          "qid": 26,
+          "question": "Which law is used to determine the resultant of two vectors?",
+          "options": ["A) Newton's Law", "B) Triangle Law", "C) Hooke's Law", "D) Ohm's Law"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "Which statement is correct?",
+          "options": ["A) A scalar can never be negative.", "B) A vector always has magnitude and direction.", "C) Every vector has the same unit.", "D) Scalars obey vector addition."],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "A particle moves from (2,3) to (6,8). The displacement vector is:",
+          "options": ["A) 4î + 5ĵ", "B) 8î + 11ĵ", "C) 2î + 3ĵ", "D) 6î + 8ĵ"],
+          "answer": "A"
+        },
+        {
+          "qid": 29,
+          "question": "The magnitude of the displacement in Question 28 is:",
+          "options": ["A) 5", "B) 6", "C) √41", "D) 9"],
+          "answer": "C"
+        },
+        {
+          "qid": 30,
+          "question": "Which statement about vector resolution is correct?",
+          "options": ["A) Every vector can be resolved into mutually perpendicular components.", "B) Only force can be resolved.", "C) Only velocity can be resolved.", "D) Scalars can also be resolved into components."],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Relative Velocity",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "Two cars move in the same direction with speeds 72 km/h and 54 km/h. The relative speed is:",
+          "options": ["A) 18 km/h", "B) 126 km/h", "C) 72 km/h", "D) 54 km/h"],
+          "answer": "A"
+        },
+        {
+          "qid": 2,
+          "question": "Two trains move in opposite directions with speeds 54 km/h and 72 km/h. Their relative speed is:",
+          "options": ["A) 18 km/h", "B) 54 km/h", "C) 72 km/h", "D) 126 km/h"],
+          "answer": "D"
+        },
+        {
+          "qid": 3,
+          "question": "The relative velocity of A with respect to B is given by:",
+          "options": ["A) V_A + V_B", "B) V_A − V_B", "C) V_B − V_A", "D) V_A × V_B"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "A man walks at 5 m/s inside a train moving at 20 m/s in the same direction. His speed relative to the ground is:",
+          "options": ["A) 15 m/s", "B) 20 m/s", "C) 25 m/s", "D) 5 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "In Question 4, his speed relative to the train is:",
+          "options": ["A) 5 m/s", "B) 20 m/s", "C) 25 m/s", "D) 15 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 6,
+          "question": "A passenger walks at 2 m/s opposite to the motion of a train moving at 15 m/s. His speed relative to the ground is:",
+          "options": ["A) 17 m/s", "B) 13 m/s", "C) 2 m/s", "D) 15 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "Two cyclists move with equal speeds in opposite directions. The magnitude of their relative velocity is:",
+          "options": ["A) Zero", "B) Equal to one cyclist's speed", "C) Twice one cyclist's speed", "D) Four times one cyclist's speed"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "If two bodies move with identical velocities, their relative velocity is:",
+          "options": ["A) Equal to their velocity", "B) Half their velocity", "C) Zero", "D) Double their velocity"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "A boat moves due north at 4 m/s while the river flows east at 3 m/s. The speed of the boat relative to the ground is:",
+          "options": ["A) 4 m/s", "B) 5 m/s", "C) 6 m/s", "D) 7 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "In Question 9, the direction of motion is:",
+          "options": ["A) North", "B) East", "C) North-East", "D) South-East"],
+          "answer": "C"
+        },
+        {
+          "qid": 11,
+          "question": "A river flows east. A swimmer swims due north. The actual path of the swimmer is:",
+          "options": ["A) North", "B) East", "C) North-East", "D) West"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "The concept of relative velocity is mainly based on:",
+          "options": ["A) Scalar addition", "B) Vector subtraction", "C) Vector multiplication", "D) Integration"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "A person standing on a moving bus throws a ball vertically upward. To the person inside the bus, the ball returns:",
+          "options": ["A) Behind him", "B) In front of him", "C) Into his hand", "D) Outside the bus"],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "Relative velocity depends upon:",
+          "options": ["A) Mass", "B) Velocity of both objects", "C) Shape", "D) Density"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "Two objects move at right angles with speeds 6 m/s and 8 m/s. Their relative speed is:",
+          "options": ["A) 2 m/s", "B) 10 m/s", "C) 14 m/s", "D) 48 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "A train travels east at 40 km/h while another travels north at 30 km/h. The relative speed is:",
+          "options": ["A) 10 km/h", "B) 50 km/h", "C) 70 km/h", "D) 25 km/h"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "Which quantity is frame-dependent?",
+          "options": ["A) Mass", "B) Relative velocity", "C) Charge", "D) Density"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "Two birds fly together with the same speed and direction. Their relative speed is:",
+          "options": ["A) Same as their speed", "B) Double their speed", "C) Zero", "D) Half their speed"],
+          "answer": "C"
+        },
+        {
+          "qid": 19,
+          "question": "A car moves east at 30 m/s and another east at 10 m/s. The velocity of the first car relative to the second is:",
+          "options": ["A) 20 m/s east", "B) 20 m/s west", "C) 40 m/s east", "D) 30 m/s east"],
+          "answer": "A"
+        },
+        {
+          "qid": 20,
+          "question": "A car moves east at 20 m/s, another west at 15 m/s. Their relative speed is:",
+          "options": ["A) 5 m/s", "B) 20 m/s", "C) 35 m/s", "D) 15 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "Which is not an application of relative velocity?",
+          "options": ["A) Boat crossing a river", "B) Rain and umbrella problems", "C) Projectile motion", "D) Aircraft in wind"],
+          "answer": "C"
+        },
+        {
+          "qid": 22,
+          "question": "If rain falls vertically but appears inclined to a moving observer, the reason is:",
+          "options": ["A) Gravity", "B) Relative velocity", "C) Air pressure", "D) Friction"],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "The velocity of B relative to A is:",
+          "options": ["A) V_A − V_B", "B) V_B − V_A", "C) V_A + V_B", "D) V_A × V_B"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "If V_AB = 0, then:",
+          "options": ["A) A is stationary", "B) B is stationary", "C) Both have equal velocities", "D) Both are at rest"],
+          "answer": "C"
+        },
+        {
+          "qid": 25,
+          "question": "A train moving at 54 km/h overtakes another moving at 36 km/h. Relative speed is:",
+          "options": ["A) 18 km/h", "B) 90 km/h", "C) 54 km/h", "D) 36 km/h"],
+          "answer": "A"
+        },
+        {
+          "qid": 26,
+          "question": "Which of the following is always a vector quantity?",
+          "options": ["A) Relative speed", "B) Relative velocity", "C) Distance", "D) Time"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "If the observer changes, which quantity can also change?",
+          "options": ["A) Length", "B) Relative velocity", "C) Mass", "D) Charge"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "Two objects move perpendicular to each other with equal speeds v. Their relative speed is:",
+          "options": ["A) v", "B) √2 v", "C) 2v", "D) v/2"],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "Relative velocity is useful for solving problems involving:",
+          "options": ["A) Boats and rivers", "B) Trains", "C) Rain", "D) All of these"],
+          "answer": "D"
+        },
+        {
+          "qid": 30,
+          "question": "The SI unit of relative velocity is:",
+          "options": ["A) km/h", "B) m/s", "C) N", "D) m"],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "name": "Scalar (Dot) Product & Vector (Cross) Product",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "The angle between two vectors is 60°. If |A⃗|=4 and |B⃗|=5, then A⃗⋅B⃗ is:",
+          "options": ["A) 10", "B) 20", "C) 15", "D) 8"],
+          "answer": "A"
+        },
+        {
+          "qid": 2,
+          "question": "Two vectors are perpendicular. Their dot product is:",
+          "options": ["A) Maximum", "B) Zero", "C) One", "D) Equal to product of magnitudes"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "Two vectors are parallel in the same direction. Their dot product is:",
+          "options": ["A) Zero", "B) Negative", "C) Maximum", "D) One"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "If A⃗⋅B⃗=0, then the vectors are:",
+          "options": ["A) Parallel", "B) Perpendicular", "C) Equal", "D) Opposite"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "The angle between vectors whose dot product is negative lies between:",
+          "options": ["A) 0° and 90°", "B) 90° and 180°", "C) 0°", "D) 180°"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "The cross product of two parallel vectors is:",
+          "options": ["A) Zero", "B) One", "C) Maximum", "D) Negative"],
+          "answer": "A"
+        },
+        {
+          "qid": 7,
+          "question": "The magnitude of A⃗×B⃗ is maximum when the angle between them is:",
+          "options": ["A) 0°", "B) 30°", "C) 60°", "D) 90°"],
+          "answer": "D"
+        },
+        {
+          "qid": 8,
+          "question": "If |A⃗|=3, |B⃗|=4, and the angle is 90°, then |A⃗×B⃗| equals:",
+          "options": ["A) 7", "B) 12", "C) 1", "D) 0"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "The dot product of a vector with itself is:",
+          "options": ["A) 0", "B) |A|²", "C) |A|", "D) 1"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "The cross product of a vector with itself is:",
+          "options": ["A) 0", "B) 1", "C) |A|²", "D) |A|"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "Work done by a constant force is calculated using:",
+          "options": ["A) Cross product", "B) Dot product", "C) Scalar multiplication", "D) Vector addition"],
+          "answer": "B"
+        },
+        {
+          "qid": 12,
+          "question": "Torque is obtained by:",
+          "options": ["A) Dot product", "B) Cross product", "C) Vector subtraction", "D) Scalar addition"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "The value of î⋅î is:",
+          "options": ["A) 0", "B) 1", "C) –1", "D) 2"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "The value of î⋅ĵ is:",
+          "options": ["A) 1", "B) –1", "C) 0", "D) 2"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "The value of î×ĵ is:",
+          "options": ["A) k̂", "B) −k̂", "C) 0", "D) î"],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "The value of ĵ×î is:",
+          "options": ["A) k̂", "B) −k̂", "C) î", "D) 0"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "The value of ĵ×k̂ is:",
+          "options": ["A) î", "B) −î", "C) ĵ", "D) k̂"],
+          "answer": "A"
+        },
+        {
+          "qid": 18,
+          "question": "The value of k̂×î is:",
+          "options": ["A) ĵ", "B) −ĵ", "C) î", "D) k̂"],
+          "answer": "A"
+        },
+        {
+          "qid": 19,
+          "question": "If |A⃗|=5, |B⃗|=6, and the angle between them is 0°, then A⃗⋅B⃗ equals:",
+          "options": ["A) 0", "B) 30", "C) 11", "D) 1"],
+          "answer": "B"
+        },
+        {
+          "qid": 20,
+          "question": "If the angle between two vectors is 180°, then their dot product is:",
+          "options": ["A) Positive maximum", "B) Zero", "C) Negative maximum", "D) One"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "Which operation is commutative?",
+          "options": ["A) Dot product", "B) Cross product", "C) Neither", "D) Both"],
+          "answer": "A"
+        },
+        {
+          "qid": 22,
+          "question": "Which operation is anti-commutative?",
+          "options": ["A) Dot product", "B) Cross product", "C) Addition", "D) Scalar multiplication"],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "If |A⃗|=2, |B⃗|=5, and the angle is 30°, then A⃗⋅B⃗ is:",
+          "options": ["A) 5√3", "B) 10", "C) 5", "D) 10√3"],
+          "answer": "A"
+        },
+        {
+          "qid": 24,
+          "question": "If |A⃗|=3, |B⃗|=4, and the angle is 30°, then |A⃗×B⃗| equals:",
+          "options": ["A) 6", "B) 12", "C) 6√3", "D) 3"],
+          "answer": "A"
+        },
+        {
+          "qid": 25,
+          "question": "Which physical quantity is a scalar?",
+          "options": ["A) Momentum", "B) Velocity", "C) Work", "D) Force"],
+          "answer": "C"
+        },
+        {
+          "qid": 26,
+          "question": "Which physical quantity is a vector?",
+          "options": ["A) Energy", "B) Work", "C) Torque", "D) Power"],
+          "answer": "C"
+        },
+        {
+          "qid": 27,
+          "question": "If A⃗ is perpendicular to B⃗, then:",
+          "options": ["A) A⃗×B⃗=0", "B) A⃗⋅B⃗=0", "C) Both are zero", "D) Neither is zero"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "If two vectors are parallel, then:",
+          "options": ["A) Dot product is zero", "B) Cross product is zero", "C) Both are zero", "D) Neither is zero"],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "The direction of A⃗×B⃗ is determined by:",
+          "options": ["A) Fleming's Left-Hand Rule", "B) Right-Hand Rule", "C) Newton's First Law", "D) Triangle Law"],
+          "answer": "B"
+        },
+        {
+          "qid": 30,
+          "question": "Which statement is correct?",
+          "options": ["A) Dot product gives a scalar and cross product gives a vector.", "B) Dot product gives a vector and cross product gives a scalar.", "C) Both give vectors.", "D) Both give scalars."],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Motion in a Plane",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "A particle has velocity components 6 m/s along x-axis and 8 m/s along y-axis. Its resultant velocity is:",
+          "options": ["A) 10 m/s", "B) 12 m/s", "C) 14 m/s", "D) 2 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 2,
+          "question": "The direction of the velocity in Question 1 with the x-axis is:",
+          "options": ["A) 37°", "B) 45°", "C) 53°", "D) 60°"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "A particle moves with constant velocity in a plane. Its acceleration is:",
+          "options": ["A) Constant", "B) Zero", "C) Increasing", "D) Decreasing"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "A particle has velocity (3î + 4ĵ) m/s. The magnitude of its velocity is:",
+          "options": ["A) 3 m/s", "B) 4 m/s", "C) 5 m/s", "D) 7 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "A particle has acceleration components 4 m/s² and 3 m/s². The magnitude of acceleration is:",
+          "options": ["A) 7", "B) 5", "C) 1", "D) 12"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "If the x-component of velocity is zero, the particle moves:",
+          "options": ["A) Along x-axis", "B) Along y-axis", "C) In a circle", "D) Randomly"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "The motion along x-axis and y-axis in two-dimensional motion are:",
+          "options": ["A) Dependent", "B) Independent", "C) Always equal", "D) Opposite"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "A particle moves from (2,1) m to (8,9) m. The magnitude of displacement is:",
+          "options": ["A) 6 m", "B) 8 m", "C) 10 m", "D) 12 m"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "The displacement vector in Question 8 is:",
+          "options": ["A) 6î + 8ĵ", "B) 8î + 9ĵ", "C) 2î + 1ĵ", "D) 10î + 10ĵ"],
+          "answer": "A"
+        },
+        {
+          "qid": 10,
+          "question": "A particle moves such that its x-component of velocity is constant while the y-component changes uniformly. The path is:",
+          "options": ["A) Straight line", "B) Circle", "C) Parabola", "D) Ellipse"],
+          "answer": "C"
+        },
+        {
+          "qid": 11,
+          "question": "The resultant of two perpendicular velocities of 5 m/s and 12 m/s is:",
+          "options": ["A) 13 m/s", "B) 17 m/s", "C) 7 m/s", "D) 60 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 12,
+          "question": "If the x-component of velocity doubles while the y-component remains unchanged, the resultant velocity:",
+          "options": ["A) Increases", "B) Decreases", "C) Becomes zero", "D) Remains constant"],
+          "answer": "A"
+        },
+        {
+          "qid": 13,
+          "question": "Which graph gives velocity from displacement-time data?",
+          "options": ["A) Area under graph", "B) Slope of graph", "C) Intercept", "D) Curvature only"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "The area under the acceleration-time graph gives:",
+          "options": ["A) Velocity", "B) Distance", "C) Force", "D) Power"],
+          "answer": "A"
+        },
+        {
+          "qid": 15,
+          "question": "A particle moves with velocity (8î + 6ĵ) m/s. Its speed is:",
+          "options": ["A) 10 m/s", "B) 14 m/s", "C) 8 m/s", "D) 6 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "If two vectors are perpendicular, the magnitude of their resultant is:",
+          "options": ["A) Sum of magnitudes", "B) Difference of magnitudes", "C) √(A²+B²)", "D) Zero"],
+          "answer": "C"
+        },
+        {
+          "qid": 17,
+          "question": "A particle moves with constant speed but changing direction. Its acceleration is:",
+          "options": ["A) Zero", "B) Non-zero", "C) Infinite", "D) Constant in direction"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "Which quantity changes when only the direction of motion changes?",
+          "options": ["A) Speed", "B) Velocity", "C) Distance", "D) Time"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "If the x-component of velocity is 12 m/s and the resultant velocity is 13 m/s, the y-component is:",
+          "options": ["A) 1 m/s", "B) 5 m/s", "C) 7 m/s", "D) 25 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 20,
+          "question": "A vector has components 5î and 12ĵ. Its magnitude is:",
+          "options": ["A) 13", "B) 17", "C) 7", "D) 60"],
+          "answer": "A"
+        },
+        {
+          "qid": 21,
+          "question": "Which mathematical theorem is commonly used to calculate the resultant of perpendicular vectors?",
+          "options": ["A) Binomial theorem", "B) Pythagoras theorem", "C) Newton's theorem", "D) Gauss theorem"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "Which of the following is always true for plane motion?",
+          "options": ["A) Velocity is scalar.", "B) Motion can be resolved into perpendicular components.", "C) Speed is always constant.", "D) Acceleration is always zero."],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "A particle moves with acceleration only along the y-axis. The x-component of velocity:",
+          "options": ["A) Changes uniformly", "B) Remains constant", "C) Becomes zero", "D) Increases exponentially"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "A particle moves along a curved path. Which quantity must change?",
+          "options": ["A) Speed only", "B) Direction of velocity", "C) Mass", "D) Time"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "The position vector of a particle is (4î + 3ĵ) m. The distance of the particle from the origin is:",
+          "options": ["A) 5 m", "B) 7 m", "C) 12 m", "D) 1 m"],
+          "answer": "A"
+        },
+        {
+          "qid": 26,
+          "question": "The angle made by a vector (3î + 3ĵ) with the x-axis is:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "If the x-component of velocity is negative, the particle moves toward:",
+          "options": ["A) Positive x-axis", "B) Negative x-axis", "C) Positive y-axis", "D) Negative y-axis"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "The resultant of vectors 8î and 6ĵ has magnitude:",
+          "options": ["A) 10", "B) 12", "C) 14", "D) 48"],
+          "answer": "A"
+        },
+        {
+          "qid": 29,
+          "question": "A particle moving in a plane can have:",
+          "options": ["A) Only one velocity component", "B) Two independent velocity components", "C) Three velocity components", "D) No velocity components"],
+          "answer": "B"
+        },
+        {
+          "qid": 30,
+          "question": "Which concept forms the basis for analyzing motion in a plane?",
+          "options": ["A) Vector resolution into perpendicular components", "B) Scalar multiplication only", "C) Integration only", "D) Dimensional analysis only"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Projectile Motion",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "A projectile is launched with speed 20 m/s at an angle of 30°. The horizontal component of velocity is:",
+          "options": ["A) 10 m/s", "B) 10√3 m/s", "C) 20 m/s", "D) 20√3 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The vertical component of the velocity in Question 1 is:",
+          "options": ["A) 20 m/s", "B) 10√3 m/s", "C) 10 m/s", "D) 5 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "At the highest point of projectile motion:",
+          "options": ["A) Both horizontal and vertical velocities are zero.", "B) Horizontal velocity is zero.", "C) Vertical velocity is zero.", "D) Acceleration is zero."],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "A projectile is fired with speed u. Which quantity remains constant throughout the motion (neglect air resistance)?",
+          "options": ["A) Vertical velocity", "B) Horizontal velocity", "C) Resultant velocity", "D) Kinetic energy"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "The acceleration of a projectile is:",
+          "options": ["A) Zero", "B) g downward throughout the motion", "C) Horizontal", "D) Variable"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "The time of flight of a projectile depends on:",
+          "options": ["A) Horizontal component only", "B) Vertical component only", "C) Mass", "D) Range"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "Which angle of projection gives the maximum horizontal range on level ground?",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "Two projectiles are projected with the same speed at angles 30° and 60°. Their horizontal ranges are:",
+          "options": ["A) Equal", "B) Different", "C) One is double the other", "D) Zero"],
+          "answer": "A"
+        },
+        {
+          "qid": 9,
+          "question": "The trajectory of a projectile is:",
+          "options": ["A) Circular", "B) Straight line", "C) Parabola", "D) Ellipse"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "A projectile is projected vertically upward. Its horizontal range is:",
+          "options": ["A) Maximum", "B) Zero", "C) Equal to maximum height", "D) Infinite"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "At equal heights during ascent and descent, the speed of the projectile is:",
+          "options": ["A) Same", "B) Different", "C) Zero", "D) Double"],
+          "answer": "A"
+        },
+        {
+          "qid": 12,
+          "question": "At equal heights, the vertical components of velocity are:",
+          "options": ["A) Same in magnitude and direction", "B) Same in magnitude but opposite in direction", "C) Zero", "D) Equal to horizontal velocity"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "Which graph correctly represents vertical velocity versus time?",
+          "options": ["A) Horizontal line", "B) Straight line with negative slope", "C) Parabola", "D) Circle"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "The horizontal velocity-time graph of a projectile is:",
+          "options": ["A) Horizontal line", "B) Straight line with positive slope", "C) Straight line with negative slope", "D) Parabola"],
+          "answer": "A"
+        },
+        {
+          "qid": 15,
+          "question": "A projectile is launched at 45°. At the highest point, its velocity is:",
+          "options": ["A) Zero", "B) Horizontal", "C) Vertical", "D) Inclined at 45°"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "The maximum height of a projectile depends on:",
+          "options": ["A) Horizontal component only", "B) Vertical component only", "C) Mass", "D) Range only"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "Which of the following quantities is independent of the mass of the projectile?",
+          "options": ["A) Time of flight", "B) Maximum height", "C) Horizontal range", "D) All of these"],
+          "answer": "D"
+        },
+        {
+          "qid": 18,
+          "question": "A projectile is projected horizontally from a height. Its initial vertical velocity is:",
+          "options": ["A) Positive", "B) Negative", "C) Zero", "D) Equal to horizontal velocity"],
+          "answer": "C"
+        },
+        {
+          "qid": 19,
+          "question": "If the angle of projection increases from 30° to 45° (same speed), the range:",
+          "options": ["A) Increases", "B) Decreases", "C) Remains same", "D) Becomes zero"],
+          "answer": "A"
+        },
+        {
+          "qid": 20,
+          "question": "If the initial speed is doubled while the angle remains the same, the horizontal range becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) Eight times"],
+          "answer": "B"
+        },
+        {
+          "qid": 21,
+          "question": "During projectile motion, the horizontal displacement is proportional to:",
+          "options": ["A) t", "B) t²", "C) √t", "D) 1/t"],
+          "answer": "A"
+        },
+        {
+          "qid": 22,
+          "question": "The vertical displacement of a projectile varies with:",
+          "options": ["A) t", "B) t²", "C) 1/t", "D) Constant"],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "Which statement is correct?",
+          "options": ["A) Horizontal and vertical motions are independent.", "B) Horizontal motion affects vertical motion.", "C) Vertical motion affects horizontal motion.", "D) Both components are dependent."],
+          "answer": "A"
+        },
+        {
+          "qid": 24,
+          "question": "A ball is thrown horizontally from the top of a building. Neglecting air resistance, the path is:",
+          "options": ["A) Straight line", "B) Circle", "C) Parabola", "D) Ellipse"],
+          "answer": "C"
+        },
+        {
+          "qid": 25,
+          "question": "At the highest point of projectile motion, the acceleration is:",
+          "options": ["A) Zero", "B) Horizontal", "C) Downward with magnitude g", "D) Upward"],
+          "answer": "C"
+        },
+        {
+          "qid": 26,
+          "question": "Which factor does not affect the time of flight on level ground?",
+          "options": ["A) Initial speed", "B) Angle of projection", "C) Acceleration due to gravity", "D) Mass of the projectile"],
+          "answer": "D"
+        },
+        {
+          "qid": 27,
+          "question": "Which factor does not affect the horizontal range (neglecting air resistance)?",
+          "options": ["A) Initial speed", "B) Angle of projection", "C) Mass", "D) Gravity"],
+          "answer": "C"
+        },
+        {
+          "qid": 28,
+          "question": "A projectile is projected at 60°. Compared with the horizontal component, the vertical component is:",
+          "options": ["A) Smaller", "B) Equal", "C) Larger", "D) Zero"],
+          "answer": "C"
+        },
+        {
+          "qid": 29,
+          "question": "For a fixed initial speed, the maximum height is greatest when the angle of projection is:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "D"
+        },
+        {
+          "qid": 30,
+          "question": "Which combination correctly describes projectile motion?",
+          "options": ["A) Uniform horizontal motion + uniformly accelerated vertical motion", "B) Uniformly accelerated motion in both directions", "C) Uniform motion in both directions", "D) Circular motion"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Uniform Circular Motion (UCM)",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "A particle moves in a circle of radius 2 m with a constant speed of 4 m/s. Its centripetal acceleration is:",
+          "options": ["A) 4 m/s²", "B) 8 m/s²", "C) 16 m/s²", "D) 32 m/s²"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The centripetal acceleration of a particle moving with speed v in a circle of radius r is:",
+          "options": ["A) vr", "B) v/r", "C) v²/r", "D) v²r"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "In uniform circular motion, which quantity remains constant?",
+          "options": ["A) Velocity", "B) Speed", "C) Centripetal acceleration vector", "D) Displacement"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "The direction of centripetal acceleration is always:",
+          "options": ["A) Along the tangent", "B) Away from the center", "C) Towards the center", "D) Vertical"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "The velocity of a particle in UCM is always:",
+          "options": ["A) Towards the center", "B) Along the radius", "C) Tangential to the circle", "D) Constant in direction"],
+          "answer": "C"
+        },
+        {
+          "qid": 6,
+          "question": "A particle moves in a circle of radius 5 m with speed 10 m/s. Its centripetal acceleration is:",
+          "options": ["A) 10 m/s²", "B) 20 m/s²", "C) 25 m/s²", "D) 50 m/s²"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "If the speed of a particle is doubled while the radius remains constant, the centripetal acceleration becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) One-fourth"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "If the radius is doubled while the speed remains constant, the centripetal acceleration becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "Angular velocity is related to linear speed by:",
+          "options": ["A) v=ωr", "B) v=ω/r", "C) v=ω+r", "D) v=ωr²"],
+          "answer": "A"
+        },
+        {
+          "qid": 10,
+          "question": "The SI unit of angular velocity is:",
+          "options": ["A) degree/s", "B) rev/s", "C) rad/s", "D) m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 11,
+          "question": "The time taken to complete one revolution is called:",
+          "options": ["A) Frequency", "B) Angular velocity", "C) Period", "D) Phase"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "Frequency is equal to:",
+          "options": ["A) T", "B) 1/T", "C) 2T", "D) T²"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "The relation between angular velocity and time period is:",
+          "options": ["A) ω=2π/T", "B) ω=2πT", "C) ω=T/2π", "D) ω=πT"],
+          "answer": "A"
+        },
+        {
+          "qid": 14,
+          "question": "The relation between angular velocity and frequency is:",
+          "options": ["A) ω=2πf", "B) ω=f", "C) ω=f/2π", "D) ω=f²"],
+          "answer": "A"
+        },
+        {
+          "qid": 15,
+          "question": "A particle completes 5 revolutions per second. Its angular velocity is:",
+          "options": ["A) 5π rad/s", "B) 10π rad/s", "C) 2.5π rad/s", "D) 20π rad/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "A particle has angular velocity 4 rad/s and radius 3 m. Its linear speed is:",
+          "options": ["A) 7 m/s", "B) 12 m/s", "C) 1.33 m/s", "D) 24 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "Which force keeps a body moving in a circular path?",
+          "options": ["A) Centrifugal force", "B) Centripetal force", "C) Gravitational force only", "D) Friction only"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "In UCM, acceleration is:",
+          "options": ["A) Zero", "B) Constant in magnitude but changing in direction", "C) Constant in both magnitude and direction", "D) Variable in magnitude only"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "The direction of centripetal force is:",
+          "options": ["A) Away from the center", "B) Along the tangent", "C) Towards the center", "D) Vertical upward"],
+          "answer": "C"
+        },
+        {
+          "qid": 20,
+          "question": "A stone tied to a string is whirled in a horizontal circle. If the string breaks, the stone moves:",
+          "options": ["A) Towards the center", "B) Away from the center", "C) Along the tangent", "D) In a circle"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "The speed of a particle in UCM is 8 m/s and its radius is 4 m. The angular velocity is:",
+          "options": ["A) 1 rad/s", "B) 2 rad/s", "C) 4 rad/s", "D) 8 rad/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "The acceleration of a body moving in a circle is zero only when:",
+          "options": ["A) Radius is zero", "B) Speed is zero", "C) Angular velocity is zero", "D) Both B and C"],
+          "answer": "D"
+        },
+        {
+          "qid": 23,
+          "question": "Which quantity changes continuously in UCM?",
+          "options": ["A) Speed", "B) Radius", "C) Velocity", "D) Mass"],
+          "answer": "C"
+        },
+        {
+          "qid": 24,
+          "question": "A body moves in a circle with constant speed. The work done by the centripetal force is:",
+          "options": ["A) Positive", "B) Negative", "C) Zero", "D) Maximum"],
+          "answer": "C"
+        },
+        {
+          "qid": 25,
+          "question": "Why does the centripetal force do no work?",
+          "options": ["A) Force is zero", "B) Force is parallel to displacement", "C) Force is perpendicular to instantaneous displacement", "D) Velocity is zero"],
+          "answer": "C"
+        },
+        {
+          "qid": 26,
+          "question": "Which quantity remains unchanged in UCM?",
+          "options": ["A) Velocity vector", "B) Speed", "C) Direction of motion", "D) Acceleration vector"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "A satellite revolving around Earth in a circular orbit is an example of:",
+          "options": ["A) Rectilinear motion", "B) Projectile motion", "C) Uniform circular motion", "D) Oscillatory motion"],
+          "answer": "C"
+        },
+        {
+          "qid": 28,
+          "question": "If the frequency of rotation doubles, the angular velocity becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "One complete revolution corresponds to:",
+          "options": ["A) π radians", "B) 2π radians", "C) 4π radians", "D) 360 radians"],
+          "answer": "B"
+        },
+        {
+          "qid": 30,
+          "question": "Which statement is correct for uniform circular motion?",
+          "options": ["A) Speed is constant but velocity changes continuously.", "B) Both speed and velocity remain constant.", "C) Both speed and acceleration are zero.", "D) Velocity remains constant but speed changes."],
+          "answer": "A"
+        }
+      ]
+    }
+  ],
+  "Hard": [
+    {
+      "name": "Vectors",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "The magnitude of A⃗=3î+4ĵ−12k̂ is:",
+          "options": ["A) 12", "B) 13", "C) 15", "D) 17"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "If A⃗=2î−3ĵ+6k̂, then the unit vector along A⃗ is:",
+          "options": ["A) (2î−3ĵ+6k̂)/7", "B) (2î−3ĵ+6k̂)/49", "C) (2î−3ĵ+6k̂)/6", "D) (2î−3ĵ+6k̂)/9"],
+          "answer": "A"
+        },
+        {
+          "qid": 3,
+          "question": "Two vectors have magnitudes 5 and 12. The maximum possible resultant is:",
+          "options": ["A) 7", "B) 13", "C) 17", "D) 60"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "Two vectors have magnitudes 8 and 5. The minimum resultant is:",
+          "options": ["A) 3", "B) 5", "C) 13", "D) 40"],
+          "answer": "A"
+        },
+        {
+          "qid": 5,
+          "question": "Two vectors each of magnitude 10 have a resultant of 10√3. The angle between them is:",
+          "options": ["A) 30°", "B) 60°", "C) 90°", "D) 120°"],
+          "answer": "D"
+        },
+        {
+          "qid": 6,
+          "question": "The resultant of two vectors is maximum when the angle between them is:",
+          "options": ["A) 0°", "B) 45°", "C) 90°", "D) 180°"],
+          "answer": "A"
+        },
+        {
+          "qid": 7,
+          "question": "The resultant of two equal vectors is equal to either vector. The angle between them is:",
+          "options": ["A) 60°", "B) 90°", "C) 120°", "D) 180°"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "A vector has components (6,8). Its direction with the x-axis is:",
+          "options": ["A) 37°", "B) 53°", "C) 60°", "D) 45°"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "A vector of magnitude 20 makes 30° with the x-axis. Its x-component is:",
+          "options": ["A) 10", "B) 10√3", "C) 20", "D) 20√3"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "The y-component of the same vector is:",
+          "options": ["A) 10", "B) 10√3", "C) 20", "D) 5"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "If A⃗ + B⃗ = 0, then:",
+          "options": ["A) They are perpendicular.", "B) They have equal magnitude and opposite direction.", "C) They are parallel in the same direction.", "D) They have different magnitudes."],
+          "answer": "B"
+        },
+        {
+          "qid": 12,
+          "question": "If A⃗=4î+3ĵ and B⃗=2î−3ĵ, then A⃗+B⃗ equals:",
+          "options": ["A) 6î", "B) 2î+6ĵ", "C) 6î+6ĵ", "D) 2î"],
+          "answer": "A"
+        },
+        {
+          "qid": 13,
+          "question": "The magnitude of A⃗+B⃗ from Question 12 is:",
+          "options": ["A) 6", "B) 5", "C) 3", "D) 9"],
+          "answer": "A"
+        },
+        {
+          "qid": 14,
+          "question": "If A⃗=(3,4) and B⃗=(−3,−4), then:",
+          "options": ["A) Resultant = 5", "B) Resultant = 10", "C) Resultant = 0", "D) Resultant = 2"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "Three vectors of magnitudes 3, 4, and 5 can have zero resultant because:",
+          "options": ["A) They satisfy the triangle law.", "B) They are perpendicular.", "C) They are parallel.", "D) They are equal."],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "Which theorem is used to find the magnitude of the resultant of two perpendicular vectors?",
+          "options": ["A) Newton's theorem", "B) Pythagoras theorem", "C) Gauss theorem", "D) Bernoulli theorem"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "A particle moves from (1,2) to (7,10). The displacement magnitude is:",
+          "options": ["A) 8", "B) 10", "C) 12", "D) 14"],
+          "answer": "B"
+        },
+        {
+          "qid": 18,
+          "question": "The position vector of point (−3,4) is:",
+          "options": ["A) −3î+4ĵ", "B) 3î−4ĵ", "C) 3î+4ĵ", "D) −3î−4ĵ"],
+          "answer": "A"
+        },
+        {
+          "qid": 19,
+          "question": "Which quantity is represented by the slope of the displacement-time graph?",
+          "options": ["A) Speed", "B) Velocity", "C) Acceleration", "D) Force"],
+          "answer": "B"
+        },
+        {
+          "qid": 20,
+          "question": "Area under the acceleration-time graph gives:",
+          "options": ["A) Velocity", "B) Distance", "C) Displacement", "D) Speed"],
+          "answer": "A"
+        },
+        {
+          "qid": 21,
+          "question": "A vector is multiplied by –4. Which statement is true?",
+          "options": ["A) Magnitude becomes one-fourth.", "B) Magnitude becomes four times and direction reverses.", "C) Only direction changes.", "D) Only magnitude changes."],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "If î+ĵ is a vector, its magnitude is:",
+          "options": ["A) 1", "B) 2", "C) 2√2", "D) 0"],
+          "answer": "C"
+        },
+        {
+          "qid": 23,
+          "question": "Which unit vector is perpendicular to î?",
+          "options": ["A) î", "B) ĵ", "C) Both ĵ and k̂", "D) None"],
+          "answer": "C"
+        },
+        {
+          "qid": 24,
+          "question": "The resultant of vectors 6î+8ĵ has magnitude:",
+          "options": ["A) 8", "B) 10", "C) 12", "D) 14"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "If a vector has zero x-component, it is parallel to:",
+          "options": ["A) x-axis", "B) y-axis", "C) z-axis", "D) Origin"],
+          "answer": "B"
+        },
+        {
+          "qid": 26,
+          "question": "The angle made by vector 5î+5ĵ with x-axis is:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "Two vectors of magnitudes 5 and 7 are perpendicular. Their resultant is:",
+          "options": ["A) √74", "B) 12", "C) 2", "D) 35"],
+          "answer": "A"
+        },
+        {
+          "qid": 28,
+          "question": "Which statement is false?",
+          "options": ["A) Every vector has magnitude and direction.", "B) Scalars obey vector addition.", "C) Unit vectors have magnitude one.", "D) Position vector is measured from origin."],
+          "answer": "B"
+        },
+        {
+          "qid": 29,
+          "question": "If a vector makes 90° with the x-axis, its x-component is:",
+          "options": ["A) Maximum", "B) Zero", "C) Equal to y-component", "D) Negative"],
+          "answer": "B"
+        },
+        {
+          "qid": 30,
+          "question": "Which concept is most frequently used in JEE Main vector problems?",
+          "options": ["A) Vector resolution into components", "B) Significant figures", "C) Dimensional analysis", "D) Unit conversion"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Relative Velocity",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "Two cars move east with speeds 30 m/s and 20 m/s. The velocity of the first car relative to the second is:",
+          "options": ["A) 10 m/s east", "B) 10 m/s west", "C) 50 m/s east", "D) 20 m/s east"],
+          "answer": "A"
+        },
+        {
+          "qid": 2,
+          "question": "Two trains move in opposite directions with speeds 72 km/h and 108 km/h. Their relative speed is:",
+          "options": ["A) 36 km/h", "B) 180 km/h", "C) 72 km/h", "D) 108 km/h"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "A man walks inside a train at 4 m/s in the direction of motion. The train moves at 16 m/s. The man's speed relative to the ground is:",
+          "options": ["A) 12 m/s", "B) 20 m/s", "C) 16 m/s", "D) 4 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "A passenger walks at 3 m/s opposite to the motion of a train moving at 15 m/s. His speed relative to the ground is:",
+          "options": ["A) 18 m/s", "B) 12 m/s", "C) 3 m/s", "D) 15 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "A swimmer can swim at 5 m/s in still water. A river flows at 12 m/s. If the swimmer swims perpendicular to the current, the speed relative to the ground is:",
+          "options": ["A) 7 m/s", "B) 13 m/s", "C) 17 m/s", "D) 12 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "In Question 5, the angle of motion with the river flow is closest to:",
+          "options": ["A) 23°", "B) 45°", "C) 67°", "D) 90°"],
+          "answer": "A"
+        },
+        {
+          "qid": 7,
+          "question": "Two particles move at right angles with speeds 6 m/s and 8 m/s. Their relative speed is:",
+          "options": ["A) 2 m/s", "B) 10 m/s", "C) 14 m/s", "D) 48 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "A boat moves due north at 8 m/s in still water. The river flows east at 6 m/s. The speed of the boat relative to the ground is:",
+          "options": ["A) 8 m/s", "B) 10 m/s", "C) 14 m/s", "D) 2 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "The direction of the boat in Question 8 is:",
+          "options": ["A) 37° east of north", "B) 53° east of north", "C) 45°", "D) Due north"],
+          "answer": "A"
+        },
+        {
+          "qid": 10,
+          "question": "A plane flies north at 300 km/h while a wind blows east at 400 km/h. The resultant speed is:",
+          "options": ["A) 500 km/h", "B) 700 km/h", "C) 100 km/h", "D) 350 km/h"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "Two particles move with equal velocities. Their relative velocity is:",
+          "options": ["A) Equal to either velocity", "B) Double the velocity", "C) Zero", "D) Half the velocity"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "If V_AB=0, then:",
+          "options": ["A) A and B are at rest", "B) A and B have equal velocities", "C) A is stationary", "D) B is stationary"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "A train moves east at 20 m/s. Rain falls vertically downward at 15 m/s. The speed of rain relative to the train is:",
+          "options": ["A) 5 m/s", "B) 20 m/s", "C) 25 m/s", "D) 35 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "The rain in Question 13 appears to make an angle with the vertical of:",
+          "options": ["A) 37°", "B) 53°", "C) 45°", "D) 30°"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "A man runs east at 6 m/s while the wind blows north at 8 m/s. The speed of wind relative to the man is:",
+          "options": ["A) 2 m/s", "B) 10 m/s", "C) 14 m/s", "D) 48 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "A river is 100 m wide. A swimmer swims perpendicular to the current with speed 5 m/s. If the current speed is 12 m/s, the time to cross is:",
+          "options": ["A) 8.3 s", "B) 20 s", "C) 10 s", "D) 25 s"],
+          "answer": "B"
+        },
+        {
+          "qid": 17,
+          "question": "The downstream drift in Question 16 is:",
+          "options": ["A) 100 m", "B) 120 m", "C) 240 m", "D) 60 m"],
+          "answer": "C"
+        },
+        {
+          "qid": 18,
+          "question": "A boat moves with speed 10 m/s relative to water. River speed is 6 m/s. To move straight across, the boat must point:",
+          "options": ["A) Upstream", "B) Downstream", "C) Perpendicular to the bank", "D) Along the river"],
+          "answer": "A"
+        },
+        {
+          "qid": 19,
+          "question": "The principle of relative velocity is based on:",
+          "options": ["A) Vector addition/subtraction", "B) Scalar multiplication", "C) Calculus only", "D) Dimensional analysis"],
+          "answer": "A"
+        },
+        {
+          "qid": 20,
+          "question": "Two cyclists ride side by side with the same speed and direction. Relative velocity is:",
+          "options": ["A) Same as speed", "B) Double the speed", "C) Zero", "D) Half the speed"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "A particle A moves east at 10 m/s and particle B moves west at 15 m/s. The velocity of A relative to B is:",
+          "options": ["A) 5 m/s east", "B) 25 m/s east", "C) 25 m/s west", "D) 5 m/s west"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "Which of the following requires the concept of relative velocity?",
+          "options": ["A) Boat crossing a river", "B) Rain and umbrella", "C) Aircraft in wind", "D) All of these"],
+          "answer": "D"
+        },
+        {
+          "qid": 23,
+          "question": "A helicopter flies due north at 150 km/h while wind blows due west at 200 km/h. The resultant direction is:",
+          "options": ["A) North-East", "B) North-West", "C) South-West", "D) East"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "Relative velocity depends on:",
+          "options": ["A) The observer's frame of reference", "B) The mass of the object", "C) Gravity", "D) Density"],
+          "answer": "A"
+        },
+        {
+          "qid": 25,
+          "question": "If two objects move in parallel with speeds v and 2v, their relative speed is:",
+          "options": ["A) v", "B) 2v", "C) 3v", "D) Zero"],
+          "answer": "A"
+        },
+        {
+          "qid": 26,
+          "question": "If two objects move perpendicular to each other with equal speeds v, the relative speed is:",
+          "options": ["A) v", "B) √2 v", "C) 2v", "D) v/2"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "A person standing in a moving bus throws a ball vertically upward. To a person on the ground, the ball follows:",
+          "options": ["A) A straight vertical line", "B) A circular path", "C) A parabolic path", "D) A horizontal line"],
+          "answer": "C"
+        },
+        {
+          "qid": 28,
+          "question": "A plane has an airspeed of 400 km/h due east. Wind blows 300 km/h due north. The ground speed is:",
+          "options": ["A) 500 km/h", "B) 700 km/h", "C) 100 km/h", "D) 350 km/h"],
+          "answer": "A"
+        },
+        {
+          "qid": 29,
+          "question": "A swimmer aims upstream to exactly cancel the river current. This is done to:",
+          "options": ["A) Minimize time", "B) Maximize drift", "C) Reach directly opposite the starting point", "D) Increase speed"],
+          "answer": "C"
+        },
+        {
+          "qid": 30,
+          "question": "Which statement is correct?",
+          "options": ["A) Relative velocity is always less than actual velocity.", "B) Relative velocity can be zero even if both objects are moving.", "C) Relative velocity is always positive.", "D) Relative velocity is a scalar."],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "name": "Scalar (Dot) Product & Vector (Cross) Product",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "If A⃗=3î+4ĵ and B⃗=4î−3ĵ, then A⃗⋅B⃗ is:",
+          "options": ["A) 24", "B) 0", "C) 7", "D) 25"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The angle between the vectors in Question 1 is:",
+          "options": ["A) 30°", "B) 45°", "C) 90°", "D) 180°"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "If |A⃗|=6, |B⃗|=8, and A⃗⋅B⃗=24, the angle between them is:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "If |A⃗|=5, |B⃗|=12, and A⃗×B⃗=60, then the angle between them is:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "D"
+        },
+        {
+          "qid": 5,
+          "question": "If A⃗=2î+3ĵ+k̂, B⃗=î−ĵ+4k̂, then A⃗⋅B⃗ is:",
+          "options": ["A) 3", "B) 5", "C) 7", "D) 9"],
+          "answer": "A"
+        },
+        {
+          "qid": 6,
+          "question": "The magnitude of A⃗×B⃗ for Question 5 is:",
+          "options": ["A) 7√3", "B) 3√10", "C) 9√2", "D) 5√5"],
+          "answer": "A"
+        },
+        {
+          "qid": 7,
+          "question": "If A⃗⋅B⃗=|A⃗||B⃗|, then the vectors are:",
+          "options": ["A) Perpendicular", "B) Parallel in the same direction", "C) Opposite", "D) Cannot be determined"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "If A⃗×B⃗=0, then:",
+          "options": ["A) Vectors are perpendicular", "B) Vectors are parallel or antiparallel", "C) One vector must be zero only", "D) Both vectors are unit vectors"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "The value of (î+ĵ)⋅(î−ĵ) is:",
+          "options": ["A) 2", "B) 0", "C) -2", "D) 1"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "The magnitude of (î+ĵ)×(î−ĵ) is:",
+          "options": ["A) 1", "B) 2", "C) 2√2", "D) 4"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "If A⃗=(4,3), B⃗=(−3,4), then:",
+          "options": ["A) Dot product = 0", "B) Cross product = 0", "C) Both zero", "D) None"],
+          "answer": "A"
+        },
+        {
+          "qid": 12,
+          "question": "The area of the parallelogram formed by vectors (3,4) and (4,−3) is:",
+          "options": ["A) 12", "B) 24", "C) 25", "D) 7"],
+          "answer": "C"
+        },
+        {
+          "qid": 13,
+          "question": "The area of the triangle formed in Question 12 is:",
+          "options": ["A) 12.5", "B) 25", "C) 50", "D) 7"],
+          "answer": "A"
+        },
+        {
+          "qid": 14,
+          "question": "If A⃗⋅B⃗=0 and |A⃗|=|B⃗|, the angle between them is:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "D"
+        },
+        {
+          "qid": 15,
+          "question": "Work done is maximum when force and displacement are:",
+          "options": ["A) Parallel", "B) Perpendicular", "C) Opposite", "D) At 45°"],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "Work done is zero when the angle between force and displacement is:",
+          "options": ["A) 0°", "B) 30°", "C) 90°", "D) 180°"],
+          "answer": "C"
+        },
+        {
+          "qid": 17,
+          "question": "Torque is maximum when force acts:",
+          "options": ["A) Along the radius", "B) At 45°", "C) Perpendicular to the radius", "D) Opposite to the radius"],
+          "answer": "C"
+        },
+        {
+          "qid": 18,
+          "question": "If î×ĵ + ĵ×k̂ + k̂×î =",
+          "options": ["A) 0", "B) î+ĵ+k̂", "C) −î−ĵ−k̂", "D) 2k̂"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "Which identity is correct?",
+          "options": ["A) î×î=1", "B) î⋅î=0", "C) î×î=0", "D) î⋅ĵ=1"],
+          "answer": "C"
+        },
+        {
+          "qid": 20,
+          "question": "The value of (î+ĵ+k̂)⋅(î+ĵ+k̂) is:",
+          "options": ["A) 1", "B) 2", "C) 3", "D) 3√3"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "If A⃗⋅B⃗=20, |A⃗|=5, |B⃗|=8, then cosθ=",
+          "options": ["A) 0.25", "B) 0.5", "C) 0.75", "D) 1"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "If the angle between two vectors decreases, the dot product generally:",
+          "options": ["A) Decreases", "B) Increases", "C) Becomes zero", "D) Remains constant"],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "The cross product of two unit vectors inclined at 30° has magnitude:",
+          "options": ["A) 1", "B) 0.5", "C) 3√3", "D) 2√2"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "If A⃗×B⃗ is maximum, then:",
+          "options": ["A) Dot product is also maximum", "B) Angle is 90°", "C) Angle is 0°", "D) Angle is 180°"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "Which operation is not commutative?",
+          "options": ["A) Dot product", "B) Cross product", "C) Vector addition", "D) Scalar multiplication"],
+          "answer": "B"
+        },
+        {
+          "qid": 26,
+          "question": "The direction of A⃗×B⃗ is obtained by:",
+          "options": ["A) Left-hand rule", "B) Right-hand rule", "C) Fleming's left-hand rule", "D) Newton's law"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "If two vectors are antiparallel, their cross product is:",
+          "options": ["A) Maximum", "B) Zero", "C) One", "D) Negative"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "Which physical quantity is obtained using the vector product?",
+          "options": ["A) Power", "B) Energy", "C) Torque", "D) Work"],
+          "answer": "C"
+        },
+        {
+          "qid": 29,
+          "question": "Which physical quantity is obtained using the scalar product?",
+          "options": ["A) Angular momentum", "B) Torque", "C) Work", "D) Magnetic force"],
+          "answer": "C"
+        },
+        {
+          "qid": 30,
+          "question": "If |A⃗|=4, |B⃗|=3, and the angle between them is 90°, then |A⃗+B⃗| is:",
+          "options": ["A) 5", "B) 7", "C) 1", "D) 12"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Motion in a Plane",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "A particle has velocity v⃗=(6î+8ĵ) m/s. Its speed is:",
+          "options": ["A) 8 m/s", "B) 10 m/s", "C) 12 m/s", "D) 14 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The angle made by the velocity vector in Question 1 with the positive x-axis is:",
+          "options": ["A) 37°", "B) 45°", "C) 53°", "D) 60°"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "A particle has acceleration a⃗=(3î+4ĵ) m/s². The magnitude of acceleration is:",
+          "options": ["A) 3", "B) 4", "C) 5", "D) 7"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "The position of a particle is r⃗=(4t)î+(3t²)ĵ. The velocity at t=2 s is:",
+          "options": ["A) 4î+6ĵ", "B) 4î+12ĵ", "C) 8î+12ĵ", "D) 8î+6ĵ"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "For the particle in Question 4, the acceleration is:",
+          "options": ["A) 6ĵ", "B) 3ĵ", "C) 12ĵ", "D) Zero"],
+          "answer": "A"
+        },
+        {
+          "qid": 6,
+          "question": "A particle moves according to x=2t, y=3t. The path is:",
+          "options": ["A) Circle", "B) Parabola", "C) Straight line", "D) Ellipse"],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "A particle moves as x=4t, y=t². The trajectory is:",
+          "options": ["A) Straight line", "B) Circle", "C) Parabola", "D) Hyperbola"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "The position vector of a particle is (3î+4ĵ) m. Its distance from the origin is:",
+          "options": ["A) 3 m", "B) 4 m", "C) 5 m", "D) 7 m"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "A particle moves from (2,3) to (8,11). The displacement magnitude is:",
+          "options": ["A) 8 m", "B) 10 m", "C) 12 m", "D) 14 m"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "A particle has velocity components 12 m/s and 5 m/s. The resultant velocity is:",
+          "options": ["A) 13 m/s", "B) 17 m/s", "C) 7 m/s", "D) 60 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "The direction of the velocity in Question 10 with the x-axis is:",
+          "options": ["A) 22.6°", "B) 45°", "C) 67.4°", "D) 30°"],
+          "answer": "A"
+        },
+        {
+          "qid": 12,
+          "question": "If only the direction of velocity changes while its magnitude remains constant, then:",
+          "options": ["A) Acceleration is zero.", "B) Acceleration is non-zero.", "C) Speed changes.", "D) Motion becomes linear."],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "The slope of a velocity-time graph represents:",
+          "options": ["A) Speed", "B) Acceleration", "C) Displacement", "D) Force"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "The area under an acceleration-time graph gives:",
+          "options": ["A) Distance", "B) Velocity change", "C) Acceleration", "D) Force"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "A particle has v⃗=(8î+15ĵ) m/s. Its speed is:",
+          "options": ["A) 17 m/s", "B) 23 m/s", "C) 7 m/s", "D) 15 m/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 16,
+          "question": "If the x-component of velocity is constant and the y-component increases uniformly, the trajectory is:",
+          "options": ["A) Straight line", "B) Circle", "C) Parabola", "D) Ellipse"],
+          "answer": "C"
+        },
+        {
+          "qid": 17,
+          "question": "Which quantity is independent in two-dimensional motion?",
+          "options": ["A) x and y motions", "B) Speed and time", "C) Force and mass", "D) Work and energy"],
+          "answer": "A"
+        },
+        {
+          "qid": 18,
+          "question": "A particle has position vector (6î+8ĵ) m. The unit vector along its position vector is:",
+          "options": ["A) 0.6î+0.8ĵ", "B) 0.8î+0.6ĵ", "C) 6î+8ĵ", "D) î+ĵ"],
+          "answer": "A"
+        },
+        {
+          "qid": 19,
+          "question": "A particle moves in a curved path with constant speed. Which quantity definitely changes?",
+          "options": ["A) Mass", "B) Velocity", "C) Distance", "D) Time"],
+          "answer": "B"
+        },
+        {
+          "qid": 20,
+          "question": "If velocity is zero at an instant, acceleration:",
+          "options": ["A) Must also be zero", "B) Must be infinite", "C) May or may not be zero", "D) Is always opposite to velocity"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "The magnitude of the resultant of vectors 9î and 12ĵ is:",
+          "options": ["A) 15", "B) 18", "C) 21", "D) 24"],
+          "answer": "A"
+        },
+        {
+          "qid": 22,
+          "question": "A particle starts from the origin. After moving 3 m east and 4 m north, its displacement is:",
+          "options": ["A) 7 m", "B) 5 m", "C) 1 m", "D) 12 m"],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "Which theorem is most frequently used in plane-motion vector calculations?",
+          "options": ["A) Gauss theorem", "B) Pythagoras theorem", "C) Bernoulli theorem", "D) Pascal theorem"],
+          "answer": "B"
+        },
+        {
+          "qid": 24,
+          "question": "The direction of the resultant vector is determined by:",
+          "options": ["A) Vector addition", "B) Scalar multiplication", "C) Dimensional analysis", "D) Unit conversion"],
+          "answer": "A"
+        },
+        {
+          "qid": 25,
+          "question": "A particle has acceleration only along the y-axis. Then:",
+          "options": ["A) The x-component of velocity remains constant.", "B) The x-component increases.", "C) The x-component decreases.", "D) Both components change equally."],
+          "answer": "A"
+        },
+        {
+          "qid": 26,
+          "question": "If a particle moves with constant acceleration, its velocity-time graph is:",
+          "options": ["A) Hyperbola", "B) Straight line", "C) Circle", "D) Ellipse"],
+          "answer": "B"
+        },
+        {
+          "qid": 27,
+          "question": "Which of the following represents uniformly accelerated motion?",
+          "options": ["A) Linear velocity-time graph", "B) Horizontal acceleration-time graph", "C) Both A and B", "D) None of these"],
+          "answer": "C"
+        },
+        {
+          "qid": 28,
+          "question": "A particle moves in a plane. The x- and y-components of acceleration are 6 m/s² and 8 m/s². The resultant acceleration is:",
+          "options": ["A) 10 m/s²", "B) 14 m/s²", "C) 2 m/s²", "D) 48 m/s²"],
+          "answer": "A"
+        },
+        {
+          "qid": 29,
+          "question": "A particle's position is given by: r⃗=(2t²)î+(4t)ĵ. The velocity at t=1 s is:",
+          "options": ["A) 2î+4ĵ", "B) 4î+4ĵ", "C) 8î+4ĵ", "D) 4î+8ĵ"],
+          "answer": "B"
+        },
+        {
+          "qid": 30,
+          "question": "A particle moves such that x=t, y=t². The equation of the path is:",
+          "options": ["A) y=x", "B) y=x²", "C) x=y²", "D) x²+y²=1"],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "name": "Projectile Motion",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "A projectile is launched with speed 20 m/s at 30°. Its time of flight is:",
+          "options": ["A) 1 s", "B) 2 s", "C) 3 s", "D) 4 s"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The horizontal range of the projectile in Question 1 is:",
+          "options": ["A) 20√3 m", "B) 40√3 m", "C) 60√3 m", "D) 80√3 m"],
+          "answer": "A"
+        },
+        {
+          "qid": 3,
+          "question": "The maximum height reached is:",
+          "options": ["A) 2.5 m", "B) 5 m", "C) 10 m", "D) 20 m"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "A projectile is fired at 40 m/s at 45°. The horizontal range is:",
+          "options": ["A) 80 m", "B) 120 m", "C) 160 m", "D) 200 m"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "A projectile is fired at 30° and 60° with the same speed. Their ranges are:",
+          "options": ["A) Equal", "B) Ratio 1:2", "C) Ratio 2:1", "D) Cannot be determined"],
+          "answer": "A"
+        },
+        {
+          "qid": 6,
+          "question": "The ratio of maximum heights for the projectiles in Question 5 is:",
+          "options": ["A) 1 : 1", "B) 1 : 2", "C) 1 : 3", "D) 1 : 9"],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "A projectile has horizontal velocity 15 m/s and vertical velocity 20 m/s initially. The angle of projection is:",
+          "options": ["A) 37°", "B) 45°", "C) 53°", "D) 60°"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "The initial speed in Question 7 is:",
+          "options": ["A) 20 m/s", "B) 25 m/s", "C) 30 m/s", "D) 35 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "At the highest point of projectile motion:",
+          "options": ["A) Speed is zero", "B) Vertical velocity is zero", "C) Acceleration is zero", "D) Horizontal velocity is zero"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "A projectile is launched horizontally from a height of 45 m with speed 20 m/s. Time to hit the ground is:",
+          "options": ["A) 2 s", "B) 3 s", "C) 4 s", "D) 5 s"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "The horizontal distance travelled before hitting the ground is:",
+          "options": ["A) 40 m", "B) 50 m", "C) 60 m", "D) 80 m"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "A ball is projected with speed u. If the speed becomes 2u, the maximum height becomes:",
+          "options": ["A) Double", "B) Four times", "C) Eight times", "D) Half"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "If the speed becomes 2u, the range becomes:",
+          "options": ["A) Double", "B) Four times", "C) Eight times", "D) Half"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "The angle of projection for maximum height (fixed speed) is:",
+          "options": ["A) 45°", "B) 60°", "C) 75°", "D) 90°"],
+          "answer": "D"
+        },
+        {
+          "qid": 15,
+          "question": "The angle for maximum range is:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "A projectile is projected at 45°. At one instant, its velocity makes an angle of 30° below the horizontal. Which statement is true?",
+          "options": ["A) Projectile is ascending", "B) Projectile is at highest point", "C) Projectile is descending", "D) Impossible"],
+          "answer": "C"
+        },
+        {
+          "qid": 17,
+          "question": "A projectile returns to the same level. At equal heights during ascent and descent:",
+          "options": ["A) Speeds are equal", "B) Horizontal velocities differ", "C) Vertical velocities are equal in direction", "D) Accelerations differ"],
+          "answer": "A"
+        },
+        {
+          "qid": 18,
+          "question": "The vertical components of velocity at equal heights are:",
+          "options": ["A) Equal", "B) Equal in magnitude but opposite in sign", "C) Zero", "D) Double"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "A projectile is fired with speed 50 m/s at 37°. (Take sin37°=3/5, cos37°=4/5). Time of flight is:",
+          "options": ["A) 4 s", "B) 5 s", "C) 6 s", "D) 8 s"],
+          "answer": "C"
+        },
+        {
+          "qid": 20,
+          "question": "The horizontal range is:",
+          "options": ["A) 120 m", "B) 180 m", "C) 240 m", "D) 300 m"],
+          "answer": "C"
+        },
+        {
+          "qid": 21,
+          "question": "The maximum height is:",
+          "options": ["A) 30 m", "B) 45 m", "C) 60 m", "D) 75 m"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "A projectile crosses the highest point after:",
+          "options": ["A) T/4", "B) T/2", "C) T/3", "D) 2T/3"],
+          "answer": "B"
+        },
+        {
+          "qid": 23,
+          "question": "Which quantity remains constant throughout projectile motion (neglect air resistance)?",
+          "options": ["A) Velocity", "B) Vertical velocity", "C) Horizontal velocity", "D) Acceleration magnitude and direction"],
+          "answer": "D"
+        },
+        {
+          "qid": 24,
+          "question": "A projectile is fired at 45°. At the highest point its kinetic energy is:",
+          "options": ["A) Zero", "B) Half the initial kinetic energy", "C) One-fourth the initial kinetic energy", "D) Equal to the initial kinetic energy"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "A projectile has a range of 80 m. The maximum possible height (same speed) would occur if projected at:",
+          "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+          "answer": "D"
+        },
+        {
+          "qid": 26,
+          "question": "The equation of the trajectory is a:",
+          "options": ["A) Circle", "B) Hyperbola", "C) Parabola", "D) Straight line"],
+          "answer": "C"
+        },
+        {
+          "qid": 27,
+          "question": "If gravity suddenly becomes 2g, the time of flight becomes:",
+          "options": ["A) Double", "B) Half", "C) 1/√2 times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "Under the same condition, the horizontal range becomes:",
+          "options": ["A) Half", "B) Double", "C) Unchanged", "D) Four times"],
+          "answer": "A"
+        },
+        {
+          "qid": 29,
+          "question": "During projectile motion:",
+          "options": ["A) Horizontal acceleration exists", "B) Vertical acceleration equals g", "C) Both accelerations are zero", "D) Horizontal acceleration equals g"],
+          "answer": "B"
+        },
+        {
+          "qid": 30,
+          "question": "Which of the following best describes projectile motion?",
+          "options": ["A) Uniform motion only", "B) Uniformly accelerated motion only", "C) Combination of uniform horizontal motion and uniformly accelerated vertical motion", "D) Circular motion"],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "Uniform Circular Motion (UCM)",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "A particle moves in a circle of radius 2 m with speed 10 m/s. The centripetal acceleration is:",
+          "options": ["A) 20 m/s²", "B) 50 m/s²", "C) 100 m/s²", "D) 200 m/s²"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "A particle moves in a circle of radius 5 m with angular velocity 4 rad/s. Its linear speed is:",
+          "options": ["A) 10 m/s", "B) 15 m/s", "C) 20 m/s", "D) 25 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "The centripetal acceleration in Question 2 is:",
+          "options": ["A) 40 m/s²", "B) 60 m/s²", "C) 80 m/s²", "D) 100 m/s²"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "A wheel rotates at 5 revolutions per second. Its angular velocity is:",
+          "options": ["A) 5π rad/s", "B) 10π rad/s", "C) 20π rad/s", "D) 2π rad/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "The time period corresponding to Question 4 is:",
+          "options": ["A) 0.1 s", "B) 0.2 s", "C) 0.5 s", "D) 1 s"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "A particle completes one revolution in 4 s. Its angular velocity is:",
+          "options": ["A) π/2 rad/s", "B) π rad/s", "C) 2π rad/s", "D) 4π rad/s"],
+          "answer": "A"
+        },
+        {
+          "qid": 7,
+          "question": "If the speed of a particle is doubled while the radius remains constant, the centripetal force becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) One-fourth"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "If the radius is doubled while the speed remains constant, the centripetal force becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "The direction of centripetal acceleration is always:",
+          "options": ["A) Along the tangent", "B) Away from the center", "C) Towards the center", "D) Along the velocity"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "The direction of instantaneous velocity is:",
+          "options": ["A) Towards the center", "B) Along the tangent", "C) Away from the center", "D) Along the diameter"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "A stone tied to a string is moving in a circle. If the string breaks, the stone moves:",
+          "options": ["A) Towards the center", "B) Away from the center", "C) Along the tangent", "D) Vertically downward"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "The work done by centripetal force in one complete revolution is:",
+          "options": ["A) Positive", "B) Negative", "C) Zero", "D) Maximum"],
+          "answer": "C"
+        },
+        {
+          "qid": 13,
+          "question": "The reason for the answer to Question 12 is:",
+          "options": ["A) Force is zero", "B) Force is perpendicular to displacement at every instant", "C) Velocity is zero", "D) Radius is constant"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "A particle moves with constant speed in a circle. Which quantity changes continuously?",
+          "options": ["A) Speed", "B) Radius", "C) Velocity", "D) Mass"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "A particle has frequency 8 Hz. Its angular velocity is:",
+          "options": ["A) 8π rad/s", "B) 16π rad/s", "C) 4π rad/s", "D) 2π rad/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 16,
+          "question": "If frequency doubles, angular velocity:",
+          "options": ["A) Doubles", "B) Becomes four times", "C) Becomes half", "D) Remains constant"],
+          "answer": "A"
+        },
+        {
+          "qid": 17,
+          "question": "A particle has angular velocity 5 rad/s and radius 2 m. The linear speed is:",
+          "options": ["A) 5 m/s", "B) 7 m/s", "C) 10 m/s", "D) 20 m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 18,
+          "question": "Which of the following remains constant in UCM?",
+          "options": ["A) Velocity", "B) Speed", "C) Acceleration vector", "D) Centripetal force vector"],
+          "answer": "B"
+        },
+        {
+          "qid": 19,
+          "question": "The SI unit of angular velocity is:",
+          "options": ["A) degree/s", "B) rev/s", "C) rad/s", "D) m/s"],
+          "answer": "C"
+        },
+        {
+          "qid": 20,
+          "question": "The relation between frequency and time period is:",
+          "options": ["A) f=T", "B) f=1/T", "C) T=2f", "D) T=f²"],
+          "answer": "B"
+        },
+        {
+          "qid": 21,
+          "question": "The relation between angular velocity and frequency is:",
+          "options": ["A) ω=f", "B) ω=2πf", "C) ω=πf", "D) ω=f/2π"],
+          "answer": "B"
+        },
+        {
+          "qid": 22,
+          "question": "A body moves in a circle of radius 4 m with speed 8 m/s. The centripetal acceleration is:",
+          "options": ["A) 8 m/s²", "B) 12 m/s²", "C) 16 m/s²", "D) 20 m/s²"],
+          "answer": "C"
+        },
+        {
+          "qid": 23,
+          "question": "A body revolves in a circle of radius 7 m with angular velocity 2 rad/s. Its centripetal acceleration is:",
+          "options": ["A) 14 m/s²", "B) 21 m/s²", "C) 28 m/s²", "D) 56 m/s²"],
+          "answer": "C"
+        },
+        {
+          "qid": 24,
+          "question": "If both speed and radius are doubled, centripetal acceleration becomes:",
+          "options": ["A) Same", "B) Double", "C) Four times", "D) Half"],
+          "answer": "B"
+        },
+        {
+          "qid": 25,
+          "question": "A satellite moving around Earth in a circular orbit is an example of:",
+          "options": ["A) Rectilinear motion", "B) Projectile motion", "C) Uniform circular motion", "D) Oscillatory motion"],
+          "answer": "C"
+        },
+        {
+          "qid": 26,
+          "question": "During one complete revolution, the displacement of a particle is:",
+          "options": ["A) Equal to circumference", "B) Equal to radius", "C) Zero", "D) Equal to diameter"],
+          "answer": "C"
+        },
+        {
+          "qid": 27,
+          "question": "During one complete revolution, the distance travelled is:",
+          "options": ["A) Zero", "B) 2πr", "C) r", "D) πr"],
+          "answer": "B"
+        },
+        {
+          "qid": 28,
+          "question": "If the radius is halved while angular velocity remains constant, centripetal acceleration becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "A"
+        },
+        {
+          "qid": 29,
+          "question": "Which graph correctly represents angular displacement versus time for UCM?",
+          "options": ["A) Horizontal line", "B) Straight line", "C) Parabola", "D) Hyperbola"],
+          "answer": "B"
+        },
+        {
+          "qid": 30,
+          "question": "Which statement is always correct for uniform circular motion?",
+          "options": ["A) Velocity is constant.", "B) Speed is constant but acceleration is non-zero.", "C) Both speed and acceleration are zero.", "D) Speed changes continuously."],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}
+}
+ }
+
