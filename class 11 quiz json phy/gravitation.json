@@ -1,0 +1,5572 @@
+{
+"Physics":{
+ "Gravitation MCQs":{
+  "Easy": [
+    {
+      "topic": "Kepler's Laws of Planetary Motion",
+      "questions": [
+        {
+          "question": " Kepler's First Law states that planets move around the Sun in:",
+          "options": [
+            "A) Circular orbits",
+            "B) Elliptical orbits with the Sun at one focus",
+            "C) Parabolic orbits",
+            "D) Hyperbolic orbits"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The point on a planet's orbit where it is closest to the Sun is called:",
+          "options": [
+            "A) Aphelion",
+            "B) Perihelion",
+            "C) Focus",
+            "D) Centre"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The point where a planet is farthest from the Sun is called:",
+          "options": [
+            "A) Perihelion",
+            "B) Aphelion",
+            "C) Focus",
+            "D) Orbit centre"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " According to Kepler's Second Law, the line joining the Sun and a planet sweeps:",
+          "options": [
+            "A) Equal distances in equal times",
+            "B) Equal areas in equal times",
+            "C) Equal angles in equal times",
+            "D) Equal speeds in equal times"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " A planet moves fastest when it is at:",
+          "options": [
+            "A) Aphelion",
+            "B) Perihelion",
+            "C) Centre of orbit",
+            "D) All points equally"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " A planet moves slowest when it is at:",
+          "options": [
+            "A) Perihelion",
+            "B) Aphelion",
+            "C) Focus",
+            "D) Centre"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Kepler's Third Law relates:",
+          "options": [
+            "A) Force and distance",
+            "B) Radius and velocity",
+            "C) Time period and orbital radius",
+            "D) Mass and radius"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the orbital radius of a planet increases, its time period:",
+          "options": [
+            "A) Decreases",
+            "B) Increases",
+            "C) Remains constant",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which Kepler's law is known as the Law of Periods?",
+          "options": [
+            "A) First Law",
+            "B) Second Law",
+            "C) Third Law",
+            "D) None"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The Sun is situated at:",
+          "options": [
+            "A) Centre of the ellipse",
+            "B) One focus of the ellipse",
+            "C) Both foci",
+            "D) Any point inside the ellipse"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of the time period of revolution is:",
+          "options": [
+            "A) Minute",
+            "B) Hour",
+            "C) Second",
+            "D) Day"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " According to Kepler's Second Law, the areal velocity of a planet is:",
+          "options": [
+            "A) Variable",
+            "B) Zero",
+            "C) Constant",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The shape of Earth's orbit around the Sun is:",
+          "options": [
+            "A) Perfect circle",
+            "B) Ellipse",
+            "C) Parabola",
+            "D) Hyperbola"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which of the following is NOT a Kepler's Law?",
+          "options": [
+            "A) Law of Ellipses",
+            "B) Law of Equal Areas",
+            "C) Law of Periods",
+            "D) Law of Universal Gravitation"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": " Which scientist proposed the three laws of planetary motion?",
+          "options": [
+            "A) Isaac Newton",
+            "B) Galileo Galilei",
+            "C) Johannes Kepler",
+            "D) Copernicus"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Universal Law of Gravitation",
+      "questions": [
+        {
+          "question": " The Universal Law of Gravitation was proposed by:",
+          "options": [
+            "A) Galileo",
+            "B) Johannes Kepler",
+            "C) Isaac Newton",
+            "D) Einstein"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " According to Newton's Law of Gravitation, the gravitational force between two masses is directly proportional to:",
+          "options": [
+            "A) Product of their masses",
+            "B) Sum of their masses",
+            "C) Difference of their masses",
+            "D) Square of their masses"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " The gravitational force between two bodies is inversely proportional to:",
+          "options": [
+            "A) Distance",
+            "B) Square of the distance",
+            "C) Cube of the distance",
+            "D) Fourth power of the distance"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The mathematical expression for Newton's Law of Gravitation is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of the universal gravitational constant is:",
+          "options": [
+            "A) N·m",
+            "B) N·m²/kg²",
+            "C) N/kg",
+            "D) kg/N"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The value of the universal gravitational constant is approximately:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " If the distance between two masses is doubled, the gravitational force becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) One-fourth",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If both masses are doubled, the gravitational force becomes:",
+          "options": [
+            "A) Double",
+            "B) Four times",
+            "C) Half",
+            "D) Unchanged"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Gravitational force between two bodies is always:",
+          "options": [
+            "A) Repulsive",
+            "B) Attractive",
+            "C) Zero",
+            "D) Variable"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which instrument was used to determine the value of ?",
+          "options": [
+            "A) Barometer",
+            "B) Cavendish Apparatus",
+            "C) Spectrometer",
+            "D) Galvanometer"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The gravitational force between two objects does not depend on:",
+          "options": [
+            "A) Their masses",
+            "B) Distance between them",
+            "C) Medium between them",
+            "D) Universal gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If one mass becomes three times and the distance becomes twice, the gravitational force becomes:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " The gravitational force acts along:",
+          "options": [
+            "A) Tangent to the orbit",
+            "B) Line joining the centres of the two bodies",
+            "C) Vertical direction only",
+            "D) Horizontal direction only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which quantity is universal?",
+          "options": [
+            "A) Acceleration due to gravity",
+            "B) Weight",
+            "C) Gravitational constant",
+            "D) Mass density"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The Universal Law of Gravitation explains:",
+          "options": [
+            "A) Falling of bodies only",
+            "B) Motion of planets only",
+            "C) Both terrestrial and celestial motions",
+            "D) Only satellite motion"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Acceleration Due to Gravity (g) (15 MCQs)",
+      "questions": [
+        {
+          "question": " Acceleration due to gravity on the Earth's surface is approximately:",
+          "options": [
+            "A) 8.9 m/s²",
+            "B) 9.8 m/s²",
+            "C) 10.8 m/s²",
+            "D) 11.8 m/s²"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of acceleration due to gravity is:",
+          "options": [
+            "A) N",
+            "B) m/s²",
+            "C) kg",
+            "D) J"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The acceleration due to gravity depends upon:",
+          "options": [
+            "A) Mass of the falling body",
+            "B) Mass and radius of the Earth",
+            "C) Shape of the falling body",
+            "D) Density of air only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The formula for acceleration due to gravity at the Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The value of acceleration due to gravity is maximum at:",
+          "options": [
+            "A) Equator",
+            "B) Poles",
+            "C) Centre of the Earth",
+            "D) Same everywhere"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " At the centre of the Earth, the value of acceleration due to gravity is:",
+          "options": [
+            "A) 9.8 m/s²",
+            "B) 4.9 m/s²",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The weight of an object is equal to:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " If the mass of an object is doubled, its acceleration due to gravity:",
+          "options": [
+            "A) Doubles",
+            "B) Becomes half",
+            "C) Remains unchanged",
+            "D) Becomes zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The direction of acceleration due to gravity is:",
+          "options": [
+            "A) Upward",
+            "B) Towards the centre of the Earth",
+            "C) Horizontal",
+            "D) Along the equator"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The dimension of acceleration due to gravity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The value of on the Moon is approximately:",
+          "options": [
+            "A) 9.8 m/s²",
+            "B) 4.9 m/s²",
+            "C) 1.6 m/s²",
+            "D) 0.98 m/s²"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which quantity remains constant when an object falls freely near Earth's surface (ignoring air resistance)?",
+          "options": [
+            "A) Velocity",
+            "B) Acceleration",
+            "C) Momentum",
+            "D) Kinetic Energy"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The acceleration due to gravity is independent of:",
+          "options": [
+            "A) Earth's mass",
+            "B) Earth's radius",
+            "C) Mass of the falling object",
+            "D) Universal gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The value of acceleration due to gravity is approximately equal to:",
+          "options": [
+            "A) 10 m/s²",
+            "B) 20 m/s²",
+            "C) 5 m/s²",
+            "D) 15 m/s²"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " Which of the following statements is correct?",
+          "options": [
+            "A) Heavier bodies fall faster than lighter bodies.",
+            "B) Lighter bodies fall faster than heavier bodies.",
+            "C) In the absence of air resistance, all bodies fall with the same acceleration.",
+            "D) Acceleration due to gravity depends on the shape of the object."
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of with Altitude",
+      "questions": [
+        {
+          "question": " As the altitude above the Earth's surface increases, the value of acceleration due to gravity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Becomes zero immediately"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The formula for acceleration due to gravity at an altitude above the Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " At a very large altitude from Earth, the value of approaches:",
+          "options": [
+            "A) 9.8 m/s²",
+            "B) 4.9 m/s²",
+            "C) Zero",
+            "D) Infinity"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If a satellite moves farther away from Earth, the acceleration due to gravity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains unchanged",
+            "D) Becomes negative"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " For small altitudes, is approximately:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If the altitude becomes equal to the Earth's radius , the value of becomes:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The value of acceleration due to gravity depends on:",
+          "options": [
+            "A) Height above Earth's surface",
+            "B) Mass of the object",
+            "C) Colour of the object",
+            "D) Shape of the object"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " As altitude increases, the weight of a body:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) First increases then decreases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of acceleration due to gravity at altitude is:",
+          "options": [
+            "A) N",
+            "B) m/s²",
+            "C) kg",
+            "D) J"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The value of is minimum at:",
+          "options": [
+            "A) Earth's centre",
+            "B) Earth's surface",
+            "C) High altitude",
+            "D) Pole"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " Which graph correctly represents the variation of with altitude?",
+          "options": [
+            "A) Increasing straight line",
+            "B) Horizontal line",
+            "C) Decreasing curve",
+            "D) Increasing curve"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If a body is taken to a mountain top, its mass:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains unchanged",
+            "D) Becomes zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If a body is taken to a mountain top, its weight:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains unchanged",
+            "D) Doubles"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " For a satellite orbiting Earth, the value of acceleration due to gravity is:",
+          "options": [
+            "A) Zero",
+            "B) Less than on Earth's surface",
+            "C) Greater than on Earth's surface",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which statement is correct?",
+          "options": [
+            "A) Gravity becomes zero immediately above Earth's surface.",
+            "B) Gravity decreases gradually with altitude.",
+            "C) Gravity increases with altitude.",
+            "D) Gravity is independent of distance from Earth."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of with Depth",
+      "questions": [
+        {
+          "question": " As the depth below the Earth's surface increases, the value of acceleration due to gravity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The formula for acceleration due to gravity at depth is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " At the centre of the Earth, the value of acceleration due to gravity is:",
+          "options": [
+            "A) 9.8 m/s²",
+            "B) 4.9 m/s²",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If a body is taken deeper inside the Earth, its weight:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains unchanged",
+            "D) Doubles"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " At half the Earth's radius below the surface , the value of becomes:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The variation of with depth is approximately:",
+          "options": [
+            "A) Exponential",
+            "B) Linear",
+            "C) Quadratic",
+            "D) Constant"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The value of acceleration due to gravity is minimum at:",
+          "options": [
+            "A) Earth's surface",
+            "B) Equator",
+            "C) Centre of the Earth",
+            "D) Poles"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which quantity remains unchanged when a body is taken deep inside the Earth?",
+          "options": [
+            "A) Weight",
+            "B) Acceleration due to gravity",
+            "C) Mass",
+            "D) Gravitational force"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " At a depth of one-fourth the Earth's radius, the value of is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The graph of versus depth is:",
+          "options": [
+            "A) Increasing straight line",
+            "B) Horizontal line",
+            "C) Decreasing straight line",
+            "D) Increasing curve"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which statement is correct?",
+          "options": [
+            "A) Gravity increases inside the Earth.",
+            "B) Gravity decreases uniformly with depth.",
+            "C) Gravity first increases then decreases.",
+            "D) Gravity remains constant."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " At what depth does the value of become half of its surface value?",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The formula is valid for:",
+          "options": [
+            "A) Any planet under all conditions",
+            "B) A uniformly dense Earth",
+            "C) Only the Moon",
+            "D) Satellites"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of acceleration due to gravity at any depth is:",
+          "options": [
+            "A) N",
+            "B) kg",
+            "C) m/s²",
+            "D) J"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which statement is true?",
+          "options": [
+            "A) becomes zero immediately below Earth's surface.",
+            "B) decreases gradually with depth and becomes zero at the centre.",
+            "C) increases with depth.",
+            "D) remains constant inside the Earth."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Gravitational Potential Energy (15 MCQs)",
+      "questions": [
+        {
+          "question": " The gravitational potential energy of two masses separated by a distance is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of gravitational potential energy is:",
+          "options": [
+            "A) Newton",
+            "B) Joule",
+            "C) Watt",
+            "D) Pascal"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Gravitational potential energy between two masses is always:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The gravitational potential energy becomes zero when the separation between the two bodies is:",
+          "options": [
+            "A) Equal to Earth's radius",
+            "B) Infinite",
+            "C) Zero",
+            "D) Half Earth's radius"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If the distance between two masses is doubled, the magnitude of gravitational potential energy becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) Four times",
+            "D) Unchanged"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If one of the masses is doubled, the gravitational potential energy becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) Unchanged"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Gravitational potential energy depends upon:",
+          "options": [
+            "A) Masses of the bodies",
+            "B) Distance between them",
+            "C) Both A and B",
+            "D) Neither A nor B"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The negative sign in gravitational potential energy indicates:",
+          "options": [
+            "A) Energy is lost",
+            "B) Force is attractive",
+            "C) Gravity is weak",
+            "D) Distance is negative"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " As the distance between two masses increases, gravitational potential energy:",
+          "options": [
+            "A) Becomes more negative",
+            "B) Approaches zero",
+            "C) Remains constant",
+            "D) Becomes positive"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The gravitational potential energy of an object at infinity is:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which quantity is a scalar?",
+          "options": [
+            "A) Gravitational force",
+            "B) Gravitational potential energy",
+            "C) Weight",
+            "D) Acceleration due to gravity"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If two bodies are brought closer together, the gravitational potential energy:",
+          "options": [
+            "A) Increases",
+            "B) Becomes less negative",
+            "C) Becomes more negative",
+            "D) Remains unchanged"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The dimensional formula of gravitational potential energy is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " A body of mass is moved farther from Earth. Its gravitational potential energy:",
+          "options": [
+            "A) Decreases",
+            "B) Increases (towards zero)",
+            "C) Remains constant",
+            "D) Becomes negative infinity"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which of the following expressions correctly gives the gravitational potential energy of a mass at the Earth's surface?",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "topic": "Gravitational Potential",
+      "questions": [
+        {
+          "question": " Gravitational potential at a point is defined as:",
+          "options": [
+            "A) Force acting on a unit mass",
+            "B) Work done in bringing a unit mass from infinity to that point",
+            "C) Potential energy of a body",
+            "D) Gravitational force between two bodies"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of gravitational potential is:",
+          "options": [
+            "A) Joule",
+            "B) Joule per kilogram (J/kg)",
+            "C) Newton",
+            "D) Watt"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The gravitational potential due to a point mass is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Gravitational potential is a:",
+          "options": [
+            "A) Scalar quantity",
+            "B) Vector quantity",
+            "C) Tensor quantity",
+            "D) Dimensionless quantity"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " The gravitational potential at infinity is taken as:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The gravitational potential due to Earth at its surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " As the distance from Earth increases, the gravitational potential:",
+          "options": [
+            "A) Becomes more negative",
+            "B) Approaches zero",
+            "C) Remains constant",
+            "D) Becomes positive"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Gravitational potential depends on:",
+          "options": [
+            "A) Mass of the source body",
+            "B) Distance from the source",
+            "C) Both A and B",
+            "D) Mass of the test body"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The dimensional formula of gravitational potential is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " The relationship between gravitational potential energy and gravitational potential is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " The gravitational potential at the centre of a hollow spherical shell is:",
+          "options": [
+            "A) Zero",
+            "B)",
+            "C)",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If the mass of the source body doubles, the gravitational potential becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) Unchanged"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which of the following quantities can have a negative value?",
+          "options": [
+            "A) Mass",
+            "B) Distance",
+            "C) Gravitational Potential",
+            "D) Universal Gravitational Constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Gravitational potential is maximum at:",
+          "options": [
+            "A) Earth's centre",
+            "B) Earth's surface",
+            "C) Infinity",
+            "D) Poles"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which statement is correct?",
+          "options": [
+            "A) Gravitational potential depends on the mass of the test body.",
+            "B) Gravitational potential is always positive.",
+            "C) Gravitational potential is the work done per unit mass in bringing a body from infinity.",
+            "D) Gravitational potential is a vector quantity."
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Escape Velocity",
+      "questions": [
+        {
+          "question": " Escape velocity is the minimum velocity required for a body to:",
+          "options": [
+            "A) Revolve around Earth",
+            "B) Reach the Moon",
+            "C) Escape the gravitational pull of a planet without further propulsion",
+            "D) Fall freely towards Earth"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The escape velocity from the Earth's surface is approximately:",
+          "options": [
+            "A) 7.9 km/s",
+            "B) 9.8 km/s",
+            "C) 11.2 km/s",
+            "D) 15 km/s"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The formula for escape velocity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Escape velocity depends on:",
+          "options": [
+            "A) Mass of the projectile",
+            "B) Mass and radius of the planet",
+            "C) Shape of the projectile",
+            "D) Density of the projectile"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Escape velocity is independent of:",
+          "options": [
+            "A) Mass of the planet",
+            "B) Radius of the planet",
+            "C) Mass of the escaping body",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The relation between escape velocity and acceleration due to gravity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Escape velocity is:",
+          "options": [
+            "A) Less than orbital velocity",
+            "B) Equal to orbital velocity",
+            "C) Greater than orbital velocity",
+            "D) Unrelated to orbital velocity"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the radius of a planet increases while its mass remains constant, the escape velocity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Doubles"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If the mass of a planet doubles while its radius remains the same, the escape velocity becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) times",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The SI unit of escape velocity is:",
+          "options": [
+            "A) m",
+            "B) m/s",
+            "C) m/s²",
+            "D) km"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If a body is projected with a speed greater than the escape velocity, it will:",
+          "options": [
+            "A) Return to Earth",
+            "B) Revolve around Earth",
+            "C) Escape Earth's gravitational field",
+            "D) Remain stationary"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The escape velocity from the Moon is approximately:",
+          "options": [
+            "A) 1.4 km/s",
+            "B) 2.4 km/s",
+            "C) 5.6 km/s",
+            "D) 11.2 km/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which statement is correct?",
+          "options": [
+            "A) Escape velocity depends on the launch angle.",
+            "B) Escape velocity depends on the mass of the rocket.",
+            "C) Escape velocity is the minimum speed required to escape the gravitational field.",
+            "D) Escape velocity is equal to orbital velocity."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " For a planet with the same radius as Earth but four times Earth's mass, the escape velocity will be:",
+          "options": [
+            "A) 11.2 km/s",
+            "B) 22.4 km/s",
+            "C) 44.8 km/s",
+            "D) 5.6 km/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which of the following expressions correctly relates escape velocity and orbital velocity?",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Orbital Velocity of a Satellite",
+      "questions": [
+        {
+          "question": " Orbital velocity is the minimum velocity required for a satellite to:",
+          "options": [
+            "A) Escape Earth's gravitational field",
+            "B) Remain in a stable circular orbit around Earth",
+            "C) Reach the Moon",
+            "D) Return to Earth"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The formula for orbital velocity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The orbital velocity of a satellite near the Earth's surface is approximately:",
+          "options": [
+            "A) 5.6 km/s",
+            "B) 7.9 km/s",
+            "C) 9.8 km/s",
+            "D) 11.2 km/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Orbital velocity depends upon:",
+          "options": [
+            "A) Mass of the satellite",
+            "B) Mass of the Earth and orbital radius",
+            "C) Shape of the satellite",
+            "D) Density of the satellite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Orbital velocity is independent of:",
+          "options": [
+            "A) Mass of the Earth",
+            "B) Radius of the orbit",
+            "C) Mass of the satellite",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the orbital radius increases, the orbital velocity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Doubles"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of orbital velocity is:",
+          "options": [
+            "A) m",
+            "B) m/s",
+            "C) m/s²",
+            "D) km"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which provides the necessary centripetal force for a satellite?",
+          "options": [
+            "A) Magnetic force",
+            "B) Gravitational force",
+            "C) Electrostatic force",
+            "D) Friction"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " For a satellite moving in a circular orbit,",
+          "options": [
+            "A) Centripetal force is greater than gravitational force.",
+            "B) Centripetal force is less than gravitational force.",
+            "C) Gravitational force provides the centripetal force.",
+            "D) There is no centripetal force."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The orbital velocity of a satellite is approximately:",
+          "options": [
+            "A) Equal to escape velocity",
+            "B) Greater than escape velocity",
+            "C) Less than escape velocity",
+            "D) Zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the Earth's mass doubles while its radius remains unchanged, the orbital velocity becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) times",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the orbital radius becomes four times its original value, the orbital velocity becomes:",
+          "options": [
+            "A) Four times",
+            "B) Twice",
+            "C) Half",
+            "D) One-fourth"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " A satellite in a circular orbit is in:",
+          "options": [
+            "A) Translational equilibrium",
+            "B) Rotational equilibrium",
+            "C) Continuous free fall towards Earth",
+            "D) Rest"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The relation between orbital velocity and escape velocity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Orbital Velocity of a Satellite",
+      "questions": [
+        {
+          "question": " Orbital velocity is the minimum velocity required for a satellite to:",
+          "options": [
+            "A) Escape Earth's gravitational field",
+            "B) Remain in a stable circular orbit around Earth",
+            "C) Reach the Moon",
+            "D) Return to Earth"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The formula for orbital velocity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The orbital velocity of a satellite near the Earth's surface is approximately:",
+          "options": [
+            "A) 5.6 km/s",
+            "B) 7.9 km/s",
+            "C) 9.8 km/s",
+            "D) 11.2 km/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Orbital velocity depends upon:",
+          "options": [
+            "A) Mass of the satellite",
+            "B) Mass of the Earth and orbital radius",
+            "C) Shape of the satellite",
+            "D) Density of the satellite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Orbital velocity is independent of:",
+          "options": [
+            "A) Mass of the Earth",
+            "B) Radius of the orbit",
+            "C) Mass of the satellite",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the orbital radius increases, the orbital velocity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Doubles"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of orbital velocity is:",
+          "options": [
+            "A) m",
+            "B) m/s",
+            "C) m/s²",
+            "D) km"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which provides the necessary centripetal force for a satellite?",
+          "options": [
+            "A) Magnetic force",
+            "B) Gravitational force",
+            "C) Electrostatic force",
+            "D) Friction"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " For a satellite moving in a circular orbit,",
+          "options": [
+            "A) Centripetal force is greater than gravitational force.",
+            "B) Centripetal force is less than gravitational force.",
+            "C) Gravitational force provides the centripetal force.",
+            "D) There is no centripetal force."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The orbital velocity of a satellite is approximately:",
+          "options": [
+            "A) Equal to escape velocity",
+            "B) Greater than escape velocity",
+            "C) Less than escape velocity",
+            "D) Zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the Earth's mass doubles while its radius remains unchanged, the orbital velocity becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) times",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the orbital radius becomes four times its original value, the orbital velocity becomes:",
+          "options": [
+            "A) Four times",
+            "B) Twice",
+            "C) Half",
+            "D) One-fourth"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " A satellite in a circular orbit is in:",
+          "options": [
+            "A) Translational equilibrium",
+            "B) Rotational equilibrium",
+            "C) Continuous free fall towards Earth",
+            "D) Rest"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The relation between orbital velocity and escape velocity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Energy of a Satellite",
+      "questions": [
+        {
+          "question": " The total mechanical energy of a satellite in a circular orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The kinetic energy of a satellite in a circular orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The gravitational potential energy of a satellite is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " The total energy of a satellite is:",
+          "options": [
+            "A) Positive",
+            "B) Zero",
+            "C) Negative",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The ratio of kinetic energy to the magnitude of potential energy is:",
+          "options": [
+            "A) 1 : 1",
+            "B) 1 : 2",
+            "C) 2 : 1",
+            "D) 3 : 1"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The potential energy of a satellite is ______ its kinetic energy.",
+          "options": [
+            "A) Equal to",
+            "B) Half of",
+            "C) Twice the magnitude and negative",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The total energy of a satellite is equal to:",
+          "options": [
+            "A) Kinetic Energy + Potential Energy",
+            "B) Kinetic Energy − Potential Energy",
+            "C) Potential Energy − Kinetic Energy",
+            "D) Only Kinetic Energy"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " If the orbital radius increases, the total energy:",
+          "options": [
+            "A) Becomes more negative",
+            "B) Becomes less negative",
+            "C) Remains constant",
+            "D) Becomes positive"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of satellite energy is:",
+          "options": [
+            "A) Watt",
+            "B) Joule",
+            "C) Newton",
+            "D) Pascal"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " A satellite moving in a circular orbit has:",
+          "options": [
+            "A) Constant kinetic energy",
+            "B) Variable kinetic energy",
+            "C) Zero kinetic energy",
+            "D) Infinite kinetic energy"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " If the mass of the satellite doubles, its total energy becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) Unchanged"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which energy is greater in magnitude for a satellite in circular orbit?",
+          "options": [
+            "A) Kinetic Energy",
+            "B) Potential Energy",
+            "C) Total Energy",
+            "D) Both are equal"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The condition for a satellite to remain in a bound orbit is:",
+          "options": [
+            "A) Total energy is positive.",
+            "B) Total energy is zero.",
+            "C) Total energy is negative.",
+            "D) Kinetic energy is zero."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If a satellite escapes Earth's gravitational field, its total mechanical energy becomes:",
+          "options": [
+            "A) Negative",
+            "B) Positive",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which of the following is the correct relation?",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Both A and C"
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "topic": "Geostationary Satellites",
+      "questions": [
+        {
+          "question": " A geostationary satellite revolves around the Earth in:",
+          "options": [
+            "A) 12 hours",
+            "B) 18 hours",
+            "C) 24 hours",
+            "D) 48 hours"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " A geostationary satellite appears:",
+          "options": [
+            "A) To move from east to west",
+            "B) To move from west to east",
+            "C) Stationary with respect to an observer on Earth",
+            "D) To move randomly"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " A geostationary satellite orbits in:",
+          "options": [
+            "A) A polar orbit",
+            "B) An inclined orbit",
+            "C) The equatorial plane",
+            "D) Any plane"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The direction of motion of a geostationary satellite is:",
+          "options": [
+            "A) East to West",
+            "B) West to East",
+            "C) North to South",
+            "D) South to North"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The approximate height of a geostationary satellite above the Earth's surface is:",
+          "options": [
+            "A) 7,900 km",
+            "B) 20,000 km",
+            "C) 35,786 km",
+            "D) 50,000 km"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The orbital radius of a geostationary satellite from the Earth's centre is approximately:",
+          "options": [
+            "A) 6,400 km",
+            "B) 12,000 km",
+            "C) 42,200 km",
+            "D) 60,000 km"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " A geostationary satellite is mainly used for:",
+          "options": [
+            "A) Weather forecasting",
+            "B) Communication",
+            "C) Television broadcasting",
+            "D) All of the above"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": " The orbital speed of a geostationary satellite is:",
+          "options": [
+            "A) Greater than the escape velocity",
+            "B) Less than the escape velocity",
+            "C) Equal to the escape velocity",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " How many times does a geostationary satellite revolve around the Earth in one day?",
+          "options": [
+            "A) 24",
+            "B) 12",
+            "C) 2",
+            "D) 1"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": " A geostationary satellite cannot be placed:",
+          "options": [
+            "A) Above the equator",
+            "B) In the equatorial plane",
+            "C) Above the poles",
+            "D) At 35,786 km altitude"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which condition is necessary for a satellite to be geostationary?",
+          "options": [
+            "A) Circular orbit",
+            "B) Equatorial orbit",
+            "C) Time period of 24 hours",
+            "D) All of the above"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": " The angular velocity of a geostationary satellite is:",
+          "options": [
+            "A) Greater than Earth's angular velocity",
+            "B) Less than Earth's angular velocity",
+            "C) Equal to Earth's angular velocity",
+            "D) Zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which of the following satellites can remain continuously above one city?",
+          "options": [
+            "A) Polar satellite",
+            "B) Low Earth Orbit satellite",
+            "C) Geostationary satellite",
+            "D) Space station"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The major advantage of a geostationary satellite is:",
+          "options": [
+            "A) It requires no ground antenna.",
+            "B) It appears stationary relative to Earth.",
+            "C) It has zero orbital velocity.",
+            "D) It revolves around the poles."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which statement about a geostationary satellite is correct?",
+          "options": [
+            "A) It revolves around the Earth in 12 hours.",
+            "B) It revolves in a polar orbit.",
+            "C) It remains fixed relative to an observer on Earth.",
+            "D) It has zero gravitational force acting on it."
+          ],
+          "answer": "C"
+        }
+      ]
+    }
+  ],
+      "Medium":[
+        {
+      "topic": "Kepler's Laws of Planetary Motion",
+      "questions": [
+        {
+          "question": " According to Kepler's First Law, planets move around the Sun in:",
+          "options": [
+            "A) Circular orbits",
+            "B) Elliptical orbits with the Sun at one focus",
+            "C) Parabolic orbits",
+            "D) Hyperbolic orbits"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " According to Kepler's Second Law, the line joining a planet and the Sun sweeps:",
+          "options": [
+            "A) Equal distances in equal times",
+            "B) Equal angles in equal times",
+            "C) Equal areas in equal times",
+            "D) Equal velocities in equal times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " A planet moves faster when it is:",
+          "options": [
+            "A) At aphelion",
+            "B) At perihelion",
+            "C) At the centre of the orbit",
+            "D) Speed remains constant"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " According to Kepler's Third Law,",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the orbital radius of a planet becomes four times, its time period becomes:",
+          "options": [
+            "A) 4 times",
+            "B) 8 times",
+            "C) 16 times",
+            "D) 2 times"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If the orbital radius becomes nine times, the orbital period becomes:",
+          "options": [
+            "A) 9 times",
+            "B) 18 times",
+            "C) 27 times",
+            "D) 3 times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If the orbital period of Planet A is twice that of Planet B, then",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " A planet moves slowest at:",
+          "options": [
+            "A) Perihelion",
+            "B) Aphelion",
+            "C) Centre of ellipse",
+            "D) Focus"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which Kepler law explains conservation of angular momentum?",
+          "options": [
+            "A) First Law",
+            "B) Second Law",
+            "C) Third Law",
+            "D) None"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Two planets have orbital radii in the ratio Their time periods are in the ratio:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If the orbital period of a planet is 27 years, compared to another planet with a period of 1 year, then the orbital radius ratio is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of the proportionality constant in Kepler's Third Law is:",
+          "options": [
+            "A) Dimensionless",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " Which law can be derived directly from Newton's law of gravitation?",
+          "options": [
+            "A) Only First Law",
+            "B) Only Second Law",
+            "C) Only Third Law",
+            "D) All three laws"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": " If the semi-major axis of a planet becomes twice its original value, the new time period is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which of the following statements is incorrect?",
+          "options": [
+            "A) Planetary orbits are elliptical.",
+            "B) A planet moves faster near the Sun.",
+            "C) The Sun is located at the centre of every planetary orbit.",
+            "D) Equal areas are swept in equal intervals of time."
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Universal Law of Gravitation",
+      "questions": [
+        {
+          "question": " According to Newton's law of gravitation, the gravitational force between two masses is directly proportional to:",
+          "options": [
+            "A) Distance between them",
+            "B) Product of their masses",
+            "C) Sum of their masses",
+            "D) Square of their masses"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The gravitational force between two masses is inversely proportional to:",
+          "options": [
+            "A) Distance",
+            "B) Square of the distance",
+            "C) Cube of the distance",
+            "D) Product of distances"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The SI unit of the universal gravitational constant is:",
+          "options": [
+            "A) Nm²/kg²",
+            "B) N/kg",
+            "C) Nm/kg",
+            "D) m/s²"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " The value of the universal gravitational constant is approximately:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " If the distance between two bodies is doubled, the gravitational force becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) One-fourth",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " If both masses are doubled, the gravitational force becomes:",
+          "options": [
+            "A) Double",
+            "B) Four times",
+            "C) Half",
+            "D) Eight times"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " If one mass is doubled and the distance is doubled, the gravitational force becomes:",
+          "options": [
+            "A) Same",
+            "B) Double",
+            "C) Half",
+            "D) One-fourth"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The gravitational force between two bodies is always:",
+          "options": [
+            "A) Repulsive",
+            "B) Attractive",
+            "C) Zero",
+            "D) Depends on their charges"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The gravitational force between two objects is independent of:",
+          "options": [
+            "A) Their masses",
+            "B) Distance between them",
+            "C) Medium between them",
+            "D) Universal gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Two bodies of masses and are separated by a distance . The gravitational force is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": " The dimensional formula of the gravitational constant is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": " Two identical masses are separated by distance . If each mass is tripled and the distance is halved, the force becomes:",
+          "options": [
+            "A) 9 times",
+            "B) 18 times",
+            "C) 36 times",
+            "D) 12 times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " The gravitational force between Earth and an object is an example of:",
+          "options": [
+            "A) Contact force",
+            "B) Electromagnetic force",
+            "C) Non-contact force",
+            "D) Nuclear force"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Which scientist experimentally determined the value of ?",
+          "options": [
+            "A) Newton",
+            "B) Galileo",
+            "C) Cavendish",
+            "D) Kepler"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": " Two masses attract each other with force . If the distance between them is reduced to one-third while keeping the masses unchanged, the new force becomes:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Acceleration Due to Gravity & Its Variation with Altitude and Depth",
+      "questions": [
+        {
+          "question": "The value of acceleration due to gravity on Earth's surface is approximately:",
+          "options": [
+            "A) 9.8 m/s",
+            "B) 9.8 m/s²",
+            "C) 98 m/s²",
+            "D) 0.98 m/s²"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Acceleration due to gravity depends on:",
+          "options": [
+            "A) Mass of falling body only",
+            "B) Radius and mass of Earth",
+            "C) Shape of falling body",
+            "D) Volume of falling body"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The formula for acceleration due to gravity at Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the mass of Earth remains constant but its radius becomes half, the value of g becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) One-fourth"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The value of acceleration due to gravity decreases with increase in altitude because:",
+          "options": [
+            "A) Mass of Earth decreases",
+            "B) Distance from Earth's centre increases",
+            "C) Earth's rotation increases",
+            "D) Air resistance increases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "At a height h above Earth's surface, acceleration due to gravity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "When height above Earth's surface is equal to Earth's radius (h = R), the value of g becomes:",
+          "options": [
+            "A) g",
+            "B) 2g",
+            "C) g/2",
+            "D) g/4"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The value of g at the centre of Earth is:",
+          "options": [
+            "A) 9.8 m/s²",
+            "B) Maximum",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "At a depth d below Earth's surface, acceleration due to gravity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "If a person goes deep inside Earth, their weight:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body weighs 600 N on Earth's surface. At a height equal to Earth's radius, its weight will be:",
+          "options": [
+            "A) 600 N",
+            "B) 300 N",
+            "C) 150 N",
+            "D) 100 N"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The graph between acceleration due to gravity (g) and distance from Earth's centre inside Earth is:",
+          "options": [
+            "A) Straight increasing line",
+            "B) Straight decreasing line",
+            "C) Constant line",
+            "D) Parabolic curve"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's radius increases but its mass remains the same, acceleration due to gravity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains unchanged",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite orbiting close to Earth's surface experiences acceleration due to gravity nearly equal to:",
+          "options": [
+            "A) 0",
+            "B) 4.9 m/s²",
+            "C) 9.8 m/s²",
+            "D) 19.6 m/s²"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The value of g is maximum at:",
+          "options": [
+            "A) Earth's centre",
+            "B) Earth's surface",
+            "C) Very high altitude",
+            "D) Infinite distance"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of g with Altitude",
+      "questions": [
+        {
+          "question": "The value of acceleration due to gravity at a height h above Earth's surface is given by:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A person goes to a height equal to Earth's radius above the surface. The value of g becomes:",
+          "options": [
+            "A) g",
+            "B) 2g",
+            "C) g/2",
+            "D) g/4"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "If the height above Earth's surface is very small compared to Earth's radius, the change in g is approximately:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The weight of an object at a height h above Earth's surface:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains same",
+            "D) First increases then decreases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite is moved from Earth's surface to a height equal to Earth's radius. Its weight becomes:",
+          "options": [
+            "A) Half",
+            "B) One-fourth",
+            "C) Double",
+            "D) Same"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's radius is R and a body is taken to height 2R above surface, acceleration due to gravity becomes:",
+          "options": [
+            "A) g/2",
+            "B) g/3",
+            "C) g/4",
+            "D) g/9"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The variation of g with altitude is due to:",
+          "options": [
+            "A) Change in mass of Earth",
+            "B) Change in distance from Earth's centre",
+            "C) Change in mass of object",
+            "D) Change in atmosphere"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "At a height h, where h = R/2, the value of g is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body weighs 980 N on Earth's surface. At a height equal to Earth's radius, its weight will be:",
+          "options": [
+            "A) 490 N",
+            "B) 245 N",
+            "C) 980 N",
+            "D) 1960 N"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The graph between g and altitude above Earth's surface is:",
+          "options": [
+            "A) Straight line increasing",
+            "B) Straight line decreasing",
+            "C) Hyperbolic decreasing curve",
+            "D) Parabolic increasing curve"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If acceleration due to gravity at Earth's surface is 9.8 m/s², its value at a height R above Earth is:",
+          "options": [
+            "A) 9.8 m/s²",
+            "B) 4.9 m/s²",
+            "C) 2.45 m/s²",
+            "D) 1.22 m/s²"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A satellite orbiting farther away from Earth experiences:",
+          "options": [
+            "A) Greater gravitational acceleration",
+            "B) Smaller gravitational acceleration",
+            "C) Same gravitational acceleration",
+            "D) Zero gravity always"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The relation between acceleration due to gravity and distance from Earth's centre is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the radius of Earth's orbit around the Sun increases, the gravitational acceleration due to Sun:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "An astronaut in a spacecraft feels weightlessness mainly because:",
+          "options": [
+            "A) Gravity is absent",
+            "B) Mass becomes zero",
+            "C) Spacecraft and astronaut are in free fall",
+            "D) Earth stops attracting them"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of g with Altitude",
+      "questions": [
+        {
+          "question": "The value of acceleration due to gravity at a depth d below Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "As we go inside Earth, the value of g:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The value of acceleration due to gravity at the centre of Earth is:",
+          "options": [
+            "A) 9.8 m/s²",
+            "B) 4.9 m/s²",
+            "C) Zero",
+            "D) Maximum"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A body taken to a depth equal to half of Earth's radius will experience acceleration due to gravity:",
+          "options": [
+            "A) g",
+            "B) g/2",
+            "C) g/4",
+            "D) 2g"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The weight of a body at the centre of Earth is:",
+          "options": [
+            "A) Maximum",
+            "B) Half of surface weight",
+            "C) Zero",
+            "D) Same as surface weight"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The decrease in g inside Earth is because:",
+          "options": [
+            "A) Earth's mass decreases uniformly",
+            "B) Effective mass attracting the body decreases",
+            "C) Radius of Earth decreases",
+            "D) Temperature increases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "At a depth d, the relation between g and depth is:",
+          "options": [
+            "A) Directly proportional",
+            "B) Inversely proportional",
+            "C) Linearly decreasing",
+            "D) Constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A person weighs 600 N on Earth's surface. At a depth R/2, the weight will be:",
+          "options": [
+            "A) 600 N",
+            "B) 300 N",
+            "C) 150 N",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The graph between acceleration due to gravity and depth inside Earth is:",
+          "options": [
+            "A) Straight line decreasing",
+            "B) Straight line increasing",
+            "C) Circular curve",
+            "D) Constant line"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "If Earth's radius is R, the value of g at depth R is:",
+          "options": [
+            "A) g",
+            "B) g/2",
+            "C) Zero",
+            "D) 2g"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A body is taken from Earth's surface to its centre. Its gravitational force:",
+          "options": [
+            "A) Increases continuously",
+            "B) Decreases continuously",
+            "C) Remains unchanged",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The expression is valid when:",
+          "options": [
+            "A) Outside Earth",
+            "B) Inside Earth assuming uniform density",
+            "C) Near Moon",
+            "D) For satellites only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A mine is dug to a depth of 1 km inside Earth. The value of g there will be:",
+          "options": [
+            "A) Slightly less than surface value",
+            "B) Much greater than surface value",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "If the depth inside Earth increases, the gravitational potential:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Becomes constant immediately",
+            "D) Always becomes zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "Which statement is correct?",
+          "options": [
+            "A) g is maximum at Earth's centre",
+            "B) g is minimum at Earth's surface",
+            "C) g decreases from surface to centre",
+            "D) g increases with depth"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Gravitational Potential Energy",
+      "questions": [
+        {
+          "question": "Gravitational potential energy of a body at a distance r from Earth's centre is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The negative sign in gravitational potential energy indicates:",
+          "options": [
+            "A) Energy is always negative",
+            "B) Zero energy is impossible",
+            "C) Gravitational force is attractive",
+            "D) Mass is negative"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The gravitational potential energy of a satellite at infinity is considered:",
+          "options": [
+            "A) Maximum",
+            "B) Minimum",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "When a body is lifted from Earth's surface to a height h, its gravitational potential energy:",
+          "options": [
+            "A) Decreases",
+            "B) Increases",
+            "C) Becomes zero",
+            "D) Remains constant"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The work done in moving a mass against gravity is stored as:",
+          "options": [
+            "A) Kinetic energy",
+            "B) Thermal energy",
+            "C) Gravitational potential energy",
+            "D) Chemical energy"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Two bodies of masses m and M are separated by distance r. Their gravitational potential energy depends on:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The gravitational potential energy of a satellite orbiting Earth is:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the distance between two masses is doubled, their gravitational potential energy becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) Four times",
+            "D) One-fourth"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The unit of gravitational potential energy is:",
+          "options": [
+            "A) Newton",
+            "B) Joule",
+            "C) Watt",
+            "D) Pascal"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body of mass m is taken from Earth's surface to infinity. The minimum energy required is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The gravitational potential energy of a system becomes more negative when:",
+          "options": [
+            "A) Distance increases",
+            "B) Distance decreases",
+            "C) Mass decreases",
+            "D) Gravity becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the mass of a body is doubled, its gravitational potential energy becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) Unchanged"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential energy near Earth's surface is approximately:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero always"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "A satellite moves from a lower orbit to a higher orbit. Its gravitational potential energy:",
+          "options": [
+            "A) Decreases",
+            "B) Increases",
+            "C) Remains same",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential energy of two separated masses is minimum when:",
+          "options": [
+            "A) They are infinitely far apart",
+            "B) They are close together",
+            "C) One mass is zero",
+            "D) Gravity is absent"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Gravitational Potential",
+      "questions": [
+        {
+          "question": "Gravitational potential at a point is defined as:",
+          "options": [
+            "A) Force acting on unit mass",
+            "B) Work done per unit mass in bringing a body from infinity",
+            "C) Energy of a body",
+            "D) Force × displacement"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential due to a mass M at distance r is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The SI unit of gravitational potential is:",
+          "options": [
+            "A) Joule",
+            "B) Newton",
+            "C) Joule/kg",
+            "D) Newton/kg"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Gravitational potential is a:",
+          "options": [
+            "A) Vector quantity",
+            "B) Scalar quantity",
+            "C) Tensor quantity",
+            "D) Dimensionless quantity"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential at infinity is taken as:",
+          "options": [
+            "A) Maximum",
+            "B) Minimum",
+            "C) Zero",
+            "D) Negative infinity"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The gravitational potential at Earth's surface is:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the distance from Earth's centre is increased, gravitational potential:",
+          "options": [
+            "A) Becomes more negative",
+            "B) Becomes less negative",
+            "C) Remains constant",
+            "D) Becomes infinite negative"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The relation between gravitational potential energy (U) and potential (V) is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A mass of 5 kg is placed at a point where gravitational potential is -200 J/kg. Its potential energy is:",
+          "options": [
+            "A) -40 J",
+            "B) -1000 J",
+            "C) 1000 J",
+            "D) -200 J"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential due to Earth becomes zero at:",
+          "options": [
+            "A) Earth's surface",
+            "B) Earth's centre",
+            "C) Infinity",
+            "D) Moon surface"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The gravitational potential inside a hollow spherical shell is:",
+          "options": [
+            "A) Maximum at centre",
+            "B) Zero everywhere",
+            "C) Constant everywhere",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The dimensional formula of gravitational potential is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Two points are at distances R and 2R from Earth's centre. The ratio of potentials is:",
+          "options": [
+            "A) 1 : 2",
+            "B) 2 : 1",
+            "C) 4 : 1",
+            "D) 1 : 4"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The work done in moving a mass between two points in a gravitational field depends on:",
+          "options": [
+            "A) Path followed",
+            "B) Initial and final positions only",
+            "C) Speed of motion",
+            "D) Time taken"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body is moved from Earth's surface to infinity. Its gravitational potential energy:",
+          "options": [
+            "A) Increases to zero",
+            "B) Decreases further",
+            "C) Remains unchanged",
+            "D) Becomes positive immediately"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "topic": "Escape Velocity",
+      "questions": [
+        {
+          "question": "Escape velocity is the minimum velocity required to:",
+          "options": [
+            "A) Enter Earth's atmosphere",
+            "B) Escape Earth's gravitational field permanently",
+            "C) Orbit around Earth",
+            "D) Stop a satellite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The formula for escape velocity from Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The escape velocity from Earth's surface is approximately:",
+          "options": [
+            "A) 5.6 km/s",
+            "B) 7.9 km/s",
+            "C) 11.2 km/s",
+            "D) 15 km/s"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Escape velocity depends on:",
+          "options": [
+            "A) Mass of projectile only",
+            "B) Radius and mass of planet",
+            "C) Shape of projectile",
+            "D) Direction of launch only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the mass of a planet becomes four times and radius remains same, escape velocity becomes:",
+          "options": [
+            "A) Same",
+            "B) Two times",
+            "C) Four times",
+            "D) Half"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's radius becomes four times while mass remains same, escape velocity becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) One-fourth",
+            "D) Four times"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Escape velocity is independent of:",
+          "options": [
+            "A) Mass of planet",
+            "B) Radius of planet",
+            "C) Mass of escaping body",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The escape velocity from Moon is less than Earth because Moon has:",
+          "options": [
+            "A) Greater radius",
+            "B) Smaller mass and gravity",
+            "C) No atmosphere",
+            "D) Higher temperature"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The ratio of escape velocity to orbital velocity near Earth's surface is:",
+          "options": [
+            "A) 1 : 1",
+            "B) √2 : 1",
+            "C) 2 : 1",
+            "D) 1 : √2"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If a body is projected upward with velocity equal to escape velocity, its velocity at infinity will be:",
+          "options": [
+            "A) Maximum",
+            "B) Zero",
+            "C) Infinite",
+            "D) Same as initial velocity"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A planet has same mass as Earth but radius twice Earth. Its escape velocity will be:",
+          "options": [
+            "A) 11.2 km/s",
+            "B) 5.6 km/s",
+            "C) 22.4 km/s",
+            "D) 2.8 km/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Escape velocity does not depend on:",
+          "options": [
+            "A) Gravitational field",
+            "B) Planet mass",
+            "C) Planet radius",
+            "D) Angle of projection"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The escape velocity from a planet is 20 km/s. The minimum kinetic energy required for a body of mass m is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A rocket launched from Earth requires escape velocity because:",
+          "options": [
+            "A) It has to stop Earth's rotation",
+            "B) It must overcome Earth's gravitational attraction",
+            "C) It needs more oxygen",
+            "D) It must increase its mass"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the gravitational acceleration on a planet is doubled and radius remains same, escape velocity becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) √2 times",
+            "D) Four times"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Orbital Velocity of a Satellite",
+      "questions": [
+        {
+          "question": "Orbital velocity is the velocity required by a satellite to:",
+          "options": [
+            "A) Escape Earth's gravity",
+            "B) Remain in a stable circular orbit around Earth",
+            "C) Stop moving around Earth",
+            "D) Leave the atmosphere"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The formula for orbital velocity of a satellite at distance r from Earth's centre is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The orbital velocity of a satellite near Earth's surface is approximately:",
+          "options": [
+            "A) 7.9 km/s",
+            "B) 11.2 km/s",
+            "C) 5.6 km/s",
+            "D) 15 km/s"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "As the distance of a satellite from Earth's centre increases, its orbital velocity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Becomes zero immediately"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The orbital velocity of a satellite depends on:",
+          "options": [
+            "A) Mass of satellite",
+            "B) Mass of Earth and orbital radius",
+            "C) Shape of satellite",
+            "D) Colour of satellite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite of mass 1000 kg and another of mass 2000 kg are placed in the same orbit. Their orbital velocities are:",
+          "options": [
+            "A) Different",
+            "B) Same",
+            "C) Double for heavier satellite",
+            "D) Half for lighter satellite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the radius of a satellite's orbit is increased four times, its orbital velocity becomes:",
+          "options": [
+            "A) 4 times",
+            "B) 2 times",
+            "C) Half",
+            "D) One-fourth"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The centripetal force required for a satellite is provided by:",
+          "options": [
+            "A) Friction",
+            "B) Earth's gravitational force",
+            "C) Magnetic force",
+            "D) Atmospheric force"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The relation between escape velocity and orbital velocity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite closer to Earth has:",
+          "options": [
+            "A) Lower orbital speed",
+            "B) Higher orbital speed",
+            "C) Zero speed",
+            "D) Infinite speed"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The time period of a satellite increases when:",
+          "options": [
+            "A) Orbital radius decreases",
+            "B) Orbital radius increases",
+            "C) Satellite mass increases",
+            "D) Gravity increases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite moves around Earth in a circular orbit because:",
+          "options": [
+            "A) No force acts on it",
+            "B) Gravity provides centripetal force",
+            "C) It has no mass",
+            "D) Air pushes it"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's mass increases while radius of orbit remains same, orbital velocity:",
+          "options": [
+            "A) Decreases",
+            "B) Increases",
+            "C) Remains same",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite in a higher orbit has:",
+          "options": [
+            "A) Greater kinetic energy",
+            "B) Smaller orbital velocity",
+            "C) Greater gravitational force",
+            "D) Smaller time period"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The orbital velocity of a satellite does not depend on:",
+          "options": [
+            "A) Radius of orbit",
+            "B) Mass of Earth",
+            "C) Mass of satellite",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Orbital Velocity of a Satellite",
+      "questions": [
+        {
+          "question": "The total energy of a satellite in a circular orbit is:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The kinetic energy of a satellite moving in a circular orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential energy of a satellite is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The total energy of a satellite is:",
+          "options": [
+            "A) Equal to kinetic energy",
+            "B) Equal to potential energy",
+            "C) Half of potential energy",
+            "D) Sum of kinetic and potential energy"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The total mechanical energy of a satellite in orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "If the radius of orbit increases, the total energy of a satellite:",
+          "options": [
+            "A) Becomes more negative",
+            "B) Increases (becomes less negative)",
+            "C) Becomes zero immediately",
+            "D) Decreases continuously"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite requires energy to move from a lower orbit to a higher orbit because:",
+          "options": [
+            "A) Its potential energy decreases",
+            "B) Its total energy increases",
+            "C) Its mass increases",
+            "D) Gravity disappears"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The ratio of kinetic energy to potential energy of a satellite is:",
+          "options": [
+            "A) 1 : 1",
+            "B) 1 : 2",
+            "C) 2 : -1",
+            "D) -1 : 2"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the mass of a satellite is doubled, its total energy becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) Same"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite loses energy due to atmospheric resistance. Its orbit:",
+          "options": [
+            "A) Expands",
+            "B) Shrinks",
+            "C) Remains unchanged",
+            "D) Stops instantly"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The energy required to remove a satellite from Earth's orbit to infinity is:",
+          "options": [
+            "A) Its kinetic energy",
+            "B) Magnitude of its total energy",
+            "C) Twice its energy",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The binding energy of a satellite is:",
+          "options": [
+            "A) Total energy of satellite",
+            "B) Kinetic energy only",
+            "C) Energy required to free satellite from orbit",
+            "D) Potential energy only"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A satellite in a higher orbit has:",
+          "options": [
+            "A) More negative total energy",
+            "B) Less negative total energy",
+            "C) Zero energy",
+            "D) Infinite energy"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "When a satellite moves closer to Earth:",
+          "options": [
+            "A) Kinetic energy decreases",
+            "B) Kinetic energy increases",
+            "C) Potential energy increases",
+            "D) Total energy increases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "For a satellite in circular orbit:",
+          "options": [
+            "A) KE = PE",
+            "B) KE = -PE/2",
+            "C) PE = -KE/2",
+            "D) Total energy = KE"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Energy of a Satellite",
+      "questions": [
+        {
+          "question": "The total energy of a satellite in a circular orbit is:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The kinetic energy of a satellite moving in a circular orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential energy of a satellite is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The total energy of a satellite is:",
+          "options": [
+            "A) Equal to kinetic energy",
+            "B) Equal to potential energy",
+            "C) Half of potential energy",
+            "D) Sum of kinetic and potential energy"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The total mechanical energy of a satellite in orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "If the radius of orbit increases, the total energy of a satellite:",
+          "options": [
+            "A) Becomes more negative",
+            "B) Increases (becomes less negative)",
+            "C) Becomes zero immediately",
+            "D) Decreases continuously"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite requires energy to move from a lower orbit to a higher orbit because:",
+          "options": [
+            "A) Its potential energy decreases",
+            "B) Its total energy increases",
+            "C) Its mass increases",
+            "D) Gravity disappears"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The ratio of kinetic energy to potential energy of a satellite is:",
+          "options": [
+            "A) 1 : 1",
+            "B) 1 : 2",
+            "C) 2 : -1",
+            "D) -1 : 2"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the mass of a satellite is doubled, its total energy becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) Same"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite loses energy due to atmospheric resistance. Its orbit:",
+          "options": [
+            "A) Expands",
+            "B) Shrinks",
+            "C) Remains unchanged",
+            "D) Stops instantly"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The energy required to remove a satellite from Earth's orbit to infinity is:",
+          "options": [
+            "A) Its kinetic energy",
+            "B) Magnitude of its total energy",
+            "C) Twice its energy",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The binding energy of a satellite is:",
+          "options": [
+            "A) Total energy of satellite",
+            "B) Kinetic energy only",
+            "C) Energy required to free satellite from orbit",
+            "D) Potential energy only"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A satellite in a higher orbit has:",
+          "options": [
+            "A) More negative total energy",
+            "B) Less negative total energy",
+            "C) Zero energy",
+            "D) Infinite energy"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "When a satellite moves closer to Earth:",
+          "options": [
+            "A) Kinetic energy decreases",
+            "B) Kinetic energy increases",
+            "C) Potential energy increases",
+            "D) Total energy increases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "For a satellite in circular orbit:",
+          "options": [
+            "A) KE = PE",
+            "B) KE = -PE/2",
+            "C) PE = -KE/2",
+            "D) Total energy = KE"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Geostationary Satellites",
+      "questions": [
+        {
+          "question": "A geostationary satellite appears stationary because:",
+          "options": [
+            "A) It has no velocity",
+            "B) It rotates with Earth having same angular velocity",
+            "C) Earth's gravity is zero there",
+            "D) It does not orbit Earth"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The time period of a geostationary satellite is:",
+          "options": [
+            "A) 6 hours",
+            "B) 12 hours",
+            "C) 24 hours",
+            "D) 48 hours"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A geostationary satellite revolves around Earth in:",
+          "options": [
+            "A) Polar orbit",
+            "B) Equatorial orbit",
+            "C) Inclined orbit",
+            "D) Random orbit"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The height of a geostationary satellite above Earth's surface is approximately:",
+          "options": [
+            "A) 1000 km",
+            "B) 5000 km",
+            "C) 36,000 km",
+            "D) 1,00,000 km"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A geostationary satellite must move from:",
+          "options": [
+            "A) East to west",
+            "B) West to east",
+            "C) North to south",
+            "D) South to north"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The main use of geostationary satellites is:",
+          "options": [
+            "A) Weather forecasting and communication",
+            "B) Mining",
+            "C) Transport",
+            "D) Measuring weight"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The orbit of a geostationary satellite lies in:",
+          "options": [
+            "A) Earth's equatorial plane",
+            "B) Earth's polar plane",
+            "C) Any plane",
+            "D) Moon's orbital plane"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "A geostationary satellite cannot be placed over:",
+          "options": [
+            "A) Equator",
+            "B) Pacific Ocean",
+            "C) Atlantic Ocean",
+            "D) Poles"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The angular velocity of a geostationary satellite is:",
+          "options": [
+            "A) Greater than Earth's rotation",
+            "B) Less than Earth's rotation",
+            "C) Same as Earth's rotation",
+            "D) Zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The direction of rotation of a geostationary satellite is:",
+          "options": [
+            "A) Opposite to Earth",
+            "B) Same as Earth",
+            "C) Random",
+            "D) No rotation"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The orbital radius of a geostationary satellite is approximately:",
+          "options": [
+            "A) Equal to Earth's radius",
+            "B) 2 times Earth's radius",
+            "C) 6.6 times Earth's radius",
+            "D) 10 times Earth's radius"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If a satellite has a time period of 12 hours, it is:",
+          "options": [
+            "A) Geostationary",
+            "B) Not geostationary",
+            "C) At rest",
+            "D) Outside Earth's gravity"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The advantage of geostationary satellites in communication is:",
+          "options": [
+            "A) They cover a fixed region continuously",
+            "B) They have no gravity",
+            "C) They require no energy",
+            "D) They move randomly"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The minimum number of geostationary satellites required for global communication is approximately:",
+          "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 10"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Which condition is NOT necessary for a satellite to be geostationary?",
+          "options": [
+            "A) Circular orbit",
+            "B) Equatorial orbit",
+            "C) Time period of 24 hours",
+            "D) Polar orbit"
+          ],
+          "answer": "D"
+        }
+      ]
+    }
+  ],
+      "Hard":[
+        {
+      "topic": "Kepler's Laws of Planetary Motion (15 MCQs)",
+      "questions": [
+        {
+          "question": "According to Kepler's first law, planets move around the Sun in:",
+          "options": [
+            "A) Circular orbits with Sun at centre",
+            "B) Elliptical orbits with Sun at one focus",
+            "C) Parabolic paths",
+            "D) Random paths"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The point where a planet is closest to the Sun is called:",
+          "options": [
+            "A) Aphelion",
+            "B) Perihelion",
+            "C) Geostationary point",
+            "D) Equilibrium point"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "According to Kepler's second law, the line joining the planet and Sun sweeps:",
+          "options": [
+            "A) Equal distances in equal times",
+            "B) Equal areas in equal times",
+            "C) Equal angles in equal times",
+            "D) Equal velocities in equal times"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A planet moves faster when it is:",
+          "options": [
+            "A) Far from the Sun",
+            "B) Near the Sun",
+            "C) At constant speed everywhere",
+            "D) At aphelion only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Kepler's second law is a consequence of conservation of:",
+          "options": [
+            "A) Energy",
+            "B) Linear momentum",
+            "C) Angular momentum",
+            "D) Mass"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "According to Kepler's third law:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Two planets revolve around the same star. Planet A has orbital radius 4 times planet B. The ratio of their time periods is:",
+          "options": [
+            "A) 4:1",
+            "B) 8:1",
+            "C) 16:1",
+            "D) 2:1"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the distance of a planet from the Sun increases, its orbital velocity:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains constant",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The areal velocity of a planet around the Sun is:",
+          "options": [
+            "A) Increasing continuously",
+            "B) Decreasing continuously",
+            "C) Constant",
+            "D) Zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A planet takes 8 years to complete one orbit. If another planet has orbital radius twice as large, its period will be:",
+          "options": [
+            "A) 8 years",
+            "B) 16 years",
+            "C) 22.6 years",
+            "D) 32 years"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Kepler's laws apply to:",
+          "options": [
+            "A) Only planets",
+            "B) Only satellites",
+            "C) Any gravitational two-body system approximately",
+            "D) Only Earth-Sun system"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The angular momentum of a planet remains constant because:",
+          "options": [
+            "A) Planet speed is constant",
+            "B) Gravitational force is central force",
+            "C) Mass changes",
+            "D) Distance never changes"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "At perihelion, compared to aphelion, a planet has:",
+          "options": [
+            "A) Lower kinetic energy",
+            "B) Higher kinetic energy",
+            "C) Same kinetic energy",
+            "D) Zero kinetic energy"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite around Earth follows Kepler's third law: where r represents:",
+          "options": [
+            "A) Radius of Earth",
+            "B) Distance from Earth's centre",
+            "C) Height above Earth only",
+            "D) Satellite mass"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A planet's orbit becomes more elliptical. At the closest point, its speed:",
+          "options": [
+            "A) Decreases",
+            "B) Increases",
+            "C) Remains same",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Universal Law of Gravitation",
+      "questions": [
+        {
+          "question": "According to Newton's law of gravitation, force between two masses is:",
+          "options": [
+            "A) Directly proportional to distance",
+            "B) Inversely proportional to square of distance",
+            "C) Directly proportional to square of distance",
+            "D) Independent of distance"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational force between two bodies is:",
+          "options": [
+            "A) Repulsive",
+            "B) Attractive",
+            "C) Zero always",
+            "D) Variable in direction"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the distance between two masses is doubled, gravitational force becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) One-fourth",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Two masses m and 2m are separated by distance r. If both masses are doubled and distance is halved, force becomes:",
+          "options": [
+            "A) 4F",
+            "B) 8F",
+            "C) 16F",
+            "D) 32F"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The gravitational constant G is:",
+          "options": [
+            "A) Different on different planets",
+            "B) Same everywhere in the universe",
+            "C) Dependent on mass",
+            "D) Dependent on distance"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The dimensional formula of gravitational constant G is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the mass of one object is increased four times, gravitational force:",
+          "options": [
+            "A) Becomes four times",
+            "B) Becomes two times",
+            "C) Becomes half",
+            "D) Remains same"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The gravitational force between two objects does not depend on:",
+          "options": [
+            "A) Masses",
+            "B) Distance",
+            "C) Shape and size of objects (for point masses)",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Two bodies attract each other with force F. If the distance between them becomes one-third, force becomes:",
+          "options": [
+            "A) F/3",
+            "B) 3F",
+            "C) 9F",
+            "D) F/9"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The value of gravitational force between two masses at infinity is:",
+          "options": [
+            "A) Maximum",
+            "B) Minimum but finite",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Newton's law of gravitation is applicable for:",
+          "options": [
+            "A) Only planets",
+            "B) Only Earth",
+            "C) Any two masses in the universe",
+            "D) Only satellites"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If Earth suddenly loses half its mass while radius remains same, acceleration due to gravity becomes:",
+          "options": [
+            "A) Double",
+            "B) Half",
+            "C) Four times",
+            "D) Same"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational force between Earth and Moon provides:",
+          "options": [
+            "A) Tangential acceleration",
+            "B) Centripetal force for Moon's orbit",
+            "C) Energy production",
+            "D) Magnetic force"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body inside a hollow spherical shell experiences gravitational force:",
+          "options": [
+            "A) Maximum at centre",
+            "B) Zero everywhere inside",
+            "C) Increasing force",
+            "D) Infinite force"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If both masses are tripled and distance is doubled, gravitational force becomes:",
+          "options": [
+            "A) 9F/4",
+            "B) 3F/2",
+            "C) 6F",
+            "D) F/4"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "topic": "Acceleration Due to Gravity (g)",
+      "questions": [
+        {
+          "question": "Acceleration due to gravity at Earth's surface is given by:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's mass becomes 4 times and radius becomes 2 times, acceleration due to gravity becomes:",
+          "options": [
+            "A) Same",
+            "B) 2 times",
+            "C) 4 times",
+            "D) Half"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The value of g is maximum at:",
+          "options": [
+            "A) Earth's centre",
+            "B) Earth's surface",
+            "C) Infinite distance",
+            "D) High altitude"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If a body is taken from Earth to Moon, its weight decreases because:",
+          "options": [
+            "A) Mass decreases",
+            "B) Moon has smaller gravitational acceleration",
+            "C) Volume decreases",
+            "D) Inertia decreases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The acceleration due to gravity is independent of:",
+          "options": [
+            "A) Mass of Earth",
+            "B) Radius of Earth",
+            "C) Mass of falling body",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If Earth's radius decreases by 10% and mass remains constant, g becomes approximately:",
+          "options": [
+            "A) Decreases by 10%",
+            "B) Increases by about 23%",
+            "C) Increases by 10%",
+            "D) Remains same"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body is dropped from a height. Ignoring air resistance, its acceleration:",
+          "options": [
+            "A) Increases continuously",
+            "B) Decreases continuously",
+            "C) Remains approximately constant near Earth",
+            "D) Becomes zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The value of g depends on:",
+          "options": [
+            "A) Latitude of place",
+            "B) Mass of object",
+            "C) Shape of object",
+            "D) Material of object"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "At the poles, acceleration due to gravity is:",
+          "options": [
+            "A) Less than equator",
+            "B) Greater than equator",
+            "C) Zero",
+            "D) Same everywhere"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's rotation stops, acceleration due to gravity at equator:",
+          "options": [
+            "A) Decreases",
+            "B) Increases",
+            "C) Becomes zero",
+            "D) Remains unchanged"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body weighs 980 N on Earth. If Earth's mass becomes half and radius remains same, its weight becomes:",
+          "options": [
+            "A) 1960 N",
+            "B) 490 N",
+            "C) 245 N",
+            "D) 980 N"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The acceleration due to gravity at the centre of Earth is zero because:",
+          "options": [
+            "A) No gravity exists inside Earth",
+            "B) Earth's mass is zero there",
+            "C) Gravitational pulls cancel in all directions",
+            "D) Radius is infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Two planets have same density but radius of planet A is twice planet B. Ratio of their surface gravities is:",
+          "options": [
+            "A) 1:2",
+            "B) 2:1",
+            "C) 4:1",
+            "D) 8:1"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "If a planet has same radius as Earth but density is 3 times Earth, acceleration due to gravity will be:",
+          "options": [
+            "A) g/3",
+            "B) g",
+            "C) 3g",
+            "D) 9g"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The weight of a body at the Earth's centre is:",
+          "options": [
+            "A) Maximum",
+            "B) Minimum but not zero",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of g with Altitude ",
+      "questions": [
+        {
+          "question": "The acceleration due to gravity at height h above Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite is placed at a height equal to Earth's radius (h = R). The value of g there is:",
+          "options": [
+            "A) g",
+            "B) g/2",
+            "C) g/4",
+            "D) 2g"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the height above Earth's surface is doubled from h to 2h (h << R), the decrease in g is approximately:",
+          "options": [
+            "A) Doubled",
+            "B) Halved",
+            "C) Four times",
+            "D) Remains same"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The weight of an astronaut in a satellite decreases because:",
+          "options": [
+            "A) Mass becomes zero",
+            "B) Gravity becomes zero",
+            "C) Both astronaut and satellite are in free fall",
+            "D) Earth stops attracting them"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "At a height h = 3R above Earth's surface, the acceleration due to gravity becomes:",
+          "options": [
+            "A) g/4",
+            "B) g/8",
+            "C) g/16",
+            "D) g/9"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If Earth's radius is increased keeping mass constant, acceleration due to gravity at surface:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains same",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational acceleration at height h is reduced to half of surface value. The value of h is:",
+          "options": [
+            "A) R",
+            "B) ()R",
+            "C) 2R",
+            "D) R/2"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The graph of g versus altitude from Earth's surface is:",
+          "options": [
+            "A) Straight increasing line",
+            "B) Straight decreasing line",
+            "C) Inverse square curve",
+            "D) Circular curve"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the distance of a satellite from Earth's centre becomes 3 times, its gravitational acceleration becomes:",
+          "options": [
+            "A) 3g",
+            "B) g/3",
+            "C) g/6",
+            "D) g/9"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "A body weighs 800 N on Earth's surface. At a height h = R, its weight is:",
+          "options": [
+            "A) 800 N",
+            "B) 400 N",
+            "C) 200 N",
+            "D) 100 N"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The decrease of g with altitude occurs because:",
+          "options": [
+            "A) Mass of Earth decreases",
+            "B) Distance from Earth's centre increases",
+            "C) Gravitational constant decreases",
+            "D) Radius of object changes"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "For small altitude h compared to Earth's radius, percentage decrease in g is approximately:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Two satellites A and B are at heights R and 3R respectively. The ratio of their accelerations due to gravity is:",
+          "options": [
+            "A) 1:4",
+            "B) 4:1",
+            "C) 1:9",
+            "D) 9:1"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A person at a very large height from Earth experiences:",
+          "options": [
+            "A) Increased weight",
+            "B) Reduced weight",
+            "C) Increased mass",
+            "D) Increased gravitational force"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite is moved from a lower orbit to a higher orbit. The gravitational force acting on it:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains same",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of g with Altitude",
+      "questions": [
+        {
+          "question": "The acceleration due to gravity at height h above Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite is placed at a height equal to Earth's radius (h = R). The value of g there is:",
+          "options": [
+            "A) g",
+            "B) g/2",
+            "C) g/4",
+            "D) 2g"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the height above Earth's surface is doubled from h to 2h (h << R), the decrease in g is approximately:",
+          "options": [
+            "A) Doubled",
+            "B) Halved",
+            "C) Four times",
+            "D) Remains same"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The weight of an astronaut in a satellite decreases because:",
+          "options": [
+            "A) Mass becomes zero",
+            "B) Gravity becomes zero",
+            "C) Both astronaut and satellite are in free fall",
+            "D) Earth stops attracting them"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "At a height h = 3R above Earth's surface, the acceleration due to gravity becomes:",
+          "options": [
+            "A) g/4",
+            "B) g/8",
+            "C) g/16",
+            "D) g/9"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If Earth's radius is increased keeping mass constant, acceleration due to gravity at surface:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains same",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational acceleration at height h is reduced to half of surface value. The value of h is:",
+          "options": [
+            "A) R",
+            "B) ()R",
+            "C) 2R",
+            "D) R/2"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The graph of g versus altitude from Earth's surface is:",
+          "options": [
+            "A) Straight increasing line",
+            "B) Straight decreasing line",
+            "C) Inverse square curve",
+            "D) Circular curve"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the distance of a satellite from Earth's centre becomes 3 times, its gravitational acceleration becomes:",
+          "options": [
+            "A) 3g",
+            "B) g/3",
+            "C) g/6",
+            "D) g/9"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "A body weighs 800 N on Earth's surface. At a height h = R, its weight is:",
+          "options": [
+            "A) 800 N",
+            "B) 400 N",
+            "C) 200 N",
+            "D) 100 N"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The decrease of g with altitude occurs because:",
+          "options": [
+            "A) Mass of Earth decreases",
+            "B) Distance from Earth's centre increases",
+            "C) Gravitational constant decreases",
+            "D) Radius of object changes"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "For small altitude h compared to Earth's radius, percentage decrease in g is approximately:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Two satellites A and B are at heights R and 3R respectively. The ratio of their accelerations due to gravity is:",
+          "options": [
+            "A) 1:4",
+            "B) 4:1",
+            "C) 1:9",
+            "D) 9:1"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A person at a very large height from Earth experiences:",
+          "options": [
+            "A) Increased weight",
+            "B) Reduced weight",
+            "C) Increased mass",
+            "D) Increased gravitational force"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite is moved from a lower orbit to a higher orbit. The gravitational force acting on it:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains same",
+            "D) Becomes infinite"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of g with Depth ",
+      "questions": [
+        {
+          "question": "The value of acceleration due to gravity at depth d below Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "At a depth equal to half of Earth's radius, acceleration due to gravity becomes:",
+          "options": [
+            "A) g",
+            "B) g/2",
+            "C) g/4",
+            "D) 2g"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The value of g decreases inside Earth because:",
+          "options": [
+            "A) Earth's radius decreases",
+            "B) Effective mass attracting the body decreases",
+            "C) Gravitational constant decreases",
+            "D) Earth's density becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body taken from Earth's surface to its centre experiences:",
+          "options": [
+            "A) Increasing weight",
+            "B) Decreasing weight",
+            "C) Constant weight",
+            "D) Infinite weight"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The graph of g versus depth inside Earth is:",
+          "options": [
+            "A) Straight line decreasing",
+            "B) Straight line increasing",
+            "C) Circular curve",
+            "D) Constant line"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "If a body is taken to depth R/4 inside Earth, its weight becomes:",
+          "options": [
+            "A) W",
+            "B) 3W/4",
+            "C) W/4",
+            "D) 4W"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The value of g becomes zero at the centre because:",
+          "options": [
+            "A) There is no mass in Earth",
+            "B) All gravitational pulls cancel",
+            "C) Gravity is absent everywhere",
+            "D) Temperature is zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A mine is dug inside Earth. Compared with surface, a person inside the mine has:",
+          "options": [
+            "A) Greater weight",
+            "B) Smaller weight",
+            "C) Same weight",
+            "D) Zero weight"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's density is assumed uniform, gravitational acceleration inside Earth is proportional to:",
+          "options": [
+            "A)",
+            "B) r",
+            "C)",
+            "D) r²"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body weighs 500 N on surface. At depth R/5, its weight is:",
+          "options": [
+            "A) 400 N",
+            "B) 300 N",
+            "C) 100 N",
+            "D) 600 N"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "At the centre of Earth, gravitational potential is:",
+          "options": [
+            "A) Zero",
+            "B) Maximum negative",
+            "C) Positive maximum",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the depth inside Earth is increased, gravitational field strength:",
+          "options": [
+            "A) Increases linearly",
+            "B) Decreases linearly",
+            "C) Remains constant",
+            "D) First increases then decreases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body dropped into a tunnel passing through Earth's centre will:",
+          "options": [
+            "A) Stop at centre",
+            "B) Oscillate about Earth's centre",
+            "C) Move away permanently",
+            "D) Remain at surface"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The relation is valid for:",
+          "options": [
+            "A) Outside Earth",
+            "B) Uniform density Earth model",
+            "C) Satellites only",
+            "D) Point masses only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The weight of a person at Earth's centre is zero because:",
+          "options": [
+            "A) Mass becomes zero",
+            "B) Gravity cancels in all directions",
+            "C) Earth stops rotating",
+            "D) Atmosphere disappears"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Variation of g with Depth",
+      "questions": [
+        {
+          "question": "The value of acceleration due to gravity at depth d below Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "At a depth equal to half of Earth's radius, acceleration due to gravity becomes:",
+          "options": [
+            "A) g",
+            "B) g/2",
+            "C) g/4",
+            "D) 2g"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The value of g decreases inside Earth because:",
+          "options": [
+            "A) Earth's radius decreases",
+            "B) Effective mass attracting the body decreases",
+            "C) Gravitational constant decreases",
+            "D) Earth's density becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body taken from Earth's surface to its centre experiences:",
+          "options": [
+            "A) Increasing weight",
+            "B) Decreasing weight",
+            "C) Constant weight",
+            "D) Infinite weight"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The graph of g versus depth inside Earth is:",
+          "options": [
+            "A) Straight line decreasing",
+            "B) Straight line increasing",
+            "C) Circular curve",
+            "D) Constant line"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "If a body is taken to depth R/4 inside Earth, its weight becomes:",
+          "options": [
+            "A) W",
+            "B) 3W/4",
+            "C) W/4",
+            "D) 4W"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The value of g becomes zero at the centre because:",
+          "options": [
+            "A) There is no mass in Earth",
+            "B) All gravitational pulls cancel",
+            "C) Gravity is absent everywhere",
+            "D) Temperature is zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A mine is dug inside Earth. Compared with surface, a person inside the mine has:",
+          "options": [
+            "A) Greater weight",
+            "B) Smaller weight",
+            "C) Same weight",
+            "D) Zero weight"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's density is assumed uniform, gravitational acceleration inside Earth is proportional to:",
+          "options": [
+            "A)",
+            "B) r",
+            "C)",
+            "D) r²"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body weighs 500 N on surface. At depth R/5, its weight is:",
+          "options": [
+            "A) 400 N",
+            "B) 300 N",
+            "C) 100 N",
+            "D) 600 N"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "At the centre of Earth, gravitational potential is:",
+          "options": [
+            "A) Zero",
+            "B) Maximum negative",
+            "C) Positive maximum",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the depth inside Earth is increased, gravitational field strength:",
+          "options": [
+            "A) Increases linearly",
+            "B) Decreases linearly",
+            "C) Remains constant",
+            "D) First increases then decreases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body dropped into a tunnel passing through Earth's centre will:",
+          "options": [
+            "A) Stop at centre",
+            "B) Oscillate about Earth's centre",
+            "C) Move away permanently",
+            "D) Remain at surface"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The relation is valid for:",
+          "options": [
+            "A) Outside Earth",
+            "B) Uniform density Earth model",
+            "C) Satellites only",
+            "D) Point masses only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The weight of a person at Earth's centre is zero because:",
+          "options": [
+            "A) Mass becomes zero",
+            "B) Gravity cancels in all directions",
+            "C) Earth stops rotating",
+            "D) Atmosphere disappears"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Gravitational Potential",
+      "questions": [
+        {
+          "question": "The gravitational potential at a point is defined as:",
+          "options": [
+            "A) Force per unit mass",
+            "B) Work done per unit mass in bringing a test mass from infinity",
+            "C) Energy per unit volume",
+            "D) Momentum per unit mass"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Gravitational potential due to a point mass M at distance r is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Gravitational potential is a:",
+          "options": [
+            "A) Vector quantity",
+            "B) Scalar quantity",
+            "C) Tensor quantity",
+            "D) Dimensionless quantity"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The unit of gravitational potential is:",
+          "options": [
+            "A) Joule",
+            "B) Newton",
+            "C) Joule/kg",
+            "D) Watt"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "At infinity, the gravitational potential is taken as:",
+          "options": [
+            "A) Maximum positive",
+            "B) Zero",
+            "C) Minimum negative",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The gravitational potential at Earth's centre compared to surface is:",
+          "options": [
+            "A) Greater",
+            "B) Smaller",
+            "C) Same",
+            "D) Zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "Two points are at distances R and 2R from Earth's centre. The ratio of potentials is:",
+          "options": [
+            "A) 1:2",
+            "B) 2:1",
+            "C) 4:1",
+            "D) 1:4"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the mass producing gravitational field is doubled, potential at a point becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) Four times",
+            "D) Same"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The relation between gravitational potential energy and potential is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The gravitational potential inside a hollow spherical shell is:",
+          "options": [
+            "A) Zero everywhere",
+            "B) Constant everywhere",
+            "C) Maximum at surface only",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The work done in moving a mass in a closed path in gravitational field is:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The dimensional formula of gravitational potential is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body is moved from Earth's surface to infinity. Its gravitational potential:",
+          "options": [
+            "A) Increases to zero",
+            "B) Becomes more negative",
+            "C) Remains same",
+            "D) Becomes infinite negative"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "For multiple masses, gravitational potential at a point is:",
+          "options": [
+            "A) Vector sum",
+            "B) Algebraic sum",
+            "C) Product of potentials",
+            "D) Always zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite is transferred from a lower orbit to a higher orbit. Its gravitational potential:",
+          "options": [
+            "A) Decreases",
+            "B) Increases (becomes less negative)",
+            "C) Remains constant",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Escape Velocity",
+      "questions": [
+        {
+          "question": "Escape velocity from Earth's surface is given by:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Escape velocity of a planet depends on:",
+          "options": [
+            "A) Mass of escaping object",
+            "B) Mass and radius of planet",
+            "C) Shape of object",
+            "D) Direction of launch only"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the radius of Earth becomes half while mass remains same, escape velocity becomes:",
+          "options": [
+            "A) Half",
+            "B) Double",
+            "C) √2 times",
+            "D) Four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the mass of a planet becomes 4 times and radius remains same, escape velocity becomes:",
+          "options": [
+            "A) 2 times",
+            "B) 4 times",
+            "C) Half",
+            "D) Same"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "Escape velocity from Earth is approximately:",
+          "options": [
+            "A) 7.9 km/s",
+            "B) 11.2 km/s",
+            "C) 5.6 km/s",
+            "D) 15 km/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The ratio of escape velocity to orbital velocity near Earth's surface is:",
+          "options": [
+            "A) 1:1",
+            "B) √2:1",
+            "C) 2:1",
+            "D) 1:√2"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A body projected with escape velocity from Earth will have velocity at infinity:",
+          "options": [
+            "A) Maximum",
+            "B) Zero",
+            "C) Same as initial velocity",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Escape velocity from Moon is smaller than Earth because:",
+          "options": [
+            "A) Moon has no gravity",
+            "B) Moon has smaller mass and radius",
+            "C) Moon rotates faster",
+            "D) Moon has atmosphere"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If gravitational acceleration of a planet becomes 9 times and radius remains same, escape velocity becomes:",
+          "options": [
+            "A) 3 times",
+            "B) 9 times",
+            "C) √3 times",
+            "D) Same"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The minimum kinetic energy required to escape from Earth's surface is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "Escape velocity does not depend on:",
+          "options": [
+            "A) Planet mass",
+            "B) Planet radius",
+            "C) Mass of projectile",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A planet has same density as Earth but radius is 2 times. Its escape velocity will be:",
+          "options": [
+            "A) Same",
+            "B) 2 times",
+            "C) 4 times",
+            "D) √2 times"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If a rocket is launched vertically upward with velocity less than escape velocity:",
+          "options": [
+            "A) It escapes Earth",
+            "B) It returns to Earth",
+            "C) It remains stationary",
+            "D) It moves with constant speed forever"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Escape velocity is independent of:",
+          "options": [
+            "A) Planet's mass",
+            "B) Planet's radius",
+            "C) Gravitational constant",
+            "D) Mass of escaping body"
+          ],
+          "answer": "D"
+        },
+        {
+          "question": "The escape velocity from a satellite orbiting at radius r is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Orbital Velocity of a Satellite",
+      "questions": [
+        {
+          "question": "The orbital velocity of a satellite revolving around Earth is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "Orbital velocity depends on:",
+          "options": [
+            "A) Mass of satellite only",
+            "B) Mass of Earth and orbital radius",
+            "C) Shape of satellite",
+            "D) Material of satellite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite is moved from an orbit of radius R to 4R. Its orbital velocity becomes:",
+          "options": [
+            "A) 4 times",
+            "B) 2 times",
+            "C) Half",
+            "D) One-fourth"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The orbital velocity of a satellite near Earth's surface is approximately:",
+          "options": [
+            "A) 11.2 km/s",
+            "B) 7.9 km/s",
+            "C) 5.6 km/s",
+            "D) 15 km/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The centripetal force required for satellite motion is provided by:",
+          "options": [
+            "A) Friction",
+            "B) Magnetic force",
+            "C) Gravitational force",
+            "D) Atmospheric resistance"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If the mass of satellite is doubled, its orbital velocity:",
+          "options": [
+            "A) Doubles",
+            "B) Becomes half",
+            "C) Remains unchanged",
+            "D) Becomes four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A satellite in a higher orbit has:",
+          "options": [
+            "A) Higher orbital speed",
+            "B) Lower orbital speed",
+            "C) Same orbital speed",
+            "D) Zero speed"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The relation between orbital velocity and escape velocity is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If Earth's mass becomes four times and orbital radius remains same, orbital velocity becomes:",
+          "options": [
+            "A) Same",
+            "B) Double",
+            "C) Half",
+            "D) Four times"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite closer to Earth has:",
+          "options": [
+            "A) Larger time period",
+            "B) Smaller time period",
+            "C) Same time period",
+            "D) Infinite time period"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The orbital velocity of a satellite does not depend on:",
+          "options": [
+            "A) Earth's mass",
+            "B) Distance from Earth's centre",
+            "C) Satellite mass",
+            "D) Gravitational constant"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If a satellite's orbital radius increases, its kinetic energy:",
+          "options": [
+            "A) Increases",
+            "B) Decreases",
+            "C) Remains same",
+            "D) Becomes zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite moving in circular orbit is continuously accelerating because:",
+          "options": [
+            "A) Its speed increases continuously",
+            "B) Direction of velocity changes",
+            "C) Gravity disappears",
+            "D) Mass changes"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "For a satellite in a stable circular orbit:",
+          "options": [
+            "A) Gravitational force > centripetal force",
+            "B) Gravitational force = centripetal force",
+            "C) No force acts",
+            "D) Centripetal force is zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If a satellite orbit radius becomes 9 times, its orbital velocity becomes:",
+          "options": [
+            "A) 9 times",
+            "B) 3 times",
+            "C) 1/3 times",
+            "D) 1/9 times"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "topic": "Energy of a Satellite",
+      "questions": [
+        {
+          "question": "The total energy of a satellite in a circular orbit is:",
+          "options": [
+            "A) Positive",
+            "B) Negative",
+            "C) Zero",
+            "D) Infinite"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The kinetic energy of a satellite in circular orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The potential energy of a satellite in orbit is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The total mechanical energy of a satellite is:",
+          "options": [
+            "A)",
+            "B)",
+            "C)",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The ratio of kinetic energy to potential energy of a satellite is:",
+          "options": [
+            "A) 1:1",
+            "B) 1:-2",
+            "C) 2:-1",
+            "D) -2:1"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If a satellite is shifted to a higher orbit, its total energy:",
+          "options": [
+            "A) Becomes more negative",
+            "B) Increases (less negative)",
+            "C) Becomes zero",
+            "D) Decreases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The energy required to remove a satellite from its orbit to infinity is:",
+          "options": [
+            "A) Kinetic energy",
+            "B) Magnitude of total energy",
+            "C) Potential energy only",
+            "D) Zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite moving from lower orbit to higher orbit requires energy because:",
+          "options": [
+            "A) Kinetic energy increases",
+            "B) Total energy increases",
+            "C) Mass increases",
+            "D) Gravity disappears"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the orbital radius of a satellite becomes four times, its kinetic energy becomes:",
+          "options": [
+            "A) Four times",
+            "B) Half",
+            "C) One-fourth",
+            "D) Same"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A satellite loses energy due to atmospheric drag. Its orbit:",
+          "options": [
+            "A) Expands",
+            "B) Shrinks",
+            "C) Remains unchanged",
+            "D) Becomes circular immediately"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The binding energy of a satellite is:",
+          "options": [
+            "A) Its kinetic energy",
+            "B) Energy required to free it from gravitational field",
+            "C) Its potential energy",
+            "D) Total energy always positive"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If the mass of a satellite is doubled, its total energy:",
+          "options": [
+            "A) Doubles",
+            "B) Becomes half",
+            "C) Remains same",
+            "D) Becomes four times"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "When a satellite moves closer to Earth:",
+          "options": [
+            "A) Kinetic energy decreases",
+            "B) Kinetic energy increases",
+            "C) Potential energy increases",
+            "D) Total energy increases"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "For a satellite in a circular orbit:",
+          "options": [
+            "A) KE = PE",
+            "B) KE = -PE/2",
+            "C) PE = -KE/2",
+            "D) Total energy = KE + 2PE"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A satellite at a larger orbital radius has:",
+          "options": [
+            "A) Higher kinetic energy",
+            "B) Lower kinetic energy",
+            "C) More negative total energy",
+            "D) Zero energy"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "topic": "Geostationary Satellites",
+      "questions": [
+        {
+          "question": "A satellite is called geostationary when it:",
+          "options": [
+            "A) Remains fixed relative to Earth's surface",
+            "B) Has zero velocity",
+            "C) Does not experience gravity",
+            "D) Moves randomly around Earth"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The time period of a geostationary satellite is:",
+          "options": [
+            "A) 6 hours",
+            "B) 12 hours",
+            "C) 24 hours",
+            "D) 48 hours"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The orbit of a geostationary satellite must be:",
+          "options": [
+            "A) Polar",
+            "B) Equatorial",
+            "C) Inclined at 45°",
+            "D) Any orbit"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The height of a geostationary satellite above Earth's surface is approximately:",
+          "options": [
+            "A) 1000 km",
+            "B) 10,000 km",
+            "C) 36,000 km",
+            "D) 1,00,000 km"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A geostationary satellite rotates around Earth in the direction:",
+          "options": [
+            "A) Opposite to Earth's rotation",
+            "B) Same direction as Earth's rotation",
+            "C) North to south",
+            "D) No rotation"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The angular velocity of a geostationary satellite is:",
+          "options": [
+            "A) Greater than Earth",
+            "B) Less than Earth",
+            "C) Equal to Earth",
+            "D) Zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A satellite can be geostationary only if its orbital plane is:",
+          "options": [
+            "A) Polar plane",
+            "B) Equatorial plane",
+            "C) Any inclined plane",
+            "D) Vertical plane"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "A geostationary satellite cannot be placed above:",
+          "options": [
+            "A) Equator",
+            "B) Tropics",
+            "C) Poles",
+            "D) Oceans"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "The main reason geostationary satellites are used for communication is:",
+          "options": [
+            "A) They remain fixed over one region",
+            "B) They have no gravitational force",
+            "C) They require no power",
+            "D) They move very fast"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "The orbital radius of a geostationary satellite is approximately:",
+          "options": [
+            "A) Equal to Earth's radius",
+            "B) 2 times Earth's radius",
+            "C) 6.6 times Earth's radius",
+            "D) 10 times Earth's radius"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "If a satellite has orbital period 48 hours, it cannot be geostationary because:",
+          "options": [
+            "A) Its speed is too high",
+            "B) Its angular velocity differs from Earth",
+            "C) It has no gravity",
+            "D) It stops rotating"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "The minimum number of geostationary satellites required for almost complete Earth communication coverage is:",
+          "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 10"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "A geostationary satellite appears stationary because:",
+          "options": [
+            "A) It is outside Earth's gravity",
+            "B) Its orbital period equals Earth's rotation period",
+            "C) It has no velocity",
+            "D) It has infinite mass"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "If a satellite moves in an orbit closer to Earth than geostationary orbit:",
+          "options": [
+            "A) Its period becomes less than 24 hours",
+            "B) It remains fixed over one point",
+            "C) It stops moving",
+            "D) Its velocity becomes zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "Which condition is NOT required for a geostationary satellite?",
+          "options": [
+            "A) Circular orbit",
+            "B) Equatorial orbit",
+            "C) Period of 24 hours",
+            "D) Polar orbit"
+          ],
+          "answer": "D"
+        }
+      ]
+    }
+  ]
+}
+}
+}

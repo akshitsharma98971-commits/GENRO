@@ -1,0 +1,3479 @@
+{
+  "Physics":{
+ "Work, Energy and Power":{
+  "Easy":{
+   "Work, Energy and Power": [
+        {
+          "qNo": 1,
+          "question": "Work is said to be done when:",
+          "options": ["A) A force acts on a body without displacement", "B) A body is displaced without any force", "C) A force causes displacement of a body", "D) A body remains at rest"],
+          "correct": "C"
+        },
+        {
+          "qNo": 2,
+          "question": "The SI unit of work is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "correct": "B"
+        },
+        {
+          "qNo": 3,
+          "question": "One joule is equal to:",
+          "options": ["A) 1 N/m", "B) 1 N·m", "C) 1 kg/m", "D) 1 W/s"],
+          "correct": "B"
+        },
+        {
+          "qNo": 4,
+          "question": "The formula for work done by a constant force is:",
+          "options": ["A) W = F", "B) W = d", "C) W = F d cosθ", "D) W = ma"],
+          "correct": "C"
+        },
+        {
+          "qNo": 5,
+          "question": "A force of 10 N acts on a body and moves it 5 m in the same direction. The work done is:",
+          "options": ["A) 2 J", "B) 10 J", "C) 25 J", "D) 50 J"],
+          "correct": "D"
+        },
+        {
+          "qNo": 6,
+          "question": "If force and displacement are perpendicular, the work done is:",
+          "options": ["A) Maximum", "B) Minimum", "C) Zero", "D) Negative"],
+          "correct": "C"
+        },
+        {
+          "qNo": 7,
+          "question": "The angle between force and displacement is 180°. The work done is:",
+          "options": ["A) Positive", "B) Zero", "C) Negative", "D) Infinite"],
+          "correct": "C"
+        },
+        {
+          "qNo": 8,
+          "question": "Which of the following is a scalar quantity?",
+          "options": ["A) Force", "B) Velocity", "C) Work", "D) Displacement"],
+          "correct": "C"
+        },
+        {
+          "qNo": 9,
+          "question": "A force of 20 N acts on a body moving 3 m in the direction of the force. The work done is:",
+          "options": ["A) 17 J", "B) 23 J", "C) 60 J", "D) 80 J"],
+          "correct": "C"
+        },
+        {
+          "qNo": 10,
+          "question": "Which factor does not affect the work done?",
+          "options": ["A) Magnitude of force", "B) Displacement", "C) Angle between force and displacement", "D) Mass of the body"],
+          "correct": "D"
+        },
+        {
+          "qNo": 11,
+          "question": "Positive work is done when:",
+          "options": ["A) Force and displacement are in the same direction.", "B) Force and displacement are opposite.", "C) Force is perpendicular to displacement.", "D) There is no displacement."],
+          "correct": "A"
+        },
+        {
+          "qNo": 12,
+          "question": "A man carries a suitcase horizontally at constant height. The work done by the man on the suitcase is:",
+          "options": ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+          "correct": "C"
+        },
+        {
+          "qNo": 13,
+          "question": "Which of the following situations involves negative work?",
+          "options": ["A) Lifting a book upward", "B) A car accelerating forward", "C) Friction acting on a moving block", "D) Pushing a trolley forward"],
+          "correct": "C"
+        },
+        {
+          "qNo": 14,
+          "question": "A force of 15 N acts at an angle of 60° to the displacement of 4 m. The work done is:",
+          "options": ["A) 15 J", "B) 30 J", "C) 60 J", "D) 120 J"],
+          "correct": "B"
+        },
+        {
+          "qNo": 15,
+          "question": "Which statement is correct?",
+          "options": ["A) Work is a vector quantity.", "B) Work can be positive, negative, or zero.", "C) Work is measured in newtons.", "D) Work depends only on force."],
+          "correct": "B"
+        }
+      ],
+
+     "Work Done by a Variable Force":[
+      
+        {
+          "qNo": 1,
+          "question": "A variable force is a force that:",
+          "options": ["A) Remains constant throughout the motion", "B) Changes in magnitude or direction during motion", "C) Is always zero", "D) Is always perpendicular to displacement"],
+          "correct": "B"
+        },
+        {
+          "qNo": 2,
+          "question": "The work done by a variable force is equal to:",
+          "options": ["A) Force × Time", "B) Area under the Force–Displacement graph", "C) Area under the Velocity–Time graph", "D) Mass × Acceleration"],
+          "correct": "B"
+        },
+        {
+          "qNo": 3,
+          "question": "The SI unit of work done by a variable force is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "correct": "B"
+        },
+        {
+          "qNo": 4,
+          "question": "If the force–displacement graph is a horizontal line at 10 N from 0 m to 5 m, the work done is:",
+          "options": ["A) 10 J", "B) 25 J", "C) 50 J", "D) 100 J"],
+          "correct": "C"
+        },
+        {
+          "qNo": 5,
+          "question": "If the force–displacement graph forms a triangle with base 4 m and height 20 N, the work done is:",
+          "options": ["A) 20 J", "B) 40 J", "C) 60 J", "D) 80 J"],
+          "correct": "B"
+        },
+        {
+          "qNo": 6,
+          "question": "The area under a Force–Displacement graph represents:",
+          "options": ["A) Power", "B) Momentum", "C) Work done", "D) Acceleration"],
+          "correct": "C"
+        },
+        {
+          "qNo": 7,
+          "question": "If the force changes with displacement, the formula is:",
+          "options": ["A) Always correct", "B) Applicable only if force remains constant", "C) Never correct", "D) Used only for circular motion"],
+          "correct": "B"
+        },
+        {
+          "qNo": 8,
+          "question": "If the force–displacement graph lies below the displacement axis, the work done is:",
+          "options": ["A) Positive", "B) Zero", "C) Negative", "D) Infinite"],
+          "correct": "C"
+        },
+        {
+          "qNo": 9,
+          "question": "Which graph is most useful for calculating work done by a variable force?",
+          "options": ["A) Velocity–Time graph", "B) Displacement–Time graph", "C) Force–Displacement graph", "D) Acceleration–Time graph"],
+          "correct": "C"
+        },
+        {
+          "qNo": 10,
+          "question": "A variable force acts on a body, but the displacement is zero. The work done is:",
+          "options": ["A) Positive", "B) Negative", "C) Zero", "D) Cannot be determined"],
+          "correct": "C"
+        },
+        {
+          "qNo": 11,
+          "question": "A rectangular Force–Displacement graph has a height of 15 N and a width of 6 m. The work done is:",
+          "options": ["A) 45 J", "B) 60 J", "C) 75 J", "D) 90 J"],
+          "correct": "D"
+        },
+        {
+          "qNo": 12,
+          "question": "A Force–Displacement graph is triangular with base 8 m and height 5 N. The work done is:",
+          "options": ["A) 10 J", "B) 20 J", "C) 30 J", "D) 40 J"],
+          "correct": "B"
+        },
+        {
+          "qNo": 13,
+          "question": "Which quantity is represented by the slope of a Force–Displacement graph?",
+          "options": ["A) Work", "B) Power", "C) It has no standard physical significance in basic mechanics", "D) Momentum"],
+          "correct": "C"
+        },
+        {
+          "qNo": 14,
+          "question": "Work done by a variable force depends on:",
+          "options": ["A) Only the maximum force", "B) Only the displacement", "C) The entire variation of force with displacement", "D) Only the mass of the object"],
+          "correct": "C"
+        },
+        {
+          "qNo": 15,
+          "question": "Which statement is correct?",
+          "options": ["A) Work done by a variable force is always positive.", "B) Work done can be found by calculating the area under the Force–Displacement graph.", "C) Variable force cannot do work.", "D) The SI unit of work is Newton."],
+          "correct": "B"
+        }
+      ],
+    
+       "Potential Energy": [
+        {
+          "qid": 1,
+          "question": "Potential energy is the energy possessed by a body due to its:",
+          "options": ["A) Motion", "B) Position or configuration", "C) Temperature", "D) Speed"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The SI unit of potential energy is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "The gravitational potential energy of a body near Earth's surface is given by:",
+          "options": ["A) (1/2)mv²", "B) mgh", "C) F×d", "D) mv"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "A body of mass 5 kg is raised to a height of 4 m. Take g=10 m/s². The potential energy gained is:",
+          "options": ["A) 50 J", "B) 100 J", "C) 200 J", "D) 400 J"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "If the height of a body is doubled, its gravitational potential energy becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "Which of the following has the maximum gravitational potential energy?",
+          "options": ["A) A book on the floor", "B) A ball on a table", "C) A bird flying at a height", "D) A stone underground"],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "If the mass of a body is doubled while the height remains the same, its potential energy becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "A body lying on the ground is taken as the reference level. Its gravitational potential energy is:",
+          "options": ["A) Always zero", "B) Usually taken as zero", "C) Infinite", "D) Negative only"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "Which quantity does not affect gravitational potential energy?",
+          "options": ["A) Mass", "B) Height", "C) Acceleration due to gravity", "D) Velocity"],
+          "answer": "D"
+        },
+        {
+          "qid": 10,
+          "question": "A body of mass 2 kg has 100 J of gravitational potential energy. Take g=10 m/s². Its height is:",
+          "options": ["A) 2.5 m", "B) 5 m", "C) 10 m", "D) 20 m"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "A body falls freely from a height. Its gravitational potential energy:",
+          "options": ["A) Increases", "B) Remains constant", "C) Decreases", "D) Becomes negative only"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "A body is lifted from 2 m to 8 m. The increase in height is 6 m. If its mass is 3 kg and g=10 m/s², the increase in potential energy is:",
+          "options": ["A) 60 J", "B) 120 J", "C) 180 J", "D) 240 J"],
+          "answer": "C"
+        },
+        {
+          "qid": 13,
+          "question": "Which of the following has zero gravitational potential energy if the ground is chosen as the reference level?",
+          "options": ["A) A bird flying", "B) A ball on a roof", "C) A stone lying on the ground", "D) A person standing on a ladder"],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "Potential energy is a:",
+          "options": ["A) Vector quantity", "B) Scalar quantity", "C) Sometimes vector", "D) Neither"],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement is correct?",
+          "options": ["A) Potential energy depends only on speed.", "B) Potential energy is always negative.", "C) Gravitational potential energy depends on the chosen reference level.", "D) Potential energy is a vector quantity."],
+          "answer": "C"
+        }
+      ],
+     "Kinetic Energy": [
+        {
+          "qid": 1,
+          "question": "Kinetic energy is the energy possessed by a body due to its:",
+          "options": ["A) Position", "B) Shape", "C) Motion", "D) Temperature"],
+          "answer": "C"
+        },
+        {
+          "qid": 2,
+          "question": "The SI unit of kinetic energy is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "The formula for kinetic energy is:",
+          "options": ["A) mgh", "B) mv", "C) (1/2)mv²", "D) F×d"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "A body of mass 2 kg moves with a speed of 5 m/s. Its kinetic energy is:",
+          "options": ["A) 10 J", "B) 20 J", "C) 25 J", "D) 50 J"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "If the speed of a body is doubled, its kinetic energy becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "If the mass of a body is doubled while its speed remains constant, its kinetic energy becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "Which of the following has the greatest kinetic energy?",
+          "options": ["A) 2 kg moving at 2 m/s", "B) 1 kg moving at 4 m/s", "C) 4 kg moving at 3 m/s", "D) 5 kg at rest"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "A stationary object has kinetic energy:",
+          "options": ["A) Maximum", "B) Minimum", "C) Zero", "D) Infinite"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "Which quantity does kinetic energy depend on?",
+          "options": ["A) Mass only", "B) Speed only", "C) Both mass and speed", "D) Position only"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "A body of mass 4 kg has kinetic energy 200 J. Its speed is:",
+          "options": ["A) 5 m/s", "B) 10 m/s", "C) 15 m/s", "D) 20 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "Which of the following is a scalar quantity?",
+          "options": ["A) Velocity", "B) Force", "C) Kinetic energy", "D) Momentum"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "If both the mass and speed of a body are doubled, its kinetic energy becomes:",
+          "options": ["A) 2 times", "B) 4 times", "C) 8 times", "D) 16 times"],
+          "answer": "C"
+        },
+        {
+          "qid": 13,
+          "question": "A car moving at 20 m/s has kinetic energy K. If its speed becomes 10 m/s, its kinetic energy becomes:",
+          "options": ["A) K", "B) K/4", "C) K/2", "D) 2K"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "Which object has zero kinetic energy?",
+          "options": ["A) A flying bird", "B) A moving train", "C) A parked bicycle", "D) A rolling football"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement is correct?",
+          "options": ["A) Kinetic energy can never be zero.", "B) Kinetic energy depends on the direction of motion.", "C) Kinetic energy is always non-negative.", "D) Kinetic energy is a vector quantity."],
+          "answer": "C"
+        }
+      ],
+           "Work-Energy Theorem": [
+        {
+          "qid": 1,
+          "question": "The Work-Energy Theorem states that:",
+          "options": ["A) Work done equals momentum.", "B) Net work done equals the change in kinetic energy.", "C) Work done equals potential energy.", "D) Work done equals power × time."],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "According to the Work-Energy Theorem:",
+          "options": ["A) Work and momentum are equal", "B) Net work done = change in kinetic energy", "C) Work done = potential energy", "D) Work done = power × time"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "If the net work done on a body is positive, its kinetic energy:",
+          "options": ["A) Decreases", "B) Becomes zero", "C) Increases", "D) Remains constant"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "If the net work done on a body is negative, its kinetic energy:",
+          "options": ["A) Increases", "B) Decreases", "C) Remains constant", "D) Becomes infinite"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "If the net work done on a body is zero, its kinetic energy:",
+          "options": ["A) Doubles", "B) Becomes zero", "C) Remains unchanged", "D) Becomes negative"],
+          "answer": "C"
+        },
+        {
+          "qid": 6,
+          "question": "A force does 50 J of net work on a body. The change in kinetic energy is:",
+          "options": ["A) 25 J", "B) 50 J", "C) 75 J", "D) 100 J"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "A body initially has 20 J of kinetic energy. If 30 J of work is done on it, its final kinetic energy is:",
+          "options": ["A) 10 J", "B) 20 J", "C) 30 J", "D) 50 J"],
+          "answer": "D"
+        },
+        {
+          "qid": 8,
+          "question": "A body has 80 J of kinetic energy. If 20 J of negative work is done on it, the final kinetic energy is:",
+          "options": ["A) 20 J", "B) 60 J", "C) 80 J", "D) 100 J"],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "Which of the following is directly related by the Work-Energy Theorem?",
+          "options": ["A) Work and Momentum", "B) Work and Potential Energy", "C) Net Work and Change in Kinetic Energy", "D) Force and Power"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "The SI unit of both work and kinetic energy is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "A body starts from rest. If 200 J of net work is done on it, its kinetic energy becomes:",
+          "options": ["A) 0 J", "B) 100 J", "C) 200 J", "D) 400 J"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "Friction acts on a moving block. According to the Work-Energy Theorem, friction generally:",
+          "options": ["A) Increases kinetic energy", "B) Decreases kinetic energy", "C) Has no effect on kinetic energy", "D) Doubles kinetic energy"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "Which statement is correct?",
+          "options": ["A) Only conservative forces obey the Work-Energy Theorem.", "B) The theorem applies to the net work done by all forces.", "C) The theorem is valid only for constant forces.", "D) It applies only when the body starts from rest."],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "A body gains 120 J of kinetic energy. The net work done on it is:",
+          "options": ["A) –120 J", "B) 0 J", "C) 60 J", "D) 120 J"],
+          "answer": "D"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement is incorrect?",
+          "options": ["A) Positive net work increases kinetic energy.", "B) Negative net work decreases kinetic energy.", "C) Zero net work means no force acts on the body.", "D) Work-Energy Theorem relates work to the change in kinetic energy."],
+          "answer": "C"
+        }
+      ],
+          "Power": [
+        {
+          "qid": 1,
+          "question": "Power is defined as:",
+          "options": ["A) Force × Displacement", "B) Rate of doing work", "C) Energy stored in a body", "D) Change in momentum"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The SI unit of power is:",
+          "options": ["A) Joule", "B) Newton", "C) Watt", "D) Pascal"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "One watt is equal to:",
+          "options": ["A) 1 J", "B) 1 J/s", "C) 1 N·m", "D) 1 kg·m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "A machine does 200 J of work in 10 s. Its power is:",
+          "options": ["A) 10 W", "B) 20 W", "C) 100 W", "D) 200 W"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "If the time taken to do the same work is halved, the power becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "A force of 50 N acts in the direction of motion of a body moving at 4 m/s. The power developed is:",
+          "options": ["A) 50 W", "B) 100 W", "C) 200 W", "D) 250 W"],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "Which of the following has the highest power?",
+          "options": ["A) Doing 100 J of work in 20 s", "B) Doing 100 J of work in 10 s", "C) Doing 100 J of work in 5 s", "D) Doing 100 J of work in 2 s"],
+          "answer": "D"
+        },
+        {
+          "qid": 8,
+          "question": "Horsepower (hp) is a unit of:",
+          "options": ["A) Work", "B) Energy", "C) Power", "D) Force"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "Approximately, 1 horsepower is equal to:",
+          "options": ["A) 100 W", "B) 500 W", "C) 746 W", "D) 1000 W"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "A motor has a power rating of 500 W. This means it can do:",
+          "options": ["A) 500 J of work in 1 second", "B) 500 J of work in 10 seconds", "C) 1 J of work in 500 seconds", "D) 500 N of force"],
+          "answer": "A"
+        },
+        {
+          "qid": 11,
+          "question": "Which quantity is a scalar?",
+          "options": ["A) Force", "B) Velocity", "C) Power", "D) Displacement"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "A machine performs 900 J of work in 3 minutes. Its average power is:",
+          "options": ["A) 5 W", "B) 10 W", "C) 15 W", "D) 300 W"],
+          "answer": "A"
+        },
+        {
+          "qid": 13,
+          "question": "Which statement is correct?",
+          "options": ["A) A machine with higher power always does more work.", "B) Power tells us how quickly work is done.", "C) Power and work have the same SI unit.", "D) Power depends only on force."],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "Power =",
+          "options": ["A) Work / time", "B) Force × velocity", "C) Both A and B", "D) Energy × time"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "A body does 1200 J of work in 2 minutes. Its power is:",
+          "options": ["A) 10 W", "B) 20 W", "C) 30 W", "D) 40 W"],
+          "answer": "A"
+        }
+      ],
+         "Potential Energy of a Spring": [
+        {
+          "qid": 1,
+          "question": "A spring stores energy when it is:",
+          "options": ["A) At its natural length", "B) Stretched or compressed", "C) Moving with constant speed", "D) Rotating"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The potential energy stored in a spring is given by:",
+          "options": ["A) mgh", "B) (1/2)mv²", "C) (1/2)kx²", "D) F×d"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "The SI unit of spring potential energy is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "answer": "B"
+        },
+        {
+          "qid": 4,
+          "question": "A spring has a force constant k. It is stretched by x. The potential energy stored is:",
+          "options": ["A) 1 J", "B) 2 J", "C) 4 J", "D) 8 J"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "If the extension of a spring is doubled, the potential energy becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "At the natural length of a spring, its elastic potential energy is:",
+          "options": ["A) Maximum", "B) Minimum (zero)", "C) Negative", "D) Infinite"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "Which quantity determines the stiffness of a spring?",
+          "options": ["A) Mass", "B) Spring constant", "C) Length only", "D) Density"],
+          "answer": "B"
+        },
+        {
+          "qid": 8,
+          "question": "A spring with a larger spring constant is:",
+          "options": ["A) Softer", "B) Less stiff", "C) More stiff", "D) Weightless"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "The potential energy stored in a spring depends on:",
+          "options": ["A) Mass only", "B) Extension or compression only", "C) Both spring constant and extension/compression", "D) Time"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "A spring of force constant 200 N/m is compressed by 0.1 m. The elastic potential energy stored is:",
+          "options": ["A) 0.5 J", "B) 1 J", "C) 2 J", "D) 4 J"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "Which graph correctly represents the variation of spring potential energy with extension?",
+          "options": ["A) Straight line through the origin", "B) Horizontal line", "C) Parabola opening upward", "D) Downward sloping line"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "If the spring constant is doubled while the extension remains the same, the potential energy becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "The work done in stretching a spring from its natural length is stored as:",
+          "options": ["A) Kinetic energy", "B) Gravitational potential energy", "C) Elastic potential energy", "D) Heat energy only"],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "Which of the following has the greatest elastic potential energy?",
+          "options": ["A) A spring at natural length", "B) A spring stretched by 0.1 m", "C) A spring stretched by 0.3 m (same spring)", "D) A relaxed rubber band"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement is correct?",
+          "options": ["A) Spring potential energy can never be zero.", "B) Elastic potential energy depends on the square of the extension or compression.", "C) Elastic potential energy is a vector quantity.", "D) Elastic potential energy depends only on mass."],
+          "answer": "B"
+        }
+      ],
+          "Conservative Forces": [
+        {
+          "qid": 1,
+          "question": "A conservative force is one for which the work done:",
+          "options": ["A) Depends on the path taken", "B) Depends only on the initial and final positions", "C) Is always zero", "D) Is always positive"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "Which of the following is a conservative force?",
+          "options": ["A) Friction", "B) Air resistance", "C) Gravitational force", "D) Viscous force"],
+          "answer": "C"
+        },
+        {
+          "qid": 3,
+          "question": "Work done by a conservative force in a closed path is:",
+          "options": ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "Which of the following is not a conservative force?",
+          "options": ["A) Spring force", "B) Gravitational force", "C) Electrostatic force", "D) Friction"],
+          "answer": "D"
+        },
+        {
+          "qid": 5,
+          "question": "The work done by gravity in moving a body from one point to another depends on:",
+          "options": ["A) The path followed", "B) The speed of the body", "C) Only the initial and final positions", "D) The time taken"],
+          "answer": "C"
+        },
+        {
+          "qid": 6,
+          "question": "Which statement about conservative forces is correct?",
+          "options": ["A) They always oppose motion.", "B) They always do positive work.", "C) They have an associated potential energy.", "D) They always act horizontally."],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "A body is lifted vertically and then moved horizontally. The work done by gravity depends only on:",
+          "options": ["A) The horizontal distance", "B) The total path length", "C) The change in vertical height", "D) The time taken"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "If a particle returns to its starting point under the action of only conservative forces, the net work done is:",
+          "options": ["A) Positive", "B) Negative", "C) Zero", "D) Equal to its kinetic energy"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "Which pair consists only of conservative forces?",
+          "options": ["A) Gravity and friction", "B) Gravity and spring force", "C) Friction and air resistance", "D) Air resistance and spring force"],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "The SI unit of work done by a conservative force is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "Which quantity changes due to the work done by a conservative force?",
+          "options": ["A) Potential energy", "B) Mass", "C) Density", "D) Temperature only"],
+          "answer": "A"
+        },
+        {
+          "qid": 12,
+          "question": "A spring is stretched and then released. The restoring force is:",
+          "options": ["A) Non-conservative", "B) Conservative", "C) Frictional", "D) Magnetic"],
+          "answer": "B"
+        },
+        {
+          "qid": 13,
+          "question": "Which statement is incorrect?",
+          "options": ["A) Gravitational force is conservative.", "B) Spring force is conservative.", "C) Friction is conservative.", "D) Electrostatic force is conservative."],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "Why is friction called a non-conservative force?",
+          "options": ["A) It always acts upward.", "B) Its work done depends on the path taken.", "C) It has associated potential energy.", "D) It never opposes motion."],
+          "answer": "B"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement best describes non-conservative forces?",
+          "options": ["A) They always increase kinetic energy.", "B) Their work depends on the path taken and they can change the mechanical energy of a system.", "C) They always do zero work in a closed path.", "D) They always have an associated potential energy."],
+          "answer": "B"
+        }
+      ],
+         "Conservation of Mechanical Energy": [
+        {
+          "qid": 1,
+          "question": "Mechanical energy is the sum of:",
+          "options": ["A) Heat energy and light energy", "B) Kinetic energy and potential energy", "C) Electrical energy and magnetic energy", "D) Sound energy and heat energy"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "The law of conservation of mechanical energy states that:",
+          "options": ["A) Mechanical energy is always zero.", "B) Total mechanical energy remains constant if only conservative forces act.", "C) Kinetic energy always remains constant.", "D) Potential energy always remains constant."],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "A ball is dropped from a height. As it falls freely:",
+          "options": ["A) Kinetic energy decreases and potential energy increases.", "B) Both kinetic and potential energy increase.", "C) Potential energy decreases while kinetic energy increases.", "D) Both remain constant."],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "At the highest point of a vertically thrown ball (neglecting air resistance), the:",
+          "options": ["A) Kinetic energy is maximum.", "B) Potential energy is minimum.", "C) Kinetic energy is minimum and potential energy is maximum.", "D) Both are zero."],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "During free fall (neglecting air resistance), the total mechanical energy:",
+          "options": ["A) Increases", "B) Decreases", "C) Remains constant", "D) Becomes zero"],
+          "answer": "C"
+        },
+        {
+          "qid": 6,
+          "question": "A body has a total mechanical energy of 200 J. At a certain point, its kinetic energy is 80 J. Its potential energy is:",
+          "options": ["A) 80 J", "B) 100 J", "C) 120 J", "D) 200 J"],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "Which force allows mechanical energy to remain conserved?",
+          "options": ["A) Friction", "B) Air resistance", "C) Gravitational force", "D) Viscous force"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "A body slides down a smooth inclined plane. At the bottom:",
+          "options": ["A) Potential energy is maximum.", "B) Kinetic energy is maximum.", "C) Both kinetic and potential energies are zero.", "D) Mechanical energy decreases."],
+          "answer": "B"
+        },
+        {
+          "qid": 9,
+          "question": "If friction acts during motion, mechanical energy:",
+          "options": ["A) Is always conserved.", "B) Increases continuously.", "C) Decreases because some energy is converted into heat.", "D) Becomes infinite."],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "A pendulum swings without air resistance. At its mean position:",
+          "options": ["A) Potential energy is maximum.", "B) Kinetic energy is maximum.", "C) Both energies are equal.", "D) Both energies are zero."],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "At the extreme position of an ideal pendulum:",
+          "options": ["A) Kinetic energy is maximum.", "B) Potential energy is maximum.", "C) Both are maximum.", "D) Both are zero."],
+          "answer": "B"
+        },
+        {
+          "qid": 12,
+          "question": "Which of the following is true for an object moving under the influence of gravity alone?",
+          "options": ["A) Mechanical energy remains constant.", "B) Mechanical energy continuously decreases.", "C) Kinetic energy remains constant.", "D) Potential energy remains constant."],
+          "answer": "A"
+        },
+        {
+          "qid": 13,
+          "question": "A stone is thrown vertically upward. As it rises:",
+          "options": ["A) Kinetic energy increases.", "B) Potential energy decreases.", "C) Kinetic energy decreases while potential energy increases.", "D) Mechanical energy decreases."],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "Which of the following is not required for the conservation of mechanical energy?",
+          "options": ["A) Absence of friction", "B) Only conservative forces acting", "C) No energy loss due to air resistance", "D) Constant velocity throughout the motion"],
+          "answer": "D"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement is correct?",
+          "options": ["A) Mechanical energy is always conserved, even with friction.", "B) Mechanical energy is conserved only when non-conservative forces do no work.", "C) Potential energy can never convert into kinetic energy.", "D) Kinetic energy always remains constant."],
+          "answer": "B"
+        }
+      ],
+       "Non-Conservative Forces": [
+        {
+          "qid": 1,
+          "question": "A non-conservative force is one for which the work done:",
+          "options": ["A) Depends only on the initial and final positions", "B) Depends on the path followed", "C) Is always zero", "D) Is always positive"],
+          "answer": "B"
+        },
+        {
+          "qid": 2,
+          "question": "Which of the following is a non-conservative force?",
+          "options": ["A) Gravitational force", "B) Spring force", "C) Electrostatic force", "D) Friction"],
+          "answer": "D"
+        },
+        {
+          "qid": 3,
+          "question": "The work done by friction depends on:",
+          "options": ["A) Initial position only", "B) Final position only", "C) Path length", "D) Mass only"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "Work done by a non-conservative force in a closed path is:",
+          "options": ["A) Always zero", "B) Not necessarily zero", "C) Always positive", "D) Always negative"],
+          "answer": "B"
+        },
+        {
+          "qid": 5,
+          "question": "Which of the following is another example of a non-conservative force?",
+          "options": ["A) Air resistance", "B) Gravitational force", "C) Spring force", "D) Electrostatic force"],
+          "answer": "A"
+        },
+        {
+          "qid": 6,
+          "question": "A block slides on a rough surface. The force responsible for the loss of mechanical energy is:",
+          "options": ["A) Weight", "B) Normal reaction", "C) Friction", "D) Tension"],
+          "answer": "C"
+        },
+        {
+          "qid": 7,
+          "question": "Mechanical energy is not conserved in the presence of:",
+          "options": ["A) Gravity only", "B) Spring force only", "C) Friction", "D) Electrostatic force"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "The mechanical energy lost due to friction is mainly converted into:",
+          "options": ["A) Sound and heat energy", "B) Gravitational energy", "C) Electrical energy only", "D) Nuclear energy"],
+          "answer": "A"
+        },
+        {
+          "qid": 9,
+          "question": "Which statement is correct?",
+          "options": ["A) Friction always increases mechanical energy.", "B) Friction converts mechanical energy into other forms of energy.", "C) Friction is a conservative force.", "D) Friction does no work."],
+          "answer": "B"
+        },
+        {
+          "qid": 10,
+          "question": "A car comes to rest after the brakes are applied. The loss in kinetic energy is mainly due to:",
+          "options": ["A) Gravity", "B) Friction between the brake pads and the wheels", "C) Magnetic force", "D) Normal reaction"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "Which quantity decreases due to the action of non-conservative forces?",
+          "options": ["A) Total energy of the universe", "B) Mechanical energy of the system", "C) Mass of the body", "D) Charge of the body"],
+          "answer": "B"
+        },
+        {
+          "qid": 12,
+          "question": "Which of the following is not a non-conservative force?",
+          "options": ["A) Air resistance", "B) Friction", "C) Viscous force", "D) Spring force"],
+          "answer": "D"
+        },
+        {
+          "qid": 13,
+          "question": "When a body moves through a fluid, the resisting force is called:",
+          "options": ["A) Tension", "B) Electrostatic force", "C) Viscous force (drag)", "D) Normal reaction"],
+          "answer": "C"
+        },
+        {
+          "qid": 14,
+          "question": "Which statement is incorrect?",
+          "options": ["A) Friction depends on the path length.", "B) Air resistance is a non-conservative force.", "C) Mechanical energy is always conserved in the presence of friction.", "D) Non-conservative forces often produce heat."],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement best describes non-conservative forces?",
+          "options": ["A) They always increase kinetic energy.", "B) Their work depends on the path taken and they can change the mechanical energy of a system.", "C) They always do zero work in a closed path.", "D) They always have an associated potential energy."],
+          "answer": "B"
+        }
+      ]
+    },
+    
+ "Medium":{
+      "Kinetic Energy": [
+        {
+          "qid": 1,
+          "question": "Kinetic energy is the energy possessed by a body due to its:",
+          "options": ["A) Position", "B) Shape", "C) Motion", "D) Temperature"],
+          "answer": "C"
+        },
+        {
+          "qid": 2,
+          "question": "The SI unit of kinetic energy is:",
+          "options": ["A) Newton", "B) Joule", "C) Watt", "D) Pascal"],
+          "answer": "B"
+        },
+        {
+          "qid": 3,
+          "question": "The formula for kinetic energy is:",
+          "options": ["A) mgh", "B) mv", "C) (1/2)mv²", "D) F×d"],
+          "answer": "C"
+        },
+        {
+          "qid": 4,
+          "question": "A body of mass 2 kg moves with a speed of 5 m/s. Its kinetic energy is:",
+          "options": ["A) 10 J", "B) 20 J", "C) 25 J", "D) 50 J"],
+          "answer": "C"
+        },
+        {
+          "qid": 5,
+          "question": "If the speed of a body is doubled, its kinetic energy becomes:",
+          "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 6,
+          "question": "If the mass of a body is doubled while its speed remains constant, its kinetic energy becomes:",
+          "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+          "answer": "B"
+        },
+        {
+          "qid": 7,
+          "question": "Which of the following has the greatest kinetic energy?",
+          "options": ["A) 2 kg moving at 2 m/s", "B) 1 kg moving at 4 m/s", "C) 4 kg moving at 3 m/s", "D) 5 kg at rest"],
+          "answer": "C"
+        },
+        {
+          "qid": 8,
+          "question": "A stationary object has kinetic energy:",
+          "options": ["A) Maximum", "B) Minimum", "C) Zero", "D) Infinite"],
+          "answer": "C"
+        },
+        {
+          "qid": 9,
+          "question": "Which quantity does kinetic energy depend on?",
+          "options": ["A) Mass only", "B) Speed only", "C) Both mass and speed", "D) Position only"],
+          "answer": "C"
+        },
+        {
+          "qid": 10,
+          "question": "A body of mass 4 kg has kinetic energy 200 J. Its speed is:",
+          "options": ["A) 5 m/s", "B) 10 m/s", "C) 15 m/s", "D) 20 m/s"],
+          "answer": "B"
+        },
+        {
+          "qid": 11,
+          "question": "Which of the following is a scalar quantity?",
+          "options": ["A) Velocity", "B) Force", "C) Kinetic energy", "D) Momentum"],
+          "answer": "C"
+        },
+        {
+          "qid": 12,
+          "question": "If both the mass and speed of a body are doubled, its kinetic energy becomes:",
+          "options": ["A) 2 times", "B) 4 times", "C) 8 times", "D) 16 times"],
+          "answer": "C"
+        },
+        {
+          "qid": 13,
+          "question": "A car moving at 20 m/s has kinetic energy K. If its speed becomes 10 m/s, its kinetic energy becomes:",
+          "options": ["A) K", "B) K/4", "C) K/2", "D) 2K"],
+          "answer": "B"
+        },
+        {
+          "qid": 14,
+          "question": "Which object has zero kinetic energy?",
+          "options": ["A) A flying bird", "B) A moving train", "C) A parked bicycle", "D) A rolling football"],
+          "answer": "C"
+        },
+        {
+          "qid": 15,
+          "question": "Which statement is correct?",
+          "options": ["A) Kinetic energy can never be zero.", "B) Kinetic energy depends on the direction of motion.", "C) Kinetic energy is always non-negative.", "D) Kinetic energy is a vector quantity."],
+          "answer": "C"
+        }
+    
+      ],
+  "Work-Energy Theorem": [
+    {
+      "question": "A block of mass 2 kg is initially at rest. A constant force of 10 N acts on it through a distance of 5 m on a frictionless surface. The final kinetic energy of the block is:",
+      "options": ["25 J", "50 J", "75 J", "100 J"],
+      "answer": "50 J"
+    },
+    {
+      "question": "A particle has an initial kinetic energy of 80 J. If –30 J of work is done on it, its final kinetic energy is:",
+      "options": ["30 J", "50 J", "80 J", "110 J"],
+      "answer": "50 J"
+    },
+    {
+      "question": "A net work of 120 J is done on a body. Its kinetic energy:",
+      "options": ["Decreases by 120 J", "Increases by 120 J", "Remains unchanged", "Cannot be determined"],
+      "answer": "Increases by 120 J"
+    },
+    {
+      "question": "A force does –60 J of work on a moving particle. Which statement is correct?",
+      "options": ["The particle gains kinetic energy.", "The particle loses 60 J of kinetic energy.", "Momentum becomes zero.", "Potential energy becomes zero."],
+      "answer": "The particle loses 60 J of kinetic energy."
+    },
+    {
+      "question": "Assertion (A): The Work-Energy Theorem is valid even when several forces act on a body. Reason (R): It depends on the net work done by all the forces.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "A block slides 4 m under a horizontal force of 15 N while friction of 5 N opposes the motion. The increase in kinetic energy is:",
+      "options": ["20 J", "40 J", "60 J", "80 J"],
+      "answer": "40 J"
+    },
+    {
+      "question": "The Work-Energy Theorem is expressed as:",
+      "options": ["W=KE", "W=PE", "W_net=ΔKE", "W=F/t"],
+      "answer": "W_net=ΔKE"
+    },
+    {
+      "question": "A body moves at constant speed on a horizontal rough surface. The net work done on the body is:",
+      "options": ["Positive", "Negative", "Zero", "Equal to its kinetic energy"],
+      "answer": "Zero"
+    },
+    {
+      "question": "Which of the following is not required for applying the Work-Energy Theorem?",
+      "options": ["Constant force", "Net work", "Change in kinetic energy", "Initial and final states"],
+      "answer": "Constant force"
+    },
+    {
+      "question": "A particle's kinetic energy changes from 150 J to 90 J. The net work done on the particle is:",
+      "options": ["+60 J", "–60 J", "+240 J", "–240 J"],
+      "answer": "–60 J"
+    },
+    {
+      "question": "A force of 25 N acts on a body through 8 m. Friction does –80 J of work. The net work done is:",
+      "options": ["80 J", "120 J", "200 J", "280 J"],
+      "answer": "120 J"
+    },
+    {
+      "question": "A particle starts from rest. If the net work done on it is 72 J, its final kinetic energy is:",
+      "options": ["36 J", "72 J", "108 J", "144 J"],
+      "answer": "72 J"
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": ["Zero work means zero force.", "Zero net work implies no change in kinetic energy.", "Positive work always means constant speed.", "Negative work always stops the body immediately."],
+      "answer": "Zero net work implies no change in kinetic energy."
+    },
+    {
+      "question": "A body moving on a smooth horizontal surface has no net external force acting on it. According to the Work-Energy Theorem, its kinetic energy:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "answer": "Remains constant"
+    },
+    {
+      "question": "A body initially has 40 J of kinetic energy. An external force does 100 J of work, while friction does –20 J of work. The final kinetic energy is:",
+      "options": ["100 J", "120 J", "140 J", "160 J"],
+      "answer": "120 J"
+    }
+  ],
+  "Power": [
+    {
+      "question": "A machine does 600 J of work in 15 s. Its average power is:",
+      "options": ["20 W", "30 W", "40 W", "50 W"],
+      "answer": "40 W"
+    },
+    {
+      "question": "A force of 50 N acts on a body moving with a velocity of 8 m/s in the same direction. The instantaneous power developed is:",
+      "options": ["200 W", "300 W", "400 W", "500 W"],
+      "answer": "400 W"
+    },
+    {
+      "question": "A force of 20 N acts at an angle of 60° to the velocity of a particle moving at 10 m/s. The instantaneous power is:",
+      "options": ["100 W", "150 W", "200 W", "400 W"],
+      "answer": "100 W"
+    },
+    {
+      "question": "Assertion (A): Power can be zero even when a force acts on a body. Reason (R): If the velocity is perpendicular to the force, instantaneous power is zero.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "A motor is rated at 2 kW. It can do how much work in 30 s?",
+      "options": ["30,000 J", "60,000 J", "90,000 J", "120,000 J"],
+      "answer": "60,000 J"
+    },
+    {
+      "question": "A body moves with constant velocity under the action of a constant force. If its speed doubles while the force remains unchanged, the power becomes:",
+      "options": ["Half", "Double", "Four times", "Unchanged"],
+      "answer": "Double"
+    },
+    {
+      "question": "The SI unit kilowatt-hour (kWh) is a unit of:",
+      "options": ["Power", "Energy", "Force", "Momentum"],
+      "answer": "Energy"
+    },
+    {
+      "question": "One kilowatt-hour is equal to:",
+      "options": ["3.6×10^3 J", "3.6×10^4 J", "3.6×10^5 J", "3.6×10^6 J"],
+      "answer": "3.6×10^6 J"
+    },
+    {
+      "question": "A force acts opposite to the direction of motion of a particle. The instantaneous power is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "answer": "Negative"
+    },
+    {
+      "question": "Which expression gives instantaneous power?",
+      "options": ["P=W/t", "P=F ⋅ v", "P=mv", "P=Fs"],
+      "answer": "P=F ⋅ v"
+    },
+    {
+      "question": "Two machines perform the same amount of work. Machine A takes half the time taken by Machine B. The ratio of their powers P_A:P_B is:",
+      "options": ["1 : 2", "2 : 1", "1 : 4", "4 : 1"],
+      "answer": "2 : 1"
+    },
+    {
+      "question": "A pump of power 500 W works continuously for 2 minutes. The work done is:",
+      "options": ["30,000 J", "60,000 J", "90,000 J", "120,000 J"],
+      "answer": "60,000 J"
+    },
+    {
+      "question": "A particle moves in a circle with constant speed. The centripetal force acting on it produces:",
+      "options": ["Positive power", "Negative power", "Zero power", "Infinite power"],
+      "reason": "Centripetal force is always perpendicular to velocity.",
+      "answer": "Zero power"
+    },
+    {
+      "question": "Which of the following is equivalent to 1 watt?",
+      "options": ["1 N·m", "1 J/s", "1 kg·m/s", "1 N/s"],
+      "answer": "1 J/s"
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": ["Power depends only on the amount of work done.", "A body can have zero instantaneous power even when a non-zero force acts on it.", "Power is a vector quantity.", "Power and energy have the same SI unit."],
+      "answer": "A body can have zero instantaneous power even when a non-zero force acts on it."
+    }
+  ],
+  "Potential Energy": [
+    {
+      "question": "A body of mass 8 kg is lifted from a height of 5 m to 20 m. Take g=10 m/s². The increase in gravitational potential energy is:",
+      "options": ["800 J", "1000 J", "1200 J", "1600 J"],
+      "answer": "1200 J"
+    },
+    {
+      "question": "A body has a gravitational potential energy of 450 J at a certain height. If its mass is 5 kg and g=10 m/s², the height is:",
+      "options": ["6 m", "8 m", "9 m", "12 m"],
+      "answer": "9 m"
+    },
+    {
+      "question": "If the mass of a body is doubled and its height is halved, its gravitational potential energy:",
+      "options": ["Doubles", "Becomes half", "Remains unchanged", "Becomes four times"],
+      "answer": "Remains unchanged"
+    },
+    {
+      "question": "Assertion (A): Gravitational potential energy depends on the chosen reference level. Reason (R): Only the difference in potential energy between two points has physical significance.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "A particle moves from ground level to the top of a building. Which quantity increases?",
+      "options": ["Kinetic energy only", "Potential energy only", "Momentum only", "Speed only"],
+      "answer": "Potential energy only"
+    },
+    {
+      "question": "Two bodies have masses in the ratio 2 : 5 and are placed at heights in the ratio 3 : 2. The ratio of their gravitational potential energies is:",
+      "options": ["2 : 5", "3 : 2", "6 : 10", "3 : 5"],
+      "answer": "3 : 5"
+    },
+    {
+      "question": "A body falls freely from a height. At the halfway point (by height), neglecting air resistance:",
+      "options": ["Potential energy is zero.", "Potential energy is half of its initial value.", "Kinetic energy is zero.", "Total mechanical energy decreases."],
+      "answer": "Potential energy is half of its initial value."
+    },
+    {
+      "question": "Which graph correctly represents gravitational potential energy versus height near Earth's surface?",
+      "options": ["Horizontal line", "Straight line passing through the origin", "Parabola", "Hyperbola"],
+      "answer": "Straight line passing through the origin"
+    },
+    {
+      "question": "A body of mass 3 kg is raised vertically by 4 m. The work done against gravity is:",
+      "options": ["30 J", "60 J", "90 J", "120 J"],
+      "answer": "120 J"
+    },
+    {
+      "question": "A body moves horizontally on a smooth surface. Its gravitational potential energy:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "answer": "Remains constant"
+    },
+    {
+      "question": "Which statement is incorrect?",
+      "options": ["Gravitational potential energy is a scalar quantity.", "It depends on the reference level.", "It depends on mass and height.", "It depends on the velocity of the body."],
+      "answer": "It depends on the velocity of the body."
+    },
+    {
+      "question": "A stone is projected vertically upward. As it rises:",
+      "options": ["Potential energy increases while kinetic energy decreases.", "Both kinetic and potential energies increase.", "Both decrease.", "Potential energy decreases."],
+      "answer": "Potential energy increases while kinetic energy decreases."
+    },
+    {
+      "question": "The SI unit of gravitational potential energy is:",
+      "options": ["N", "J", "W", "kg·m/s"],
+      "answer": "J"
+    },
+    {
+      "question": "If the acceleration due to gravity at a place becomes half while mass and height remain unchanged, the gravitational potential energy becomes:",
+      "options": ["Double", "Half", "Four times", "Unchanged"],
+      "answer": "Half"
+    },
+    {
+      "question": "A body has a potential energy of 500 J. If it falls and loses 200 J of potential energy, its remaining potential energy is:",
+      "options": ["100 J", "200 J", "300 J", "700 J"],
+      "answer": "300 J"
+    }
+  ],
+  "Potential Energy of a Spring": [
+    {
+      "question": "A spring of force constant 200 N/m is stretched by 0.3 m. The elastic potential energy stored is:",
+      "options": ["4.5 J", "6 J", "9 J", "18 J"],
+      "answer": "9 J"
+    },
+    {
+      "question": "The force constant of a spring is 400 N/m. If the elastic potential energy stored is 8 J, the extension of the spring is:",
+      "options": ["0.1 m", "0.2 m", "0.3 m", "0.4 m"],
+      "answer": "0.2 m"
+    },
+    {
+      "question": "If the extension of a spring is tripled, the elastic potential energy becomes:",
+      "options": ["Three times", "Six times", "Nine times", "Twenty-seven times"],
+      "answer": "Nine times"
+    },
+    {
+      "question": "Assertion (A): The work done in stretching a spring is stored as elastic potential energy. Reason (R): The spring force is a conservative force.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "The graph of elastic potential energy versus extension is:",
+      "options": ["A straight line", "A horizontal line", "A parabola opening upward", "A parabola opening downward"],
+      "answer": "A parabola opening upward"
+    },
+    {
+      "question": "Two identical springs are stretched by 2 cm and 4 cm, respectively. The ratio of the elastic potential energies stored is:",
+      "options": ["1 : 2", "1 : 4", "2 : 1", "4 : 1"],
+      "answer": "1 : 4"
+    },
+    {
+      "question": "A spring is compressed instead of stretched by the same amount. The elastic potential energy stored will be:",
+      "options": ["Zero", "Less", "Same", "Double"],
+      "answer": "Same"
+    },
+    {
+      "question": "A spring has a force constant 100 N/m. It is compressed by 0.4 m. The stored energy is:",
+      "options": ["4 J", "6 J", "8 J", "10 J"],
+      "answer": "8 J"
+    },
+    {
+      "question": "If the spring constant is doubled while the extension is halved, the elastic potential energy becomes:",
+      "options": ["Half", "Same", "Double", "One-fourth"],
+      "answer": "Half"
+    },
+    {
+      "question": "The SI unit of the spring constant is:",
+      "options": ["J", "N", "N/m", "kg"],
+      "answer": "N/m"
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": ["Elastic potential energy depends linearly on extension.", "It depends on the square of the extension.", "It depends only on mass.", "It is a vector quantity."],
+      "answer": "It depends on the square of the extension."
+    },
+    {
+      "question": "A spring stores 18 J of energy when stretched by 0.6 m. Its force constant is:",
+      "options": ["50 N/m", "100 N/m", "150 N/m", "200 N/m"],
+      "answer": "100 N/m"
+    },
+    {
+      "question": "When the extension of a spring becomes zero, the elastic potential energy:",
+      "options": ["Is maximum", "Is minimum (zero)", "Becomes negative", "Depends on mass"],
+      "answer": "Is minimum (zero)"
+    },
+    {
+      "question": "Which of the following graphs correctly represents spring force versus extension? (Hooke's Law: F=kx)",
+      "options": ["Horizontal line", "Straight line through the origin", "Parabola", "Hyperbola"],
+      "answer": "Straight line through the origin"
+    },
+    {
+      "question": "A spring is stretched from 0.2 m to 0.4 m. The increase in elastic potential energy is:",
+      "options": ["Proportional to the increase in extension.", "Proportional to the square of the extension.", "Independent of extension.", "Zero."],
+      "answer": "Proportional to the square of the extension."
+    }
+  ],
+  "Conservative Forces": [
+    {
+      "question": "A particle is moved from point A to point B by two different paths under the action of gravity. The work done by gravity is:",
+      "options": ["Greater for the longer path", "Greater for the shorter path", "Same for both paths", "Zero for both paths"],
+      "answer": "Same for both paths"
+    },
+    {
+      "question": "A particle completes one full revolution in a vertical circle under gravity. The work done by gravity over one complete revolution is:",
+      "options": ["Positive", "Negative", "Zero", "Depends on the radius"],
+      "answer": "Zero"
+    },
+    {
+      "question": "Which of the following sets contains only conservative forces?",
+      "options": ["Gravity, friction, spring force", "Gravity, electrostatic force, spring force", "Friction, air resistance, viscous force", "Tension, friction, drag"],
+      "answer": "Gravity, electrostatic force, spring force"
+    },
+    {
+      "question": "Assertion (A): The work done by a conservative force in a closed path is zero. Reason (R): The work done by a conservative force depends only on the initial and final positions.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "Which of the following statements is incorrect?",
+      "options": ["Gravitational force is conservative.", "Electrostatic force is conservative.", "Spring force is conservative.", "Friction is conservative."],
+      "answer": "Friction is conservative."
+    },
+    {
+      "question": "The work done by gravity when a body is lifted vertically upward by height h is:",
+      "options": ["+mgh", "-mgh", "Zero", "Depends on the path"],
+      "answer": "-mgh"
+    },
+    {
+      "question": "Which property is unique to conservative forces?",
+      "options": ["They always oppose motion.", "They always do positive work.", "A potential energy function can be defined for them.", "They always act vertically downward."],
+      "answer": "A potential energy function can be defined for them."
+    },
+    {
+      "question": "A particle moves around a square path and returns to its starting point under the influence of gravity alone. The work done by gravity is:",
+      "options": ["Positive", "Negative", "Zero", "Equal to mgh"],
+      "answer": "Zero"
+    },
+    {
+      "question": "If only conservative forces act on a system, its:",
+      "options": ["Momentum is always conserved.", "Mechanical energy remains constant.", "Kinetic energy remains constant.", "Potential energy remains constant."],
+      "answer": "Mechanical energy remains constant."
+    },
+    {
+      "question": "A body moves from height 10 m to 4 m. The work done by gravity is:",
+      "options": ["+6mg", "-6mg", "+14mg", "Zero"],
+      "answer": "+6mg"
+    },
+    {
+      "question": "Which graph best represents the work done by a conservative force between two fixed points?",
+      "options": ["It increases with path length.", "It decreases with path length.", "It is independent of the path.", "It is always zero."],
+      "answer": "It is independent of the path."
+    },
+    {
+      "question": "A body is moved from point A to B by an external force at constant speed. If gravity is the only conservative force acting, then:",
+      "options": ["External work equals the increase in gravitational potential energy.", "External work is zero.", "Gravity does positive work.", "Mechanical energy decreases."],
+      "answer": "External work equals the increase in gravitational potential energy."
+    },
+    {
+      "question": "Which of the following is not true for conservative forces?",
+      "options": ["Closed-path work is zero.", "Path-independent work.", "Potential energy can be defined.", "They always reduce kinetic energy."],
+      "answer": "They always reduce kinetic energy."
+    },
+    {
+      "question": "The mathematical relation between conservative force and potential energy is:",
+      "options": ["F=dU/dx", "F=-dU/dx", "F=U×x", "F=U/x"],
+      "answer": "F=-dU/dx"
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": ["Conservative forces always increase mechanical energy.", "Mechanical energy is conserved only when non-conservative forces do no work.", "Friction is a conservative force because it opposes motion.", "The work done by gravity depends on the path followed."],
+      "answer": "Mechanical energy is conserved only when non-conservative forces do no work."
+    }
+  ],
+  "Conservation of Mechanical Energy": [
+    {
+      "question": "A body of mass 2 kg is dropped from a height of 20 m. Neglecting air resistance (g=10 m/s²), its kinetic energy just before hitting the ground is:",
+      "options": ["200 J", "300 J", "400 J", "500 J"],
+      "answer": "400 J"
+    },
+    {
+      "question": "A particle has a total mechanical energy of 500 J. At a certain point, its potential energy is 180 J. Its kinetic energy is:",
+      "options": ["180 J", "220 J", "320 J", "680 J"],
+      "answer": "320 J"
+    },
+    {
+      "question": "A body is projected vertically upward with an initial kinetic energy of 800 J. Ignoring air resistance, its potential energy at the highest point is:",
+      "options": ["0 J", "400 J", "800 J", "1600 J"],
+      "answer": "800 J"
+    },
+    {
+      "question": "Assertion (A): In the absence of non-conservative forces, mechanical energy remains constant. Reason (R): Conservative forces only convert kinetic energy into potential energy and vice versa.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "A stone falls freely from rest. After falling through one-fourth of its initial height, the ratio of its kinetic energy to potential energy is:",
+      "options": ["1 : 3", "1 : 4", "3 : 1", "1 : 1"],
+      "answer": "1 : 3"
+    },
+    {
+      "question": "A pendulum swings without air resistance. At the mean position:",
+      "options": ["PE is maximum", "KE is maximum", "Total mechanical energy is minimum", "KE is zero"],
+      "answer": "KE is maximum"
+    },
+    {
+      "question": "A body slides down a smooth incline from height 8 m. Its speed at the bottom is:",
+      "options": ["8 m/s", "4√5 m/s", "8√5 m/s", "16 m/s"],
+      "answer": "4√5 m/s"
+    },
+    {
+      "question": "Mechanical energy is conserved when:",
+      "options": ["Friction acts", "Air resistance acts", "Only conservative forces act", "External work is always positive"],
+      "answer": "Only conservative forces act"
+    },
+    {
+      "question": "A body moves upward under gravity alone. As it rises:",
+      "options": ["KE increases and PE decreases", "KE decreases and PE increases", "Both increase", "Both decrease"],
+      "answer": "KE decreases and PE increases"
+    },
+    {
+      "question": "A spring is compressed and then released on a frictionless surface. During the motion:",
+      "options": ["Mechanical energy decreases continuously", "Mechanical energy remains constant", "Kinetic energy remains constant", "Potential energy remains constant"],
+      "answer": "Mechanical energy remains constant"
+    },
+    {
+      "question": "A block starts from rest at height 5 m on a smooth track. The fraction of total mechanical energy that is kinetic at a height of 2 m above the ground is:",
+      "options": ["2/5", "3/5", "2/3", "5/2"],
+      "answer": "3/5"
+    },
+    {
+      "question": "Which quantity remains constant during free fall (ignoring air resistance)?",
+      "options": ["Speed", "Potential energy", "Mechanical energy", "Kinetic energy"],
+      "answer": "Mechanical energy"
+    },
+    {
+      "question": "A body loses 250 J of potential energy while moving. If only conservative forces act, the gain in kinetic energy is:",
+      "options": ["125 J", "200 J", "250 J", "500 J"],
+      "answer": "250 J"
+    },
+    {
+      "question": "Which of the following causes mechanical energy not to be conserved?",
+      "options": ["Gravity", "Spring force", "Friction", "Electrostatic force"],
+      "answer": "Friction"
+    },
+    {
+      "question": "A body moves in a vertical circle on a smooth track. At the lowest point, it has:",
+      "options": ["Maximum PE and minimum KE", "Minimum PE and maximum KE", "Maximum PE and maximum KE", "Minimum PE and minimum KE"],
+      "answer": "Minimum PE and maximum KE"
+    }
+  ],
+  "Non-Conservative Forces": [
+    {
+      "question": "A block slides 8 m on a rough horizontal surface. If the frictional force is 15 N, the work done by friction is:",
+      "options": ["120 J", "–120 J", "–15 J", "15 J"],
+      "answer": "–120 J"
+    },
+    {
+      "question": "A body loses 250 J of mechanical energy due to friction. The lost energy is mainly converted into:",
+      "options": ["Gravitational potential energy", "Heat and sound energy", "Nuclear energy", "Electrical energy only"],
+      "answer": "Heat and sound energy"
+    },
+    {
+      "question": "Assertion (A): Friction is a non-conservative force. Reason (R): The work done by friction depends on the path followed.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "A body moves around a closed path under the action of friction alone. The work done by friction over one complete cycle is:",
+      "options": ["Zero", "Positive", "Negative", "Depends on mass only"],
+      "answer": "Negative"
+    },
+    {
+      "question": "A block moves on a rough surface. Which statement is correct?",
+      "options": ["Mechanical energy remains constant.", "Total energy is not conserved.", "Mechanical energy decreases while total energy remains conserved.", "Both mechanical energy and total energy decrease."],
+      "answer": "Mechanical energy decreases while total energy remains conserved."
+    },
+    {
+      "question": "A body moves 12 m on a rough surface. The coefficient of friction is constant. Doubling the distance will make the work done by friction:",
+      "options": ["Half", "Same", "Double", "Four times"],
+      "answer": "Double"
+    },
+    {
+      "question": "Which of the following is not a non-conservative force?",
+      "options": ["Air resistance", "Friction", "Viscous drag", "Electrostatic force"],
+      "answer": "Electrostatic force"
+    },
+    {
+      "question": "A particle moves from A to B by two different paths in the presence of friction. The work done by friction is:",
+      "options": ["Same for both paths", "Zero for both paths", "Different for different paths", "Independent of distance"],
+      "answer": "Different for different paths"
+    },
+    {
+      "question": "A 5 kg block slides 4 m on a rough surface with a frictional force of 10 N. The mechanical energy lost is:",
+      "options": ["10 J", "20 J", "30 J", "40 J"],
+      "answer": "40 J"
+    },
+    {
+      "question": "The work done by friction on a body moving with constant speed on a rough horizontal surface is:",
+      "options": ["Positive", "Negative", "Zero", "Equal to the kinetic energy"],
+      "answer": "Negative"
+    },
+    {
+      "question": "Which quantity is always conserved even in the presence of non-conservative forces?",
+      "options": ["Mechanical energy", "Kinetic energy", "Total energy", "Potential energy"],
+      "answer": "Total energy"
+    },
+    {
+      "question": "A car moves on a road and eventually stops after the engine is switched off. The decrease in kinetic energy is mainly due to:",
+      "options": ["Gravity", "Normal reaction", "Friction and air resistance", "Magnetic force"],
+      "answer": "Friction and air resistance"
+    },
+    {
+      "question": "Which graph best represents the work done by friction with increasing path length (constant friction)?",
+      "options": ["Horizontal line", "Straight line with positive slope", "Straight line with negative slope", "Parabola"],
+      "answer": "Straight line with negative slope"
+    },
+    {
+      "question": "A body starts with 600 J of mechanical energy. Due to friction, 150 J is converted into heat. The remaining mechanical energy is:",
+      "options": ["150 J", "300 J", "450 J", "600 J"],
+      "answer": "450 J"
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": ["Non-conservative forces always destroy energy.", "Mechanical energy lost due to non-conservative forces is converted into other forms of energy.", "Friction is a conservative force because it opposes motion.", "Non-conservative forces always do positive work."],
+      "answer": "Mechanical energy lost due to non-conservative forces is converted into other forms of energy."
+    }
+  ],
+  "Motion in a Vertical Circle": [
+    {
+      "question": "A body just completes a vertical circle of radius r. The minimum speed required at the highest point is:",
+      "options": ["√2gr", "√gr", "√3gr", "√5gr"],
+      "answer": "√gr"
+    },
+    {
+      "question": "A particle just completes a vertical circle. The minimum speed at the lowest point is:",
+      "options": ["√gr", "√2gr", "√3gr"],
+      "answer": "√3gr"
+    },
+    {
+      "question": "A particle moves in a vertical circle of radius 2 m. If g=10 m/s², the minimum speed at the top is:",
+      "options": ["2√5 m/s", "4√5 m/s", "5√2 m/s", "10 m/s"],
+      "answer": "2√5 m/s"
+    },
+    {
+      "question": "Assertion (A): At the highest point of a vertical circle, the tension may become zero. Reason (R): At the minimum speed required to complete the circle, gravity alone provides the centripetal force.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "At the lowest point of a vertical circle, the centripetal force is provided by:",
+      "options": ["Weight only", "Tension only", "T-mg", "T+mg"],
+      "answer": "T-mg"
+    },
+    {
+      "question": "At the highest point of a vertical circle, the centripetal force is:",
+      "options": ["T-mg", "T+mg", "mg-T", "mg"],
+      "answer": "T+mg"
+    },
+    {
+      "question": "If the speed at the top is less than √gr, the body will:",
+      "options": ["Move faster.", "Complete the circle.", "Lose contact with the string.", "Reverse direction immediately."],
+      "answer": "Lose contact with the string."
+    },
+    {
+      "question": "A body is just able to complete a vertical circle. The tension at the highest point is:",
+      "options": ["mg", "2mg", "Zero", "3mg"],
+      "answer": "Zero"
+    },
+    {
+      "question": "In vertical circular motion (without friction), which quantity remains constant?",
+      "options": ["Speed", "Tension", "Mechanical energy", "Centripetal force"],
+      "answer": "Mechanical energy"
+    },
+    {
+      "question": "A particle is moving in a vertical circle. At which point is the kinetic energy maximum?",
+      "options": ["Top", "Bottom", "Midpoint", "Everywhere the same"],
+      "answer": "Bottom"
+    },
+    {
+      "question": "A particle is moving in a vertical circle. At which point is the tension in the string maximum?",
+      "options": ["Top", "Bottom", "Horizontal position", "Same everywhere"],
+      "answer": "Bottom"
+    },
+    {
+      "question": "The increase in potential energy of a particle from the bottom to the top of a vertical circle of radius r is:",
+      "options": ["mgr", "2mgr", "3mgr", "4mgr"],
+      "answer": "2mgr"
+    },
+    {
+      "question": "A particle moves in a smooth vertical circle. The difference between the squares of the minimum speeds at the bottom and top is:",
+      "options": ["2gr", "3gr", "4gr", "5gr"],
+      "answer": "4gr"
+    },
+    {
+      "question": "Which statement is incorrect?",
+      "options": ["Speed is maximum at the bottom.", "Potential energy is maximum at the top.", "Tension is minimum at the top.", "Kinetic energy is maximum at the top."],
+      "answer": "Kinetic energy is maximum at the top."
+    },
+    {
+      "question": "A particle is just able to complete a vertical circle. The ratio of its minimum kinetic energies at the bottom and the top is:",
+      "options": ["1 : 1", "2 : 1", "5 : 1", "4 : 1"],
+      "answer": "5 : 1"
+    }
+  ],
+  "Elastic Collisions (One & Two Dimensions)": [
+    {
+      "question": "In a perfectly elastic collision, which quantities are conserved?",
+      "options": ["Only momentum", "Only kinetic energy", "Momentum and kinetic energy", "Momentum and potential energy"],
+      "answer": "Momentum and kinetic energy"
+    },
+    {
+      "question": "Two identical balls moving with speeds 6 m/s and 2 m/s collide head-on elastically. Their velocities after collision are:",
+      "options": ["6 m/s and 2 m/s", "2 m/s and 6 m/s", "4 m/s and 4 m/s", "0 m/s and 8 m/s"],
+      "concept": "For equal masses in a head-on elastic collision, the bodies exchange velocities.",
+      "answer": "2 m/s and 6 m/s"
+    },
+    {
+      "question": "A ball moving at 10 m/s strikes a stationary identical ball elastically. The speed of the first ball after collision is:",
+      "options": ["0 m/s", "5 m/s", "10 m/s", "20 m/s"],
+      "answer": "0 m/s"
+    },
+    {
+      "question": "Assertion (A): In every elastic collision, total kinetic energy remains constant. Reason (R): No kinetic energy is converted into heat, sound, or permanent deformation.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "The coefficient of restitution for a perfectly elastic collision is:",
+      "options": ["0", "0.5", "1", "Greater than 1"],
+      "answer": "1"
+    },
+    {
+      "question": "A 2 kg body moving at 5 m/s collides elastically with a stationary 2 kg body. The velocity of the second body after collision is:",
+      "options": ["0 m/s", "2.5 m/s", "5 m/s", "10 m/s"],
+      "answer": "5 m/s"
+    },
+    {
+      "question": "In a one-dimensional elastic collision between two identical masses, the total momentum after collision is:",
+      "options": ["Zero", "Equal to the initial momentum", "Double the initial momentum", "Half the initial momentum"],
+      "answer": "Equal to the initial momentum"
+    },
+    {
+      "question": "A moving billiard ball strikes another identical stationary ball elastically. After collision, the first ball:",
+      "options": ["Stops", "Moves backward", "Continues with the same speed", "Doubles its speed"],
+      "answer": "Stops"
+    },
+    {
+      "question": "Which of the following is closest to an elastic collision?",
+      "options": ["Bullet embedding in wood", "Clay sticking together", "Collision between steel balls", "Car crash"],
+      "answer": "Collision between steel balls"
+    },
+    {
+      "question": "In a two-dimensional elastic collision:",
+      "options": ["Only momentum is conserved.", "Only kinetic energy is conserved.", "Momentum (in both x and y directions) and kinetic energy are conserved.", "Neither momentum nor kinetic energy is conserved."],
+      "answer": "Momentum (in both x and y directions) and kinetic energy are conserved."
+    },
+    {
+      "question": "A particle collides elastically with a rigid wall. If it strikes normally with speed 8 m/s, its speed after collision is:",
+      "options": ["0 m/s", "4 m/s", "8 m/s (opposite direction)", "16 m/s"],
+      "answer": "8 m/s (opposite direction)"
+    },
+    {
+      "question": "Which statement is incorrect for an elastic collision?",
+      "options": ["Total momentum is conserved.", "Total kinetic energy is conserved.", "Mechanical energy is conserved.", "Bodies always stick together after collision."],
+      "answer": "Bodies always stick together after collision."
+    },
+    {
+      "question": "In a head-on elastic collision, the relative speed of separation is:",
+      "options": ["Less than the relative speed of approach", "Greater than the relative speed of approach", "Equal to the relative speed of approach", "Zero"],
+      "answer": "Equal to the relative speed of approach"
+    },
+    {
+      "question": "A 1 kg ball moving at 12 m/s collides elastically with a stationary identical ball. The kinetic energy transferred to the second ball is:",
+      "options": ["18 J", "36 J", "72 J", "144 J"],
+      "answer": "72 J"
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": ["In an elastic collision, momentum is conserved but kinetic energy decreases.", "In an elastic collision, both momentum and kinetic energy are conserved.", "In an elastic collision, only kinetic energy is conserved.", "In an elastic collision, momentum is not conserved."],
+      "answer": "In an elastic collision, both momentum and kinetic energy are conserved."
+    }
+  ],
+  "Inelastic Collisions (One & Two Dimensions)": [
+    {
+      "question": "In an inelastic collision, which quantity is always conserved?",
+      "options": ["Kinetic energy only", "Momentum only", "Potential energy only", "Mechanical energy only"],
+      "answer": "Momentum only"
+    },
+    {
+      "question": "In a perfectly inelastic collision, two bodies:",
+      "options": ["Bounce back with equal speeds.", "Exchange their velocities.", "Stick together and move with a common velocity.", "Come to rest after collision."],
+      "answer": "Stick together and move with a common velocity."
+    },
+    {
+      "question": "A 2 kg body moving at 8 m/s collides perfectly inelastically with a stationary 2 kg body. The common velocity after collision is:",
+      "options": ["2 m/s", "4 m/s", "6 m/s", "8 m/s"],
+      "answer": "4 m/s"
+    },
+    {
+      "question": "Assertion (A): In an inelastic collision, kinetic energy decreases. Reason (R): Part of the kinetic energy is converted into heat, sound, or deformation.",
+      "options": ["Both A and R are true, and R is the correct explanation.", "Both A and R are true, but R is not the correct explanation.", "A is true, R is false.", "A is false, R is true."],
+      "answer": "Both A and R are true, and R is the correct explanation."
+    },
+    {
+      "question": "The coefficient of restitution for a perfectly inelastic collision is:",
+      "options": ["0", "0.5", "1", "Greater than 1"],
+      "answer": "0"
+    },
+    {
+      "question": "Two identical bodies moving with speeds 6 m/s and 2 m/s in the same direction collide perfectly inelastically. Their common velocity is:",
+      "options": ["2 m/s", "3 m/s", "4 m/s", "8 m/s"],
+      "answer": "4 m/s"
+    },
+    {
+      "question": "Which of the following is an example of a perfectly inelastic collision?",
+      "options": ["Collision between billiard balls", "Collision between steel balls", "Bullet embedding in a wooden block", "Reflection of light"],
+      "answer": "Bullet embedding in a wooden block"
+    },
+    {
+      "question": "Which quantity decreases in every inelastic collision?",
+      "options": ["Momentum", "Mass", "Total kinetic energy", "Total energy"],
+      "answer": "Total kinetic energy"
+    },
+    {
+      "question": "A 1 kg body moving at 10 m/s sticks to a stationary 3 kg body. The common speed after collision is:",
+      "options": ["1.5 m/s", "2.5 m/s", "4 m/s", "10 m/s"],
+      "answer": "2.5 m/s"
+    },
+    {
+      "question": "In every collision (elastic or inelastic), which law always holds?",
+      "options": ["Conservation of kinetic energy", "Conservation of momentum", "Conservation of mechanical energy", "Conservation of potential energy"],
+      "answer": "Conservation of momentum"
+    },
+    {
+      "question": "A body collides with a wall and sticks to it. This is an example of:",
+      "options": ["Elastic collision", "Perfectly elastic collision", "Perfectly inelastic collision", "Oblique elastic collision"],
+      "answer": "Perfectly inelastic collision"
+    },
+    {
+      "question": "Which statement is incorrect?",
+      "options": ["Momentum is conserved in inelastic collisions.", "Kinetic energy decreases in inelastic collisions.", "Total energy is conserved.", "Kinetic energy is always conserved in inelastic collisions."],
+      "answer": "Kinetic energy is always conserved in inelastic collisions."
+    },
+    {
+      "question": "In a two-dimensional inelastic collision:",
+      "options": ["Only momentum is conserved.", "Only kinetic energy is conserved.", "Both momentum and kinetic energy are conserved.", "Neither momentum nor kinetic energy are conserved."],
+      "note": "Momentum is conserved in both the x- and y-directions.",
+      "answer": "Only momentum is conserved."
+    },
+    {
+      "question": "Two equal masses moving with equal speeds in opposite directions collide perfectly inelastically. Their common velocity after collision is:",
+      "options": ["Equal to the initial speed", "Half the initial speed", "Double the initial speed", "Zero"],
+      "answer": "Zero"
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": ["In a perfectly inelastic collision, bodies separate after collision.", "In a perfectly inelastic collision, coefficient of restitution is 1.", "In a perfectly inelastic collision, bodies move together with a common velocity.", "Momentum is not conserved."],
+      "answer": "In a perfectly inelastic collision, bodies move together with a common velocity."
+    }
+  ]
+},
+
+ 
+       "Work Done by a Constant Force": [
+        {
+          "questionNumber": 1,
+          "question": "A force F ⃗=(4i ̂+3j ̂) N acts on a particle whose displacement is s ⃗=(6i ̂-8j ̂) m. The work done by the force is:",
+          "options": ["0 J", "12 J", "24 J", "48 J"],
+          "answer": "A",
+          "solution": "W = F·s = (4)(6) + (3)(-8) = 24 - 24 = 0 J"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A force of 40 N acts on a body making an angle of 120° with its displacement of 10 m. The work done is:",
+          "options": ["400 J", "200 J", "–200 J", "–400 J"],
+          "answer": "C",
+          "solution": "W = F s cosθ = 40 × 10 × cos120° = 400 × (-1/2) = -200 J"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A body is displaced by (3i ̂+4j ̂) m under a force (6i ̂+8j ̂) N. The magnitude of the work done is:",
+          "options": ["25 J", "50 J", "70 J", "100 J"],
+          "answer": "B",
+          "solution": "W = F·s = (6)(3) + (8)(4) = 18 + 32 = 50 J"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): A force perpendicular to displacement can still change the direction of velocity. Reason (R): Such a force does zero work.",
+          "options": [
+            "Both A and R are true, and R explains A.",
+            "Both A and R are true, but R does not explain A.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "B",
+          "solution": "Both statements are true, but the reason does not explain why the direction changes; it just states the work is zero."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A particle moves 5 m east and then 12 m north under a constant force of 20 N eastward. Total work done is:",
+          "options": ["100 J", "240 J", "260 J", "340 J"],
+          "answer": "A",
+          "solution": "Displacement east = 5 m. W = 20 × 5 = 100 J (north displacement gives no work)"
+        },
+        {
+          "questionNumber": 6,
+          "question": "Which statement is always true?",
+          "options": [
+            "Positive work always increases speed.",
+            "Negative work always decreases speed.",
+            "Zero work implies zero force.",
+            "Zero work can occur even with a non-zero force."
+          ],
+          "answer": "D",
+          "solution": "Zero work can occur with a non-zero force if the force is perpendicular to displacement."
+        },
+        {
+          "questionNumber": 7,
+          "question": "A force F ⃗=(5i ̂-2j ̂) N acts on a particle displaced through s ⃗=(-2i ̂+5j ̂) m. The work done is:",
+          "options": ["–20 J", "–25 J", "–29 J", "–35 J"],
+          "answer": "A",
+          "solution": "W = (5)(-2) + (-2)(5) = -10 - 10 = -20 J"
+        },
+        {
+          "questionNumber": 8,
+          "question": "A body moves 8 m under a constant force. If the work done is 160 J and the angle between force and displacement is 60°, the force is:",
+          "options": ["20 N", "30 N", "40 N", "80 N"],
+          "answer": "C",
+          "solution": "W = F s cosθ ⇒ 160 = F × 8 × 1/2 ⇒ F = 40 N"
+        },
+        {
+          "questionNumber": 9,
+          "question": "A particle undergoes successive displacements: 4 m east, 3 m west, 6 m east under a constant 10 N eastward force. Total work done is:",
+          "options": ["10 J", "30 J", "50 J", "70 J"],
+          "answer": "D",
+          "solution": "Net displacement = 4 - 3 + 6 = 7 m east. W = 10 × 7 = 70 J"
+        },
+        {
+          "questionNumber": 10,
+          "question": "A force of magnitude 15 N acts at 30° above the horizontal while the particle moves 10 m horizontally. The work done is:",
+          "options": ["75 J", "75√3 J", "150√3 J", "150 J"],
+          "answer": "B",
+          "solution": "W = F s cosθ = 15 × 10 × cos30° = 150 × √3/2 = 75√3 J"
+        },
+        {
+          "questionNumber": 11,
+          "question": "A body moves in a complete circle under a constant force directed toward the centre. The work done by this force is:",
+          "options": ["Positive", "Negative", "Zero", "Depends on radius"],
+          "answer": "C",
+          "solution": "Force is perpendicular to displacement at every point, so work is zero."
+        },
+        {
+          "questionNumber": 12,
+          "question": "The maximum work done by a force F during displacement s occurs when the angle between them is:",
+          "options": ["0°", "45°", "90°", "180°"],
+          "answer": "A",
+          "solution": "W = F s cosθ is maximum when cosθ = 1, i.e., θ = 0°"
+        },
+        {
+          "questionNumber": 13,
+          "question": "The minimum work done by a constant force occurs when the angle between force and displacement is:",
+          "options": ["0°", "60°", "90°", "180°"],
+          "answer": "D",
+          "solution": "W = F s cosθ is minimum (most negative) when cosθ = -1, i.e., θ = 180°"
+        },
+        {
+          "questionNumber": 14,
+          "question": "A force acts on a body but does no work. Which quantity can still change?",
+          "options": ["Kinetic energy", "Speed", "Direction of velocity", "Mechanical energy"],
+          "answer": "C",
+          "solution": "If no work is done, kinetic energy and speed remain constant, but direction can change."
+        },
+        {
+          "questionNumber": 15,
+          "question": "A particle is acted upon by three constant forces: 8 N east, 6 N north, 10 N west. It moves 5 m east. The total work done is:",
+          "options": ["–10 J", "0 J", "10 J", "50 J"],
+          "answer": "A",
+          "solution": "Net force east = 8 - 10 = -2 N. W = -2 × 5 = -10 J"
+        }
+      ],
+         "Work Done by a Variable Force": [
+        {
+          "questionNumber": 1,
+          "question": "A force acting on a particle varies with displacement as F = 4x + 2 (where F is in N and x in m). The work done in moving the particle from x = 0 to x = 3 m is:",
+          "options": ["18 J", "24 J", "36 J", "42 J"],
+          "answer": "B",
+          "solution": "W = ∫₀³ (4x+2) dx = [2x²+2x]₀³ = 18 + 6 = 24 J"
+        },
+        {
+          "questionNumber": 2,
+          "question": "The force on a particle is given by F = 6x². The work done from x = 1 m to x = 3 m is:",
+          "options": ["48 J", "52 J", "156 J", "180 J"],
+          "answer": "B",
+          "solution": "W = ∫₁³ 6x² dx = [2x³]₁³ = 2(27-1) = 52 J"
+        },
+        {
+          "questionNumber": 3,
+          "question": "The graph of force versus displacement is a straight line joining (0 m, 0 N) and (6 m, 12 N). The work done from 0 to 6 m is:",
+          "options": ["24 J", "30 J", "36 J", "72 J"],
+          "answer": "C",
+          "solution": "Area under F-x graph = 1/2 × base × height = 1/2 × 6 × 12 = 36 J"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): The work done by a variable force equals the area under the F-x graph. Reason (R): Force remains constant over every displacement.",
+          "options": [
+            "Both A and R are true, and R explains A.",
+            "Both A and R are true, but R does not explain A.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "C",
+          "solution": "A is true, but R is false because force is not constant over every displacement for a variable force."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A force varies as F = 10 - 2x. The work done from x = 0 to x = 4 m is:",
+          "options": ["16 J", "20 J", "24 J", "32 J"],
+          "answer": "C",
+          "solution": "W = ∫₀⁴ (10-2x) dx = [10x - x²]₀⁴ = 40 - 16 = 24 J"
+        },
+        {
+          "questionNumber": 6,
+          "question": "A spring obeys Hooke's law with spring constant k = 300 N/m. The work required to stretch it from 0 to 0.2 m is:",
+          "options": ["3 J", "4 J", "6 J", "12 J"],
+          "answer": "C",
+          "solution": "W = 1/2 k x² = 1/2 × 300 × (0.2)² = 150 × 0.04 = 6 J"
+        },
+        {
+          "questionNumber": 7,
+          "question": "The force-displacement graph is rectangular with height 8 N and width 5 m. The work done equals:",
+          "options": ["13 J", "20 J", "40 J", "80 J"],
+          "answer": "C",
+          "solution": "Area = 8 × 5 = 40 J"
+        },
+        {
+          "questionNumber": 8,
+          "question": "A force varies with displacement according to F = 12x. The work done from x = 0 to x = 2 m is:",
+          "options": ["12 J", "18 J", "24 J", "36 J"],
+          "answer": "C",
+          "solution": "W = ∫₀² 12x dx = [6x²]₀² = 24 J"
+        },
+        {
+          "questionNumber": 9,
+          "question": "The force on a particle changes with displacement as shown: F = 20 N from 0–2 m, F = 10 N from 2–5 m. Total work done is:",
+          "options": ["40 J", "50 J", "70 J", "80 J"],
+          "answer": "C",
+          "solution": "W = (20×2) + (10×3) = 40 + 30 = 70 J"
+        },
+        {
+          "questionNumber": 10,
+          "question": "A force-displacement graph is triangular with base 8 m and height 15 N. The work done equals:",
+          "options": ["40 J", "50 J", "60 J", "80 J"],
+          "answer": "C",
+          "solution": "Area = 1/2 × 8 × 15 = 60 J"
+        },
+        {
+          "questionNumber": 11,
+          "question": "The force acting on a particle is F = 5x³. The work done from x = 0 to x = 2 m is:",
+          "options": ["10 J", "20 J", "40 J", "80 J"],
+          "answer": "B",
+          "solution": "W = ∫₀² 5x³ dx = [5x⁴/4]₀² = 5(16)/4 = 20 J"
+        },
+        {
+          "questionNumber": 12,
+          "question": "A variable force produces an F-x graph in the shape of a trapezium with parallel sides 8 N and 14 N, separated by 4 m. The work done is:",
+          "options": ["32 J", "36 J", "40 J", "44 J"],
+          "answer": "D",
+          "solution": "W = 1/2(8+14)×4 = 44 J"
+        },
+        {
+          "questionNumber": 13,
+          "question": "Which statement is correct?",
+          "options": [
+            "Area under the velocity-time graph gives work.",
+            "Area under the force-displacement graph gives work.",
+            "Area under the force-time graph gives work.",
+            "Area under the acceleration-time graph gives work."
+          ],
+          "answer": "B",
+          "solution": "Work is the area under the force-displacement graph."
+        },
+        {
+          "questionNumber": 14,
+          "question": "A force varies according to F = 8 - 4x. The work done from x = 0 to x = 3 m is:",
+          "options": ["4 J", "6 J", "8 J", "12 J"],
+          "answer": "B",
+          "solution": "W = ∫₀³ (8-4x) dx = [8x-2x²]₀³ = 24 - 18 = 6 J"
+        },
+        {
+          "questionNumber": 15,
+          "question": "A force-displacement graph consists of a rectangle of area 24 J followed by a triangle of area 16 J. The total work done is:",
+          "options": ["24 J", "32 J", "40 J", "48 J"],
+          "answer": "C",
+          "solution": "Total area = 24 + 16 = 40 J"
+        }
+      ],
+   
+       "Kinetic Energy": [
+        {
+          "questionNumber": 1,
+          "question": "A particle of mass 4 kg has momentum 24 kg·m/s. Its kinetic energy is:",
+          "options": ["36 J", "48 J", "72 J", "96 J"],
+          "answer": "C",
+          "solution": "K = p²/(2m) = 24²/(2×4) = 576/8 = 72 J"
+        },
+        {
+          "questionNumber": 2,
+          "question": "Two particles have equal kinetic energies. If their masses are in the ratio 9 : 4, the ratio of their momenta is:",
+          "options": ["3 : 2", "2 : 3", "9 : 4", "4 : 9"],
+          "answer": "A",
+          "solution": "K = p²/(2m). For equal K, p ∝ √m. p₁/p₂ = √(9/4) = 3/2"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A body moving with speed v has kinetic energy K. If its mass becomes four times and its speed becomes half, the new kinetic energy is:",
+          "options": ["K", "2K", "K/2", "4K"],
+          "answer": "A",
+          "solution": "K' = 1/2(4m)(v/2)² = 1/2 × 4m × v²/4 = 1/2 mv² = K"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): Two bodies can have the same momentum but different kinetic energies. Reason (R): Kinetic energy depends on both momentum and mass.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "K = p²/(2m). Same p but different m gives different K, so R correctly explains A."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A particle of mass 2 kg moving at 10 m/s receives an impulse that doubles its momentum. The new kinetic energy is:",
+          "options": ["100 J", "200 J", "400 J", "800 J"],
+          "answer": "C",
+          "solution": "Initial p = 2×10 = 20. New p = 40. K = p²/(2m) = 1600/4 = 400 J"
+        },
+        {
+          "questionNumber": 6,
+          "question": "Two particles have equal masses. Their kinetic energies are in the ratio 9 : 16. The ratio of their speeds is:",
+          "options": ["3 : 4", "9 : 16", "4 : 3", "16 : 9"],
+          "answer": "A",
+          "solution": "K ∝ v². v₁/v₂ = √(K₁/K₂) = √(9/16) = 3/4"
+        },
+        {
+          "questionNumber": 7,
+          "question": "A body has kinetic energy 320 J. If its speed is reduced to one-fourth, its kinetic energy becomes:",
+          "options": ["20 J", "40 J", "80 J", "160 J"],
+          "answer": "A",
+          "solution": "K ∝ v². New K = 320 × (1/4)² = 320/16 = 20 J"
+        },
+        {
+          "questionNumber": 8,
+          "question": "A particle has momentum p. If its mass is doubled while kinetic energy remains constant, the new momentum becomes:",
+          "options": ["p", "√2 p", "2p", "p/2"],
+          "answer": "B",
+          "solution": "K = p²/(2m). If m doubles and K constant, p' = p√2"
+        },
+        {
+          "questionNumber": 9,
+          "question": "A body of mass 5 kg has kinetic energy 250 J. Its speed is:",
+          "options": ["5 m/s", "10 m/s", "5√2 m/s", "10√2 m/s"],
+          "answer": "B",
+          "solution": "v = √(2K/m) = √(500/5) = √100 = 10 m/s"
+        },
+        {
+          "questionNumber": 10,
+          "question": "Which graph correctly represents kinetic energy versus speed?",
+          "options": [
+            "Straight line",
+            "Horizontal line",
+            "Parabola opening upward",
+            "Hyperbola"
+          ],
+          "answer": "C",
+          "solution": "K = 1/2 mv². This is a parabola opening upward."
+        },
+        {
+          "questionNumber": 11,
+          "question": "A particle has kinetic energy K. Its momentum is tripled while mass remains constant. The new kinetic energy becomes:",
+          "options": ["3K", "6K", "9K", "12K"],
+          "answer": "C",
+          "solution": "K = p²/(2m). If p triples, K becomes 9K."
+        },
+        {
+          "questionNumber": 12,
+          "question": "Which of the following has the highest kinetic energy?",
+          "options": [
+            "2 kg at 8 m/s",
+            "4 kg at 6 m/s",
+            "6 kg at 5 m/s",
+            "8 kg at 4 m/s"
+          ],
+          "answer": "C",
+          "solution": "A: 64 J, B: 72 J, C: 75 J, D: 64 J. Highest is C."
+        },
+        {
+          "questionNumber": 13,
+          "question": "A particle moving with speed v has kinetic energy K. If both mass and momentum are doubled, the new kinetic energy becomes:",
+          "options": ["K", "2K", "4K", "8K"],
+          "answer": "B",
+          "solution": "K = p²/(2m). If p doubles and m doubles, K' = (2p)²/(2(2m)) = 4p²/(4m) = p²/m = 2K"
+        },
+        {
+          "questionNumber": 14,
+          "question": "A particle moving at 12 m/s is slowed to 5 m/s. The percentage decrease in kinetic energy is:",
+          "options": ["50%", "58%", "75%", "82.6%"],
+          "answer": "D",
+          "solution": "% decrease = (144-25)/144 × 100 = 119/144 × 100 = 82.6%"
+        },
+        {
+          "questionNumber": 15,
+          "question": "Which statement is correct?",
+          "options": [
+            "Two particles with equal momentum always have equal kinetic energies.",
+            "Two particles with equal kinetic energy always have equal momentum.",
+            "For a fixed momentum, a larger mass has smaller kinetic energy.",
+            "Kinetic energy is directly proportional to momentum."
+          ],
+          "answer": "C",
+          "solution": "K = p²/(2m). For fixed p, K ∝ 1/m, so larger m means smaller K."
+        }
+      ],
+          "Work–Energy Theorem": [
+        {
+          "questionNumber": 1,
+          "question": "A block of mass 5 kg is pulled on a rough horizontal surface by a force of 40 N through 10 m. The coefficient of kinetic friction is 0.2. Take g=10 m/s². The increase in kinetic energy of the block is:",
+          "options": ["100 J", "200 J", "300 J", "400 J"],
+          "answer": "C",
+          "solution": "Friction = μmg = 0.2×5×10 = 10 N. Net work = (40-10)×10 = 300 J"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A particle moving at 6 m/s is acted upon by a constant force that performs 144 J of work. If the particle has a mass of 4 kg, its final speed is:",
+          "options": ["8 m/s", "9 m/s", "10 m/s", "12 m/s"],
+          "answer": "C",
+          "solution": "1/2 m(v² - u²) = W ⇒ 1/2 × 4 (v² - 36) = 144 ⇒ v² = 100 ⇒ v = 10 m/s"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A force F = (8 - x) N acts on a particle moving from x = 0 to x = 4 m. The increase in kinetic energy is:",
+          "options": ["16 J", "24 J", "32 J", "40 J"],
+          "answer": "B",
+          "solution": "W = ∫₀⁴ (8-x) dx = [8x - x²/2]₀⁴ = 32 - 8 = 24 J"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): The work-energy theorem is valid even when the applied force is variable. Reason (R): Net work is equal to the change in kinetic energy irrespective of how the force varies.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "The work-energy theorem is valid for both constant and variable forces, and R correctly explains A."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A 2 kg particle initially at rest is acted upon by a force F = 5t (where F is in N and t in s). The speed after 4 s is:",
+          "options": ["10 m/s", "20 m/s", "25 m/s", "40 m/s"],
+          "answer": "B",
+          "solution": "a = F/m = 2.5t. v = ∫₀⁴ 2.5t dt = 1.25t²|₀⁴ = 20 m/s"
+        },
+        {
+          "questionNumber": 6,
+          "question": "A body moves with constant speed on a rough horizontal surface. The work done by the applied force is:",
+          "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Equal to the loss in kinetic energy"
+          ],
+          "answer": "A",
+          "solution": "Since speed is constant, work done by applied force equals work done against friction, which is positive."
+        },
+        {
+          "questionNumber": 7,
+          "question": "A particle moves under a net force of zero. According to the work-energy theorem:",
+          "options": [
+            "Speed must be zero.",
+            "Kinetic energy remains constant.",
+            "Momentum becomes zero.",
+            "Potential energy remains constant."
+          ],
+          "answer": "B",
+          "solution": "Net work = 0, so change in KE = 0, kinetic energy remains constant."
+        },
+        {
+          "questionNumber": 8,
+          "question": "A 3 kg body slides down a smooth incline from a vertical height of 5 m. Its speed at the bottom is:",
+          "options": ["5 m/s", "5√2 m/s", "10 m/s", "10√2 m/s"],
+          "answer": "C",
+          "solution": "mgh = 1/2 mv² ⇒ v = √(2gh) = √(2×10×5) = 10 m/s"
+        },
+        {
+          "questionNumber": 9,
+          "question": "A body loses 150 J of kinetic energy due to friction while moving on a rough surface. The work done by friction is:",
+          "options": ["+150 J", "–150 J", "0", "Depends on the mass"],
+          "answer": "B",
+          "solution": "Work done by friction = change in KE = -150 J"
+        },
+        {
+          "questionNumber": 10,
+          "question": "A force acts opposite to the motion of a particle. According to the work-energy theorem:",
+          "options": [
+            "Kinetic energy always increases.",
+            "Kinetic energy decreases.",
+            "Kinetic energy remains constant.",
+            "Potential energy always increases."
+          ],
+          "answer": "B",
+          "solution": "Force opposite to motion does negative work, so kinetic energy decreases."
+        },
+        {
+          "questionNumber": 11,
+          "question": "A particle experiences two forces doing +120 J and –45 J of work. The increase in kinetic energy is:",
+          "options": ["45 J", "75 J", "120 J", "165 J"],
+          "answer": "B",
+          "solution": "Net work = 120 - 45 = 75 J = increase in KE"
+        },
+        {
+          "questionNumber": 12,
+          "question": "Which graph best represents the relation between net work and change in kinetic energy?",
+          "options": [
+            "Horizontal line",
+            "Straight line through the origin",
+            "Parabola",
+            "Hyperbola"
+          ],
+          "answer": "B",
+          "solution": "W = ΔK. This is a straight line through the origin with slope 1."
+        },
+        {
+          "questionNumber": 13,
+          "question": "A particle starts from rest and gains 200 J of kinetic energy. The total net work done is:",
+          "options": ["0 J", "100 J", "200 J", "400 J"],
+          "answer": "C",
+          "solution": "By work-energy theorem, net work = ΔK = 200 J"
+        },
+        {
+          "questionNumber": 14,
+          "question": "A 4 kg block moving at 8 m/s is brought to rest by friction. The work done by friction is:",
+          "options": ["–64 J", "–96 J", "–128 J", "–256 J"],
+          "answer": "C",
+          "solution": "W = ΔK = 0 - 1/2 × 4 × 8² = -128 J"
+        },
+        {
+          "questionNumber": 15,
+          "question": "A body moves under several forces. Which statement is always true?",
+          "options": [
+            "The work done by each force equals the change in kinetic energy.",
+            "Only conservative forces can change kinetic energy.",
+            "The algebraic sum of the work done by all forces equals the change in kinetic energy.",
+            "The work-energy theorem is valid only for constant forces."
+          ],
+          "answer": "C",
+          "solution": "The work-energy theorem states that net work (sum of work by all forces) equals change in KE."
+        }
+      ],
+        "Power": [
+        {
+          "questionNumber": 1,
+          "question": "A force of 100 N acts on a body moving with velocity v ⃗=(3i ̂+4j ̂) m/s. The force acts along the positive x-axis. The instantaneous power delivered is:",
+          "options": ["300 W", "400 W", "500 W", "700 W"],
+          "answer": "A",
+          "solution": "P = F·v = 100 × 3 = 300 W (only x-component of velocity contributes)"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A car of mass 1000 kg moves up a rough incline of angle 30° with constant speed 10 m/s. Neglect friction. (g=10 m/s²) The power developed by the engine is:",
+          "options": ["25 kW", "50 kW", "75 kW", "100 kW"],
+          "answer": "B",
+          "solution": "P = mg sinθ × v = 1000 × 10 × sin30° × 10 = 10000 × 0.5 × 10 = 50000 W = 50 kW"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A body moves with velocity v ⃗=(6i ̂+8j ̂) m/s under force F ⃗=(5i ̂-4j ̂) N. The instantaneous power is:",
+          "options": ["–2 W", "–5 W", "–10 W", "10 W"],
+          "answer": "A",
+          "solution": "P = F·v = (5)(6) + (-4)(8) = 30 - 32 = -2 W"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): Instantaneous power may be zero even though both force and velocity are non-zero. Reason (R): Force can be perpendicular to velocity.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "P = F·v = Fv cosθ. When θ = 90°, P = 0, so R correctly explains A."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A motor develops 5 kW of power for 4 minutes. The total work done is:",
+          "options": ["6×10⁵ J", "8×10⁵ J", "1.0×10⁶ J", "1.2×10⁶ J"],
+          "answer": "D",
+          "solution": "W = P × t = 5000 × 240 = 1.2 × 10⁶ J"
+        },
+        {
+          "questionNumber": 6,
+          "question": "A force makes an angle of 60° with the velocity of a particle. If the speed doubles while the force remains constant, the power becomes:",
+          "options": ["Half", "Same", "Double", "Four times"],
+          "answer": "C",
+          "solution": "P = Fv cosθ. If v doubles, P doubles."
+        },
+        {
+          "questionNumber": 7,
+          "question": "A machine lifts a 200 kg load vertically upward at 2 m/s. Take g=10 m/s². The power required is:",
+          "options": ["2 kW", "3 kW", "4 kW", "5 kW"],
+          "answer": "C",
+          "solution": "P = mgv = 200 × 10 × 2 = 4000 W = 4 kW"
+        },
+        {
+          "questionNumber": 8,
+          "question": "A particle moves in a circle with uniform speed under a centripetal force. The power supplied by the centripetal force is:",
+          "options": ["Positive", "Negative", "Zero", "Depends on speed"],
+          "answer": "C",
+          "solution": "Centripetal force is perpendicular to velocity, so P = 0."
+        },
+        {
+          "questionNumber": 9,
+          "question": "A pump lifts 500 kg of water every minute to a height of 12 m. Take g=10 m/s². Its output power is:",
+          "options": ["500 W", "1000 W", "1200 W", "1500 W"],
+          "answer": "B",
+          "solution": "P = mgh/t = 500 × 10 × 12 / 60 = 1000 W"
+        },
+        {
+          "questionNumber": 10,
+          "question": "Which graph correctly represents work done versus time for a machine operating at constant power?",
+          "options": [
+            "Horizontal line",
+            "Straight line through the origin",
+            "Parabola",
+            "Hyperbola"
+          ],
+          "answer": "B",
+          "solution": "W = P × t, so W vs t is a straight line through the origin."
+        },
+        {
+          "questionNumber": 11,
+          "question": "A body is acted upon by a force opposite to its velocity. The instantaneous power is:",
+          "options": ["Positive", "Zero", "Negative", "Infinite"],
+          "answer": "C",
+          "solution": "When force and velocity are opposite, P = Fv cos180° = -Fv < 0."
+        },
+        {
+          "questionNumber": 12,
+          "question": "A machine performs 720 kJ of work in 6 minutes. Its average power is:",
+          "options": ["1000 W", "1500 W", "2000 W", "2500 W"],
+          "answer": "C",
+          "solution": "P = 720000 / 360 = 2000 W"
+        },
+        {
+          "questionNumber": 13,
+          "question": "A constant force acts on a body initially at rest. The instantaneous power:",
+          "options": [
+            "Remains constant",
+            "Decreases continuously",
+            "Increases with time",
+            "Is always zero"
+          ],
+          "answer": "C",
+          "solution": "v = at, so P = Fv = F × at, which increases with time."
+        },
+        {
+          "questionNumber": 14,
+          "question": "A force F ⃗=(4i ̂+3j ̂) N acts on a particle moving with velocity v ⃗=(3i ̂-4j ̂) m/s. The instantaneous power is:",
+          "options": ["0 W", "–12 W", "24 W", "25 W"],
+          "answer": "A",
+          "solution": "P = F·v = (4)(3) + (3)(-4) = 12 - 12 = 0 W"
+        },
+        {
+          "questionNumber": 15,
+          "question": "Which statement is always correct?",
+          "options": [
+            "Average power is always equal to instantaneous power.",
+            "Instantaneous power can be negative.",
+            "Power is a vector quantity.",
+            "Zero work always implies zero power."
+          ],
+          "answer": "B",
+          "solution": "Instantaneous power can be negative when force opposes velocity."
+        }
+      ],
+           "Gravitational Potential Energy": [
+        {
+          "questionNumber": 1,
+          "question": "A body of mass 4 kg is lifted vertically from a height of 10 m to 30 m above the ground. Take g=10 m/s². The increase in gravitational potential energy is:",
+          "options": ["400 J", "600 J", "800 J", "1000 J"],
+          "answer": "C",
+          "solution": "ΔU = mg(h₂ - h₁) = 4 × 10 × (30 - 10) = 800 J"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A particle is raised from Earth's surface to a height equal to the Earth's radius R. If the gravitational potential energy at infinity is taken as zero, the increase in gravitational potential energy is:",
+          "options": ["GMm/R", "GMm/2R", "GMm/4R", "2GMm/R"],
+          "answer": "B",
+          "solution": "ΔU = -GMm/(2R) - (-GMm/R) = GMm/(2R)"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A satellite moves from an orbit of radius R to an orbit of radius 2R. The change in gravitational potential energy is:",
+          "options": ["+GMm/2R", "+GMm/4R", "-GMm/2R", "-GMm/4R"],
+          "answer": "A",
+          "solution": "ΔU = -GMm/(2R) - (-GMm/R) = GMm/(2R)"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): Gravitational potential energy can have negative values. Reason (R): Zero potential energy is chosen at infinity.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "U = -GMm/r. Since U is negative for finite r and zero at infinity, both statements are true and R explains A."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A body of mass 2 kg is taken from the ground to the top of a 25 m building. Neglect air resistance. Increase in potential energy:",
+          "options": ["250 J", "500 J", "750 J", "1000 J"],
+          "answer": "B",
+          "solution": "ΔU = mgh = 2 × 10 × 25 = 500 J"
+        },
+        {
+          "questionNumber": 6,
+          "question": "Which graph correctly represents gravitational potential energy near Earth's surface as a function of height?",
+          "options": [
+            "Horizontal line",
+            "Straight line with positive slope",
+            "Downward parabola",
+            "Hyperbola"
+          ],
+          "answer": "B",
+          "solution": "U = mgh is a straight line with positive slope."
+        },
+        {
+          "questionNumber": 7,
+          "question": "A body is lifted from height h to 3h. The increase in potential energy is:",
+          "options": ["mgh", "2mgh", "3mgh", "4mgh"],
+          "answer": "B",
+          "solution": "ΔU = mg(3h - h) = 2mgh"
+        },
+        {
+          "questionNumber": 8,
+          "question": "A body is moved along different paths from A to B. Neglect friction. The change in gravitational potential energy:",
+          "options": [
+            "Depends on the path.",
+            "Depends on speed.",
+            "Depends only on the initial and final heights.",
+            "Depends on the time taken."
+          ],
+          "answer": "C",
+          "solution": "Gravitational force is conservative, so ΔU depends only on initial and final positions."
+        },
+        {
+          "questionNumber": 9,
+          "question": "A 5 kg body falls freely through 12 m. Decrease in gravitational potential energy is:",
+          "options": ["300 J", "500 J", "600 J", "900 J"],
+          "answer": "C",
+          "solution": "ΔU = mgh = 5 × 10 × 12 = 600 J"
+        },
+        {
+          "questionNumber": 10,
+          "question": "The gravitational potential energy of two bodies separated by distance r is:",
+          "options": ["+GMm/r", "-GMm/r", "GMm/r²", "-GMm/r²"],
+          "answer": "B",
+          "solution": "U = -GMm/r"
+        },
+        {
+          "questionNumber": 11,
+          "question": "A particle is moved from Earth's surface to infinity. The increase in gravitational potential energy is:",
+          "options": ["Zero", "GMm/R", "-GMm/R", "GMm/2R"],
+          "answer": "B",
+          "solution": "ΔU = 0 - (-GMm/R) = GMm/R"
+        },
+        {
+          "questionNumber": 12,
+          "question": "Two bodies of masses m and 2m are raised through the same height. Their increases in potential energy are in the ratio:",
+          "options": ["1 : 1", "1 : 2", "2 : 1", "4 : 1"],
+          "answer": "B",
+          "solution": "ΔU ∝ mass, so ratio is m : 2m = 1 : 2"
+        },
+        {
+          "questionNumber": 13,
+          "question": "A body is raised with constant speed. The work done by gravity is:",
+          "options": ["Positive", "Zero", "Negative", "Depends on speed"],
+          "answer": "C",
+          "solution": "Gravity acts downward while displacement is upward, so work done by gravity is negative."
+        },
+        {
+          "questionNumber": 14,
+          "question": "A satellite moves farther away from Earth. Its gravitational potential energy:",
+          "options": [
+            "Decreases.",
+            "Remains constant.",
+            "Becomes less negative (increases).",
+            "Becomes more negative."
+          ],
+          "answer": "C",
+          "solution": "U = -GMm/r. As r increases, U becomes less negative (increases)."
+        },
+        {
+          "questionNumber": 15,
+          "question": "Which statement is correct?",
+          "options": [
+            "Gravitational potential energy depends on the path.",
+            "Gravitational force is conservative.",
+            "Work done by gravity depends on the path.",
+            "Potential energy is always positive."
+          ],
+          "answer": "B",
+          "solution": "Gravity is a conservative force."
+        }
+      ],
+     "Potential Energy of a Spring": [
+        {
+          "questionNumber": 1,
+          "question": "A spring of force constant 400 N/m is stretched from 0.10 m to 0.30 m. The work done in stretching the spring further is:",
+          "options": ["12 J", "16 J", "20 J", "24 J"],
+          "answer": "B",
+          "solution": "W = 1/2 k(x₂² - x₁²) = 1/2 × 400 × (0.09 - 0.01) = 200 × 0.08 = 16 J"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A spring stores 18 J of elastic potential energy when stretched by 0.30 m. The spring constant is:",
+          "options": ["200 N/m", "300 N/m", "400 N/m", "500 N/m"],
+          "answer": "C",
+          "solution": "U = 1/2 kx² ⇒ k = 2U/x² = 36/0.09 = 400 N/m"
+        },
+        {
+          "questionNumber": 3,
+          "question": "If both the spring constant and extension are doubled, the elastic potential energy becomes:",
+          "options": ["2 times", "4 times", "8 times", "16 times"],
+          "answer": "C",
+          "solution": "U = 1/2 kx². If k → 2k and x → 2x, U' = 1/2(2k)(2x)² = 8 × (1/2 kx²) = 8U"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): The work done in stretching a spring from x₁ to x₂ equals the increase in elastic potential energy. Reason (R): The spring force is conservative.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "Spring force is conservative, so work done equals change in potential energy."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A spring is compressed by 20 cm. If the compression is increased to 40 cm, the elastic potential energy becomes:",
+          "options": ["Double", "Four times", "Eight times", "Sixteen times"],
+          "answer": "B",
+          "solution": "U ∝ x². If x doubles, U becomes 4 times."
+        },
+        {
+          "questionNumber": 6,
+          "question": "The graph of elastic potential energy versus spring force is:",
+          "options": [
+            "Straight line",
+            "Parabola",
+            "Hyperbola",
+            "Straight line through the origin"
+          ],
+          "answer": "B",
+          "solution": "U = F²/(2k), so U vs F is a parabola."
+        },
+        {
+          "questionNumber": 7,
+          "question": "A spring has a force constant 500 N/m. The force required to stretch it by 6 cm is:",
+          "options": ["15 N", "20 N", "30 N", "40 N"],
+          "answer": "C",
+          "solution": "F = kx = 500 × 0.06 = 30 N"
+        },
+        {
+          "questionNumber": 8,
+          "question": "The work done in stretching a spring from 0 m to 0.20 m is 8 J. The average force applied during stretching is:",
+          "options": ["20 N", "40 N", "60 N", "80 N"],
+          "answer": "B",
+          "solution": "W = 1/2 F_avg × x ⇒ F_avg = 2W/x = 16/0.20 = 80 N. Wait, let me recalculate: Actually average force = F_avg = kx/2 = 2W/x = 16/0.2 = 80 N."
+        },
+        {
+          "questionNumber": 9,
+          "question": "Two springs have force constants k and 2k. They are stretched by the same distance. The ratio of stored energies is:",
+          "options": ["1 : 1", "1 : 2", "2 : 1", "4 : 1"],
+          "answer": "B",
+          "solution": "U ∝ k, so U₁ : U₂ = k : 2k = 1 : 2"
+        },
+        {
+          "questionNumber": 10,
+          "question": "Which of the following graphs correctly represents spring force versus elastic potential energy?",
+          "options": [
+            "Straight line",
+            "Parabola",
+            "Square-root curve",
+            "Hyperbola"
+          ],
+          "answer": "C",
+          "solution": "F = √(2kU), so F vs U is a square-root curve."
+        },
+        {
+          "questionNumber": 11,
+          "question": "A spring is stretched by x. If another identical spring is stretched by 3x, the ratio of energies stored is:",
+          "options": ["1 : 3", "1 : 6", "1 : 9", "3 : 1"],
+          "answer": "C",
+          "solution": "U ∝ x², so U₁ : U₂ = x² : (3x)² = 1 : 9"
+        },
+        {
+          "questionNumber": 12,
+          "question": "A spring obeys Hooke's law up to 15 cm extension. Beyond this limit:",
+          "options": [
+            "Hooke's law always remains valid.",
+            "Spring constant becomes zero.",
+            "Force is no longer exactly proportional to extension.",
+            "Elastic potential energy becomes constant."
+          ],
+          "answer": "C",
+          "solution": "Beyond the elastic limit, Hooke's law is no longer valid."
+        },
+        {
+          "questionNumber": 13,
+          "question": "The work done by the spring force when a spring contracts from extension x to its natural length is:",
+          "options": ["+1/2 kx²", "-1/2 kx²", "+kx²", "Zero"],
+          "answer": "A",
+          "solution": "Work done by spring = +1/2 kx² (spring force does positive work)."
+        },
+        {
+          "questionNumber": 14,
+          "question": "A block attached to a spring oscillates without friction. Which quantity remains constant?",
+          "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Mechanical energy",
+            "Spring force"
+          ],
+          "answer": "C",
+          "solution": "Total mechanical energy (KE + PE) remains constant in the absence of friction."
+        },
+        {
+          "questionNumber": 15,
+          "question": "A spring with force constant 250 N/m is stretched from 10 cm to 30 cm. The additional work done is:",
+          "options": ["5 J", "10 J", "12.5 J", "15 J"],
+          "answer": "B",
+          "solution": "W = 1/2 × 250 × (0.09 - 0.01) = 125 × 0.08 = 10 J"
+        }
+      ],
+   "Conservative Forces": [
+        {
+          "questionNumber": 1,
+          "question": "A particle moves from point A to B along two different paths under the action of gravity alone. The work done by gravity is:",
+          "options": [
+            "Greater along the longer path",
+            "Greater along the shorter path",
+            "Same for both paths",
+            "Depends on the speed"
+          ],
+          "answer": "C",
+          "solution": "Gravity is conservative, so work done depends only on initial and final positions."
+        },
+        {
+          "questionNumber": 2,
+          "question": "A particle completes two full revolutions in a vertical circle under gravity alone. The total work done by gravity is:",
+          "options": ["2mgh", "mgh", "Zero", "Depends on the radius"],
+          "answer": "C",
+          "solution": "Over a closed path, work done by gravity is zero."
+        },
+        {
+          "questionNumber": 3,
+          "question": "A particle moves from (0 m, 0) to (4 m, 3 m) under gravity. It follows three different paths. The work done by gravity is:",
+          "options": [
+            "Different for each path",
+            "Same for all paths",
+            "Zero only for the straight path",
+            "Maximum for the shortest path"
+          ],
+          "answer": "B",
+          "solution": "Gravity is conservative, so work is independent of path."
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): A conservative force can always be expressed in terms of a potential energy function. Reason (R): The work done by a conservative force depends only on the initial and final positions.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "Conservative forces can be derived from potential energy functions, and R correctly explains this."
+        },
+        {
+          "questionNumber": 5,
+          "question": "The work done by gravity in lifting a body vertically upward through height h and then bringing it back to the original position is:",
+          "options": ["mgh", "-mgh", "2mgh", "0"],
+          "answer": "D",
+          "solution": "Over a closed path, work done by gravity is zero."
+        },
+        {
+          "questionNumber": 6,
+          "question": "Which of the following forces is not conservative?",
+          "options": [
+            "Electrostatic force",
+            "Spring force",
+            "Gravitational force",
+            "Kinetic friction"
+          ],
+          "answer": "D",
+          "solution": "Kinetic friction is a non-conservative force."
+        },
+        {
+          "questionNumber": 7,
+          "question": "The mathematical relation between conservative force and potential energy is:",
+          "options": ["F = dU/dx", "F = -dU/dx", "F = U dx/dt", "F = U/x"],
+          "answer": "B",
+          "solution": "F = -dU/dx"
+        },
+        {
+          "questionNumber": 8,
+          "question": "A particle moves under a conservative force from A to B and back to A. If 150 J of work is done during A → B, then the work during B → A is:",
+          "options": ["+150 J", "–150 J", "0 J", "300 J"],
+          "answer": "B",
+          "solution": "For a round trip, total work = 0, so W_BA = -150 J."
+        },
+        {
+          "questionNumber": 9,
+          "question": "A force is conservative if:",
+          "options": [
+            "It always acts downward.",
+            "It always opposes motion.",
+            "Its work over any closed path is zero.",
+            "It always increases kinetic energy."
+          ],
+          "answer": "C",
+          "solution": "The defining property of a conservative force is zero work over any closed path."
+        },
+        {
+          "questionNumber": 10,
+          "question": "A particle moves in a rectangular path under the action of gravity. The work done by gravity is:",
+          "options": ["Positive", "Negative", "Zero", "Depends on the dimensions"],
+          "answer": "C",
+          "solution": "Over a closed path, work done by gravity is zero."
+        },
+        {
+          "questionNumber": 11,
+          "question": "Which graph correctly represents the work done by a conservative force versus path length between two fixed points?",
+          "options": [
+            "Increasing straight line",
+            "Decreasing straight line",
+            "Constant (independent of path length)",
+            "Parabola"
+          ],
+          "answer": "C",
+          "solution": "Work done by a conservative force is independent of path length."
+        },
+        {
+          "questionNumber": 12,
+          "question": "A particle moves under only conservative forces. Which quantity is necessarily conserved?",
+          "options": [
+            "Momentum",
+            "Speed",
+            "Mechanical energy",
+            "Potential energy"
+          ],
+          "answer": "C",
+          "solution": "Mechanical energy is conserved when only conservative forces act."
+        },
+        {
+          "questionNumber": 13,
+          "question": "A particle is acted upon by both gravity and friction while moving between two points. The total work done depends on:",
+          "options": [
+            "Only the initial and final positions",
+            "Only the path length",
+            "The path taken",
+            "Only the speed"
+          ],
+          "answer": "C",
+          "solution": "Gravity is conservative, but friction is non-conservative. Hence, total work becomes path-dependent."
+        },
+        {
+          "questionNumber": 14,
+          "question": "Which statement is incorrect?",
+          "options": [
+            "Conservative forces have associated potential energy.",
+            "Conservative forces do zero work over a closed path.",
+            "Mechanical energy is always conserved under conservative forces alone.",
+            "Conservative forces always do positive work."
+          ],
+          "answer": "D",
+          "solution": "Conservative forces can do negative work as well (e.g., gravity when lifting a body)."
+        },
+        {
+          "questionNumber": 15,
+          "question": "A particle moves under a conservative force. The potential energy changes by –250 J. The work done by the conservative force is:",
+          "options": ["–250 J", "+250 J", "0 J", "Depends on the path"],
+          "answer": "B",
+          "solution": "W = -ΔU = -(-250) = +250 J"
+        }
+      ],
+       "Conservation of Mechanical Energy": [
+        {
+          "questionNumber": 1,
+          "question": "A body of mass 2 kg is projected vertically upward with a speed of 20 m/s. Neglect air resistance (g=10 m/s²). The maximum height reached is:",
+          "options": ["10 m", "20 m", "30 m", "40 m"],
+          "answer": "B",
+          "solution": "Using 1/2 mv² = mgh ⇒ h = v²/(2g) = 400/20 = 20 m"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A block slides down a smooth incline from a height of 12.8 m. Its speed at the bottom is:",
+          "options": ["8 m/s", "12 m/s", "16 m/s", "20 m/s"],
+          "answer": "C",
+          "solution": "v = √(2gh) = √(2×10×12.8) = √256 = 16 m/s"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A pendulum is released from a position where the string makes an angle 60° with the vertical. The length of the pendulum is L. The speed at the lowest point is:",
+          "options": ["√(gL)", "√(2gL)", "√(gL(1-cos60°))", "√(2gL(1-cos60°))"],
+          "answer": "D",
+          "solution": "v = √(2gL(1-cosθ)) = √(2gL(1-cos60°))"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): In the absence of non-conservative forces, the sum of kinetic and potential energies remains constant. Reason (R): Conservative forces only transform energy from one form to another.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "Conservation of mechanical energy follows from conservative forces transforming energy between KE and PE."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A particle has total mechanical energy 600 J. At a certain instant, its kinetic energy is 250 J. Its potential energy is:",
+          "options": ["150 J", "250 J", "350 J", "600 J"],
+          "answer": "C",
+          "solution": "E = K + U ⇒ U = 600 - 250 = 350 J"
+        },
+        {
+          "questionNumber": 6,
+          "question": "A body is dropped from a height H. At what height above the ground are its kinetic and potential energies equal?",
+          "options": ["H/4", "H/3", "H/2", "3H/4"],
+          "answer": "C",
+          "solution": "At height h, K = mg(H-h). Set K = U ⇒ mg(H-h) = mgh ⇒ H-h = h ⇒ h = H/2"
+        },
+        {
+          "questionNumber": 7,
+          "question": "A spring launches a block vertically upward. If the spring stores 72 J of energy and the block has mass 2 kg, the maximum height reached is:",
+          "options": ["1.8 m", "2.4 m", "3.6 m", "4.8 m"],
+          "answer": "C",
+          "solution": "mgh = 72 ⇒ h = 72/(2×10) = 3.6 m"
+        },
+        {
+          "questionNumber": 8,
+          "question": "A body slides on a frictionless track as shown below. Which quantity remains constant throughout the motion?",
+          "options": ["Speed", "Momentum", "Mechanical energy", "Potential energy"],
+          "answer": "C",
+          "solution": "On a frictionless track, mechanical energy is conserved."
+        },
+        {
+          "questionNumber": 9,
+          "question": "A particle is projected upward with speed u. At what height is its kinetic energy one-third of its initial kinetic energy?",
+          "options": ["u²/6g", "u²/4g", "u²/3g", "u²/2g"],
+          "answer": "C",
+          "solution": "Initial K = 1/2 mu². At height h, K' = 1/3 × 1/2 mu² = 1/6 mu². By conservation: 1/2 mu² = 1/6 mu² + mgh ⇒ mgh = 1/3 mu² ⇒ h = u²/3g"
+        },
+        {
+          "questionNumber": 10,
+          "question": "A roller coaster moves on a frictionless track. Its speed is maximum at:",
+          "options": ["Highest point", "Lowest point", "Midpoint", "Everywhere the same"],
+          "answer": "B",
+          "solution": "At the lowest point, potential energy is minimum, so kinetic energy and speed are maximum."
+        },
+        {
+          "questionNumber": 11,
+          "question": "A body is thrown upward. Ignoring air resistance, the graph of total mechanical energy versus time is:",
+          "options": [
+            "Increasing straight line",
+            "Decreasing straight line",
+            "Constant horizontal line",
+            "Parabola"
+          ],
+          "answer": "C",
+          "solution": "Total mechanical energy remains constant when air resistance is neglected."
+        },
+        {
+          "questionNumber": 12,
+          "question": "A body starts from rest at height 45 m. What fraction of the total mechanical energy is kinetic after falling 15 m?",
+          "options": ["1/4", "1/3", "2/3", "3/4"],
+          "answer": "B",
+          "solution": "Initial total energy = mgH = mg(45). After falling 15 m, height = 30 m. K = mg(45-30) = 15mg. Fraction = 15/45 = 1/3."
+        },
+        {
+          "questionNumber": 13,
+          "question": "Which of the following is incorrect?",
+          "options": [
+            "Mechanical energy remains constant if only conservative forces act.",
+            "Mechanical energy may change if friction acts.",
+            "Potential energy can be converted completely into kinetic energy.",
+            "Mechanical energy always increases with time."
+          ],
+          "answer": "D",
+          "solution": "Mechanical energy does not always increase; it remains constant for conservative forces or decreases with friction."
+        },
+        {
+          "questionNumber": 14,
+          "question": "A body falls freely from rest. After falling through 3/4 of its initial height, the ratio of kinetic energy to potential energy is:",
+          "options": ["1 : 3", "3 : 1", "1 : 1", "4 : 1"],
+          "answer": "B",
+          "solution": "After falling 3/4 H, height = H/4. K = mg(3H/4), U = mg(H/4). Ratio K:U = 3:1."
+        },
+        {
+          "questionNumber": 15,
+          "question": "A particle moves under gravity alone. Which statement is always true?",
+          "options": [
+            "Kinetic energy remains constant.",
+            "Potential energy remains constant.",
+            "Total mechanical energy remains constant.",
+            "Momentum remains constant."
+          ],
+          "answer": "C",
+          "solution": "Under gravity alone, total mechanical energy is conserved."
+        }
+      ],
+    "Non-Conservative Forces": [
+        {
+          "questionNumber": 1,
+          "question": "A 5 kg block slides 10 m on a rough horizontal surface. The coefficient of kinetic friction is 0.3. Take g=10 m/s². The work done by friction is:",
+          "options": ["-100 J", "-150 J", "-200 J", "-250 J"],
+          "answer": "B",
+          "solution": "f = μmg = 0.3 × 5 × 10 = 15 N, W = -f × s = -15 × 10 = -150 J"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A 2 kg block is projected with a speed of 10 m/s on a rough horizontal surface. The coefficient of friction is 0.25. The distance travelled before coming to rest is:",
+          "options": ["10 m", "15 m", "20 m", "25 m"],
+          "answer": "C",
+          "solution": "By work-energy theorem: 1/2 mv² = μmg s ⇒ s = v²/(2μg) = 100/(2×0.25×10) = 20 m"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A body moves on a rough surface. Which quantity is not conserved?",
+          "options": ["Total energy", "Momentum (isolated system)", "Mechanical energy", "Mass"],
+          "answer": "C",
+          "solution": "Mechanical energy is not conserved due to friction; some is converted to heat."
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): Friction is a non-conservative force. Reason (R): The work done by friction depends on the path travelled.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "Friction is non-conservative because work done depends on path length."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A body completes one lap on a rough circular track. The work done by friction is:",
+          "options": ["Positive", "Negative", "Zero", "Depends only on radius"],
+          "answer": "B",
+          "solution": "Friction always opposes motion, so work done is negative over the entire path."
+        },
+        {
+          "questionNumber": 6,
+          "question": "A body slides down a rough incline. Compared with a smooth incline of the same height, the speed at the bottom is:",
+          "options": ["Greater", "Same", "Smaller", "Zero"],
+          "answer": "C",
+          "solution": "Some mechanical energy is lost to friction, so speed is smaller."
+        },
+        {
+          "questionNumber": 7,
+          "question": "A 3 kg block slides down a rough incline of height 5 m. It reaches the bottom with a speed of 8 m/s. (g=10 m/s²) The work done by friction is:",
+          "options": ["-54 J", "-60 J", "-72 J", "-86 J"],
+          "answer": "A",
+          "solution": "Initial PE = mgh = 3×10×5 = 150 J. Final KE = 1/2×3×64 = 96 J. Work by friction = 96 - 150 = -54 J"
+        },
+        {
+          "questionNumber": 8,
+          "question": "Which statement is correct?",
+          "options": [
+            "Mechanical energy always remains constant.",
+            "Friction converts mechanical energy into heat.",
+            "Friction increases mechanical energy.",
+            "Friction is a conservative force."
+          ],
+          "answer": "B",
+          "solution": "Friction dissipates mechanical energy as thermal energy."
+        },
+        {
+          "questionNumber": 9,
+          "question": "A particle moves from A to B along two different rough paths. The work done by friction is:",
+          "options": [
+            "Same for both paths",
+            "Depends on the path length",
+            "Depends only on displacement",
+            "Always zero"
+          ],
+          "answer": "B",
+          "solution": "Work done by friction is path-dependent and increases with path length."
+        },
+        {
+          "questionNumber": 10,
+          "question": "Which graph best represents mechanical energy versus time for a body moving under friction alone?",
+          "options": ["Increasing line", "Constant line", "Decreasing trend", "Oscillating graph"],
+          "answer": "C",
+          "solution": "Friction dissipates mechanical energy, so it decreases over time."
+        },
+        {
+          "questionNumber": 11,
+          "question": "A 4 kg block moving with 12 m/s comes to rest due to friction. The amount of mechanical energy converted into heat is:",
+          "options": ["144 J", "192 J", "288 J", "576 J"],
+          "answer": "C",
+          "solution": "Heat generated = loss in KE = 1/2×4×144 = 288 J"
+        },
+        {
+          "questionNumber": 12,
+          "question": "Which force among the following always dissipates mechanical energy?",
+          "options": ["Spring force", "Electrostatic force", "Friction", "Gravitational force"],
+          "answer": "C",
+          "solution": "Friction is a dissipative force that always converts mechanical energy to thermal energy."
+        },
+        {
+          "questionNumber": 13,
+          "question": "A body moves with constant speed on a rough horizontal surface. The mechanical energy of the body:",
+          "options": ["Increases", "Decreases", "Remains constant", "Becomes zero instantly"],
+          "answer": "C",
+          "solution": "Since speed is constant, kinetic energy is constant, and potential energy is constant, so mechanical energy remains constant."
+        },
+        {
+          "questionNumber": 14,
+          "question": "Which statement is incorrect?",
+          "options": [
+            "Friction is path dependent.",
+            "Friction always does negative work.",
+            "Friction has an associated potential energy function.",
+            "Friction converts mechanical energy into thermal energy."
+          ],
+          "answer": "C",
+          "solution": "Friction is non-conservative and does not have a potential energy function."
+        },
+        {
+          "questionNumber": 15,
+          "question": "A body is projected up a rough incline and returns to the starting point. The total work done by friction over the complete journey is:",
+          "options": ["Positive", "Zero", "Negative", "Depends only on the angle of the incline"],
+          "answer": "C",
+          "solution": "Friction does negative work on both upward and downward journeys, so total work is negative."
+        }
+      ],
+   "Motion in a Vertical Circle": [
+        {
+          "questionNumber": 1,
+          "question": "A particle of mass m is just able to complete a vertical circle of radius R. The minimum speed at the highest point is:",
+          "options": ["√(gR)", "√(2gR)", "√(3gR)", "√(5gR)"],
+          "answer": "A",
+          "solution": "At the highest point, T = 0 and mg provides centripetal force: mg = mv²/R ⇒ v = √(gR)"
+        },
+        {
+          "questionNumber": 2,
+          "question": "The minimum speed required at the lowest point to just complete a vertical circle is:",
+          "options": ["√(3gR)", "√(4gR)", "√(5gR)", "√(6gR)"],
+          "answer": "C",
+          "solution": "Using energy conservation between lowest and highest points: 1/2 mv_l² = 1/2 mv_h² + 2mgR. With v_h = √(gR), we get v_l = √(5gR)"
+        },
+        {
+          "questionNumber": 3,
+          "question": "A particle enters a vertical circle with speed √(7gR) at the lowest point. Its speed at the highest point is:",
+          "options": ["√(gR)", "√(2gR)", "√(3gR)", "√(5gR)"],
+          "answer": "C",
+          "solution": "1/2 m(7gR) = 1/2 mv² + 2mgR ⇒ v² = 3gR ⇒ v = √(3gR)"
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): At the highest point of a vertical circle, tension may become zero. Reason (R): The centripetal force can be provided entirely by gravity.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "At minimum speed, tension is zero and gravity alone provides the centripetal force."
+        },
+        {
+          "questionNumber": 5,
+          "question": "A body just completes a vertical circle. The tension at the highest point is:",
+          "options": ["mg", "2mg", "Zero", "3mg"],
+          "answer": "C",
+          "solution": "At the highest point for minimum speed, T = 0."
+        },
+        {
+          "questionNumber": 6,
+          "question": "The tension in the string at the lowest point for minimum-speed motion is:",
+          "options": ["2mg", "4mg", "5mg", "6mg"],
+          "answer": "D",
+          "solution": "T - mg = mv²/R = m(5gR)/R = 5mg ⇒ T = 6mg"
+        },
+        {
+          "questionNumber": 7,
+          "question": "A particle moving in a vertical circle has speed √(gR) at the highest point. Its centripetal acceleration there is:",
+          "options": ["g/2", "g", "2g", "3g"],
+          "answer": "B",
+          "solution": "a_c = v²/R = gR/R = g"
+        },
+        {
+          "questionNumber": 8,
+          "question": "Which quantity remains constant during motion in a smooth vertical circle?",
+          "options": ["Speed", "Tension", "Mechanical energy", "Centripetal force"],
+          "answer": "C",
+          "solution": "In a smooth vertical circle, mechanical energy is conserved."
+        },
+        {
+          "questionNumber": 9,
+          "question": "If the speed at the bottom is doubled, the kinetic energy at the bottom becomes:",
+          "options": ["Double", "Four times", "Eight times", "Sixteen times"],
+          "answer": "B",
+          "solution": "K = 1/2 mv². If v doubles, K becomes 4 times."
+        },
+        {
+          "questionNumber": 10,
+          "question": "A particle moves in a vertical circle of radius 2 m. It just completes the circle. Take g=10 m/s². The minimum speed at the bottom is:",
+          "options": ["5√2", "10", "5√5", "10√2"],
+          "answer": "B",
+          "solution": "v_bottom = √(5gR) = √(5×10×2) = √100 = 10 m/s"
+        },
+        {
+          "questionNumber": 11,
+          "question": "At which point is the tension maximum?",
+          "options": ["Highest point", "Lowest point", "Side point", "Same everywhere"],
+          "answer": "B",
+          "solution": "T = mg cosθ + mv²/R. At the lowest point, cosθ = 1 and speed is maximum, so tension is maximum."
+        },
+        {
+          "questionNumber": 12,
+          "question": "Which graph correctly represents speed versus height for a particle moving in a smooth vertical circle?",
+          "options": [
+            "Speed increases linearly with height.",
+            "Speed decreases as height increases.",
+            "Speed remains constant.",
+            "Speed first increases then decreases."
+          ],
+          "answer": "B",
+          "solution": "By conservation of energy, higher height → lower speed."
+        },
+        {
+          "questionNumber": 13,
+          "question": "A particle loses contact with the string when:",
+          "options": ["Tension becomes maximum.", "Tension becomes zero.", "Speed becomes maximum.", "Speed becomes zero."],
+          "answer": "B",
+          "solution": "Loss of contact occurs when T = 0."
+        },
+        {
+          "questionNumber": 14,
+          "question": "The total mechanical energy during motion in a smooth vertical circle is:",
+          "options": ["Maximum at the bottom.", "Maximum at the top.", "Constant.", "Zero."],
+          "answer": "C",
+          "solution": "In the absence of non-conservative forces, mechanical energy is constant."
+        },
+        {
+          "questionNumber": 15,
+          "question": "Which statement is correct?",
+          "options": [
+            "Speed is constant throughout the vertical circle.",
+            "Tension is constant throughout the vertical circle.",
+            "The minimum speed at the bottom for complete motion is √(5gR).",
+            "Gravity performs zero work during the motion."
+          ],
+          "answer": "C",
+          "solution": "The minimum speed at the bottom for completing a vertical circle is √(5gR)."
+        }
+      ],
+  "Elastic Collisions (One & Two Dimensions)": [
+        {
+          "questionNumber": 1,
+          "question": "A 2 kg ball moving at 8 m/s collides head-on elastically with a 6 kg ball at rest. The velocity of the 2 kg ball after collision is:",
+          "options": ["-4 m/s", "-6 m/s", "2 m/s", "4 m/s"],
+          "answer": "A",
+          "solution": "v₁' = (m₁-m₂)/(m₁+m₂) × u₁ = (2-6)/(2+6) × 8 = -4/8 × 8 = -4 m/s"
+        },
+        {
+          "questionNumber": 2,
+          "question": "A 2 kg ball moving at 8 m/s collides elastically with a 6 kg stationary ball. The velocity of the 6 kg ball after collision is:",
+          "options": ["2 m/s", "4 m/s", "6 m/s", "8 m/s"],
+          "answer": "B",
+          "solution": "v₂' = (2m₁)/(m₁+m₂) × u₁ = (2×2)/(2+6) × 8 = 4/8 × 8 = 4 m/s"
+        },
+        {
+          "questionNumber": 3,
+          "question": "Two identical balls undergo a perfectly elastic head-on collision. One is initially at rest. After collision:",
+          "options": ["Both stop.", "Both move with half the initial speed.", "They exchange velocities.", "They move together."],
+          "answer": "C",
+          "solution": "For identical masses in elastic collision, velocities are exchanged."
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): In an elastic collision, momentum and kinetic energy are conserved. Reason (R): Internal forces obey Newton's third law.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "Internal forces conserve momentum, and elastic collisions conserve kinetic energy."
+        },
+        {
+          "questionNumber": 5,
+          "question": "Two identical smooth billiard balls collide elastically. One is initially at rest. After collision, if they move at right angles, the angle between their velocities is:",
+          "options": ["45°", "60°", "90°", "120°"],
+          "answer": "C",
+          "solution": "For identical masses in a 2D elastic collision with one initially at rest, the final velocity vectors are perpendicular."
+        },
+        {
+          "questionNumber": 6,
+          "question": "Which quantity is not changed in a perfectly elastic collision?",
+          "options": ["Momentum", "Total kinetic energy", "Total mechanical energy", "All of the above"],
+          "answer": "D",
+          "solution": "All quantities remain unchanged in a perfectly elastic collision."
+        },
+        {
+          "questionNumber": 7,
+          "question": "Two particles of equal mass approach each other with equal speeds and collide elastically head-on. After collision:",
+          "options": ["Both stop.", "Both reverse their directions with the same speed.", "Both move together.", "One stops."],
+          "answer": "B",
+          "solution": "For equal masses with equal and opposite velocities, they bounce back with the same speeds."
+        },
+        {
+          "questionNumber": 8,
+          "question": "The coefficient of restitution for a perfectly elastic collision is:",
+          "options": ["0", "0.5", "1", "Greater than 1"],
+          "answer": "C",
+          "solution": "For perfectly elastic collision, e = 1."
+        },
+        {
+          "questionNumber": 9,
+          "question": "In any one-dimensional elastic collision, the relative speed of separation is:",
+          "options": [
+            "Less than the relative speed of approach",
+            "Equal to the relative speed of approach",
+            "Greater than the relative speed of approach",
+            "Zero"
+          ],
+          "answer": "B",
+          "solution": "For elastic collision, e = (relative speed of separation)/(relative speed of approach) = 1."
+        },
+        {
+          "questionNumber": 10,
+          "question": "A particle of mass m moving with speed u collides elastically with a stationary particle of mass 3m. The speed of the first particle after collision is:",
+          "options": ["u/2", "u/3", "-u/2", "-u/3"],
+          "answer": "C",
+          "solution": "v₁' = (m-3m)/(m+3m) × u = -2m/4m × u = -u/2"
+        },
+        {
+          "questionNumber": 11,
+          "question": "In a two-dimensional elastic collision:",
+          "options": [
+            "Only momentum is conserved.",
+            "Only kinetic energy is conserved.",
+            "Both momentum (in x and y directions) and kinetic energy are conserved.",
+            "Neither momentum nor kinetic energy is conserved."
+          ],
+          "answer": "C",
+          "solution": "Both momentum (vector) and kinetic energy are conserved in elastic collisions."
+        },
+        {
+          "questionNumber": 12,
+          "question": "Which graph correctly represents total kinetic energy before and after an elastic collision?",
+          "options": ["Increasing line", "Decreasing line", "Horizontal line", "Parabola"],
+          "answer": "C",
+          "solution": "Total kinetic energy is conserved, so it remains constant."
+        },
+        {
+          "questionNumber": 13,
+          "question": "A 1 kg ball moving at 10 m/s collides elastically with a stationary 1 kg ball. The second ball moves away with:",
+          "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+          "answer": "B",
+          "solution": "For identical masses, velocities are exchanged, so the second ball moves with 10 m/s."
+        },
+        {
+          "questionNumber": 14,
+          "question": "Which statement is incorrect?",
+          "options": [
+            "Momentum is conserved in elastic collisions.",
+            "Kinetic energy is conserved in elastic collisions.",
+            "Relative speed of approach equals relative speed of separation.",
+            "Bodies always stick together after an elastic collision."
+          ],
+          "answer": "D",
+          "solution": "Bodies do not stick together in elastic collisions; they separate."
+        },
+        {
+          "questionNumber": 15,
+          "question": "A 2 kg body moving at 6 m/s collides elastically with a stationary 2 kg body. The first body comes to rest after collision because:",
+          "options": [
+            "Momentum is not conserved.",
+            "Kinetic energy is lost.",
+            "The masses are equal, so velocities are exchanged.",
+            "The collision is inelastic."
+          ],
+          "answer": "C",
+          "solution": "For equal masses, velocities are exchanged, so the first body comes to rest."
+        }
+      ],
+     "Inelastic Collisions (One & Two Dimensions)": [
+        {
+          "questionNumber": 1,
+          "question": "A 2 kg body moving at 6 m/s collides perfectly inelastically with a 4 kg body at rest. The common velocity after collision is:",
+          "options": ["1 m/s", "2 m/s", "3 m/s", "4 m/s"],
+          "answer": "B",
+          "solution": "v = (m₁u₁)/(m₁+m₂) = (2×6)/(2+4) = 12/6 = 2 m/s"
+        },
+        {
+          "questionNumber": 2,
+          "question": "In the collision described in Question 1, the loss of kinetic energy is:",
+          "options": ["12 J", "16 J", "20 J", "24 J"],
+          "answer": "D",
+          "solution": "Initial KE = 1/2×2×36 = 36 J. Final KE = 1/2×6×4 = 12 J. Loss = 36 - 12 = 24 J"
+        },
+        {
+          "questionNumber": 3,
+          "question": "In a perfectly inelastic collision, which quantity is always conserved?",
+          "options": ["Kinetic energy", "Mechanical energy", "Momentum", "Potential energy"],
+          "answer": "C",
+          "solution": "Momentum is always conserved in collisions."
+        },
+        {
+          "questionNumber": 4,
+          "question": "Assertion (A): Kinetic energy decreases in every perfectly inelastic collision. Reason (R): Some kinetic energy is converted into heat, sound, deformation, etc.",
+          "options": [
+            "Both A and R are true, and R is the correct explanation.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, R is false.",
+            "A is false, R is true."
+          ],
+          "answer": "A",
+          "solution": "In perfectly inelastic collisions, kinetic energy is always lost to other forms."
+        },
+        {
+          "questionNumber": 5,
+          "question": "The coefficient of restitution for a perfectly inelastic collision is:",
+          "options": ["0", "0.5", "1", "Greater than 1"],
+          "answer": "A",
+          "solution": "For perfectly inelastic collision, e = 0."
+        },
+        {
+          "questionNumber": 6,
+          "question": "Two equal masses move toward each other with equal speeds and stick together after collision. Their final velocity is:",
+          "options": ["Equal to the initial speed", "Half the initial speed", "Zero", "Double the initial speed"],
+          "answer": "C",
+          "solution": "m u + m(-u) = (2m)v ⇒ 0 = 2mv ⇒ v = 0"
+        },
+        {
+          "questionNumber": 7,
+          "question": "A 3 kg body moving at 10 m/s collides perfectly inelastically with a 2 kg body moving in the same direction at 4 m/s. The common velocity after collision is:",
+          "options": ["6.0 m/s", "6.8 m/s", "7.6 m/s", "8.4 m/s"],
+          "answer": "C",
+          "solution": "v = (3×10 + 2×4)/(3+2) = (30+8)/5 = 38/5 = 7.6 m/s"
+        },
+        {
+          "questionNumber": 8,
+          "question": "Which of the following is true for every inelastic collision?",
+          "options": ["Momentum is conserved.", "Kinetic energy is conserved.", "Mechanical energy is conserved.", "Speed remains unchanged."],
+          "answer": "A",
+          "solution": "Momentum is conserved in all collisions in an isolated system."
+        },
+        {
+          "questionNumber": 9,
+          "question": "Two particles collide inelastically. The loss of kinetic energy is greatest when the collision is:",
+          "options": ["Perfectly elastic", "Perfectly inelastic", "Oblique", "Grazing"],
+          "answer": "B",
+          "solution": "Maximum kinetic energy is lost in a perfectly inelastic collision."
+        },
+        {
+          "questionNumber": 10,
+          "question": "Which graph correctly represents total kinetic energy before and after a perfectly inelastic collision?",
+          "options": ["Horizontal line", "Increasing line", "Decreasing step", "Parabola"],
+          "answer": "C",
+          "solution": "Kinetic energy decreases after the collision, so there is a step down."
+        },
+        {
+          "questionNumber": 11,
+          "question": "A 1 kg body moving at 8 m/s sticks to a 3 kg stationary body. The common speed is:",
+          "options": ["1 m/s", "2 m/s", "4 m/s", "6 m/s"],
+          "answer": "B",
+          "solution": "v = (1×8)/(1+3) = 8/4 = 2 m/s"
+        },
+        {
+          "questionNumber": 12,
+          "question": "Which statement is incorrect?",
+          "options": [
+            "Momentum is conserved in an isolated system.",
+            "Kinetic energy may decrease.",
+            "Mechanical energy is always conserved.",
+            "Some energy may appear as heat or sound."
+          ],
+          "answer": "C",
+          "solution": "Mechanical energy is not conserved in inelastic collisions; some is converted to other forms."
+        },
+        {
+          "questionNumber": 13,
+          "question": "In a two-dimensional perfectly inelastic collision:",
+          "options": [
+            "Only momentum is conserved.",
+            "Only kinetic energy is conserved.",
+            "Both momentum and kinetic energy are conserved.",
+            "Neither is conserved."
+          ],
+          "answer": "A",
+          "solution": "Momentum is conserved in both x and y directions, but kinetic energy is not."
+        },
+        {
+          "questionNumber": 14,
+          "question": "A 4 kg body moving at 5 m/s collides perfectly inelastically with a 6 kg stationary body. The common velocity is:",
+          "options": ["1 m/s", "2 m/s", "3 m/s", "4 m/s"],
+          "answer": "B",
+          "solution": "v = (4×5)/(4+6) = 20/10 = 2 m/s"
+        },
+        {
+          "questionNumber": 15,
+          "question": "Two bodies collide inelastically in an isolated system. Which statement is always true?",
+          "options": [
+            "Total kinetic energy remains constant.",
+            "Total momentum remains constant.",
+            "Both momentum and kinetic energy remain constant.",
+            "Both momentum and kinetic energy decrease."
+          ],
+          "answer": "B",
+          "solution": "Momentum is always conserved in an isolated system."
+        }
+      ]
+    }
+  }
+}
