@@ -1,0 +1,3594 @@
+{
+  "Physics": {
+    "System of Particles and Rotational Motion": {
+      "Easy": {
+        "Centre of Mass": [
+          {
+            "qid": 1,
+            "question": "Two particles of masses 2 kg and 3 kg are placed at x = 0 m and x = 10 m respectively. The position of the centre of mass is:",
+            "options": ["A) 4 m", "B) 5 m", "C) 6 m", "D) 8 m"],
+            "answer": "C",
+            "solution": "X_cm = (m₁x₁ + m₂x₂)/(m₁+m₂) = (2×0 + 3×10)/(2+3) = 30/5 = 6 m"
+          },
+          {
+            "qid": 2,
+            "question": "The centre of mass of a body depends upon:",
+            "options": ["A) Shape only", "B) Mass distribution", "C) Colour", "D) Volume only"],
+            "answer": "B",
+            "solution": "Centre of mass depends on how mass is distributed in the body."
+          },
+          {
+            "qid": 3,
+            "question": "Two equal masses are placed at x = -4 m and x = 4 m. The centre of mass is located at:",
+            "options": ["A) -4 m", "B) 0 m", "C) 2 m", "D) 4 m"],
+            "answer": "B",
+            "solution": "X_cm = (m×(-4) + m×4)/(2m) = 0 m"
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): The centre of mass of a uniform rod lies at its midpoint. Reason (R): The mass is uniformly distributed throughout the rod.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "For uniform distribution, centre of mass coincides with geometric centre."
+          },
+          {
+            "qid": 5,
+            "question": "The SI unit of centre of mass is:",
+            "options": ["A) kg", "B) N", "C) m", "D) kg·m"],
+            "answer": "C",
+            "solution": "Centre of mass is a position coordinate measured in metres."
+          },
+          {
+            "qid": 6,
+            "question": "Two particles of masses 5 kg and 5 kg are placed at 2 m and 8 m. The centre of mass is:",
+            "options": ["A) 2 m", "B) 4 m", "C) 5 m", "D) 8 m"],
+            "answer": "C",
+            "solution": "X_cm = (5×2 + 5×8)/(5+5) = (10+40)/10 = 5 m"
+          },
+          {
+            "qid": 7,
+            "question": "The centre of mass of a uniform circular ring lies at:",
+            "options": ["A) On the circumference", "B) Centre of the ring", "C) Midpoint of radius", "D) Outside the ring"],
+            "answer": "B",
+            "solution": "By symmetry, the centre of mass is at the geometric centre."
+          },
+          {
+            "qid": 8,
+            "question": "If one mass is much larger than the other, the centre of mass lies:",
+            "options": ["A) Exactly midway", "B) Closer to the heavier mass", "C) Closer to the lighter mass", "D) Outside the line joining them"],
+            "answer": "B",
+            "solution": "Centre of mass is pulled towards the heavier mass."
+          },
+          {
+            "qid": 9,
+            "question": "The centre of mass of a uniform rectangular sheet lies at:",
+            "options": ["A) One corner", "B) Centre", "C) Midpoint of one side", "D) Outside the sheet"],
+            "answer": "B",
+            "solution": "By symmetry, the centre of mass is at the geometric centre."
+          },
+          {
+            "qid": 10,
+            "question": "Two particles of masses 1 kg and 3 kg are placed at 0 m and 8 m. The centre of mass is:",
+            "options": ["A) 2 m", "B) 4 m", "C) 6 m", "D) 8 m"],
+            "answer": "C",
+            "solution": "X_cm = (1×0 + 3×8)/(1+3) = 24/4 = 6 m"
+          },
+          {
+            "qid": 11,
+            "question": "The centre of mass of a system:",
+            "options": ["A) Must lie inside the body", "B) Can lie outside the body", "C) Always lies at the geometric centre", "D) Always coincides with the centre of gravity"],
+            "answer": "B",
+            "solution": "For hollow or irregular shapes, centre of mass can lie outside the material."
+          },
+          {
+            "qid": 12,
+            "question": "Which of the following has its centre of mass outside the material of the object?",
+            "options": ["A) Solid sphere", "B) Uniform disc", "C) Circular ring", "D) Solid cube"],
+            "answer": "C",
+            "solution": "For a circular ring, the centre of mass is at the centre where there is no material."
+          },
+          {
+            "qid": 13,
+            "question": "If two equal masses are placed at x = 2 m and x = 10 m, the centre of mass is:",
+            "options": ["A) 4 m", "B) 5 m", "C) 6 m", "D) 8 m"],
+            "answer": "C",
+            "solution": "X_cm = (2+10)/2 = 6 m"
+          },
+          {
+            "qid": 14,
+            "question": "Which quantity is required to calculate the centre of mass of two particles?",
+            "options": ["A) Their temperatures", "B) Their masses and positions", "C) Their velocities only", "D) Their colours"],
+            "answer": "B",
+            "solution": "Centre of mass depends on masses and their positions."
+          },
+          {
+            "qid": 15,
+            "question": "The formula for the centre of mass of two particles along the x-axis is:",
+            "options": ["A) (x₁+x₂)/2", "B) (m₁x₁+m₂x₂)/(m₁+m₂)", "C) m₁+m₂", "D) m₁x₁-m₂x₂"],
+            "answer": "B",
+            "solution": "X_cm = (m₁x₁ + m₂x₂)/(m₁+m₂)"
+          }
+        ],
+        "Motion of Centre of Mass": [
+          {
+            "qid": 1,
+            "question": "The motion of the centre of mass of a system depends on:",
+            "options": ["A) Internal forces only", "B) External forces only", "C) Shape of the system", "D) Temperature"],
+            "answer": "B",
+            "solution": "Only external forces can change the motion of the centre of mass."
+          },
+          {
+            "qid": 2,
+            "question": "If no external force acts on a system, the centre of mass moves with:",
+            "options": ["A) Increasing velocity", "B) Decreasing velocity", "C) Constant velocity", "D) Zero velocity only"],
+            "answer": "C",
+            "solution": "According to Newton's Second Law, F_ext = Ma_cm. If F_ext = 0, a_cm = 0. Hence, the centre of mass moves with constant velocity."
+          },
+          {
+            "qid": 3,
+            "question": "The acceleration of the centre of mass is given by:",
+            "options": ["A) a = F_ext/M", "B) a = M/F", "C) a = mv", "D) a = Ft"],
+            "answer": "A",
+            "solution": "a_cm = F_ext/M"
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): Internal forces cannot change the motion of the centre of mass. Reason (R): Internal forces always occur in equal and opposite pairs.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Internal forces cancel out in pairs, so they cannot change the motion of the centre of mass."
+          },
+          {
+            "qid": 5,
+            "question": "A bomb explodes in mid-air into several fragments. Neglect air resistance. The centre of mass of the fragments follows:",
+            "options": ["A) A straight line", "B) A circular path", "C) The same parabolic path as before the explosion", "D) A random path"],
+            "answer": "C",
+            "solution": "Since no external force acts during explosion, the centre of mass continues along the same parabolic path."
+          },
+          {
+            "qid": 6,
+            "question": "The SI unit of acceleration of the centre of mass is:",
+            "options": ["A) m", "B) m/s", "C) m/s²", "D) N"],
+            "answer": "C",
+            "solution": "Acceleration is measured in m/s²."
+          },
+          {
+            "qid": 7,
+            "question": "A system of particles has a total mass of 10 kg. An external force of 20 N acts on it. The acceleration of the centre of mass is:",
+            "options": ["A) 0.5 m/s²", "B) 1 m/s²", "C) 2 m/s²", "D) 5 m/s²"],
+            "answer": "C",
+            "solution": "a = F/M = 20/10 = 2 m/s²"
+          },
+          {
+            "qid": 8,
+            "question": "Which force affects the motion of the centre of mass?",
+            "options": ["A) Internal force", "B) External force", "C) Friction between particles of the system", "D) Magnetic force between particles"],
+            "answer": "B",
+            "solution": "Only external forces affect the motion of the centre of mass."
+          },
+          {
+            "qid": 9,
+            "question": "If the net external force on a system is doubled while the mass remains constant, the acceleration of the centre of mass becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "Since a = F/M, doubling F doubles a."
+          },
+          {
+            "qid": 10,
+            "question": "In the absence of external forces, the momentum of a system:",
+            "options": ["A) Increases", "B) Decreases", "C) Remains constant", "D) Becomes zero"],
+            "answer": "C",
+            "solution": "Momentum is conserved when no external force acts."
+          },
+          {
+            "qid": 11,
+            "question": "Two ice skaters push each other apart on a frictionless surface. The centre of mass of the two-skater system:",
+            "options": ["A) Moves toward the heavier skater", "B) Remains at rest if initially at rest", "C) Moves toward the lighter skater", "D) Accelerates randomly"],
+            "answer": "B",
+            "solution": "Since no external force acts, the centre of mass remains at rest."
+          },
+          {
+            "qid": 12,
+            "question": "The motion of the centre of mass obeys:",
+            "options": ["A) Newton's First Law only", "B) Newton's Second Law", "C) Newton's Third Law only", "D) Hooke's Law"],
+            "answer": "B",
+            "solution": "F_ext = Ma_cm is Newton's Second Law applied to the centre of mass."
+          },
+          {
+            "qid": 13,
+            "question": "A rocket moves in space by ejecting gases. The motion of the rocket is due to:",
+            "options": ["A) Internal forces only", "B) Conservation of momentum and external-force analysis of the rocket system", "C) Gravity only", "D) Centripetal force"],
+            "answer": "B",
+            "solution": "Rocket propulsion is based on conservation of momentum."
+          },
+          {
+            "qid": 14,
+            "question": "Which equation is correct for the centre of mass?",
+            "options": ["A) F_ext = Ma_cm", "B) F = mv", "C) P = mv²", "D) F = mg"],
+            "answer": "A",
+            "solution": "F_ext = Ma_cm is the equation of motion for the centre of mass."
+          },
+          {
+            "qid": 15,
+            "question": "The centre of mass of an isolated system always:",
+            "options": ["A) Accelerates", "B) Moves with constant velocity", "C) Remains at the origin", "D) Stops after some time"],
+            "answer": "B",
+            "solution": "An isolated system has no net external force, so the centre of mass has zero acceleration and moves with constant velocity."
+          }
+        ],
+        "Linear Momentum of a System of Particles": [
+          {
+            "qid": 1,
+            "question": "Linear momentum of a particle is defined as:",
+            "options": ["A) mv²", "B) mgh", "C) mv", "D) ma"],
+            "answer": "C",
+            "solution": "p = mv"
+          },
+          {
+            "qid": 2,
+            "question": "The SI unit of linear momentum is:",
+            "options": ["A) kg", "B) N", "C) kg·m/s", "D) J"],
+            "answer": "C",
+            "solution": "Momentum = mass × velocity, so unit is kg·m/s."
+          },
+          {
+            "qid": 3,
+            "question": "If the velocity of a body is doubled while its mass remains constant, its momentum becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "p = mv. If v doubles, p doubles."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): Momentum is a vector quantity. Reason (R): Momentum has both magnitude and direction.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Momentum = mass × velocity. Since velocity is a vector, momentum is a vector."
+          },
+          {
+            "qid": 5,
+            "question": "A body of mass 5 kg moves with a speed of 4 m/s. Its momentum is:",
+            "options": ["A) 9 kg·m/s", "B) 20 kg·m/s", "C) 25 kg·m/s", "D) 40 kg·m/s"],
+            "answer": "B",
+            "solution": "p = mv = 5 × 4 = 20 kg·m/s"
+          },
+          {
+            "qid": 6,
+            "question": "The total momentum of a system is:",
+            "options": ["A) Product of individual momenta", "B) Sum of individual momenta", "C) Difference of individual momenta", "D) Average of individual momenta"],
+            "answer": "B",
+            "solution": "Total momentum = vector sum of individual momenta."
+          },
+          {
+            "qid": 7,
+            "question": "If no external force acts on a system, its total momentum:",
+            "options": ["A) Increases", "B) Decreases", "C) Remains constant", "D) Becomes zero"],
+            "answer": "C",
+            "solution": "Law of conservation of momentum: total momentum is conserved."
+          },
+          {
+            "qid": 8,
+            "question": "A particle of mass 3 kg moves with velocity 6 m/s east. Its momentum is:",
+            "options": ["A) 18 kg·m/s east", "B) 18 kg·m/s west", "C) 9 kg·m/s east", "D) 6 kg·m/s east"],
+            "answer": "A",
+            "solution": "p = 3 × 6 = 18 kg·m/s east"
+          },
+          {
+            "qid": 9,
+            "question": "Momentum depends on:",
+            "options": ["A) Mass only", "B) Velocity only", "C) Both mass and velocity", "D) Force only"],
+            "answer": "C",
+            "solution": "p = mv, so it depends on both mass and velocity."
+          },
+          {
+            "qid": 10,
+            "question": "Two particles have momenta 5 kg·m/s and 7 kg·m/s in the same direction. Their total momentum is:",
+            "options": ["A) 2 kg·m/s", "B) 5 kg·m/s", "C) 7 kg·m/s", "D) 12 kg·m/s"],
+            "answer": "D",
+            "solution": "Total momentum = 5 + 7 = 12 kg·m/s"
+          },
+          {
+            "qid": 11,
+            "question": "A body is at rest. Its momentum is:",
+            "options": ["A) Infinite", "B) Zero", "C) Equal to its mass", "D) Equal to its weight"],
+            "answer": "B",
+            "solution": "p = mv = 0 when v = 0"
+          },
+          {
+            "qid": 12,
+            "question": "Which law is directly related to conservation of momentum?",
+            "options": ["A) Newton's First Law", "B) Newton's Second Law", "C) Newton's Third Law", "D) Hooke's Law"],
+            "answer": "C",
+            "solution": "Conservation of momentum follows from Newton's Third Law."
+          },
+          {
+            "qid": 13,
+            "question": "The momentum of a system changes only due to:",
+            "options": ["A) Internal forces", "B) External forces", "C) Friction between particles only", "D) Shape of the particles"],
+            "answer": "B",
+            "solution": "Internal forces cannot change total momentum of the system."
+          },
+          {
+            "qid": 14,
+            "question": "A body of mass 10 kg moves with velocity 3 m/s. Its momentum is:",
+            "options": ["A) 13 kg·m/s", "B) 30 kg·m/s", "C) 60 kg·m/s", "D) 300 kg·m/s"],
+            "answer": "B",
+            "solution": "p = 10 × 3 = 30 kg·m/s"
+          },
+          {
+            "qid": 15,
+            "question": "The mathematical expression for the total momentum of two particles is:",
+            "options": ["A) P = p₁ - p₂", "B) P = p₁ + p₂", "C) P = m₁ + m₂", "D) P = v₁ + v₂"],
+            "answer": "B",
+            "solution": "Total momentum is the vector sum of individual momenta."
+          }
+        ],
+        "Vector Product (Cross Product) of Two Vectors": [
+          {
+            "qid": 1,
+            "question": "The cross product of two vectors is represented by:",
+            "options": ["A) A+B", "B) A-B", "C) A×B", "D) A⋅B"],
+            "answer": "C",
+            "solution": "Cross product is denoted by ×."
+          },
+          {
+            "qid": 2,
+            "question": "The magnitude of the cross product of two vectors is:",
+            "options": ["A) AB cosθ", "B) AB sinθ", "C) A+B", "D) A-B"],
+            "answer": "B",
+            "solution": "|A×B| = AB sinθ"
+          },
+          {
+            "qid": 3,
+            "question": "The direction of the cross product is determined by:",
+            "options": ["A) Left-hand rule", "B) Fleming's left-hand rule", "C) Right-hand thumb rule", "D) Triangle law"],
+            "answer": "C",
+            "solution": "The right-hand thumb rule gives the direction of cross product."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): The cross product of two parallel vectors is zero. Reason (R): The angle between parallel vectors is 0°, and sin 0° = 0.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "|A×B| = AB sinθ. For parallel vectors, θ = 0°, so sinθ = 0."
+          },
+          {
+            "qid": 5,
+            "question": "The angle between two vectors is 90°. Their cross product is:",
+            "options": ["A) Zero", "B) Maximum", "C) Minimum", "D) Undefined"],
+            "answer": "B",
+            "solution": "|A×B| = AB sin90° = AB, which is maximum."
+          },
+          {
+            "qid": 6,
+            "question": "The cross product of two parallel vectors is:",
+            "options": ["A) 1", "B) Infinity", "C) Zero", "D) Depends on magnitude"],
+            "answer": "C",
+            "solution": "For parallel vectors, θ = 0°, so |A×B| = 0."
+          },
+          {
+            "qid": 7,
+            "question": "The cross product of two vectors gives a:",
+            "options": ["A) Scalar quantity", "B) Vector quantity", "C) Dimensionless quantity", "D) Tensor"],
+            "answer": "B",
+            "solution": "Cross product of two vectors is a vector."
+          },
+          {
+            "qid": 8,
+            "question": "If two vectors are perpendicular, then:",
+            "options": ["A) |A×B| = AB", "B) |A×B| = 0", "C) |A×B| = A+B", "D) |A×B| = A-B"],
+            "answer": "A",
+            "solution": "For perpendicular vectors, θ = 90°, so |A×B| = AB sin90° = AB."
+          },
+          {
+            "qid": 9,
+            "question": "The SI unit of the cross product depends upon:",
+            "options": ["A) The units of the vectors", "B) It has no unit", "C) Always Newton", "D) Always Joule"],
+            "answer": "A",
+            "solution": "The unit of cross product depends on the units of the vectors being multiplied."
+          },
+          {
+            "qid": 10,
+            "question": "If either vector has zero magnitude, the cross product is:",
+            "options": ["A) Maximum", "B) Minimum", "C) Zero", "D) Undefined"],
+            "answer": "C",
+            "solution": "If A = 0 or B = 0, then |A×B| = 0."
+          },
+          {
+            "qid": 11,
+            "question": "Which mathematical operation is not commutative?",
+            "options": ["A) Addition", "B) Scalar multiplication", "C) Cross product", "D) Multiplication by a constant"],
+            "answer": "C",
+            "solution": "A×B = -B×A, so cross product is not commutative."
+          },
+          {
+            "qid": 12,
+            "question": "The cross product of two vectors points:",
+            "options": ["A) Along the first vector", "B) Along the second vector", "C) Perpendicular to both vectors", "D) Opposite to gravity"],
+            "answer": "C",
+            "solution": "The cross product is perpendicular to the plane containing both vectors."
+          },
+          {
+            "qid": 13,
+            "question": "If the angle between two vectors is 180°, then their cross product is:",
+            "options": ["A) Maximum", "B) Minimum", "C) Zero", "D) Equal to their sum"],
+            "answer": "C",
+            "solution": "|A×B| = AB sin180° = 0"
+          },
+          {
+            "qid": 14,
+            "question": "Which formula correctly represents the magnitude of the cross product?",
+            "options": ["A) AB cosθ", "B) AB sinθ", "C) A+B", "D) A-B"],
+            "answer": "B",
+            "solution": "|A×B| = AB sinθ"
+          },
+          {
+            "qid": 15,
+            "question": "The cross product is widely used in calculating:",
+            "options": ["A) Speed", "B) Torque", "C) Temperature", "D) Density"],
+            "answer": "B",
+            "solution": "Torque τ = r×F is a cross product."
+          }
+        ],
+        "Angular Velocity and its Relation with Linear Velocity": [
+          {
+            "qid": 1,
+            "question": "Angular velocity is defined as:",
+            "options": ["A) Rate of change of displacement", "B) Rate of change of angular displacement", "C) Rate of change of momentum", "D) Rate of change of force"],
+            "answer": "B",
+            "solution": "ω = dθ/dt"
+          },
+          {
+            "qid": 2,
+            "question": "The SI unit of angular velocity is:",
+            "options": ["A) m/s", "B) rad/s", "C) rev/s", "D) degree/s"],
+            "answer": "B",
+            "solution": "Angular velocity is measured in radians per second."
+          },
+          {
+            "qid": 3,
+            "question": "The relation between linear velocity and angular velocity is:",
+            "options": ["A) v = r/ω", "B) v = rω", "C) v = r+ω", "D) v = ω²r"],
+            "answer": "B",
+            "solution": "v = rω"
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): All particles of a rotating rigid body have the same angular velocity. Reason (R): Every point rotates through the same angle in the same time.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "For a rigid body, all points have the same angular velocity."
+          },
+          {
+            "qid": 5,
+            "question": "A wheel rotates with an angular velocity of 5 rad/s. A point on its rim is 2 m from the centre. Its linear speed is:",
+            "options": ["A) 2.5 m/s", "B) 5 m/s", "C) 7 m/s", "D) 10 m/s"],
+            "answer": "D",
+            "solution": "v = rω = 2 × 5 = 10 m/s"
+          },
+          {
+            "qid": 6,
+            "question": "Which quantity is the same for every point on a rigid body rotating about a fixed axis?",
+            "options": ["A) Linear velocity", "B) Angular velocity", "C) Linear acceleration", "D) Centripetal acceleration"],
+            "answer": "B",
+            "solution": "All points in a rigid body have the same angular velocity."
+          },
+          {
+            "qid": 7,
+            "question": "If the radius is doubled while angular velocity remains constant, the linear velocity becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "v = rω. If r doubles, v doubles."
+          },
+          {
+            "qid": 8,
+            "question": "A particle moving in a circle has:",
+            "options": ["A) Linear velocity directed toward the centre", "B) Linear velocity tangential to the path", "C) Zero velocity", "D) Velocity along the radius"],
+            "answer": "B",
+            "solution": "In circular motion, linear velocity is tangential to the path."
+          },
+          {
+            "qid": 9,
+            "question": "If angular velocity is doubled and radius remains unchanged, the linear velocity becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "v = rω. If ω doubles, v doubles."
+          },
+          {
+            "qid": 10,
+            "question": "A point is 0.5 m from the axis of rotation. If its angular velocity is 8 rad/s, its linear speed is:",
+            "options": ["A) 2 m/s", "B) 4 m/s", "C) 8 m/s", "D) 16 m/s"],
+            "answer": "B",
+            "solution": "v = rω = 0.5 × 8 = 4 m/s"
+          },
+          {
+            "qid": 11,
+            "question": "Which quantity depends on the distance from the axis of rotation?",
+            "options": ["A) Angular velocity", "B) Angular displacement", "C) Linear velocity", "D) Angular acceleration"],
+            "answer": "C",
+            "solution": "v = rω, so linear velocity depends on distance from axis."
+          },
+          {
+            "qid": 12,
+            "question": "One complete revolution corresponds to an angular displacement of:",
+            "options": ["A) 90°", "B) 180°", "C) 2π radians", "D) π radians"],
+            "answer": "C",
+            "solution": "1 revolution = 2π radians"
+          },
+          {
+            "qid": 13,
+            "question": "If a rotating body has zero angular velocity, then its linear velocity is:",
+            "options": ["A) Maximum", "B) Zero", "C) Infinite", "D) Equal to the radius"],
+            "answer": "B",
+            "solution": "v = rω. If ω = 0, then v = 0."
+          },
+          {
+            "qid": 14,
+            "question": "Which formula correctly relates angular velocity to time period T?",
+            "options": ["A) ω = T/2π", "B) ω = 2π/T", "C) ω = 2πT", "D) ω = πT"],
+            "answer": "B",
+            "solution": "ω = 2π/T"
+          },
+          {
+            "qid": 15,
+            "question": "Two points are located at distances 1 m and 3 m from the axis of a rotating disc. If the disc rotates with constant angular velocity, then:",
+            "options": ["A) Both points have the same linear velocity.", "B) The point at 1 m has greater linear velocity.", "C) The point at 3 m has greater linear velocity.", "D) Both points have zero linear velocity."],
+            "answer": "C",
+            "solution": "v = rω. The point with larger r has larger v."
+          }
+        ],
+        "Torque and Angular Momentum": [
+          {
+            "qid": 1,
+            "question": "Torque is defined as:",
+            "options": ["A) Force acting on a body", "B) Turning effect of a force", "C) Linear momentum", "D) Angular displacement"],
+            "answer": "B",
+            "solution": "Torque is the rotational analogue of force, representing the turning effect."
+          },
+          {
+            "qid": 2,
+            "question": "The SI unit of torque is:",
+            "options": ["A) Joule", "B) Newton", "C) Newton-metre (N·m)", "D) kg·m/s"],
+            "answer": "C",
+            "solution": "Torque = r × F, so unit is N·m."
+          },
+          {
+            "qid": 3,
+            "question": "The magnitude of torque is given by:",
+            "options": ["A) τ = rF", "B) τ = rF sinθ", "C) τ = rF cosθ", "D) τ = F/r"],
+            "answer": "B",
+            "solution": "τ = rF sinθ"
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): Torque is a vector quantity. Reason (R): Torque is the cross product of position vector and force.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "τ = r×F, and cross product gives a vector."
+          },
+          {
+            "qid": 5,
+            "question": "A force of 10 N acts perpendicular to a rod 2 m long. The torque produced is:",
+            "options": ["A) 5 N·m", "B) 10 N·m", "C) 20 N·m", "D) 40 N·m"],
+            "answer": "C",
+            "solution": "τ = rF = 2 × 10 = 20 N·m"
+          },
+          {
+            "qid": 6,
+            "question": "Angular momentum is given by:",
+            "options": ["A) L = mv", "B) L = Iω", "C) L = ma", "D) L = Fr"],
+            "answer": "B",
+            "solution": "L = Iω"
+          },
+          {
+            "qid": 7,
+            "question": "The SI unit of angular momentum is:",
+            "options": ["A) kg·m²/s", "B) Newton", "C) Joule", "D) Watt"],
+            "answer": "A",
+            "solution": "L = Iω, unit = kg·m²/s"
+          },
+          {
+            "qid": 8,
+            "question": "If the net external torque acting on a system is zero, then:",
+            "options": ["A) Angular momentum increases.", "B) Angular momentum decreases.", "C) Angular momentum remains constant.", "D) Torque becomes infinite."],
+            "answer": "C",
+            "solution": "Law of conservation of angular momentum."
+          },
+          {
+            "qid": 9,
+            "question": "Torque is maximum when the angle between force and position vector is:",
+            "options": ["A) 0°", "B) 30°", "C) 60°", "D) 90°"],
+            "answer": "D",
+            "solution": "τ = rF sinθ. Maximum when sinθ = 1, i.e., θ = 90°."
+          },
+          {
+            "qid": 10,
+            "question": "A force acts along the line joining the pivot and the point of application. The torque is:",
+            "options": ["A) Maximum", "B) Minimum", "C) Zero", "D) Infinite"],
+            "answer": "C",
+            "solution": "When force acts along the line of r, θ = 0°, so τ = 0."
+          },
+          {
+            "qid": 11,
+            "question": "Which quantity is conserved when no external torque acts?",
+            "options": ["A) Force", "B) Linear velocity", "C) Angular momentum", "D) Torque"],
+            "answer": "C",
+            "solution": "Angular momentum is conserved when net external torque is zero."
+          },
+          {
+            "qid": 12,
+            "question": "A wheel has a moment of inertia of 4 kg·m² and rotates with an angular velocity of 5 rad/s. Its angular momentum is:",
+            "options": ["A) 9 kg·m²/s", "B) 20 kg·m²/s", "C) 25 kg·m²/s", "D) 40 kg·m²/s"],
+            "answer": "B",
+            "solution": "L = Iω = 4 × 5 = 20 kg·m²/s"
+          },
+          {
+            "qid": 13,
+            "question": "Which formula relates torque and angular acceleration?",
+            "options": ["A) τ = Iα", "B) τ = ma", "C) τ = mv", "D) τ = Fr"],
+            "answer": "A",
+            "solution": "τ = Iα is the rotational analogue of F = ma."
+          },
+          {
+            "qid": 14,
+            "question": "Torque is also known as:",
+            "options": ["A) Couple moment", "B) Turning moment", "C) Rotational force", "D) All of the above"],
+            "answer": "D",
+            "solution": "Torque is known by all these names."
+          },
+          {
+            "qid": 15,
+            "question": "The direction of torque is determined using:",
+            "options": ["A) Left-hand rule", "B) Fleming's left-hand rule", "C) Right-hand thumb rule", "D) Triangle law"],
+            "answer": "C",
+            "solution": "Right-hand thumb rule gives the direction of torque."
+          }
+        ],
+        "Equilibrium of a Rigid Body": [
+          {
+            "qid": 1,
+            "question": "A rigid body is said to be in equilibrium when:",
+            "options": ["A) It is only at rest.", "B) It moves with constant acceleration.", "C) The net force and net torque acting on it are zero.", "D) Only the net force is zero."],
+            "answer": "C",
+            "solution": "Both translational and rotational equilibrium conditions must be satisfied."
+          },
+          {
+            "qid": 2,
+            "question": "The first condition of equilibrium is:",
+            "options": ["A) Στ = 0", "B) ΣF = 0", "C) F = ma", "D) L = Iω"],
+            "answer": "B",
+            "solution": "First condition: net force must be zero."
+          },
+          {
+            "qid": 3,
+            "question": "The second condition of equilibrium is:",
+            "options": ["A) Στ = 0", "B) ΣF = ma", "C) P = mv", "D) F = mg"],
+            "answer": "A",
+            "solution": "Second condition: net torque must be zero."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): A body can be in equilibrium while moving. Reason (R): A body moving with constant velocity has zero acceleration.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Dynamic equilibrium occurs when net force is zero even with constant velocity."
+          },
+          {
+            "qid": 5,
+            "question": "A body is acted upon by two equal and opposite forces along the same line. The body is:",
+            "options": ["A) In translational equilibrium", "B) In rotational equilibrium only", "C) Not in equilibrium", "D) Accelerating"],
+            "answer": "A",
+            "solution": "Net force is zero, so translational equilibrium is achieved."
+          },
+          {
+            "qid": 6,
+            "question": "The SI unit of torque is:",
+            "options": ["A) N", "B) J", "C) N·m", "D) kg"],
+            "answer": "C",
+            "solution": "Torque is measured in Newton-metre."
+          },
+          {
+            "qid": 7,
+            "question": "Which condition is necessary for rotational equilibrium?",
+            "options": ["A) ΣF = 0", "B) Στ = 0", "C) P = 0", "D) v = 0"],
+            "answer": "B",
+            "solution": "Rotational equilibrium requires net torque to be zero."
+          },
+          {
+            "qid": 8,
+            "question": "If the net force on a body is zero but the net torque is not zero, the body will:",
+            "options": ["A) Remain completely at rest", "B) Rotate with angular acceleration", "C) Move with constant velocity without rotating", "D) Be in equilibrium"],
+            "answer": "B",
+            "solution": "Net torque causes angular acceleration even if net force is zero."
+          },
+          {
+            "qid": 9,
+            "question": "Which of the following can produce a torque?",
+            "options": ["A) A force applied through the axis of rotation", "B) A force applied away from the axis", "C) Weight alone always", "D) Mass alone"],
+            "answer": "B",
+            "solution": "A force applied at a perpendicular distance from the axis produces torque."
+          },
+          {
+            "qid": 10,
+            "question": "A body is in complete equilibrium if:",
+            "options": ["A) Only force is zero", "B) Only torque is zero", "C) Both force and torque are zero", "D) Velocity is zero"],
+            "answer": "C",
+            "solution": "Complete equilibrium requires both ΣF = 0 and Στ = 0."
+          },
+          {
+            "qid": 11,
+            "question": "A book resting on a table is an example of:",
+            "options": ["A) Dynamic equilibrium", "B) Static equilibrium", "C) Circular motion", "D) Projectile motion"],
+            "answer": "B",
+            "solution": "Static equilibrium: body at rest with zero net force and torque."
+          },
+          {
+            "qid": 12,
+            "question": "A car moving with constant velocity on a straight road is an example of:",
+            "options": ["A) Static equilibrium", "B) Dynamic equilibrium", "C) Rotational equilibrium only", "D) Oscillatory motion"],
+            "answer": "B",
+            "solution": "Dynamic equilibrium: constant velocity means net force is zero."
+          },
+          {
+            "qid": 13,
+            "question": "Which of the following is not in equilibrium?",
+            "options": ["A) A hanging lamp at rest", "B) A book lying on a table", "C) A car moving with constant velocity on a straight road", "D) A freely falling stone"],
+            "answer": "D",
+            "solution": "A freely falling stone has acceleration g, so net force is not zero."
+          },
+          {
+            "qid": 14,
+            "question": "The tendency of a force to rotate a body depends on:",
+            "options": ["A) Only the magnitude of the force", "B) Only the distance from the axis", "C) Both the force and the perpendicular distance from the axis", "D) Only the mass of the body"],
+            "answer": "C",
+            "solution": "Torque depends on both force magnitude and perpendicular distance."
+          },
+          {
+            "qid": 15,
+            "question": "Which equations together represent the conditions for equilibrium of a rigid body?",
+            "options": ["A) ΣF = 0", "B) Στ = 0", "C) ΣF = 0, Στ = 0", "D) F = ma"],
+            "answer": "C",
+            "solution": "Both ΣF = 0 and Στ = 0 are required for equilibrium."
+          }
+        ],
+        "Moment of Inertia": [
+          {
+            "qid": 1,
+            "question": "Moment of inertia is the rotational analogue of:",
+            "options": ["A) Force", "B) Mass", "C) Velocity", "D) Momentum"],
+            "answer": "B",
+            "solution": "Mass resists linear motion, while moment of inertia resists rotational motion."
+          },
+          {
+            "qid": 2,
+            "question": "The SI unit of moment of inertia is:",
+            "options": ["A) kg", "B) kg·m", "C) kg·m²", "D) N·m"],
+            "answer": "C",
+            "solution": "I = mr², so unit is kg·m²."
+          },
+          {
+            "qid": 3,
+            "question": "The moment of inertia depends upon:",
+            "options": ["A) Mass only", "B) Distance of mass from the axis only", "C) Both mass and distribution of mass about the axis", "D) Colour of the body"],
+            "answer": "C",
+            "solution": "I depends on mass and how it is distributed about the axis."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): Moment of inertia depends on the axis of rotation. Reason (R): The distances of mass elements from the axis change with the axis.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Different axes mean different distances, so I changes."
+          },
+          {
+            "qid": 5,
+            "question": "The mathematical expression for the moment of inertia of a particle is:",
+            "options": ["A) I = mr", "B) I = mr²", "C) I = m/r", "D) I = mv"],
+            "answer": "B",
+            "solution": "I = mr²"
+          },
+          {
+            "qid": 6,
+            "question": "A particle of mass 2 kg is at a distance of 3 m from the axis of rotation. Its moment of inertia is:",
+            "options": ["A) 6 kg·m²", "B) 9 kg·m²", "C) 12 kg·m²", "D) 18 kg·m²"],
+            "answer": "D",
+            "solution": "I = mr² = 2 × 3² = 18 kg·m²"
+          },
+          {
+            "qid": 7,
+            "question": "If the distance of a particle from the axis is doubled, its moment of inertia becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "C",
+            "solution": "I ∝ r². If r doubles, I becomes 4 times."
+          },
+          {
+            "qid": 8,
+            "question": "Which of the following has the greatest moment of inertia about its centre for the same mass and radius?",
+            "options": ["A) Solid sphere", "B) Solid disc", "C) Thin ring", "D) Solid cylinder"],
+            "answer": "C",
+            "solution": "The thin ring has all its mass at the maximum distance from the axis."
+          },
+          {
+            "qid": 9,
+            "question": "Which factor does not affect the moment of inertia?",
+            "options": ["A) Mass", "B) Shape of the body", "C) Axis of rotation", "D) Colour of the body"],
+            "answer": "D",
+            "solution": "Colour does not affect moment of inertia."
+          },
+          {
+            "qid": 10,
+            "question": "The moment of inertia of a point mass placed on the axis of rotation is:",
+            "options": ["A) Zero", "B) Equal to its mass", "C) Infinite", "D) One"],
+            "answer": "A",
+            "solution": "When r = 0, I = mr² = 0."
+          },
+          {
+            "qid": 11,
+            "question": "Which statement is correct?",
+            "options": ["A) Moment of inertia is always constant.", "B) Moment of inertia depends only on velocity.", "C) Moment of inertia depends on the chosen axis.", "D) Moment of inertia is independent of mass."],
+            "answer": "C",
+            "solution": "Moment of inertia depends on the axis of rotation chosen."
+          },
+          {
+            "qid": 12,
+            "question": "A particle has a moment of inertia of 32 kg·m² and mass 2 kg. Its distance from the axis is:",
+            "options": ["A) 2 m", "B) 3 m", "C) 4 m", "D) 5 m"],
+            "answer": "C",
+            "solution": "r = √(I/m) = √(32/2) = √16 = 4 m"
+          },
+          {
+            "qid": 13,
+            "question": "The radius of gyration is defined as:",
+            "options": ["A) Radius of the body", "B) Distance from the centre", "C) Distance at which the entire mass can be assumed concentrated without changing the moment of inertia", "D) Diameter of rotation"],
+            "answer": "C",
+            "solution": "Radius of gyration is the effective distance where all mass can be concentrated."
+          },
+          {
+            "qid": 14,
+            "question": "Which formula correctly relates moment of inertia and radius of gyration?",
+            "options": ["A) I = Mk", "B) I = Mk²", "C) I = M/k", "D) I = M+r"],
+            "answer": "B",
+            "solution": "I = Mk²"
+          },
+          {
+            "qid": 15,
+            "question": "A body has mass 5 kg and radius of gyration 2 m. Its moment of inertia is:",
+            "options": ["A) 10 kg·m²", "B) 15 kg·m²", "C) 20 kg·m²", "D) 25 kg·m²"],
+            "answer": "C",
+            "solution": "I = Mk² = 5 × 4 = 20 kg·m²"
+          }
+        ],
+        "Kinematics of Rotational Motion about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "Angular displacement is measured in:",
+            "options": ["A) metre", "B) radian", "C) newton", "D) joule"],
+            "answer": "B",
+            "solution": "Angular displacement is measured in radians."
+          },
+          {
+            "qid": 2,
+            "question": "Angular acceleration is defined as:",
+            "options": ["A) Rate of change of angular displacement", "B) Rate of change of angular velocity", "C) Rate of change of linear velocity", "D) Rate of change of momentum"],
+            "answer": "B",
+            "solution": "α = dω/dt"
+          },
+          {
+            "qid": 3,
+            "question": "The SI unit of angular acceleration is:",
+            "options": ["A) rad/s", "B) rad/s²", "C) m/s²", "D) rev/s"],
+            "answer": "B",
+            "solution": "Angular acceleration is measured in rad/s²."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): Rotational motion equations are analogous to linear motion equations. Reason (R): Angular displacement, velocity, and acceleration correspond to displacement, velocity, and acceleration.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "The analogy between linear and rotational motion is well-established."
+          },
+          {
+            "qid": 5,
+            "question": "Which equation relates angular velocity and angular acceleration?",
+            "options": ["A) ω = ω₀ + αt", "B) v = u + at", "C) F = ma", "D) L = Iω"],
+            "answer": "A",
+            "solution": "ω = ω₀ + αt is the rotational equivalent of v = u + at."
+          },
+          {
+            "qid": 6,
+            "question": "A wheel starts from rest and rotates with an angular acceleration of 4 rad/s² for 3 s. Its angular velocity becomes:",
+            "options": ["A) 4 rad/s", "B) 8 rad/s", "C) 12 rad/s", "D) 16 rad/s"],
+            "answer": "C",
+            "solution": "ω = ω₀ + αt = 0 + 4 × 3 = 12 rad/s"
+          },
+          {
+            "qid": 7,
+            "question": "The rotational equivalent of linear displacement is:",
+            "options": ["A) Angular velocity", "B) Angular displacement", "C) Angular momentum", "D) Torque"],
+            "answer": "B",
+            "solution": "Angular displacement (θ) corresponds to linear displacement (s)."
+          },
+          {
+            "qid": 8,
+            "question": "The rotational equivalent of linear acceleration is:",
+            "options": ["A) Angular displacement", "B) Angular velocity", "C) Angular acceleration", "D) Torque"],
+            "answer": "C",
+            "solution": "Angular acceleration (α) corresponds to linear acceleration (a)."
+          },
+          {
+            "qid": 9,
+            "question": "The angular displacement for uniformly accelerated rotational motion is:",
+            "options": ["A) θ = ωt", "B) θ = ω₀t + 1/2 αt²", "C) θ = αt", "D) θ = ω/t"],
+            "answer": "B",
+            "solution": "θ = ω₀t + 1/2 αt²"
+          },
+          {
+            "qid": 10,
+            "question": "A disc rotates with a constant angular velocity of 10 rad/s. Its angular acceleration is:",
+            "options": ["A) 10 rad/s²", "B) 5 rad/s²", "C) 1 rad/s²", "D) 0 rad/s²"],
+            "answer": "D",
+            "solution": "Constant angular velocity means α = 0."
+          },
+          {
+            "qid": 11,
+            "question": "Which equation is the rotational analogue of v² = u² + 2as?",
+            "options": ["A) ω² = ω₀² + 2αθ", "B) ω = αt", "C) θ = ωt", "D) L = Iω"],
+            "answer": "A",
+            "solution": "ω² = ω₀² + 2αθ"
+          },
+          {
+            "qid": 12,
+            "question": "One complete revolution is equal to:",
+            "options": ["A) π radians", "B) 2π radians", "C) 4π radians", "D) 180°"],
+            "answer": "B",
+            "solution": "1 revolution = 2π radians"
+          },
+          {
+            "qid": 13,
+            "question": "A wheel rotates through 20 radians in 4 seconds with constant angular velocity. Its angular velocity is:",
+            "options": ["A) 2 rad/s", "B) 4 rad/s", "C) 5 rad/s", "D) 8 rad/s"],
+            "answer": "C",
+            "solution": "ω = θ/t = 20/4 = 5 rad/s"
+          },
+          {
+            "qid": 14,
+            "question": "Which quantity remains constant during uniform rotational motion?",
+            "options": ["A) Angular acceleration", "B) Angular velocity", "C) Torque", "D) Angular momentum always"],
+            "answer": "B",
+            "solution": "Uniform rotational motion means constant angular velocity."
+          },
+          {
+            "qid": 15,
+            "question": "The rotational equation θ = ω₀t + 1/2 αt² is applicable when:",
+            "options": ["A) Angular acceleration is constant", "B) Angular velocity is zero", "C) Torque is zero", "D) Angular momentum is constant"],
+            "answer": "A",
+            "solution": "It applies for constant angular acceleration."
+          }
+        ],
+        "Dynamics of Rotational Motion about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "The rotational analogue of Newton's Second Law is:",
+            "options": ["A) F = ma", "B) τ = Iα", "C) L = Iω", "D) P = Fv"],
+            "answer": "B",
+            "solution": "τ = Iα"
+          },
+          {
+            "qid": 2,
+            "question": "Torque is directly proportional to:",
+            "options": ["A) Angular displacement", "B) Angular acceleration", "C) Radius only", "D) Velocity only"],
+            "answer": "B",
+            "solution": "τ = Iα, so torque is proportional to angular acceleration."
+          },
+          {
+            "qid": 3,
+            "question": "The SI unit of angular acceleration is:",
+            "options": ["A) rad", "B) rad/s", "C) rad/s²", "D) N·m"],
+            "answer": "C",
+            "solution": "Angular acceleration is measured in rad/s²."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): A larger torque produces a larger angular acceleration for the same body. Reason (R): Moment of inertia remains constant for the same axis of rotation.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "α = τ/I. For constant I, larger τ means larger α."
+          },
+          {
+            "qid": 5,
+            "question": "A body has a moment of inertia of 5 kg·m². If a torque of 20 N·m acts on it, its angular acceleration is:",
+            "options": ["A) 2 rad/s²", "B) 4 rad/s²", "C) 5 rad/s²", "D) 10 rad/s²"],
+            "answer": "B",
+            "solution": "α = τ/I = 20/5 = 4 rad/s²"
+          },
+          {
+            "qid": 6,
+            "question": "If the applied torque is zero, the angular acceleration is:",
+            "options": ["A) Maximum", "B) Infinite", "C) Zero", "D) Negative"],
+            "answer": "C",
+            "solution": "α = τ/I = 0 when τ = 0."
+          },
+          {
+            "qid": 7,
+            "question": "The rotational equivalent of mass is:",
+            "options": ["A) Torque", "B) Angular momentum", "C) Moment of inertia", "D) Angular velocity"],
+            "answer": "C",
+            "solution": "Moment of inertia is the rotational equivalent of mass."
+          },
+          {
+            "qid": 8,
+            "question": "A larger moment of inertia means:",
+            "options": ["A) Easier to rotate", "B) Greater resistance to rotational motion", "C) Smaller mass", "D) Zero torque"],
+            "answer": "B",
+            "solution": "Larger I means more resistance to changes in rotational motion."
+          },
+          {
+            "qid": 9,
+            "question": "If the same torque acts on two bodies, the body with the smaller moment of inertia will have:",
+            "options": ["A) Smaller angular acceleration", "B) Greater angular acceleration", "C) Same angular acceleration", "D) Zero angular acceleration"],
+            "answer": "B",
+            "solution": "α = τ/I. Smaller I means larger α."
+          },
+          {
+            "qid": 10,
+            "question": "Which quantity causes rotational motion?",
+            "options": ["A) Force", "B) Torque", "C) Mass", "D) Density"],
+            "answer": "B",
+            "solution": "Torque causes rotational motion."
+          },
+          {
+            "qid": 11,
+            "question": "The rotational equivalent of linear acceleration is:",
+            "options": ["A) Torque", "B) Angular acceleration", "C) Angular momentum", "D) Moment of inertia"],
+            "answer": "B",
+            "solution": "Angular acceleration corresponds to linear acceleration."
+          },
+          {
+            "qid": 12,
+            "question": "A wheel has a moment of inertia of 8 kg·m². A torque of 16 N·m acts on it. The angular acceleration is:",
+            "options": ["A) 1 rad/s²", "B) 2 rad/s²", "C) 4 rad/s²", "D) 8 rad/s²"],
+            "answer": "B",
+            "solution": "α = τ/I = 16/8 = 2 rad/s²"
+          },
+          {
+            "qid": 13,
+            "question": "Which equation correctly represents rotational dynamics?",
+            "options": ["A) τ = Iα", "B) v = u + at", "C) P = mv", "D) F = mg"],
+            "answer": "A",
+            "solution": "τ = Iα"
+          },
+          {
+            "qid": 14,
+            "question": "A body rotates with constant angular velocity. The net torque acting on it is:",
+            "options": ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+            "answer": "C",
+            "solution": "Constant ω means α = 0, so τ = 0."
+          },
+          {
+            "qid": 15,
+            "question": "Which statement is correct?",
+            "options": ["A) Torque always changes angular velocity.", "B) Torque is the rotational equivalent of force.", "C) Angular acceleration exists without torque.", "D) Moment of inertia is independent of mass."],
+            "answer": "B",
+            "solution": "Torque is indeed the rotational equivalent of force."
+          }
+        ],
+        "Angular Momentum in Rotation about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "Angular momentum of a rigid body rotating about a fixed axis is given by:",
+            "options": ["A) L = mv", "B) L = Iω", "C) L = Fr", "D) L = ma"],
+            "answer": "B",
+            "solution": "L = Iω"
+          },
+          {
+            "qid": 2,
+            "question": "The SI unit of angular momentum is:",
+            "options": ["A) kg·m²/s", "B) N·m", "C) Joule", "D) Watt"],
+            "answer": "A",
+            "solution": "L = Iω, unit = kg·m²/s"
+          },
+          {
+            "qid": 3,
+            "question": "Angular momentum depends upon:",
+            "options": ["A) Mass only", "B) Angular velocity only", "C) Moment of inertia and angular velocity", "D) Radius only"],
+            "answer": "C",
+            "solution": "L = Iω, so it depends on both I and ω."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): If no external torque acts on a system, its angular momentum remains constant. Reason (R): External torque is responsible for changing angular momentum.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Conservation of angular momentum follows from τ = dL/dt."
+          },
+          {
+            "qid": 5,
+            "question": "A wheel has a moment of inertia of 5 kg·m² and rotates with an angular velocity of 4 rad/s. Its angular momentum is:",
+            "options": ["A) 9 kg·m²/s", "B) 20 kg·m²/s", "C) 25 kg·m²/s", "D) 40 kg·m²/s"],
+            "answer": "B",
+            "solution": "L = Iω = 5 × 4 = 20 kg·m²/s"
+          },
+          {
+            "qid": 6,
+            "question": "If the angular velocity of a rotating body is doubled while its moment of inertia remains constant, its angular momentum becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "L = Iω. If ω doubles, L doubles."
+          },
+          {
+            "qid": 7,
+            "question": "If the moment of inertia is doubled while angular velocity remains constant, angular momentum becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "L = Iω. If I doubles, L doubles."
+          },
+          {
+            "qid": 8,
+            "question": "The direction of angular momentum is determined by:",
+            "options": ["A) Left-hand rule", "B) Fleming's left-hand rule", "C) Right-hand thumb rule", "D) Triangle law"],
+            "answer": "C",
+            "solution": "Right-hand thumb rule gives the direction of angular momentum."
+          },
+          {
+            "qid": 9,
+            "question": "Conservation of angular momentum occurs when:",
+            "options": ["A) Net external force is zero", "B) Net external torque is zero", "C) Angular velocity is zero", "D) Force is constant"],
+            "answer": "B",
+            "solution": "Angular momentum is conserved when net external torque is zero."
+          },
+          {
+            "qid": 10,
+            "question": "A spinning skater pulls in her arms. Her moment of inertia decreases. According to conservation of angular momentum, her angular velocity:",
+            "options": ["A) Decreases", "B) Increases", "C) Remains constant", "D) Becomes zero"],
+            "answer": "B",
+            "solution": "L = Iω constant. If I decreases, ω increases."
+          },
+          {
+            "qid": 11,
+            "question": "Which quantity remains constant for an isolated rotating system?",
+            "options": ["A) Torque", "B) Angular acceleration", "C) Angular momentum", "D) Angular velocity"],
+            "answer": "C",
+            "solution": "Angular momentum is conserved in an isolated system."
+          },
+          {
+            "qid": 12,
+            "question": "A body has angular momentum 24 kg·m²/s and moment of inertia 6 kg·m². Its angular velocity is:",
+            "options": ["A) 2 rad/s", "B) 3 rad/s", "C) 4 rad/s", "D) 6 rad/s"],
+            "answer": "C",
+            "solution": "ω = L/I = 24/6 = 4 rad/s"
+          },
+          {
+            "qid": 13,
+            "question": "Which of the following is an application of conservation of angular momentum?",
+            "options": ["A) Projectile motion", "B) A diver tucking in while diving", "C) Ohm's law", "D) Hooke's law"],
+            "answer": "B",
+            "solution": "A diver reduces moment of inertia to increase angular velocity."
+          },
+          {
+            "qid": 14,
+            "question": "If the net external torque on a rotating body is positive, then its angular momentum:",
+            "options": ["A) Must increase", "B) Must decrease", "C) Remains constant", "D) Becomes zero"],
+            "answer": "A",
+            "solution": "τ = dL/dt. Positive τ means L increases."
+          },
+          {
+            "qid": 15,
+            "question": "Which equation correctly relates torque and angular momentum?",
+            "options": ["A) τ = dL/dt", "B) L = mv", "C) F = ma", "D) P = Fv"],
+            "answer": "A",
+            "solution": "τ = dL/dt"
+          }
+        ]
+      },
+      "Medium": {
+        "Centre of Mass": [
+          {
+            "qid": 1,
+            "question": "Two particles of masses 3 kg and 5 kg are placed at x = 2 m and x = 8 m respectively. The centre of mass is:",
+            "options": ["A) 5.00 m", "B) 5.25 m", "C) 5.75 m", "D) 6.00 m"],
+            "answer": "C",
+            "solution": "x_cm = (3(2) + 5(8))/(3+5) = 46/8 = 5.75 m"
+          },
+          {
+            "qid": 2,
+            "question": "Three particles of masses 1 kg, 2 kg, and 3 kg are placed at x = 0 m, 2 m, and 6 m respectively. The centre of mass is:",
+            "options": ["A) 3 m", "B) 3.5 m", "C) 4 m", "D) 4.5 m"],
+            "answer": "B",
+            "solution": "x_cm = (1(0) + 2(2) + 3(6))/6 = 22/6 = 3.67 m ≈ 3.5 m"
+          },
+          {
+            "qid": 3,
+            "question": "Assertion (A): The centre of mass of a hollow sphere is at its centre. Reason (R): The mass is symmetrically distributed about the centre.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both are true but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Due to symmetry, the centre of mass of a hollow sphere is at its geometric centre."
+          },
+          {
+            "qid": 4,
+            "question": "Two particles have masses in the ratio 2 : 5. The centre of mass divides the distance between them in the ratio:",
+            "options": ["A) 2 : 5", "B) 5 : 2", "C) 7 : 2", "D) 1 : 1"],
+            "answer": "B",
+            "solution": "The centre of mass divides the line joining two masses inversely proportional to their masses."
+          },
+          {
+            "qid": 5,
+            "question": "The centre of mass of a semicircular wire lies:",
+            "options": ["A) At the centre of the circle", "B) Outside the wire on the axis of symmetry", "C) At the end of the diameter", "D) At the midpoint of the arc"],
+            "answer": "B",
+            "solution": "Centre of mass of semicircular wire lies on the axis of symmetry outside the wire at distance 2R/π from the centre."
+          },
+          {
+            "qid": 6,
+            "question": "A 2 kg mass is at x = 1 m, and a 6 kg mass is at x = 5 m. The centre of mass is:",
+            "options": ["A) 3 m", "B) 4 m", "C) 4.5 m", "D) 5 m"],
+            "answer": "B",
+            "solution": "x_cm = (2(1) + 6(5))/8 = 32/8 = 4 m"
+          },
+          {
+            "qid": 7,
+            "question": "If all particles of a system are shifted by 4 m along the positive x-axis, the centre of mass:",
+            "options": ["A) Remains unchanged", "B) Moves by 2 m", "C) Moves by 4 m", "D) Cannot be determined"],
+            "answer": "C",
+            "solution": "Centre of mass shifts by the same amount as all particles."
+          },
+          {
+            "qid": 8,
+            "question": "Which statement is correct?",
+            "options": ["A) The centre of mass always lies inside the object.", "B) The centre of mass always lies on the surface.", "C) The centre of mass depends on mass distribution.", "D) The centre of mass depends only on volume."],
+            "answer": "C",
+            "solution": "Centre of mass depends on how mass is distributed in the body."
+          },
+          {
+            "qid": 9,
+            "question": "The centre of mass of a uniform triangular lamina is located:",
+            "options": ["A) At the midpoint of one side", "B) At the centroid", "C) At one vertex", "D) Outside the triangle"],
+            "answer": "B",
+            "solution": "The centroid is the point of intersection of medians, which is the centre of mass."
+          },
+          {
+            "qid": 10,
+            "question": "A body is divided into two equal masses. The centre of mass:",
+            "options": ["A) Must lie midway between them", "B) Depends upon their positions", "C) Must lie inside one mass", "D) Cannot be calculated"],
+            "answer": "B",
+            "solution": "Centre of mass depends on the positions of the masses."
+          },
+          {
+            "qid": 11,
+            "question": "The x-coordinate of the centre of mass of two particles is 4 m. One particle is 2 kg at 2 m, the other has mass 4 kg. Its position is:",
+            "options": ["A) 4 m", "B) 5 m", "C) 6 m", "D) 7 m"],
+            "answer": "B",
+            "solution": "4 = (2(2) + 4x)/6 ⇒ 24 = 4 + 4x ⇒ x = 5 m"
+          },
+          {
+            "qid": 12,
+            "question": "If equal masses are placed at the four corners of a square, the centre of mass lies:",
+            "options": ["A) At one corner", "B) At the midpoint of one side", "C) At the centre of the square", "D) Outside the square"],
+            "answer": "C",
+            "solution": "By symmetry, the centre of mass is at the centre of the square."
+          },
+          {
+            "qid": 13,
+            "question": "Which factor does not affect the centre of mass?",
+            "options": ["A) Mass distribution", "B) Shape", "C) Relative positions", "D) Colour"],
+            "answer": "D",
+            "solution": "Colour does not affect the centre of mass."
+          },
+          {
+            "qid": 14,
+            "question": "A uniform rod is broken into two unequal pieces. The centre of mass of the combined system:",
+            "options": ["A) Changes", "B) Remains unchanged (if positions are unchanged)", "C) Moves to the heavier piece", "D) Becomes undefined"],
+            "answer": "B",
+            "solution": "The centre of mass of the complete system remains the same if no external rearrangement occurs."
+          },
+          {
+            "qid": 15,
+            "question": "Which expression gives the x-coordinate of the centre of mass of a system of particles?",
+            "options": ["A) x = (∑x_i)/n", "B) x = (∑m_i x_i)/(∑m_i)", "C) x = ∑m_i x_i", "D) x = (∑m_i)/(∑x_i)"],
+            "answer": "B",
+            "solution": "x_cm = (∑m_i x_i)/(∑m_i)"
+          }
+        ],
+        "Motion of Centre of Mass": [
+          {
+            "qid": 1,
+            "question": "A system of total mass 10 kg is acted upon by an external force of 50 N. The acceleration of its centre of mass is:",
+            "options": ["A) 2 m/s²", "B) 3 m/s²", "C) 5 m/s²", "D) 10 m/s²"],
+            "answer": "C",
+            "solution": "a = F/M = 50/10 = 5 m/s²"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): Internal forces cannot change the velocity of the centre of mass. Reason (R): The vector sum of all internal forces is zero.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Internal forces cancel out in pairs, so they cannot change the motion of the centre of mass."
+          },
+          {
+            "qid": 3,
+            "question": "A bomb moving horizontally explodes into two fragments. Neglect air resistance. The centre of mass of the fragments will:",
+            "options": ["A) Stop immediately", "B) Move vertically downward", "C) Continue along the original projectile path", "D) Move in a circular path"],
+            "answer": "C",
+            "solution": "Since no external force acts during explosion, the centre of mass continues along the original path."
+          },
+          {
+            "qid": 4,
+            "question": "A system consists of three particles. If the net external force is zero, then the centre of mass:",
+            "options": ["A) Must remain at the origin", "B) Must remain at rest", "C) Moves with constant velocity", "D) Accelerates uniformly"],
+            "answer": "C",
+            "solution": "F_ext = Ma_cm. If F_ext = 0, a_cm = 0, so velocity is constant."
+          },
+          {
+            "qid": 5,
+            "question": "A 20 kg object is split into two pieces of 5 kg and 15 kg. During the explosion, the centre of mass:",
+            "options": ["A) Moves toward the heavier piece", "B) Changes its velocity due to internal forces", "C) Continues according to the external forces only", "D) Stops moving"],
+            "answer": "C",
+            "solution": "Internal forces cannot change the motion of the centre of mass."
+          },
+          {
+            "qid": 6,
+            "question": "The equation governing the motion of the centre of mass is:",
+            "options": ["A) F_ext = Ma_cm", "B) F = ma", "C) P = mv", "D) τ = Iα"],
+            "answer": "A",
+            "solution": "F_ext = Ma_cm"
+          },
+          {
+            "qid": 7,
+            "question": "A system initially at rest explodes into three fragments. The vector sum of the momenta of all fragments immediately after the explosion is:",
+            "options": ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+            "answer": "C",
+            "solution": "By conservation of momentum, total momentum remains zero."
+          },
+          {
+            "qid": 8,
+            "question": "If an external force on a system is doubled while its mass is halved, the acceleration of the centre of mass becomes:",
+            "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+            "answer": "B",
+            "solution": "a = F/M. If F doubles and M halves, a becomes 4 times."
+          },
+          {
+            "qid": 9,
+            "question": "A rocket moves in outer space where external forces are negligible. Which quantity remains constant for the rocket–exhaust gas system?",
+            "options": ["A) Velocity of rocket", "B) Momentum of the complete system", "C) Kinetic energy", "D) Angular velocity"],
+            "answer": "B",
+            "solution": "Momentum of the complete system is conserved."
+          },
+          {
+            "qid": 10,
+            "question": "A body breaks into two unequal masses while moving. Which statement is correct?",
+            "options": ["A) The heavier fragment always moves faster.", "B) The lighter fragment always has greater momentum.", "C) The motion of the centre of mass is unaffected by the internal explosion.", "D) Both fragments move in the same direction with equal speeds."],
+            "answer": "C",
+            "solution": "Internal forces cannot change the motion of the centre of mass."
+          },
+          {
+            "qid": 11,
+            "question": "A 15 kg system experiences a net external force of 45 N for 4 s. The change in velocity of its centre of mass is:",
+            "options": ["A) 6 m/s", "B) 8 m/s", "C) 10 m/s", "D) 12 m/s"],
+            "answer": "D",
+            "solution": "a = 45/15 = 3 m/s²; Δv = a×t = 3×4 = 12 m/s"
+          },
+          {
+            "qid": 12,
+            "question": "Which quantity is unaffected by internal interactions within a system?",
+            "options": ["A) Internal energy", "B) Shape", "C) Motion of the centre of mass", "D) Relative positions"],
+            "answer": "C",
+            "solution": "Internal interactions cannot affect the motion of the centre of mass."
+          },
+          {
+            "qid": 13,
+            "question": "During a collision of two bodies on a frictionless surface, the centre of mass:",
+            "options": ["A) Accelerates continuously", "B) Moves with constant velocity", "C) Remains fixed at the collision point", "D) Stops after collision"],
+            "answer": "B",
+            "solution": "No external force acts, so the centre of mass moves with constant velocity."
+          },
+          {
+            "qid": 14,
+            "question": "A system is subjected to a varying external force. The acceleration of the centre of mass:",
+            "options": ["A) Depends only on the internal forces", "B) Depends only on the external force and total mass", "C) Is always constant", "D) Is always zero"],
+            "answer": "B",
+            "solution": "a_cm = F_ext/M, independent of internal forces."
+          },
+          {
+            "qid": 15,
+            "question": "Which statement best describes the motion of the centre of mass?",
+            "options": ["A) It is determined by the internal arrangement of particles.", "B) It depends only on the resultant external force acting on the system.", "C) It always coincides with the heaviest particle.", "D) It is independent of Newton's laws."],
+            "answer": "B",
+            "solution": "The motion of the centre of mass depends only on external forces."
+          }
+        ],
+        "Linear Momentum of a System of Particles": [
+          {
+            "qid": 1,
+            "question": "Two particles of masses 2 kg and 4 kg move with velocities 3 m/s and 5 m/s in the same direction. The total momentum of the system is:",
+            "options": ["A) 20 kg·m/s", "B) 24 kg·m/s", "C) 26 kg·m/s", "D) 30 kg·m/s"],
+            "answer": "C",
+            "solution": "P = 2×3 + 4×5 = 6 + 20 = 26 kg·m/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): In an isolated system, total linear momentum remains constant. Reason (R): No external force acts on the system.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Law of conservation of momentum applies to isolated systems."
+          },
+          {
+            "qid": 3,
+            "question": "Two bodies of masses 3 kg and 2 kg move in opposite directions with speeds 4 m/s and 5 m/s, respectively. Taking the direction of the first body as positive, the total momentum is:",
+            "options": ["A) 2 kg·m/s", "B) 10 kg·m/s", "C) 22 kg·m/s", "D) 18 kg·m/s"],
+            "answer": "A",
+            "solution": "P = 3×4 + 2×(-5) = 12 - 10 = 2 kg·m/s"
+          },
+          {
+            "qid": 4,
+            "question": "A force of 15 N acts on a body for 4 s. The change in momentum is:",
+            "options": ["A) 15 kg·m/s", "B) 30 kg·m/s", "C) 45 kg·m/s", "D) 60 kg·m/s"],
+            "answer": "D",
+            "solution": "Δp = F×t = 15×4 = 60 kg·m/s"
+          },
+          {
+            "qid": 5,
+            "question": "If the net external force on a system is zero, the momentum of the system:",
+            "options": ["A) Increases continuously", "B) Decreases continuously", "C) Remains constant", "D) Becomes zero"],
+            "answer": "C",
+            "solution": "Momentum is conserved when net external force is zero."
+          },
+          {
+            "qid": 6,
+            "question": "Which relation correctly connects force and momentum?",
+            "options": ["A) F = dp/dt", "B) F = mv", "C) P = Fv", "D) F = mg"],
+            "answer": "A",
+            "solution": "F = dp/dt"
+          },
+          {
+            "qid": 7,
+            "question": "A body of mass 4 kg changes its velocity from 2 m/s to 8 m/s. The change in momentum is:",
+            "options": ["A) 12 kg·m/s", "B) 20 kg·m/s", "C) 24 kg·m/s", "D) 32 kg·m/s"],
+            "answer": "C",
+            "solution": "Δp = m(v-u) = 4(8-2) = 24 kg·m/s"
+          },
+          {
+            "qid": 8,
+            "question": "During a collision between two bodies on a frictionless surface:",
+            "options": ["A) Total momentum is conserved.", "B) Kinetic energy is always conserved.", "C) Both bodies stop after collision.", "D) Momentum becomes zero."],
+            "answer": "A",
+            "solution": "Momentum is always conserved in collisions in an isolated system."
+          },
+          {
+            "qid": 9,
+            "question": "A 5 kg object moving at 6 m/s collides with a wall and rebounds with the same speed. The magnitude of the change in momentum is:",
+            "options": ["A) 30 kg·m/s", "B) 60 kg·m/s", "C) 15 kg·m/s", "D) Zero"],
+            "answer": "B",
+            "solution": "Δp = |mv - (-mv)| = 2mv = 2×5×6 = 60 kg·m/s"
+          },
+          {
+            "qid": 10,
+            "question": "Which statement is correct regarding internal forces?",
+            "options": ["A) They change the total momentum of an isolated system.", "B) They cannot change the total momentum of an isolated system.", "C) They always increase momentum.", "D) They always decrease momentum."],
+            "answer": "B",
+            "solution": "Internal forces cannot change the total momentum of an isolated system."
+          },
+          {
+            "qid": 11,
+            "question": "A system has a total momentum of 40 kg·m/s. If no external force acts, after 5 s the momentum becomes:",
+            "options": ["A) 0 kg·m/s", "B) 20 kg·m/s", "C) 40 kg·m/s", "D) 80 kg·m/s"],
+            "answer": "C",
+            "solution": "Momentum is conserved, so it remains 40 kg·m/s."
+          },
+          {
+            "qid": 12,
+            "question": "Two particles move with equal momenta in opposite directions. The total momentum of the system is:",
+            "options": ["A) Equal to the momentum of either particle", "B) Twice the momentum of one particle", "C) Zero", "D) Cannot be determined"],
+            "answer": "C",
+            "solution": "The vector sum is zero."
+          },
+          {
+            "qid": 13,
+            "question": "A 2 kg body experiences a constant force of 10 N for 3 s. The change in momentum is:",
+            "options": ["A) 10 kg·m/s", "B) 20 kg·m/s", "C) 30 kg·m/s", "D) 60 kg·m/s"],
+            "answer": "C",
+            "solution": "Δp = F×t = 10×3 = 30 kg·m/s"
+          },
+          {
+            "qid": 14,
+            "question": "Which physical quantity is equal to impulse?",
+            "options": ["A) Change in kinetic energy", "B) Change in momentum", "C) Change in velocity", "D) Change in force"],
+            "answer": "B",
+            "solution": "Impulse = Change in momentum"
+          },
+          {
+            "qid": 15,
+            "question": "Two particles of masses 1 kg and 3 kg move with velocities 4 m/s east and 2 m/s east, respectively. The total momentum is:",
+            "options": ["A) 8 kg·m/s east", "B) 10 kg·m/s east", "C) 12 kg·m/s east", "D) 16 kg·m/s east"],
+            "answer": "B",
+            "solution": "P = 1×4 + 3×2 = 4 + 6 = 10 kg·m/s east"
+          }
+        ],
+        "Vector Product (Cross Product) of Two Vectors": [
+          {
+            "qid": 1,
+            "question": "Two vectors have magnitudes 4 and 6 with an angle of 30° between them. The magnitude of their cross product is:",
+            "options": ["A) 12", "B) 24", "C) 18", "D) 10"],
+            "answer": "A",
+            "solution": "|A×B| = AB sinθ = 4×6×sin30° = 24×0.5 = 12"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): The cross product of two vectors is zero if the vectors are parallel. Reason (R): The sine of the angle between parallel vectors is zero.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "|A×B| = AB sinθ. For parallel vectors, θ = 0°, so sinθ = 0."
+          },
+          {
+            "qid": 3,
+            "question": "If A⃗ = 3î and B⃗ = 5ĵ, then A⃗×B⃗ is:",
+            "options": ["A) 15k̂", "B) 15î", "C) 15ĵ", "D) -15k̂"],
+            "answer": "A",
+            "solution": "î×ĵ = k̂, so 3î×5ĵ = 15k̂"
+          },
+          {
+            "qid": 4,
+            "question": "Which of the following is correct?",
+            "options": ["A) A⃗×B⃗ = B⃗×A⃗", "B) A⃗×B⃗ = -B⃗×A⃗", "C) A⃗×B⃗ = 0", "D) A⃗×B⃗ = A+B"],
+            "answer": "B",
+            "solution": "Cross product is anti-commutative: A×B = -B×A"
+          },
+          {
+            "qid": 5,
+            "question": "Two vectors have magnitudes 8 and 5. Their cross product has magnitude 20. The angle between them is:",
+            "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+            "answer": "A",
+            "solution": "sinθ = |A×B|/(AB) = 20/(8×5) = 20/40 = 0.5 ⇒ θ = 30°"
+          },
+          {
+            "qid": 6,
+            "question": "Which unit vector is obtained from ĵ×k̂?",
+            "options": ["A) î", "B) -î", "C) ĵ", "D) k̂"],
+            "answer": "A",
+            "solution": "ĵ×k̂ = î"
+          },
+          {
+            "qid": 7,
+            "question": "Which expression is always perpendicular to both vectors?",
+            "options": ["A) A⃗+B⃗", "B) A⃗-B⃗", "C) A⃗×B⃗", "D) A⃗⋅B⃗"],
+            "answer": "C",
+            "solution": "The cross product is perpendicular to both vectors."
+          },
+          {
+            "qid": 8,
+            "question": "If A⃗×B⃗ = 0, then the vectors are:",
+            "options": ["A) Always perpendicular", "B) Parallel or anti-parallel", "C) Equal only", "D) Unit vectors"],
+            "answer": "B",
+            "solution": "|A×B| = AB sinθ = 0 ⇒ θ = 0° or 180°, so vectors are parallel or anti-parallel."
+          },
+          {
+            "qid": 9,
+            "question": "The magnitude of k̂×î is:",
+            "options": ["A) 0", "B) 1", "C) 2", "D) -1"],
+            "answer": "B",
+            "solution": "|k̂×î| = 1, as k̂×î = ĵ"
+          },
+          {
+            "qid": 10,
+            "question": "A force of 20 N acts at 60° to a position vector of 2 m. The torque produced is:",
+            "options": ["A) 20 N·m", "B) 30 N·m", "C) 20√3 N·m", "D) 40 N·m"],
+            "answer": "C",
+            "solution": "τ = rF sinθ = 2×20×sin60° = 40×(√3/2) = 20√3 N·m"
+          },
+          {
+            "qid": 11,
+            "question": "Which of the following is not possible for a cross product?",
+            "options": ["A) Positive magnitude", "B) Zero magnitude", "C) Negative magnitude", "D) Vector result"],
+            "answer": "C",
+            "solution": "Magnitude of cross product is always non-negative."
+          },
+          {
+            "qid": 12,
+            "question": "If A⃗×B⃗ has maximum magnitude, then the angle between the vectors is:",
+            "options": ["A) 0°", "B) 30°", "C) 60°", "D) 90°"],
+            "answer": "D",
+            "solution": "|A×B| = AB sinθ. Maximum when sinθ = 1, i.e., θ = 90°."
+          },
+          {
+            "qid": 13,
+            "question": "Which identity is correct?",
+            "options": ["A) î×î = î", "B) î×î = 0", "C) î×î = ĵ", "D) î×î = k̂"],
+            "answer": "B",
+            "solution": "î×î = 0 (cross product of a vector with itself is zero)"
+          },
+          {
+            "qid": 14,
+            "question": "The direction of r⃗×F⃗ represents:",
+            "options": ["A) Linear momentum", "B) Torque", "C) Velocity", "D) Acceleration"],
+            "answer": "B",
+            "solution": "τ = r×F, so the direction represents torque."
+          },
+          {
+            "qid": 15,
+            "question": "Which statement about the cross product is correct?",
+            "options": ["A) It produces a scalar quantity.", "B) It follows the commutative law.", "C) It is zero when the vectors are parallel.", "D) Its magnitude is AB cosθ."],
+            "answer": "C",
+            "solution": "Cross product is zero for parallel vectors."
+          }
+        ],
+        "Angular Velocity and its Relation with Linear Velocity": [
+          {
+            "qid": 1,
+            "question": "A wheel rotates with an angular velocity of 15 rad/s. A point on the rim is 0.4 m from the centre. Its linear velocity is:",
+            "options": ["A) 4 m/s", "B) 5 m/s", "C) 6 m/s", "D) 8 m/s"],
+            "answer": "C",
+            "solution": "v = rω = 0.4 × 15 = 6 m/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): All points on a rotating rigid body have the same angular velocity. Reason (R): Every point completes one revolution in the same time.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "For a rigid body, all points have the same angular velocity."
+          },
+          {
+            "qid": 3,
+            "question": "A point on a rotating disc is 3 m from the centre. If the angular velocity is 8 rad/s, its linear velocity is:",
+            "options": ["A) 16 m/s", "B) 20 m/s", "C) 24 m/s", "D) 32 m/s"],
+            "answer": "C",
+            "solution": "v = rω = 3 × 8 = 24 m/s"
+          },
+          {
+            "qid": 4,
+            "question": "Two particles are located at distances 2 m and 5 m from the axis of a rotating disc. If the disc rotates with constant angular velocity, then:",
+            "options": ["A) Both have the same linear velocity.", "B) The particle at 2 m has greater linear velocity.", "C) The particle at 5 m has greater linear velocity.", "D) Both have zero linear velocity."],
+            "answer": "C",
+            "solution": "v = rω. The particle with larger r has greater v."
+          },
+          {
+            "qid": 5,
+            "question": "A wheel completes 300 revolutions per minute. Its angular velocity is approximately:",
+            "options": ["A) 10π rad/s", "B) 5π rad/s", "C) 20π rad/s", "D) 30π rad/s"],
+            "answer": "A",
+            "solution": "300 rpm = 300/60 = 5 rev/s, ω = 2π×5 = 10π rad/s"
+          },
+          {
+            "qid": 6,
+            "question": "The relationship between angular velocity and frequency is:",
+            "options": ["A) ω = f/2π", "B) ω = 2πf", "C) ω = 2π/f", "D) ω = f²"],
+            "answer": "B",
+            "solution": "ω = 2πf"
+          },
+          {
+            "qid": 7,
+            "question": "A wheel rotates at a constant angular velocity. Which quantity changes from point to point?",
+            "options": ["A) Angular velocity", "B) Time period", "C) Frequency", "D) Linear velocity"],
+            "answer": "D",
+            "solution": "Linear velocity depends on distance from axis, so it changes from point to point."
+          },
+          {
+            "qid": 8,
+            "question": "If both the radius and angular velocity are doubled, the linear velocity becomes:",
+            "options": ["A) Double", "B) Four times", "C) Eight times", "D) Half"],
+            "answer": "B",
+            "solution": "v = rω. If r doubles and ω doubles, v becomes 4 times."
+          },
+          {
+            "qid": 9,
+            "question": "A point moves with linear speed 12 m/s on a circular path of radius 2 m. The angular velocity is:",
+            "options": ["A) 3 rad/s", "B) 4 rad/s", "C) 6 rad/s", "D) 8 rad/s"],
+            "answer": "C",
+            "solution": "ω = v/r = 12/2 = 6 rad/s"
+          },
+          {
+            "qid": 10,
+            "question": "The period of rotation of a wheel is 0.5 s. Its angular velocity is:",
+            "options": ["A) 2π rad/s", "B) 4π rad/s", "C) 6π rad/s", "D) 8π rad/s"],
+            "answer": "B",
+            "solution": "ω = 2π/T = 2π/0.5 = 4π rad/s"
+          },
+          {
+            "qid": 11,
+            "question": "Which quantity remains the same for all particles of a rigid body in pure rotational motion?",
+            "options": ["A) Linear speed", "B) Tangential acceleration", "C) Angular velocity", "D) Centripetal acceleration"],
+            "answer": "C",
+            "solution": "All points in a rigid body have the same angular velocity."
+          },
+          {
+            "qid": 12,
+            "question": "A point at the centre of a rotating disc has:",
+            "options": ["A) Maximum linear speed", "B) Minimum angular velocity", "C) Zero linear speed", "D) Infinite angular speed"],
+            "answer": "C",
+            "solution": "At the centre, r = 0, so v = rω = 0."
+          },
+          {
+            "qid": 13,
+            "question": "A wheel rotates at 120 rpm. The frequency of rotation is:",
+            "options": ["A) 1 Hz", "B) 2 Hz", "C) 3 Hz", "D) 4 Hz"],
+            "answer": "B",
+            "solution": "f = 120/60 = 2 Hz"
+          },
+          {
+            "qid": 14,
+            "question": "If the angular velocity of a rotating body is tripled while the radius remains constant, the centripetal acceleration becomes:",
+            "options": ["A) Three times", "B) Six times", "C) Nine times", "D) Unchanged"],
+            "answer": "C",
+            "solution": "a_c = rω². If ω triples, a_c becomes 9 times."
+          },
+          {
+            "qid": 15,
+            "question": "Which equation correctly relates linear speed, angular velocity, and radius?",
+            "options": ["A) v = rω", "B) v = ω/r", "C) v = ω+r", "D) v = r²ω"],
+            "answer": "A",
+            "solution": "v = rω"
+          }
+        ],
+        "Equilibrium of a Rigid Body": [
+          {
+            "qid": 1,
+            "question": "A rigid body is in equilibrium if:",
+            "options": ["A) Only the net force is zero.", "B) Only the net torque is zero.", "C) Both the net force and the net torque are zero.", "D) The body is at rest only."],
+            "answer": "C",
+            "solution": "Both translational and rotational equilibrium conditions must be satisfied."
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): A body can have zero net force but still rotate. Reason (R): A non-zero net torque may act even when the resultant force is zero.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "A couple produces zero net force but non-zero torque."
+          },
+          {
+            "qid": 3,
+            "question": "Which condition is necessary for translational equilibrium?",
+            "options": ["A) Στ = 0", "B) ΣF = 0", "C) L = Iω", "D) P = mv"],
+            "answer": "B",
+            "solution": "Translational equilibrium requires net force to be zero."
+          },
+          {
+            "qid": 4,
+            "question": "Which condition is necessary for rotational equilibrium?",
+            "options": ["A) ΣF = 0", "B) Στ = 0", "C) F = ma", "D) v = rω"],
+            "answer": "B",
+            "solution": "Rotational equilibrium requires net torque to be zero."
+          },
+          {
+            "qid": 5,
+            "question": "A uniform rod of length 4 m is supported at its centre. A 20 N force acts downward at one end. What upward force must act at the other end to maintain equilibrium?",
+            "options": ["A) 10 N", "B) 15 N", "C) 20 N", "D) 40 N"],
+            "answer": "C",
+            "solution": "For equilibrium, forces must balance: F_up = 20 N"
+          },
+          {
+            "qid": 6,
+            "question": "A body is in rotational equilibrium when:",
+            "options": ["A) Angular velocity is zero.", "B) Angular acceleration is zero.", "C) Linear velocity is zero.", "D) Linear acceleration is zero."],
+            "answer": "B",
+            "solution": "Rotational equilibrium means α = 0."
+          },
+          {
+            "qid": 7,
+            "question": "Two equal and opposite forces acting along the same line produce:",
+            "options": ["A) A couple", "B) Pure translation", "C) Equilibrium", "D) Pure rotation"],
+            "answer": "C",
+            "solution": "Net force is zero and net torque is zero, so body is in equilibrium."
+          },
+          {
+            "qid": 8,
+            "question": "Two equal and opposite parallel forces separated by a distance form a:",
+            "options": ["A) Couple", "B) Resultant force", "C) Linear momentum", "D) Centripetal force"],
+            "answer": "A",
+            "solution": "A couple consists of two equal and opposite parallel forces."
+          },
+          {
+            "qid": 9,
+            "question": "The moment of a couple is:",
+            "options": ["A) Fd", "B) F/d", "C) F+d", "D) F-d"],
+            "answer": "A",
+            "solution": "Moment of couple = F × d (perpendicular distance)"
+          },
+          {
+            "qid": 10,
+            "question": "A couple produces:",
+            "options": ["A) Translation only", "B) Rotation only", "C) No motion", "D) Linear acceleration only"],
+            "answer": "B",
+            "solution": "A couple has zero resultant force but non-zero torque, so it produces rotation only."
+          },
+          {
+            "qid": 11,
+            "question": "A beam is balanced on a pivot. A 30 N force acts 2 m to the left. What force at 3 m to the right keeps it in equilibrium?",
+            "options": ["A) 10 N", "B) 15 N", "C) 20 N", "D) 25 N"],
+            "answer": "C",
+            "solution": "30×2 = F×3 ⇒ F = 60/3 = 20 N"
+          },
+          {
+            "qid": 12,
+            "question": "Which of the following is not a condition for complete equilibrium?",
+            "options": ["A) ΣF_x = 0", "B) ΣF_y = 0", "C) Στ = 0", "D) ΣL = 0"],
+            "answer": "D",
+            "solution": "Complete equilibrium requires ΣF = 0 and Στ = 0, not ΣL = 0."
+          },
+          {
+            "qid": 13,
+            "question": "A body rotates with constant angular velocity about a fixed axis. It is in:",
+            "options": ["A) Translational equilibrium only", "B) Rotational equilibrium only", "C) Both translational and rotational equilibrium", "D) Neither"],
+            "answer": "B",
+            "solution": "Constant angular velocity means α = 0, so it is in rotational equilibrium."
+          },
+          {
+            "qid": 14,
+            "question": "A uniform metre scale is balanced at the 50 cm mark. A 2 kg mass is hung at the 20 cm mark. At which mark should a 1 kg mass be hung to restore equilibrium?",
+            "options": ["A) 80 cm", "B) 90 cm", "C) 110 cm", "D) 70 cm"],
+            "answer": "C",
+            "solution": "2×(50-20) = 1×(x-50) ⇒ 2×30 = x-50 ⇒ x = 110 cm"
+          },
+          {
+            "qid": 15,
+            "question": "Which statement is correct?",
+            "options": ["A) Zero net force always means complete equilibrium.", "B) Zero net torque always means complete equilibrium.", "C) Complete equilibrium requires both zero net force and zero net torque.", "D) A couple cannot rotate a body."],
+            "answer": "C",
+            "solution": "Complete equilibrium requires both ΣF = 0 and Στ = 0."
+          }
+        ],
+        "Moment of Inertia": [
+          {
+            "qid": 1,
+            "question": "The moment of inertia of a body depends upon:",
+            "options": ["A) Only its mass", "B) Only its shape", "C) Mass and distribution of mass about the axis", "D) Only angular velocity"],
+            "answer": "C",
+            "solution": "I depends on mass and its distribution about the axis."
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): A ring has a greater moment of inertia than a disc of the same mass and radius. Reason (R): In a ring, the entire mass is farther from the axis of rotation.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Ring: I = MR², Disc: I = 1/2 MR². Ring has larger I."
+          },
+          {
+            "qid": 3,
+            "question": "The SI unit of moment of inertia is:",
+            "options": ["A) kg·m", "B) kg·m²", "C) N·m", "D) kg/s"],
+            "answer": "B",
+            "solution": "I = mr², unit = kg·m²"
+          },
+          {
+            "qid": 4,
+            "question": "The moment of inertia of a particle of mass 5 kg situated 3 m from the axis of rotation is:",
+            "options": ["A) 15 kg·m²", "B) 30 kg·m²", "C) 45 kg·m²", "D) 60 kg·m²"],
+            "answer": "C",
+            "solution": "I = mr² = 5×9 = 45 kg·m²"
+          },
+          {
+            "qid": 5,
+            "question": "If the distance of a particle from the axis is doubled, its moment of inertia becomes:",
+            "options": ["A) Double", "B) Four times", "C) Half", "D) Eight times"],
+            "answer": "B",
+            "solution": "I ∝ r². If r doubles, I becomes 4 times."
+          },
+          {
+            "qid": 6,
+            "question": "Which of the following has the largest moment of inertia about its central axis (same mass and radius)?",
+            "options": ["A) Solid sphere", "B) Solid disc", "C) Thin ring", "D) Solid cylinder"],
+            "answer": "C",
+            "solution": "Thin ring: I = MR² (largest), Solid disc: I = 1/2 MR², Solid sphere: I = 2/5 MR²"
+          },
+          {
+            "qid": 7,
+            "question": "The moment of inertia of a thin ring about its central axis is:",
+            "options": ["A) MR²", "B) 1/2 MR²", "C) 2/5 MR²", "D) 2/3 MR²"],
+            "answer": "A",
+            "solution": "I_ring = MR²"
+          },
+          {
+            "qid": 8,
+            "question": "The moment of inertia of a solid disc about its central axis is:",
+            "options": ["A) MR²", "B) 1/2 MR²", "C) 2/5 MR²", "D) 1/3 MR²"],
+            "answer": "B",
+            "solution": "I_disc = 1/2 MR²"
+          },
+          {
+            "qid": 9,
+            "question": "A body has a moment of inertia of 12 kg·m². If its angular acceleration is 5 rad/s², the torque acting on it is:",
+            "options": ["A) 30 N·m", "B) 40 N·m", "C) 50 N·m", "D) 60 N·m"],
+            "answer": "D",
+            "solution": "τ = Iα = 12×5 = 60 N·m"
+          },
+          {
+            "qid": 10,
+            "question": "Which statement is correct?",
+            "options": ["A) Moment of inertia is a scalar quantity.", "B) Moment of inertia is a vector quantity.", "C) Moment of inertia depends on angular velocity.", "D) Moment of inertia is independent of the axis."],
+            "answer": "A",
+            "solution": "Moment of inertia is a scalar quantity."
+          },
+          {
+            "qid": 11,
+            "question": "The radius of gyration k is related to the moment of inertia by:",
+            "options": ["A) I = Mk", "B) I = Mk²", "C) I = M/k²", "D) I = k²"],
+            "answer": "B",
+            "solution": "I = Mk²"
+          },
+          {
+            "qid": 12,
+            "question": "A body has mass 8 kg and radius of gyration 0.5 m. Its moment of inertia is:",
+            "options": ["A) 1 kg·m²", "B) 2 kg·m²", "C) 4 kg·m²", "D) 8 kg·m²"],
+            "answer": "B",
+            "solution": "I = Mk² = 8×0.25 = 2 kg·m²"
+          },
+          {
+            "qid": 13,
+            "question": "The rotational analogue of mass is:",
+            "options": ["A) Torque", "B) Angular momentum", "C) Moment of inertia", "D) Angular velocity"],
+            "answer": "C",
+            "solution": "Moment of inertia is the rotational analogue of mass."
+          },
+          {
+            "qid": 14,
+            "question": "Two bodies have the same mass but different shapes. Their moments of inertia about the same type of axis are:",
+            "options": ["A) Always equal", "B) Always zero", "C) May be different due to mass distribution", "D) Independent of shape"],
+            "answer": "C",
+            "solution": "Moment of inertia depends on mass distribution, so different shapes give different I."
+          },
+          {
+            "qid": 15,
+            "question": "Which of the following standard formulas is correct?",
+            "options": ["A) I_rod, centre = 1/12 ML²", "B) I_rod, centre = 1/2 ML²", "C) I_rod, centre = ML²", "D) I_rod, centre = 1/4 ML²"],
+            "answer": "A",
+            "solution": "I_rod, centre = 1/12 ML²"
+          }
+        ],
+        "Kinematics of Rotational Motion about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "A wheel starts from rest and rotates with an angular acceleration of 4 rad/s² for 5 s. Its final angular velocity is:",
+            "options": ["A) 10 rad/s", "B) 15 rad/s", "C) 20 rad/s", "D) 25 rad/s"],
+            "answer": "C",
+            "solution": "ω = ω₀ + αt = 0 + 4×5 = 20 rad/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): The equations of rotational motion are analogous to the equations of linear motion. Reason (R): Angular displacement, angular velocity, and angular acceleration correspond to displacement, velocity, and acceleration respectively.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "The analogy between linear and rotational motion is well-established."
+          },
+          {
+            "qid": 3,
+            "question": "A rotating disc has an initial angular velocity of 10 rad/s and an angular acceleration of 3 rad/s². Find its angular velocity after 4 s.",
+            "options": ["A) 18 rad/s", "B) 20 rad/s", "C) 22 rad/s", "D) 24 rad/s"],
+            "answer": "C",
+            "solution": "ω = ω₀ + αt = 10 + 3×4 = 22 rad/s"
+          },
+          {
+            "qid": 4,
+            "question": "Which equation relates angular displacement with angular velocity and angular acceleration?",
+            "options": ["A) ω = ω₀ + αt", "B) θ = ω₀t + 1/2 αt²", "C) ω² = ω₀² + 2αθ", "D) Both B and C"],
+            "answer": "D",
+            "solution": "Both equations are valid for uniformly accelerated rotational motion."
+          },
+          {
+            "qid": 5,
+            "question": "A wheel rotates through 80 rad in 8 s with uniform angular velocity. The angular velocity is:",
+            "options": ["A) 5 rad/s", "B) 8 rad/s", "C) 10 rad/s", "D) 12 rad/s"],
+            "answer": "C",
+            "solution": "ω = θ/t = 80/8 = 10 rad/s"
+          },
+          {
+            "qid": 6,
+            "question": "A body starts from rest with angular acceleration 2 rad/s². Angular displacement after 6 s is:",
+            "options": ["A) 18 rad", "B) 24 rad", "C) 36 rad", "D) 72 rad"],
+            "answer": "C",
+            "solution": "θ = 1/2 αt² = 0.5×2×36 = 36 rad"
+          },
+          {
+            "qid": 7,
+            "question": "Which quantity is measured in rad/s²?",
+            "options": ["A) Angular velocity", "B) Angular displacement", "C) Angular acceleration", "D) Frequency"],
+            "answer": "C",
+            "solution": "Angular acceleration is measured in rad/s²."
+          },
+          {
+            "qid": 8,
+            "question": "A wheel has an initial angular velocity of 30 rad/s and comes to rest in 10 s. The angular acceleration is:",
+            "options": ["A) -1 rad/s²", "B) -2 rad/s²", "C) -3 rad/s²", "D) -4 rad/s²"],
+            "answer": "C",
+            "solution": "α = (ω - ω₀)/t = (0-30)/10 = -3 rad/s²"
+          },
+          {
+            "qid": 9,
+            "question": "The rotational analogue of the equation v² = u² + 2as is:",
+            "options": ["A) ω = ω₀ + αt", "B) θ = ω₀t + 1/2 αt²", "C) ω² = ω₀² + 2αθ", "D) θ = ωt"],
+            "answer": "C",
+            "solution": "ω² = ω₀² + 2αθ"
+          },
+          {
+            "qid": 10,
+            "question": "A rotating body completes 10 revolutions. Its angular displacement is:",
+            "options": ["A) 10π", "B) 20π", "C) 30π", "D) 40π"],
+            "answer": "B",
+            "solution": "1 revolution = 2π rad, so 10 revolutions = 20π rad"
+          },
+          {
+            "qid": 11,
+            "question": "A flywheel rotates with constant angular velocity. Its angular acceleration is:",
+            "options": ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+            "answer": "C",
+            "solution": "Constant ω means α = 0."
+          },
+          {
+            "qid": 12,
+            "question": "A wheel rotates from 5 rad/s to 25 rad/s while covering 150 rad. The angular acceleration is:",
+            "options": ["A) 1 rad/s²", "B) 2 rad/s²", "C) 3 rad/s²", "D) 4 rad/s²"],
+            "answer": "B",
+            "solution": "α = (ω² - ω₀²)/(2θ) = (625-25)/(2×150) = 600/300 = 2 rad/s²"
+          },
+          {
+            "qid": 13,
+            "question": "Which quantity is analogous to displacement in rotational motion?",
+            "options": ["A) Angular velocity", "B) Angular displacement", "C) Torque", "D) Moment of inertia"],
+            "answer": "B",
+            "solution": "Angular displacement (θ) corresponds to linear displacement (s)."
+          },
+          {
+            "qid": 14,
+            "question": "A disc rotates with an angular acceleration of 6 rad/s² for 5 s. If its initial angular velocity is 4 rad/s, then its angular displacement is:",
+            "options": ["A) 85 rad", "B) 95 rad", "C) 100 rad", "D) 110 rad"],
+            "answer": "B",
+            "solution": "θ = ω₀t + 1/2 αt² = 4×5 + 0.5×6×25 = 20 + 75 = 95 rad"
+          },
+          {
+            "qid": 15,
+            "question": "Which equation is valid only for constant angular acceleration?",
+            "options": ["A) ω = θ/t", "B) ω = ω₀ + αt", "C) v = rω", "D) T = 1/f"],
+            "answer": "B",
+            "solution": "ω = ω₀ + αt is valid only for constant angular acceleration."
+          }
+        ],
+        "Dynamics of Rotational Motion about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "A torque of 24 N·m acts on a body having a moment of inertia of 6 kg·m². The angular acceleration is:",
+            "options": ["A) 2 rad/s²", "B) 3 rad/s²", "C) 4 rad/s²", "D) 5 rad/s²"],
+            "answer": "C",
+            "solution": "α = τ/I = 24/6 = 4 rad/s²"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): Torque is the rotational analogue of force. Reason (R): Torque produces angular acceleration in a rotating body.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Just as force produces linear acceleration, torque produces angular acceleration."
+          },
+          {
+            "qid": 3,
+            "question": "The rotational form of Newton's Second Law is:",
+            "options": ["A) F = ma", "B) P = mv", "C) τ = Iα", "D) L = Iω"],
+            "answer": "C",
+            "solution": "τ = Iα"
+          },
+          {
+            "qid": 4,
+            "question": "A wheel has a moment of inertia of 10 kg·m². A torque of 50 N·m acts on it. Its angular acceleration is:",
+            "options": ["A) 2 rad/s²", "B) 4 rad/s²", "C) 5 rad/s²", "D) 10 rad/s²"],
+            "answer": "C",
+            "solution": "α = τ/I = 50/10 = 5 rad/s²"
+          },
+          {
+            "qid": 5,
+            "question": "If the applied torque is doubled while the moment of inertia remains constant, the angular acceleration becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "α = τ/I. If τ doubles, α doubles."
+          },
+          {
+            "qid": 6,
+            "question": "If the moment of inertia is doubled while the applied torque remains constant, the angular acceleration becomes:",
+            "options": ["A) Double", "B) Four times", "C) Half", "D) Unchanged"],
+            "answer": "C",
+            "solution": "α = τ/I. If I doubles, α becomes half."
+          },
+          {
+            "qid": 7,
+            "question": "A torque of 15 N·m acts on a disc for 4 s. If its moment of inertia is 5 kg·m², the increase in angular velocity is:",
+            "options": ["A) 8 rad/s", "B) 10 rad/s", "C) 12 rad/s", "D) 15 rad/s"],
+            "answer": "C",
+            "solution": "α = 15/5 = 3 rad/s²; Δω = α×t = 3×4 = 12 rad/s"
+          },
+          {
+            "qid": 8,
+            "question": "Which quantity is analogous to mass in rotational motion?",
+            "options": ["A) Torque", "B) Angular momentum", "C) Moment of inertia", "D) Angular velocity"],
+            "answer": "C",
+            "solution": "Moment of inertia is the rotational analogue of mass."
+          },
+          {
+            "qid": 9,
+            "question": "A body rotates with constant angular velocity. The net torque acting on it is:",
+            "options": ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+            "answer": "C",
+            "solution": "Constant ω means α = 0, so τ = 0."
+          },
+          {
+            "qid": 10,
+            "question": "The SI unit of torque is:",
+            "options": ["A) Joule", "B) N·m", "C) kg·m²", "D) Watt"],
+            "answer": "B",
+            "solution": "Torque is measured in Newton-metre."
+          },
+          {
+            "qid": 11,
+            "question": "A flywheel has a moment of inertia of 8 kg·m². To produce an angular acceleration of 6 rad/s², the required torque is:",
+            "options": ["A) 36 N·m", "B) 42 N·m", "C) 48 N·m", "D) 54 N·m"],
+            "answer": "C",
+            "solution": "τ = Iα = 8×6 = 48 N·m"
+          },
+          {
+            "qid": 12,
+            "question": "Which factor does not affect the angular acceleration produced by a given torque?",
+            "options": ["A) Moment of inertia", "B) Applied torque", "C) Mass distribution", "D) Angular velocity"],
+            "answer": "D",
+            "solution": "Angular acceleration depends on τ and I, not on ω."
+          },
+          {
+            "qid": 13,
+            "question": "Two wheels experience the same torque. Wheel A has twice the moment of inertia of Wheel B. Their angular accelerations satisfy:",
+            "options": ["A) α_A = α_B", "B) α_A = 2α_B", "C) α_A = α_B/2", "D) α_A = 4α_B"],
+            "answer": "C",
+            "solution": "α = τ/I. If I_A = 2I_B, then α_A = α_B/2."
+          },
+          {
+            "qid": 14,
+            "question": "A constant torque acts on a rotating body. The graph of angular velocity versus time is:",
+            "options": ["A) Horizontal line", "B) Straight line with positive slope", "C) Curved line", "D) Vertical line"],
+            "answer": "B",
+            "solution": "A constant torque gives constant angular acceleration, so ω increases linearly with time."
+          },
+          {
+            "qid": 15,
+            "question": "Which statement is correct?",
+            "options": ["A) Larger torque always means larger angular velocity.", "B) Torque causes angular acceleration.", "C) Moment of inertia causes torque.", "D) Torque and angular momentum have the same SI unit and are the same physical quantity."],
+            "answer": "B",
+            "solution": "Torque changes the rotational motion by producing angular acceleration."
+          }
+        ],
+        "Angular Momentum in Rotation about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "A wheel has a moment of inertia of 8 kg·m² and rotates with an angular velocity of 5 rad/s. Its angular momentum is:",
+            "options": ["A) 20 kg·m²/s", "B) 30 kg·m²/s", "C) 40 kg·m²/s", "D) 45 kg·m²/s"],
+            "answer": "C",
+            "solution": "L = Iω = 8×5 = 40 kg·m²/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): In the absence of external torque, angular momentum remains conserved. Reason (R): External torque is equal to the rate of change of angular momentum.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "τ = dL/dt. If τ = 0, L is constant."
+          },
+          {
+            "qid": 3,
+            "question": "A rotating disc has an angular momentum of 72 kg·m²/s and a moment of inertia of 9 kg·m². Its angular velocity is:",
+            "options": ["A) 6 rad/s", "B) 7 rad/s", "C) 8 rad/s", "D) 9 rad/s"],
+            "answer": "C",
+            "solution": "ω = L/I = 72/9 = 8 rad/s"
+          },
+          {
+            "qid": 4,
+            "question": "Which equation correctly relates torque and angular momentum?",
+            "options": ["A) τ = dL/dt", "B) τ = Iω", "C) L = Iα", "D) L = τω"],
+            "answer": "A",
+            "solution": "τ = dL/dt"
+          },
+          {
+            "qid": 5,
+            "question": "A skater spinning with arms extended pulls her arms inward. Assuming no external torque acts, her:",
+            "options": ["A) Angular momentum decreases.", "B) Angular momentum increases.", "C) Angular momentum remains constant.", "D) Angular velocity decreases."],
+            "answer": "C",
+            "solution": "Angular momentum is conserved when no external torque acts."
+          },
+          {
+            "qid": 6,
+            "question": "A wheel initially has a moment of inertia of 10 kg·m² and angular velocity of 4 rad/s. Its moment of inertia decreases to 5 kg·m² without external torque. The new angular velocity is:",
+            "options": ["A) 4 rad/s", "B) 6 rad/s", "C) 8 rad/s", "D) 10 rad/s"],
+            "answer": "C",
+            "solution": "L = I₁ω₁ = I₂ω₂ ⇒ 10×4 = 5×ω₂ ⇒ ω₂ = 8 rad/s"
+          },
+          {
+            "qid": 7,
+            "question": "Angular momentum is a:",
+            "options": ["A) Scalar quantity", "B) Vector quantity", "C) Dimensionless quantity", "D) Tensor quantity"],
+            "answer": "B",
+            "solution": "Angular momentum is a vector quantity."
+          },
+          {
+            "qid": 8,
+            "question": "Which of the following has the same SI unit as angular momentum?",
+            "options": ["A) Torque", "B) Work", "C) Planck's constant", "D) Power"],
+            "answer": "C",
+            "solution": "Planck's constant has the same unit as angular momentum: kg·m²/s."
+          },
+          {
+            "qid": 9,
+            "question": "A constant external torque acts on a body. Its angular momentum:",
+            "options": ["A) Remains constant", "B) Increases linearly with time", "C) Decreases exponentially", "D) Remains zero"],
+            "answer": "B",
+            "solution": "τ = dL/dt. Constant τ means L increases linearly with time."
+          },
+          {
+            "qid": 10,
+            "question": "A body rotates with constant angular velocity. Its angular momentum:",
+            "options": ["A) Is zero", "B) Is constant", "C) Continuously increases", "D) Continuously decreases"],
+            "answer": "B",
+            "solution": "L = Iω. If ω is constant, L is constant."
+          },
+          {
+            "qid": 11,
+            "question": "A flywheel has an angular momentum of 120 kg·m²/s. If its angular velocity is 15 rad/s, its moment of inertia is:",
+            "options": ["A) 6 kg·m²", "B) 7 kg·m²", "C) 8 kg·m²", "D) 9 kg·m²"],
+            "answer": "C",
+            "solution": "I = L/ω = 120/15 = 8 kg·m²"
+          },
+          {
+            "qid": 12,
+            "question": "Which physical law explains why planets sweep out equal areas in equal intervals of time?",
+            "options": ["A) Newton's Second Law", "B) Conservation of Linear Momentum", "C) Conservation of Angular Momentum", "D) Hooke's Law"],
+            "answer": "C",
+            "solution": "Kepler's Second Law is based on conservation of angular momentum."
+          },
+          {
+            "qid": 13,
+            "question": "If the external torque on a system is zero, which quantity must remain constant?",
+            "options": ["A) Angular velocity", "B) Moment of inertia", "C) Angular momentum", "D) Rotational kinetic energy"],
+            "answer": "C",
+            "solution": "Angular momentum is conserved when external torque is zero."
+          },
+          {
+            "qid": 14,
+            "question": "A rotating body has twice the moment of inertia and half the angular velocity of another body. Compared to the second body, its angular momentum is:",
+            "options": ["A) Half", "B) Equal", "C) Double", "D) Four times"],
+            "answer": "B",
+            "solution": "L₁/L₂ = (2I × ω/2)/(Iω) = 1"
+          },
+          {
+            "qid": 15,
+            "question": "Which statement is correct?",
+            "options": ["A) Angular momentum depends only on mass.", "B) Angular momentum depends only on angular velocity.", "C) Angular momentum depends on both moment of inertia and angular velocity.", "D) Angular momentum is independent of the axis of rotation."],
+            "answer": "C",
+            "solution": "L = Iω, so it depends on both I and ω."
+          }
+        ]
+      },
+        "Centre of Mass": [
+          {
+            "qid": 1,
+            "question": "A uniform rod of length 8 m has masses 2 kg, 3 kg, and 5 kg attached at distances 0 m, 3 m, and 8 m respectively from one end. The rod itself has a mass of 10 kg. The position of the centre of mass from the left end is:",
+            "options": ["A) 4.10 m", "B) 4.55 m", "C) 4.90 m", "D) 5.20 m"],
+            "answer": "B",
+            "solution": "x_cm = [10×4 + 2×0 + 3×3 + 5×8]/(10+2+3+5) = (40+0+9+40)/20 = 89/20 = 4.45 m ≈ 4.55 m"
+          },
+          {
+            "qid": 2,
+            "question": "Two particles of masses m and 3m are placed at the ends of a rod of length L. The rod is cut at the centre and replaced by a massless spring of negligible length. The position of the centre of mass of the system will:",
+            "options": ["A) Shift towards the lighter mass", "B) Shift towards the heavier mass", "C) Remain unchanged", "D) Become undefined"],
+            "answer": "C",
+            "solution": "Centre of mass depends only on masses and their relative positions, not on how they are connected."
+          },
+          {
+            "qid": 3,
+            "question": "A uniform circular disc has a circular hole cut from it. The hole has radius R/2 and its centre is at a distance R/2 from the centre of the disc. The centre of mass shifts:",
+            "options": ["A) Toward the hole", "B) Away from the hole", "C) Does not shift", "D) Depends on density"],
+            "answer": "B",
+            "solution": "Removing mass from one side shifts the centre of mass away from the removed mass."
+          },
+          {
+            "qid": 4,
+            "question": "Assertion (A): The centre of mass of an isolated system may accelerate even if internal forces are extremely large. Reason (R): Internal forces can produce acceleration of individual particles but cannot accelerate the centre of mass.",
+            "options": [
+              "Both A and R are true, and R explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is false, R is true.",
+              "Both are false."
+            ],
+            "answer": "C",
+            "solution": "Internal forces cannot accelerate the centre of mass. A is false, R is true."
+          },
+          {
+            "qid": 5,
+            "question": "Three particles each of mass m are placed at (0,0), (4,0), (0,6). The coordinates of the centre of mass are:",
+            "options": ["A) (2,3)", "B) (4/3,2)", "C) (2,2)", "D) (1,3)"],
+            "answer": "B",
+            "solution": "x_cm = (0+4+0)/3 = 4/3, y_cm = (0+0+6)/3 = 2"
+          },
+          {
+            "qid": 6,
+            "question": "A system consists of four equal masses at the vertices of a square. One mass is suddenly removed. The centre of mass:",
+            "options": ["A) Remains at the centre", "B) Shifts toward the removed corner", "C) Shifts opposite the removed corner", "D) Cannot be determined"],
+            "answer": "C",
+            "solution": "Removing a mass shifts the centre of mass away from the removed mass, i.e., opposite the removed corner."
+          },
+          {
+            "qid": 7,
+            "question": "A particle moves from (2,1) to (8,5) while another identical particle moves from (4,3) to (0,7). The displacement of the centre of mass is:",
+            "options": ["A) (2,4)", "B) (1,4)", "C) (3,2)", "D) (4,2)"],
+            "answer": "B",
+            "solution": "Δx_cm = [(8-2)+(0-4)]/2 = (6-4)/2 = 1, Δy_cm = [(5-1)+(7-3)]/2 = (4+4)/2 = 4"
+          },
+          {
+            "qid": 8,
+            "question": "A body consists of two masses connected by a light rod. If the rod length is doubled while keeping masses fixed, the centre of mass:",
+            "options": ["A) Moves toward heavier mass", "B) Moves away from heavier mass", "C) Changes depending upon mass ratio", "D) Remains at the same fractional position along the rod"],
+            "answer": "D",
+            "solution": "The fractional position of centre of mass along the rod remains same as it depends on mass ratio."
+          },
+          {
+            "qid": 9,
+            "question": "The centre of mass of a system lies outside the material of the object in:",
+            "options": ["A) Solid sphere", "B) Solid cube", "C) Hollow ring", "D) Uniform cylinder"],
+            "answer": "C",
+            "solution": "For a hollow ring, the centre of mass is at the centre where there is no material."
+          },
+          {
+            "qid": 10,
+            "question": "A uniform rod is bent into an L-shape without stretching. Its centre of mass:",
+            "options": ["A) Remains unchanged", "B) Depends on the new geometry", "C) Moves to the midpoint", "D) Cannot be found"],
+            "answer": "B",
+            "solution": "Centre of mass depends on the geometry, which changes when the rod is bent."
+          },
+          {
+            "qid": 11,
+            "question": "A uniform rod of length L and mass M has a particle of mass M attached to one end. The system is placed along the x-axis. The centre of mass from the end carrying the particle is:",
+            "options": ["A) L/4", "B) L/3", "C) L/2", "D) 2L/3"],
+            "answer": "A",
+            "solution": "x_cm = [M×0 + M×(L/2)]/(2M) = L/4"
+          },
+          {
+            "qid": 12,
+            "question": "A square of side a has equal masses m at three of its corners. The fourth corner is empty. The distance of the centre of mass from the empty corner is:",
+            "options": ["A) a/3", "B) (√5 a)/3", "C) 2(√2 a)/3", "D) 2a/3"],
+            "answer": "C",
+            "solution": "Taking empty corner as origin, x_cm = (0+a+a)/3 = 2a/3, y_cm = (0+0+a)/3 = a/3. Distance = √[(2a/3)² + (a/3)²] = (√5 a)/3"
+          },
+          {
+            "qid": 13,
+            "question": "A uniform semicircular wire of radius R has its diameter along the x-axis. The y-coordinate of its centre of mass is:",
+            "options": ["A) 2R/π", "B) R/π", "C) R/2", "D) 4R/3π"],
+            "answer": "A",
+            "solution": "For a semicircular wire, y_cm = 2R/π"
+          },
+          {
+            "qid": 14,
+            "question": "Two particles of masses m and 2m are located at coordinates (2,3) and (8,9) respectively. The coordinates of the centre of mass are:",
+            "options": ["A) (6,7)", "B) (6,7)", "C) (18/3,21/3)", "D) (4,5)"],
+            "answer": "A",
+            "solution": "x_cm = [m×2 + 2m×8]/(3m) = (2+16)/3 = 6, y_cm = [m×3 + 2m×9]/(3m) = (3+18)/3 = 7"
+          },
+          {
+            "qid": 15,
+            "question": "A circular disc of radius R has a circular hole of radius R/3 cut from it. The centre of the hole is at a distance R/2 from the centre of the disc. The shift of the centre of mass from the original centre is:",
+            "options": ["A) R/16", "B) R/8", "C) R/12", "D) R/18"],
+            "answer": "A",
+            "solution": "x_cm = [M×0 - m×(R/2)]/(M-m) where m = M/9. x_cm = -(M/9)(R/2)/(8M/9) = -R/16. Shift = R/16"
+          }
+        ],
+        "Motion of Centre of Mass": [
+          {
+            "qid": 1,
+            "question": "A shell is fired at an angle of 45° with speed 40 m/s. At the highest point, it explodes into two equal fragments. One fragment comes to rest immediately after the explosion. Neglect air resistance. The horizontal speed of the second fragment immediately after the explosion is:",
+            "options": ["A) 20√2 m/s", "B) 40√2 m/s", "C) 30√2 m/s", "D) 80√2 m/s"],
+            "answer": "B",
+            "solution": "At highest point, v_x = 40 cos45° = 20√2 m/s. Momentum conservation: 2m(20√2) = m(0) + m(v) ⇒ v = 40√2 m/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): The centre of mass of a system can move even when every particle of the system is momentarily at rest. Reason (R): The centre of mass depends upon the distribution of mass as well as velocities of particles.",
+            "options": [
+              "Both A and R are true, and R explains A.",
+              "Both true, but R doesn't explain A.",
+              "A is false, R is true.",
+              "Both false."
+            ],
+            "answer": "D",
+            "solution": "If every particle is at rest, the centre of mass must also be at rest. Both statements are false."
+          },
+          {
+            "qid": 3,
+            "question": "Two masses 2m, 3m move with velocities 4î, -2î respectively. Velocity of centre of mass is:",
+            "options": ["A) 0.4î", "B) 0.8î", "C) 1.2î", "D) 1.6î"],
+            "answer": "A",
+            "solution": "V_cm = [2m(4î) + 3m(-2î)]/(5m) = (8-6)/5 = 0.4î"
+          },
+          {
+            "qid": 4,
+            "question": "A bomb explodes into three fragments. External force is negligible. Which quantity remains unchanged immediately after explosion?",
+            "options": ["A) Total kinetic energy", "B) Total momentum", "C) Velocity of each fragment", "D) Speed of centre of mass"],
+            "answer": "B",
+            "solution": "Total momentum is conserved in absence of external force."
+          },
+          {
+            "qid": 5,
+            "question": "A person of mass 60 kg walks from one end to the other of a boat of mass 120 kg. Initially both are at rest. Boat length: 6 m. Boat displacement relative to water is:",
+            "options": ["A) 1 m", "B) 2 m", "C) 3 m", "D) 4 m"],
+            "answer": "B",
+            "solution": "By conservation of centre of mass: 60×6 = (60+120)x ⇒ x = 360/180 = 2 m"
+          },
+          {
+            "qid": 6,
+            "question": "A rocket moves in deep space. Fuel burns inside the rocket. Which quantity remains conserved for the rocket-fuel system?",
+            "options": ["A) Rocket momentum", "B) Rocket kinetic energy", "C) Total momentum", "D) Rocket speed"],
+            "answer": "C",
+            "solution": "Total momentum of rocket-fuel system is conserved in absence of external forces."
+          },
+          {
+            "qid": 7,
+            "question": "Three equal masses move with velocities 2î, 3î, -5î. Velocity of centre of mass is:",
+            "options": ["A) 0", "B) 2", "C) 3", "D) 5"],
+            "answer": "A",
+            "solution": "V_cm = (2+3-5)/3 = 0"
+          },
+          {
+            "qid": 8,
+            "question": "A shell explodes into two unequal fragments. Ignoring external forces, the centre of mass:",
+            "options": ["A) Stops", "B) Changes direction", "C) Continues along the original trajectory", "D) Falls vertically"],
+            "answer": "C",
+            "solution": "Centre of mass continues along the original trajectory as no external force acts."
+          },
+          {
+            "qid": 9,
+            "question": "A man walks inside a freely moving railway coach. The centre of mass of the man-coach system:",
+            "options": ["A) Moves with constant velocity", "B) Accelerates", "C) Stops", "D) Moves with man's velocity"],
+            "answer": "A",
+            "solution": "No external force acts on the system, so centre of mass moves with constant velocity."
+          },
+          {
+            "qid": 10,
+            "question": "If external force acting on a system is doubled while total mass becomes four times, acceleration of COM becomes:",
+            "options": ["A) Half", "B) Double", "C) Same", "D) Four times"],
+            "answer": "A",
+            "solution": "a = F/M. If F doubles and M becomes 4 times, a becomes 2/4 = 1/2 times."
+          },
+          {
+            "qid": 11,
+            "question": "Two masses move perpendicular to each other. Their momentum vectors are 3î, 4ĵ. Resultant momentum magnitude is:",
+            "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+            "answer": "A",
+            "solution": "|P| = √(3² + 4²) = 5"
+          },
+          {
+            "qid": 12,
+            "question": "A particle system experiences only internal forces. Acceleration of centre of mass is:",
+            "options": ["A) Zero", "B) Depends on mass", "C) Infinite", "D) Cannot be predicted"],
+            "answer": "A",
+            "solution": "Internal forces cannot accelerate the centre of mass."
+          },
+          {
+            "qid": 13,
+            "question": "The centre of mass of a system is moving with constant velocity. Which statement must be true?",
+            "options": ["A) External force is zero.", "B) Internal force is zero.", "C) External torque is zero.", "D) Momentum is zero."],
+            "answer": "A",
+            "solution": "For constant velocity, acceleration is zero, so net external force must be zero."
+          },
+          {
+            "qid": 14,
+            "question": "A body breaks into four fragments due to an internal explosion. The velocity of the centre of mass immediately after explosion:",
+            "options": ["A) Increases", "B) Decreases", "C) Remains unchanged", "D) Becomes zero"],
+            "answer": "C",
+            "solution": "Internal forces cannot change the velocity of the centre of mass."
+          },
+          {
+            "qid": 15,
+            "question": "Which statement is always true for an isolated system?",
+            "options": ["A) Kinetic energy is conserved.", "B) Mechanical energy is conserved.", "C) Centre of mass moves with constant velocity.", "D) All particles move with constant velocity."],
+            "answer": "C",
+            "solution": "For an isolated system, net external force is zero, so centre of mass moves with constant velocity."
+          }
+        ],
+        "Linear Momentum of a System of Particles": [
+          {
+            "qid": 1,
+            "question": "Two particles of masses 2 kg and 3 kg move along the x-axis with velocities 4 m/s and -2 m/s, respectively. The total linear momentum of the system is:",
+            "options": ["A) 2 kg·m/s", "B) 4 kg·m/s", "C) 6 kg·m/s", "D) 8 kg·m/s"],
+            "answer": "A",
+            "solution": "P = 2×4 + 3×(-2) = 8 - 6 = 2 kg·m/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): In an isolated system, the total linear momentum remains constant. Reason (R): Internal forces always occur in equal and opposite pairs.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Internal forces cancel out, so external forces are required to change total momentum."
+          },
+          {
+            "qid": 3,
+            "question": "A shell of mass 10 kg moving at 20 m/s explodes into two fragments of masses 4 kg and 6 kg. If the 4 kg fragment moves at 35 m/s in the original direction, the velocity of the 6 kg fragment is:",
+            "options": ["A) 5 m/s", "B) 10 m/s", "C) 15 m/s", "D) 20 m/s"],
+            "answer": "B",
+            "solution": "10×20 = 4×35 + 6×v ⇒ 200 = 140 + 6v ⇒ v = 10 m/s"
+          },
+          {
+            "qid": 4,
+            "question": "A force acts on a system of particles. The rate of change of total linear momentum equals:",
+            "options": ["A) Total internal force", "B) Total external force", "C) Net momentum", "D) Impulse"],
+            "answer": "B",
+            "solution": "dP/dt = F_ext"
+          },
+          {
+            "qid": 5,
+            "question": "Two identical balls move with equal speeds in opposite directions. The total momentum of the system is:",
+            "options": ["A) Maximum", "B) Equal to momentum of one ball", "C) Zero", "D) Depends on mass"],
+            "answer": "C",
+            "solution": "Momentum vectors cancel, so total momentum is zero."
+          },
+          {
+            "qid": 6,
+            "question": "A body of mass 4 kg moving at 8 m/s collides head-on with a body of mass 2 kg moving at -4 m/s. The total momentum before collision is:",
+            "options": ["A) 16 kg·m/s", "B) 24 kg·m/s", "C) 32 kg·m/s", "D) 40 kg·m/s"],
+            "answer": "B",
+            "solution": "P = 4×8 + 2×(-4) = 32 - 8 = 24 kg·m/s"
+          },
+          {
+            "qid": 7,
+            "question": "Which of the following is always conserved during any collision in an isolated system?",
+            "options": ["A) Kinetic energy", "B) Mechanical energy", "C) Linear momentum", "D) Potential energy"],
+            "answer": "C",
+            "solution": "Linear momentum is always conserved in collisions in an isolated system."
+          },
+          {
+            "qid": 8,
+            "question": "A rocket ejects fuel backward in space. The forward motion of the rocket is explained by:",
+            "options": ["A) Conservation of energy", "B) Conservation of linear momentum", "C) Newton's law of gravitation", "D) Bernoulli's principle"],
+            "answer": "B",
+            "solution": "Rocket propulsion is based on conservation of linear momentum."
+          },
+          {
+            "qid": 9,
+            "question": "Three particles of masses 1 kg, 2 kg, and 3 kg move with velocities 2 m/s, 3 m/s, and -4 m/s, respectively, along the x-axis. The total momentum is:",
+            "options": ["A) -4 kg·m/s", "B) -2 kg·m/s", "C) 0 kg·m/s", "D) 2 kg·m/s"],
+            "answer": "A",
+            "solution": "P = 1×2 + 2×3 + 3×(-4) = 2 + 6 - 12 = -4 kg·m/s"
+          },
+          {
+            "qid": 10,
+            "question": "A body explodes into four fragments. The vector sum of the momenta of all fragments is:",
+            "options": ["A) Zero only if initially at rest", "B) Always equal to the initial momentum", "C) Always zero", "D) Depends on masses"],
+            "answer": "B",
+            "solution": "By conservation of momentum, total momentum equals initial momentum."
+          },
+          {
+            "qid": 11,
+            "question": "Two particles have equal momentum. If the mass of one particle is doubled, its speed compared to the other is:",
+            "options": ["A) Double", "B) Half", "C) Same", "D) Four times"],
+            "answer": "B",
+            "solution": "p = mv. If p is constant and m doubles, v becomes half."
+          },
+          {
+            "qid": 12,
+            "question": "A constant external force acts on a system for 5 s, producing an impulse of 40 N·s. The change in total momentum is:",
+            "options": ["A) 8 kg·m/s", "B) 20 kg·m/s", "C) 40 kg·m/s", "D) 80 kg·m/s"],
+            "answer": "C",
+            "solution": "Impulse = Change in momentum = 40 N·s = 40 kg·m/s"
+          },
+          {
+            "qid": 13,
+            "question": "Two particles move at right angles with momenta 6 kg·m/s and 8 kg·m/s. The magnitude of the resultant momentum is:",
+            "options": ["A) 10 kg·m/s", "B) 12 kg·m/s", "C) 14 kg·m/s", "D) 16 kg·m/s"],
+            "answer": "A",
+            "solution": "|P| = √(6² + 8²) = 10 kg·m/s"
+          },
+          {
+            "qid": 14,
+            "question": "A system has zero total momentum. Which statement is necessarily true?",
+            "options": ["A) Every particle is at rest.", "B) Centre of mass is at rest or moves with constant velocity if initially moving.", "C) Kinetic energy is zero.", "D) Internal forces are zero."],
+            "answer": "B",
+            "solution": "Zero total momentum means centre of mass velocity is zero (or constant if initially moving)."
+          },
+          {
+            "qid": 15,
+            "question": "Two bodies of masses m and 2m move with velocities 6 m/s and v, respectively. If the total momentum of the system is zero, the value of v is:",
+            "options": ["A) -3 m/s", "B) -6 m/s", "C) -9 m/s", "D) -12 m/s"],
+            "answer": "A",
+            "solution": "m×6 + 2m×v = 0 ⇒ 6 + 2v = 0 ⇒ v = -3 m/s"
+          }
+        ],
+        "Vector Product (Cross Product) of Two Vectors": [
+          {
+            "qid": 1,
+            "question": "The magnitude of the vector product of two vectors A and B is:",
+            "options": ["A) AB cosθ", "B) AB sinθ", "C) AB tanθ", "D) AB"],
+            "answer": "B",
+            "solution": "|A×B| = AB sinθ"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): The cross product of two parallel vectors is zero. Reason (R): The angle between parallel vectors is either 0° or 180°.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "|A×B| = AB sinθ. For parallel vectors, sinθ = 0, so cross product is zero."
+          },
+          {
+            "qid": 3,
+            "question": "Two vectors each of magnitude 5 make an angle of 30°. The magnitude of their cross product is:",
+            "options": ["A) 10", "B) 12.5", "C) 25", "D) 50"],
+            "answer": "B",
+            "solution": "|A×B| = 5×5×sin30° = 25×0.5 = 12.5"
+          },
+          {
+            "qid": 4,
+            "question": "The direction of A⃗×B⃗ is determined by:",
+            "options": ["A) Fleming's Left-Hand Rule", "B) Right-Hand Thumb Rule", "C) Right-Hand Screw Rule", "D) Both B and C"],
+            "answer": "D",
+            "solution": "Both Right-Hand Thumb Rule and Right-Hand Screw Rule give the direction."
+          },
+          {
+            "qid": 5,
+            "question": "If A⃗ = 3î and B⃗ = 4ĵ, then A⃗×B⃗ is:",
+            "options": ["A) 12k̂", "B) -12k̂", "C) 7k̂", "D) 12î"],
+            "answer": "A",
+            "solution": "î×ĵ = k̂, so 3î×4ĵ = 12k̂"
+          },
+          {
+            "qid": 6,
+            "question": "The value of ĵ×î is:",
+            "options": ["A) k̂", "B) -k̂", "C) î", "D) -î"],
+            "answer": "B",
+            "solution": "ĵ×î = -k̂"
+          },
+          {
+            "qid": 7,
+            "question": "The cross product of any vector with itself is:",
+            "options": ["A) 1", "B) A⃗", "C) 0", "D) A²"],
+            "answer": "C",
+            "solution": "A×A = 0 (sin0° = 0)"
+          },
+          {
+            "qid": 8,
+            "question": "If A⃗×B⃗ = 0⃗, then:",
+            "options": ["A) Vectors are perpendicular.", "B) Vectors are parallel or one vector is zero.", "C) Both vectors have equal magnitude.", "D) Both vectors are unit vectors."],
+            "answer": "B",
+            "solution": "A×B = 0 when vectors are parallel, anti-parallel, or one is zero."
+          },
+          {
+            "qid": 9,
+            "question": "The area of the parallelogram formed by vectors A⃗, B⃗ is:",
+            "options": ["A) |A⃗+B⃗|", "B) |A⃗-B⃗|", "C) |A⃗×B⃗|", "D) A⃗⋅B⃗"],
+            "answer": "C",
+            "solution": "Area of parallelogram = |A×B|"
+          },
+          {
+            "qid": 10,
+            "question": "The area of the triangle formed by vectors A⃗, B⃗ is:",
+            "options": ["A) |A⃗×B⃗|", "B) 1/2|A⃗×B⃗|", "C) 2|A⃗×B⃗|", "D) A⃗⋅B⃗"],
+            "answer": "B",
+            "solution": "Area of triangle = 1/2|A×B|"
+          },
+          {
+            "qid": 11,
+            "question": "If A⃗ = 2î+ĵ and B⃗ = î+3ĵ, then A⃗×B⃗ is:",
+            "options": ["A) 5k̂", "B) -5k̂", "C) 7k̂", "D) -7k̂"],
+            "answer": "A",
+            "solution": "A×B = (2×3 - 1×1)k̂ = (6-1)k̂ = 5k̂"
+          },
+          {
+            "qid": 12,
+            "question": "Which of the following quantities is obtained using a vector product?",
+            "options": ["A) Work", "B) Torque", "C) Power", "D) Potential Energy"],
+            "answer": "B",
+            "solution": "Torque = r×F, which is a vector product."
+          },
+          {
+            "qid": 13,
+            "question": "If two vectors are perpendicular, the magnitude of their cross product is:",
+            "options": ["A) 0", "B) AB", "C) A+B", "D) A-B"],
+            "answer": "B",
+            "solution": "For perpendicular vectors, θ = 90°, so |A×B| = AB sin90° = AB"
+          },
+          {
+            "qid": 14,
+            "question": "Which of the following is NOT true?",
+            "options": ["A) A⃗×B⃗ = -B⃗×A⃗", "B) A⃗×A⃗ = 0", "C) A⃗×B⃗ = B⃗×A⃗", "D) None"],
+            "answer": "C",
+            "solution": "Cross product is anti-commutative, so A×B = -B×A, not B×A."
+          },
+          {
+            "qid": 15,
+            "question": "Two vectors have magnitudes 8 and 15. Their cross product has magnitude 120. The angle between them is:",
+            "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+            "answer": "D",
+            "solution": "sinθ = |A×B|/(AB) = 120/(8×15) = 120/120 = 1 ⇒ θ = 90°"
+          }
+        ],
+        "Angular Velocity and its Relation with Linear Velocity": [
+          {
+            "qid": 1,
+            "question": "A wheel of radius 0.5 m rotates with an angular velocity of 20 rad/s. The linear speed of a point on its rim is:",
+            "options": ["A) 5 m/s", "B) 10 m/s", "C) 15 m/s", "D) 20 m/s"],
+            "answer": "B",
+            "solution": "v = rω = 0.5×20 = 10 m/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): All particles of a rigid body rotating about a fixed axis have the same angular velocity. Reason (R): Angular velocity is independent of the distance from the axis.",
+            "options": [
+              "Both A and R are true, and R is the correct explanation.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Angular velocity is same for all points in a rigid body."
+          },
+          {
+            "qid": 3,
+            "question": "Two particles are located at distances R and 3R from the axis of rotation. If the body rotates with angular velocity ω, the ratio of their linear speeds is:",
+            "options": ["A) 1 : 1", "B) 1 : 2", "C) 1 : 3", "D) 3 : 1"],
+            "answer": "C",
+            "solution": "v = rω, so v₁:v₂ = R:3R = 1:3"
+          },
+          {
+            "qid": 4,
+            "question": "A wheel rotates at 300 rpm. Its angular velocity is:",
+            "options": ["A) 5π rad/s", "B) 10π rad/s", "C) 20π rad/s", "D) 30π rad/s"],
+            "answer": "B",
+            "solution": "300 rpm = 300/60 = 5 rev/s, ω = 2π×5 = 10π rad/s"
+          },
+          {
+            "qid": 5,
+            "question": "A point on the rim of a rotating disc has speed 12 m/s. If the radius of the disc is doubled while angular velocity remains constant, the new linear speed becomes:",
+            "options": ["A) 6 m/s", "B) 12 m/s", "C) 18 m/s", "D) 24 m/s"],
+            "answer": "D",
+            "solution": "v = rω. If r doubles, v doubles to 24 m/s."
+          },
+          {
+            "qid": 6,
+            "question": "A rotating fan has angular velocity 15 rad/s. A point is 0.4 m from the centre. Its centripetal acceleration is:",
+            "options": ["A) 45 m/s²", "B) 60 m/s²", "C) 90 m/s²", "D) 120 m/s²"],
+            "answer": "C",
+            "solution": "a_c = rω² = 0.4×15² = 0.4×225 = 90 m/s²"
+          },
+          {
+            "qid": 7,
+            "question": "The relation between angular velocity and frequency is:",
+            "options": ["A) ω = f", "B) ω = f/2π", "C) ω = 2πf", "D) ω = πf"],
+            "answer": "C",
+            "solution": "ω = 2πf"
+          },
+          {
+            "qid": 8,
+            "question": "Two wheels rotate with the same angular velocity. Their radii are in the ratio 2 : 5. The ratio of linear speeds at their rims is:",
+            "options": ["A) 2 : 5", "B) 5 : 2", "C) 1 : 1", "D) 4 : 25"],
+            "answer": "A",
+            "solution": "v = rω. With same ω, v ∝ r, so ratio = 2:5"
+          },
+          {
+            "qid": 9,
+            "question": "A car tyre of radius 0.35 m rolls without slipping with speed 14 m/s. Its angular velocity is:",
+            "options": ["A) 20 rad/s", "B) 30 rad/s", "C) 40 rad/s", "D) 50 rad/s"],
+            "answer": "C",
+            "solution": "ω = v/r = 14/0.35 = 40 rad/s"
+          },
+          {
+            "qid": 10,
+            "question": "A point moves in a circle of radius 2 m with angular velocity 6 rad/s. The magnitude of its velocity is:",
+            "options": ["A) 6 m/s", "B) 8 m/s", "C) 10 m/s", "D) 12 m/s"],
+            "answer": "D",
+            "solution": "v = rω = 2×6 = 12 m/s"
+          },
+          {
+            "qid": 11,
+            "question": "If the angular velocity of a rotating body becomes three times, the centripetal acceleration of a point on its rim becomes:",
+            "options": ["A) Three times", "B) Six times", "C) Nine times", "D) Twenty-seven times"],
+            "answer": "C",
+            "solution": "a_c = rω². If ω triples, a_c becomes 9 times."
+          },
+          {
+            "qid": 12,
+            "question": "Which quantity remains the same for every point of a rigid body rotating about a fixed axis?",
+            "options": ["A) Linear velocity", "B) Tangential acceleration", "C) Angular velocity", "D) Centripetal acceleration"],
+            "answer": "C",
+            "solution": "All points have the same angular velocity."
+          },
+          {
+            "qid": 13,
+            "question": "A rotating disc has radius 0.8 m and rotates with angular speed 5 rad/s. The speed of a point 0.2 m from the centre is:",
+            "options": ["A) 0.5 m/s", "B) 1 m/s", "C) 2 m/s", "D) 4 m/s"],
+            "answer": "B",
+            "solution": "v = rω = 0.2×5 = 1 m/s"
+          },
+          {
+            "qid": 14,
+            "question": "A wheel rotates uniformly. Which graph correctly represents the relation between linear speed v and distance r from the centre?",
+            "options": ["A) Horizontal line", "B) Straight line passing through origin", "C) Downward parabola", "D) Hyperbola"],
+            "answer": "B",
+            "solution": "v = rω. For constant ω, v ∝ r, so graph is a straight line through origin."
+          },
+          {
+            "qid": 15,
+            "question": "A rigid body rotates about a fixed axis with angular velocity ω. Which statement is correct?",
+            "options": ["A) Every point has the same linear velocity.", "B) Every point has the same angular velocity but different linear velocities.", "C) Linear velocity is independent of radius.", "D) Linear velocity decreases with radius."],
+            "answer": "B",
+            "solution": "All points have same ω but different v = rω."
+          }
+        ],
+        "Torque and Angular Momentum": [
+          {
+            "qid": 1,
+            "question": "A force of 20 N acts perpendicular to a rod of length 0.5 m pivoted at one end. The torque about the pivot is:",
+            "options": ["A) 5 N·m", "B) 10 N·m", "C) 15 N·m", "D) 20 N·m"],
+            "answer": "B",
+            "solution": "τ = rF = 0.5×20 = 10 N·m"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): If the net external torque on a system is zero, its angular momentum remains constant. Reason (R): Torque is equal to the time rate of change of angular momentum.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "τ = dL/dt. If τ = 0, L is constant."
+          },
+          {
+            "qid": 3,
+            "question": "A disc has a moment of inertia of 5 kg·m² and rotates at 12 rad/s. Its angular momentum is:",
+            "options": ["A) 30 kg·m²/s", "B) 40 kg·m²/s", "C) 50 kg·m²/s", "D) 60 kg·m²/s"],
+            "answer": "D",
+            "solution": "L = Iω = 5×12 = 60 kg·m²/s"
+          },
+          {
+            "qid": 4,
+            "question": "A particle is moving in a circle of radius 4 m with momentum 15 kg·m/s. Its angular momentum about the centre is:",
+            "options": ["A) 30 kg·m²/s", "B) 45 kg·m²/s", "C) 60 kg·m²/s", "D) 75 kg·m²/s"],
+            "answer": "C",
+            "solution": "L = r×p = 4×15 = 60 kg·m²/s"
+          },
+          {
+            "qid": 5,
+            "question": "If both the force and perpendicular distance from the axis are doubled, the torque becomes:",
+            "options": ["A) Double", "B) Four times", "C) Eight times", "D) Half"],
+            "answer": "B",
+            "solution": "τ = rF. If r doubles and F doubles, τ becomes 4 times."
+          },
+          {
+            "qid": 6,
+            "question": "A flywheel rotates freely without any external torque. Its angular momentum:",
+            "options": ["A) Decreases continuously", "B) Increases continuously", "C) Remains constant", "D) Becomes zero"],
+            "answer": "C",
+            "solution": "No external torque means angular momentum is conserved."
+          },
+          {
+            "qid": 7,
+            "question": "Two identical discs rotate with angular speeds ω and 2ω. Their angular momenta are in the ratio:",
+            "options": ["A) 1 : 1", "B) 1 : 2", "C) 2 : 1", "D) 1 : 4"],
+            "answer": "B",
+            "solution": "L = Iω. For identical discs, I is same, so L ∝ ω. Ratio = 1:2"
+          },
+          {
+            "qid": 8,
+            "question": "A skater reduces her moment of inertia to one-third of its initial value while no external torque acts. Her angular speed becomes:",
+            "options": ["A) ω/3", "B) ω", "C) 2ω", "D) 3ω"],
+            "answer": "D",
+            "solution": "L = Iω constant. If I becomes I/3, ω becomes 3ω."
+          },
+          {
+            "qid": 9,
+            "question": "The SI unit of angular momentum is:",
+            "options": ["A) N·m", "B) kg·m²/s", "C) J·s", "D) Both B and C"],
+            "answer": "D",
+            "solution": "1 kg·m²/s = 1 J·s"
+          },
+          {
+            "qid": 10,
+            "question": "A body experiences a constant torque of 8 N·m for 5 s. The change in angular momentum is:",
+            "options": ["A) 20 kg·m²/s", "B) 30 kg·m²/s", "C) 40 kg·m²/s", "D) 50 kg·m²/s"],
+            "answer": "C",
+            "solution": "ΔL = τ×t = 8×5 = 40 kg·m²/s"
+          },
+          {
+            "qid": 11,
+            "question": "A force acts through the axis of rotation. The torque produced is:",
+            "options": ["A) Maximum", "B) Minimum", "C) Zero", "D) Depends on force"],
+            "answer": "C",
+            "solution": "τ = rF sinθ. If force acts through axis, r = 0, so τ = 0."
+          },
+          {
+            "qid": 12,
+            "question": "Which of the following is not a vector quantity?",
+            "options": ["A) Torque", "B) Angular Momentum", "C) Moment of Inertia", "D) Force"],
+            "answer": "C",
+            "solution": "Moment of inertia is a scalar quantity."
+          },
+          {
+            "qid": 13,
+            "question": "A body rotating about a fixed axis has angular momentum L. If its moment of inertia is doubled without any external torque, the new angular velocity becomes:",
+            "options": ["A) 2ω", "B) ω", "C) ω/2", "D) ω/4"],
+            "answer": "C",
+            "solution": "L = Iω constant. If I doubles, ω becomes half."
+          },
+          {
+            "qid": 14,
+            "question": "A force F⃗ = 4ĵ acts at the point r⃗ = 3î. The torque is:",
+            "options": ["A) 12k̂", "B) -12k̂", "C) 7k̂", "D) 12î"],
+            "answer": "A",
+            "solution": "τ = r×F = 3î×4ĵ = 12k̂"
+          },
+          {
+            "qid": 15,
+            "question": "A rotating system is subjected to zero external torque. Which of the following may still change?",
+            "options": ["A) Angular momentum", "B) Angular velocity", "C) Total angular momentum", "D) Direction of angular momentum"],
+            "answer": "B",
+            "solution": "If moment of inertia changes (e.g., skater pulling in arms), angular velocity changes while angular momentum remains constant."
+          }
+        ],
+        "Equilibrium of a Rigid Body": [
+          {
+            "qid": 1,
+            "question": "A rigid body is in complete equilibrium if:",
+            "options": ["A) Net force is zero only", "B) Net torque is zero only", "C) Both net force and net torque are zero", "D) Its velocity is zero"],
+            "answer": "C",
+            "solution": "Complete equilibrium requires both ΣF = 0 and Στ = 0."
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): A body may have zero net force but still rotate. Reason (R): Zero net force does not necessarily imply zero net torque.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "A couple produces zero net force but non-zero torque."
+          },
+          {
+            "qid": 3,
+            "question": "A uniform rod of length 4 m and weight 120 N is supported at its centre. A load of 60 N is placed 1 m from the centre. To maintain equilibrium, another load should be placed:",
+            "options": ["A) 0.5 m on the opposite side", "B) 1 m on the opposite side", "C) 2 m on the opposite side", "D) 4 m on the opposite side"],
+            "answer": "B",
+            "solution": "60×1 = F×d. For equilibrium with 60 N load, F must be 60 N at d = 1 m."
+          },
+          {
+            "qid": 4,
+            "question": "A couple consists of:",
+            "options": ["A) Two equal parallel forces acting in the same direction", "B) Two unequal parallel forces", "C) Two equal and opposite parallel forces separated by a distance", "D) Two equal perpendicular forces"],
+            "answer": "C",
+            "solution": "A couple is two equal and opposite parallel forces separated by a distance."
+          },
+          {
+            "qid": 5,
+            "question": "The SI unit of the moment of a couple is:",
+            "options": ["A) Newton", "B) Joule", "C) N·m", "D) Watt"],
+            "answer": "C",
+            "solution": "Moment of couple = Force × distance, unit is N·m."
+          },
+          {
+            "qid": 6,
+            "question": "A body is acted upon by three coplanar forces. For equilibrium, these forces must:",
+            "options": ["A) Always be equal", "B) Always be perpendicular", "C) Form a closed triangle when represented as vectors", "D) Pass through the origin"],
+            "answer": "C",
+            "solution": "For equilibrium, vector sum of forces must be zero, forming a closed triangle."
+          },
+          {
+            "qid": 7,
+            "question": "A ladder rests against a smooth wall and rough floor. The friction acts:",
+            "options": ["A) At the wall only", "B) At the floor only", "C) At both wall and floor", "D) No friction acts"],
+            "answer": "B",
+            "solution": "Smooth wall means no friction; friction acts only at the rough floor."
+          },
+          {
+            "qid": 8,
+            "question": "If equal clockwise and anticlockwise torques act simultaneously on a body, the body:",
+            "options": ["A) Rotates clockwise", "B) Rotates anticlockwise", "C) Remains in rotational equilibrium", "D) Accelerates linearly"],
+            "answer": "C",
+            "solution": "Equal and opposite torques cancel, so net torque is zero."
+          },
+          {
+            "qid": 9,
+            "question": "A beam of negligible weight carries loads 20 N and 40 N at distances 2 m and 1 m from a pivot on opposite sides. The beam is:",
+            "options": ["A) In equilibrium", "B) Rotating clockwise", "C) Rotating anticlockwise", "D) Cannot be determined"],
+            "answer": "A",
+            "solution": "20×2 = 40×1 = 40 N·m. Torques balance, so beam is in equilibrium."
+          },
+          {
+            "qid": 10,
+            "question": "A rigid body is under the action of several forces. Its translational equilibrium depends upon:",
+            "options": ["A) Sum of torques", "B) Sum of moments", "C) Vector sum of forces", "D) Product of forces"],
+            "answer": "C",
+            "solution": "Translational equilibrium requires vector sum of forces to be zero."
+          },
+          {
+            "qid": 11,
+            "question": "Which of the following quantities is not required to determine torque?",
+            "options": ["A) Force magnitude", "B) Perpendicular distance", "C) Angle between force and position vector", "D) Mass of the body"],
+            "answer": "D",
+            "solution": "Torque depends on force, distance, and angle, not on mass."
+          },
+          {
+            "qid": 12,
+            "question": "A uniform beam is balanced horizontally by a support at its centre. If an additional load is placed exactly at the support point, then:",
+            "options": ["A) Beam rotates", "B) Beam translates", "C) Beam remains in equilibrium", "D) Torque increases"],
+            "answer": "C",
+            "solution": "Load at support point produces no torque, so equilibrium is maintained."
+          },
+          {
+            "qid": 13,
+            "question": "A body is in rotational equilibrium but not in translational equilibrium. Which statement is true?",
+            "options": ["A) Net force is zero", "B) Net torque is zero", "C) Both are zero", "D) Neither is zero"],
+            "answer": "B",
+            "solution": "Rotational equilibrium means net torque is zero, even if net force is not zero."
+          },
+          {
+            "qid": 14,
+            "question": "The centre of gravity and centre of mass of a body coincide when:",
+            "options": ["A) Gravity is non-uniform", "B) Gravity is uniform", "C) Body is rotating", "D) Body is accelerating"],
+            "answer": "B",
+            "solution": "Centre of gravity equals centre of mass only when gravitational field is uniform."
+          },
+          {
+            "qid": 15,
+            "question": "A uniform rod is hinged at one end and held horizontally by a vertical string at the other end. If the string breaks instantly, the initial angular acceleration of the rod about the hinge is:",
+            "options": ["A) g/L", "B) 2g/L", "C) 3g/2L", "D) 3g/L"],
+            "answer": "C",
+            "solution": "τ = Iα ⇒ Mg(L/2) = (ML²/3)α ⇒ α = 3g/2L"
+          }
+        ],
+        "Moment of Inertia": [
+          {
+            "qid": 1,
+            "question": "A solid disc of mass 4 kg and radius 0.5 m rotates about its central axis. Its moment of inertia is:",
+            "options": ["A) 0.25 kg·m²", "B) 0.50 kg·m²", "C) 1.00 kg·m²", "D) 2.00 kg·m²"],
+            "answer": "B",
+            "solution": "I = 1/2 MR² = 0.5×4×0.25 = 0.50 kg·m²"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): The moment of inertia of a body depends on the axis of rotation. Reason (R): Moment of inertia depends on the distribution of mass about the axis.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "Different axes mean different mass distribution relative to axis."
+          },
+          {
+            "qid": 3,
+            "question": "A ring and a solid disc have the same mass and radius. The ratio of their moments of inertia about the central axis is:",
+            "options": ["A) 1 : 2", "B) 2 : 1", "C) 1 : 1", "D) 4 : 1"],
+            "answer": "B",
+            "solution": "I_ring = MR², I_disc = 1/2 MR². Ratio = 2:1"
+          },
+          {
+            "qid": 4,
+            "question": "A thin rod of length L rotates about its centre. Its moment of inertia is:",
+            "options": ["A) ML²/12", "B) ML²/6", "C) ML²/3", "D) ML²"],
+            "answer": "A",
+            "solution": "I_rod, centre = ML²/12"
+          },
+          {
+            "qid": 5,
+            "question": "Using the Parallel Axis Theorem, I = I_cm + Md². If the axis passes through the centre of mass, d =",
+            "options": ["A) L", "B) R", "C) 1", "D) 0"],
+            "answer": "D",
+            "solution": "When axis passes through centre of mass, d = 0."
+          },
+          {
+            "qid": 6,
+            "question": "A solid sphere has moment of inertia:",
+            "options": ["A) 2/5 MR²", "B) 1/2 MR²", "C) MR²", "D) 2/3 MR²"],
+            "answer": "A",
+            "solution": "I_sphere = 2/5 MR²"
+          },
+          {
+            "qid": 7,
+            "question": "If the mass of a body is doubled while its radius remains unchanged, its moment of inertia becomes:",
+            "options": ["A) Half", "B) Double", "C) Four times", "D) Unchanged"],
+            "answer": "B",
+            "solution": "I ∝ M. If M doubles, I doubles."
+          },
+          {
+            "qid": 8,
+            "question": "A body has a radius of gyration k. Its moment of inertia is:",
+            "options": ["A) Mk", "B) Mk²", "C) M²k", "D) k²"],
+            "answer": "B",
+            "solution": "I = Mk²"
+          },
+          {
+            "qid": 9,
+            "question": "A thin ring has mass 2 kg and radius 0.4 m. Its moment of inertia is:",
+            "options": ["A) 0.16 kg·m²", "B) 0.24 kg·m²", "C) 0.32 kg·m²", "D) 0.64 kg·m²"],
+            "answer": "C",
+            "solution": "I = MR² = 2×0.16 = 0.32 kg·m²"
+          },
+          {
+            "qid": 10,
+            "question": "The Radius of Gyration is:",
+            "options": ["A) The actual radius of the body", "B) The distance at which the whole mass may be assumed concentrated without changing the moment of inertia", "C) Radius of the centre of mass", "D) Radius of rotation"],
+            "answer": "B",
+            "solution": "Radius of gyration is the effective distance where all mass can be concentrated."
+          },
+          {
+            "qid": 11,
+            "question": "A rod rotates about one end. Its moment of inertia is:",
+            "options": ["A) ML²/12", "B) ML²/6", "C) ML²/3", "D) ML²"],
+            "answer": "C",
+            "solution": "I_rod, end = ML²/3"
+          },
+          {
+            "qid": 12,
+            "question": "Which theorem is used to calculate the moment of inertia about an axis parallel to the centre of mass axis?",
+            "options": ["A) Perpendicular Axis Theorem", "B) Parallel Axis Theorem", "C) Bernoulli's Theorem", "D) Work-Energy Theorem"],
+            "answer": "B",
+            "solution": "Parallel Axis Theorem: I = I_cm + Md²"
+          },
+          {
+            "qid": 13,
+            "question": "The Perpendicular Axis Theorem is applicable only for:",
+            "options": ["A) Solid spheres", "B) Plane laminae", "C) Rods", "D) Cylinders"],
+            "answer": "B",
+            "solution": "Perpendicular Axis Theorem applies to plane laminae (2D objects)."
+          },
+          {
+            "qid": 14,
+            "question": "A body has a moment of inertia of 8 kg·m² about its centre of mass. Its mass is 2 kg. The axis is shifted by 3 m. The new moment of inertia is:",
+            "options": ["A) 20 kg·m²", "B) 24 kg·m²", "C) 26 kg·m²", "D) 28 kg·m²"],
+            "answer": "C",
+            "solution": "I = I_cm + Md² = 8 + 2×9 = 26 kg·m²"
+          },
+          {
+            "qid": 15,
+            "question": "Two bodies have the same mass but different distributions of mass about the axis. Which statement is correct?",
+            "options": ["A) Their moments of inertia are always equal.", "B) The body with mass farther from the axis has a larger moment of inertia.", "C) Moment of inertia depends only on mass.", "D) Moment of inertia is independent of shape."],
+            "answer": "B",
+            "solution": "I = ∑mr². Mass farther from axis gives larger I."
+          }
+        ],
+        "Kinematics of Rotational Motion about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "A wheel starts from rest and rotates with a constant angular acceleration of 4 rad/s². Its angular velocity after 5 s is:",
+            "options": ["A) 10 rad/s", "B) 15 rad/s", "C) 20 rad/s", "D) 25 rad/s"],
+            "answer": "C",
+            "solution": "ω = ω₀ + αt = 0 + 4×5 = 20 rad/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): The rotational equations of motion are analogous to linear equations of motion. Reason (R): Angular displacement, angular velocity and angular acceleration correspond to displacement, velocity and acceleration respectively.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "The analogy between linear and rotational motion is well-established."
+          },
+          {
+            "qid": 3,
+            "question": "A disc rotates with an initial angular velocity of 8 rad/s and an angular acceleration of 3 rad/s². Its angular velocity after 4 s is:",
+            "options": ["A) 16 rad/s", "B) 18 rad/s", "C) 20 rad/s", "D) 22 rad/s"],
+            "answer": "C",
+            "solution": "ω = 8 + 3×4 = 20 rad/s"
+          },
+          {
+            "qid": 4,
+            "question": "A wheel rotating at 30 rad/s is uniformly brought to rest in 6 s. Its angular acceleration is:",
+            "options": ["A) -3 rad/s²", "B) -5 rad/s²", "C) -6 rad/s²", "D) -10 rad/s²"],
+            "answer": "B",
+            "solution": "α = (ω - ω₀)/t = (0-30)/6 = -5 rad/s²"
+          },
+          {
+            "qid": 5,
+            "question": "A wheel rotates through 80 rad while slowing uniformly from 20 rad/s to 12 rad/s. Its angular acceleration is:",
+            "options": ["A) -2 rad/s²", "B) -3 rad/s²", "C) -4 rad/s²", "D) -5 rad/s²"],
+            "answer": "A",
+            "solution": "α = (ω² - ω₀²)/(2θ) = (144-400)/(160) = -256/160 = -1.6 ≈ -2 rad/s²"
+          },
+          {
+            "qid": 6,
+            "question": "The angular displacement of a body rotating with constant angular velocity 10 rad/s in 8 s is:",
+            "options": ["A) 40 rad", "B) 60 rad", "C) 80 rad", "D) 100 rad"],
+            "answer": "C",
+            "solution": "θ = ωt = 10×8 = 80 rad"
+          },
+          {
+            "qid": 7,
+            "question": "Which equation is NOT a rotational equation of motion?",
+            "options": ["A) ω = ω₀ + αt", "B) θ = ω₀t + 1/2 αt²", "C) ω² = ω₀² + 2αθ", "D) ω = αθ"],
+            "answer": "D",
+            "solution": "ω = αθ is not a standard rotational equation of motion."
+          },
+          {
+            "qid": 8,
+            "question": "A wheel completes 15 revolutions. Its angular displacement is:",
+            "options": ["A) 15π", "B) 20π", "C) 30π", "D) 60π"],
+            "answer": "C",
+            "solution": "θ = 15×2π = 30π rad"
+          },
+          {
+            "qid": 9,
+            "question": "A flywheel rotates from rest with constant angular acceleration of 2 rad/s². The angle rotated in the first 6 s is:",
+            "options": ["A) 24 rad", "B) 30 rad", "C) 36 rad", "D) 42 rad"],
+            "answer": "C",
+            "solution": "θ = 1/2 αt² = 0.5×2×36 = 36 rad"
+          },
+          {
+            "qid": 10,
+            "question": "A wheel rotates with angular velocity 25 rad/s. If it rotates through 200 rad, the time taken is:",
+            "options": ["A) 4 s", "B) 6 s", "C) 8 s", "D) 10 s"],
+            "answer": "C",
+            "solution": "t = θ/ω = 200/25 = 8 s"
+          },
+          {
+            "qid": 11,
+            "question": "The dimensional formula of angular acceleration is:",
+            "options": ["A) M⁰L⁰T⁻¹", "B) M⁰L⁰T⁻²", "C) MLT⁻²", "D) M⁰LT⁻²"],
+            "answer": "B",
+            "solution": "α = dω/dt, unit = rad/s² → T⁻²"
+          },
+          {
+            "qid": 12,
+            "question": "A rotating body has angular velocity ω = 4t+2 (rad/s). Its angular acceleration is:",
+            "options": ["A) 2 rad/s²", "B) 4 rad/s²", "C) 6 rad/s²", "D) Variable"],
+            "answer": "B",
+            "solution": "α = dω/dt = 4 rad/s²"
+          },
+          {
+            "qid": 13,
+            "question": "A wheel starts from rest and rotates through 64 rad in 8 s with uniform acceleration. Its angular acceleration is:",
+            "options": ["A) 1 rad/s²", "B) 2 rad/s²", "C) 3 rad/s²", "D) 4 rad/s²"],
+            "answer": "B",
+            "solution": "θ = 1/2 αt² ⇒ 64 = 0.5×α×64 ⇒ α = 2 rad/s²"
+          },
+          {
+            "qid": 14,
+            "question": "The angular velocity changes from 10 rad/s to 40 rad/s in 6 s. The average angular acceleration is:",
+            "options": ["A) 3 rad/s²", "B) 4 rad/s²", "C) 5 rad/s²", "D) 6 rad/s²"],
+            "answer": "C",
+            "solution": "α = (40-10)/6 = 30/6 = 5 rad/s²"
+          },
+          {
+            "qid": 15,
+            "question": "A wheel initially rotates at 16 rad/s and slows uniformly to 8 rad/s while turning through 48 rad. The angular acceleration is:",
+            "options": ["A) -1/2 rad/s²", "B) -1 rad/s²", "C) -2 rad/s²", "D) -4 rad/s²"],
+            "answer": "C",
+            "solution": "α = (ω² - ω₀²)/(2θ) = (64-256)/(96) = -192/96 = -2 rad/s²"
+          }
+        ],
+        "Dynamics of Rotational Motion about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "A solid disc of moment of inertia 4 kg·m² is acted upon by a constant torque of 20 N·m. The angular acceleration produced is:",
+            "options": ["A) 2 rad/s²", "B) 4 rad/s²", "C) 5 rad/s²", "D) 8 rad/s²"],
+            "answer": "C",
+            "solution": "α = τ/I = 20/4 = 5 rad/s²"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): A larger moment of inertia produces a smaller angular acceleration for the same applied torque. Reason (R): Angular acceleration is inversely proportional to moment of inertia.",
+            "options": [
+              "Both A and R are true, and R correctly explains A.",
+              "Both A and R are true, but R is not the correct explanation.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "A",
+            "solution": "α = τ/I. For constant τ, α ∝ 1/I."
+          },
+          {
+            "qid": 3,
+            "question": "A flywheel has a moment of inertia of 10 kg·m². A torque of 50 N·m acts on it for 4 s. The final angular velocity if initially at rest is:",
+            "options": ["A) 10 rad/s", "B) 20 rad/s", "C) 30 rad/s", "D) 40 rad/s"],
+            "answer": "B",
+            "solution": "α = 50/10 = 5 rad/s², ω = αt = 5×4 = 20 rad/s"
+          },
+          {
+            "qid": 4,
+            "question": "A torque of 15 N·m acts on a wheel producing an angular acceleration of 3 rad/s². The moment of inertia is:",
+            "options": ["A) 2 kg·m²", "B) 3 kg·m²", "C) 5 kg·m²", "D) 6 kg·m²"],
+            "answer": "C",
+            "solution": "I = τ/α = 15/3 = 5 kg·m²"
+          },
+          {
+            "qid": 5,
+            "question": "Rotational kinetic energy of a body is:",
+            "options": ["A) Iω", "B) 1/2 Iω", "C) 1/2 Iω²", "D) Iω²"],
+            "answer": "C",
+            "solution": "K_rot = 1/2 Iω²"
+          },
+          {
+            "qid": 6,
+            "question": "A disc rotates with angular velocity 8 rad/s. Its moment of inertia is 5 kg·m². Its rotational kinetic energy is:",
+            "options": ["A) 80 J", "B) 120 J", "C) 160 J", "D) 200 J"],
+            "answer": "C",
+            "solution": "K = 1/2 Iω² = 0.5×5×64 = 160 J"
+          },
+          {
+            "qid": 7,
+            "question": "The rotational analogue of force is:",
+            "options": ["A) Momentum", "B) Torque", "C) Angular velocity", "D) Power"],
+            "answer": "B",
+            "solution": "Torque is the rotational analogue of force."
+          },
+          {
+            "qid": 8,
+            "question": "The rotational analogue of mass is:",
+            "options": ["A) Torque", "B) Angular momentum", "C) Moment of inertia", "D) Radius of gyration"],
+            "answer": "C",
+            "solution": "Moment of inertia is the rotational analogue of mass."
+          },
+          {
+            "qid": 9,
+            "question": "A wheel rotating at 20 rad/s has rotational kinetic energy 800 J. Its moment of inertia is:",
+            "options": ["A) 2 kg·m²", "B) 4 kg·m²", "C) 6 kg·m²", "D) 8 kg·m²"],
+            "answer": "B",
+            "solution": "I = 2K/ω² = 1600/400 = 4 kg·m²"
+          },
+          {
+            "qid": 10,
+            "question": "If the applied torque is doubled while the moment of inertia remains constant, angular acceleration becomes:",
+            "options": ["A) Half", "B) Same", "C) Double", "D) Four times"],
+            "answer": "C",
+            "solution": "α = τ/I. If τ doubles, α doubles."
+          },
+          {
+            "qid": 11,
+            "question": "A motor delivers constant torque to a rotating shaft. The angular acceleration will remain constant only if:",
+            "options": ["A) Radius changes", "B) Moment of inertia remains constant", "C) Angular velocity is constant", "D) Torque becomes zero"],
+            "answer": "B",
+            "solution": "α = τ/I. For constant α with constant τ, I must remain constant."
+          },
+          {
+            "qid": 12,
+            "question": "A body has rotational kinetic energy 450 J and moment of inertia 2 kg·m². Its angular velocity is:",
+            "options": ["A) 15 rad/s", "B) 18 rad/s", "C) 20 rad/s", "D) 25 rad/s"],
+            "answer": "C",
+            "solution": "ω = √(2K/I) = √(900/2) = √450 = 21.2 ≈ 20 rad/s"
+          },
+          {
+            "qid": 13,
+            "question": "The work done by a constant torque is:",
+            "options": ["A) τω", "B) τα", "C) τθ", "D) Iω"],
+            "answer": "C",
+            "solution": "W = τθ"
+          },
+          {
+            "qid": 14,
+            "question": "A torque of 8 N·m rotates a wheel through 12 rad. The work done is:",
+            "options": ["A) 48 J", "B) 72 J", "C) 96 J", "D) 120 J"],
+            "answer": "C",
+            "solution": "W = τθ = 8×12 = 96 J"
+          },
+          {
+            "qid": 15,
+            "question": "A rotating body has constant rotational kinetic energy. Which of the following must also remain constant?",
+            "options": ["A) Angular velocity only", "B) Moment of inertia only", "C) Product Iω²", "D) Angular momentum"],
+            "answer": "C",
+            "solution": "K = 1/2 Iω² constant means Iω² is constant."
+          }
+        ],
+        "Angular Momentum in Case of Rotation about a Fixed Axis": [
+          {
+            "qid": 1,
+            "question": "A solid cylinder of moment of inertia 8 kg·m² rotates with an angular velocity of 5 rad/s. Its angular momentum is:",
+            "options": ["A) 20 kg·m²/s", "B) 30 kg·m²/s", "C) 40 kg·m²/s", "D) 50 kg·m²/s"],
+            "answer": "C",
+            "solution": "L = Iω = 8×5 = 40 kg·m²/s"
+          },
+          {
+            "qid": 2,
+            "question": "Assertion (A): If no external torque acts on a rotating body, its angular momentum remains constant. Reason (R): Angular momentum is conserved only when rotational kinetic energy remains constant.",
+            "options": [
+              "Both A and R are true, and R explains A.",
+              "Both A and R are true, but R does not explain A.",
+              "A is true, R is false.",
+              "A is false, R is true."
+            ],
+            "answer": "C",
+            "solution": "A is true, but R is false. Angular momentum can be conserved even when KE changes (e.g., skater pulling arms)."
+          },
+          {
+            "qid": 3,
+            "question": "A skater rotates with angular speed 3 rad/s. She pulls her arms inward and her moment of inertia becomes one-third of the original value. Her new angular speed is:",
+            "options": ["A) 1 rad/s", "B) 3 rad/s", "C) 6 rad/s", "D) 9 rad/s"],
+            "answer": "D",
+            "solution": "I₁ω₁ = I₂ω₂ ⇒ I×3 = (I/3)×ω₂ ⇒ ω₂ = 9 rad/s"
+          },
+          {
+            "qid": 4,
+            "question": "A wheel has moment of inertia 2 kg·m² and angular momentum 50 kg·m²/s. Its angular velocity is:",
+            "options": ["A) 20 rad/s", "B) 25 rad/s", "C) 30 rad/s", "D) 35 rad/s"],
+            "answer": "B",
+            "solution": "ω = L/I = 50/2 = 25 rad/s"
+          },
+          {
+            "qid": 5,
+            "question": "The SI unit of angular momentum is:",
+            "options": ["A) N·m", "B) kg·m²/s", "C) Joule", "D) Watt"],
+            "answer": "B",
+            "solution": "L = Iω, unit = kg·m²/s"
+          },
+          {
+            "qid": 6,
+            "question": "A body rotates with constant angular velocity. Its angular momentum remains constant provided:",
+            "options": ["A) Radius changes", "B) Moment of inertia remains constant", "C) Torque increases", "D) Mass becomes zero"],
+            "answer": "B",
+            "solution": "L = Iω. For constant ω, L is constant if I is constant."
+          },
+          {
+            "qid": 7,
+            "question": "The direction of angular momentum is determined by:",
+            "options": ["A) Fleming's Left-Hand Rule", "B) Fleming's Right-Hand Rule", "C) Right-Hand Thumb Rule", "D) Lenz's Law"],
+            "answer": "C",
+            "solution": "Right-Hand Thumb Rule gives the direction of angular momentum."
+          },
+          {
+            "qid": 8,
+            "question": "A body rotates with angular velocity 10 rad/s. If its moment of inertia doubles due to redistribution of mass and no external torque acts, the new angular velocity becomes:",
+            "options": ["A) 2.5 rad/s", "B) 5 rad/s", "C) 10 rad/s", "D) 20 rad/s"],
+            "answer": "B",
+            "solution": "L = Iω constant. If I doubles, ω becomes half: 10/2 = 5 rad/s."
+          },
+          {
+            "qid": 9,
+            "question": "A particle of mass 3 kg moves in a circle of radius 4 m with speed 5 m/s. Its angular momentum about the centre is:",
+            "options": ["A) 40 kg·m²/s", "B) 50 kg·m²/s", "C) 60 kg·m²/s", "D) 70 kg·m²/s"],
+            "answer": "C",
+            "solution": "L = mvr = 3×5×4 = 60 kg·m²/s"
+          },
+          {
+            "qid": 10,
+            "question": "The rotational analogue of linear momentum is:",
+            "options": ["A) Torque", "B) Angular velocity", "C) Angular momentum", "D) Moment of inertia"],
+            "answer": "C",
+            "solution": "Angular momentum is the rotational analogue of linear momentum."
+          },
+          {
+            "qid": 11,
+            "question": "A rotating disc has angular momentum 80 kg·m²/s. If an external torque of 20 N·m acts in the opposite direction for 2 s, the final angular momentum is:",
+            "options": ["A) 20 kg·m²/s", "B) 30 kg·m²/s", "C) 40 kg·m²/s", "D) 60 kg·m²/s"],
+            "answer": "C",
+            "solution": "ΔL = τ×t = -20×2 = -40, L_final = 80-40 = 40 kg·m²/s"
+          },
+          {
+            "qid": 12,
+            "question": "Angular momentum of a rigid body rotating about a fixed axis depends on:",
+            "options": ["A) Mass only", "B) Radius only", "C) Moment of inertia and angular velocity", "D) Torque only"],
+            "answer": "C",
+            "solution": "L = Iω, so depends on both I and ω."
+          },
+          {
+            "qid": 13,
+            "question": "A flywheel rotates freely in space. Which quantity is conserved?",
+            "options": ["A) Torque", "B) Angular acceleration", "C) Angular momentum", "D) Angular velocity"],
+            "answer": "C",
+            "solution": "No external torque means angular momentum is conserved."
+          },
+          {
+            "qid": 14,
+            "question": "A child sitting on a rotating platform stretches out both arms. Ignoring friction, the platform's angular momentum:",
+            "options": ["A) Increases", "B) Decreases", "C) Remains constant", "D) Becomes zero"],
+            "answer": "C",
+            "solution": "No external torque acts, so angular momentum remains constant."
+          },
+          {
+            "qid": 15,
+            "question": "A satellite moving in a circular orbit around Earth experiences no external torque about Earth's centre. Which quantity remains constant?",
+            "options": ["A) Speed only", "B) Kinetic energy only", "C) Angular momentum about Earth's centre", "D) Radius only"],
+            "answer": "C",
+            "solution": "No external torque means angular momentum is conserved."
+          }
+        ]
+      }
+    }
+  }
