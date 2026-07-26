@@ -9,9 +9,7 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
   
-  // Animation loop frame state
-  const [frame, setFrame] = useState(1);
-  const [imagesLoaded, setImagesLoaded] = useState(false);
+
 
   // Form States
   const [username, setUsername] = useState(''); // Used for Login (Email/Username)
@@ -33,41 +31,29 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
   const otpRef3 = useRef(null);
   const otpRefs = [otpRef0, otpRef1, otpRef2, otpRef3];
 
-  // Preload all 150 animation frames to ensure smooth, flicker-free playback
-  useEffect(() => {
-    let loadedCount = 0;
-    let isCancelled = false;
-    const totalFrames = 150;
+  const videoRef = useRef(null);
+  const [videoUrl, setVideoUrl] = useState(null);
 
-    // Defer massive network request by 1.5s so the rest of the site loads instantly
-    const timer = setTimeout(() => {
-      for (let i = 1; i <= totalFrames; i++) {
-        const img = new Image();
-        const handleLoad = () => {
-          if (isCancelled) return;
-          loadedCount++;
-          if (loadedCount === totalFrames) setImagesLoaded(true);
-        };
-        img.onload = handleLoad;
-        img.onerror = handleLoad; // Proceed even on error to avoid infinite loading
-        img.src = `/ezgif-73489313f0313338-png-split/ezgif-frame-${String(i).padStart(3, '0')}.png`;
-      }
-    }, 1500);
+  // Fetch video as blob to prevent network stuttering during playback
+  useEffect(() => {
+    let isCancelled = false;
+    fetch('/login-video.mp4')
+      .then(res => res.blob())
+      .then(blob => {
+        if (!isCancelled) setVideoUrl(URL.createObjectURL(blob));
+      })
+      .catch(err => console.log("Video preload failed:", err));
     
-    return () => { 
-      isCancelled = true; 
-      clearTimeout(timer);
-    };
+    return () => { isCancelled = true; };
   }, []);
 
-  // Frame sequence loop (25 FPS)
   useEffect(() => {
-    if (!imagesLoaded) return;
-    const interval = setInterval(() => {
-      setFrame((prev) => (prev % 150) + 1);
-    }, 40);
-    return () => clearInterval(interval);
-  }, [imagesLoaded]);
+    if (videoRef.current && videoUrl) {
+      videoRef.current.defaultMuted = true;
+      videoRef.current.muted = true;
+      videoRef.current.play().catch(e => console.log("Video autoplay blocked:", e));
+    }
+  }, [videoUrl]);
 
   useEffect(() => {
     setAuthMode(initialMode);
@@ -211,16 +197,20 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
 
         {/* Left Column: Video Animation Loop inside the Card (5 cols) */}
         <div className="hidden md:block md:col-span-5 relative overflow-hidden bg-black/30 border-r border-white/5 select-none pointer-events-none">
-          {!imagesLoaded ? (
+          {!videoUrl ? (
             <div className="absolute inset-0 flex flex-col items-center justify-center text-white/40">
               <div className="w-8 h-8 border-[3px] border-white/10 border-t-purple-500 rounded-full animate-spin mb-3" />
               <p className="text-[10px] font-semibold tracking-widest uppercase">Loading Video...</p>
             </div>
           ) : (
-            <img 
-              src={`/ezgif-73489313f0313338-png-split/ezgif-frame-${String(frame).padStart(3, '0')}.png`} 
-              alt="Genro App Demo Video" 
-              className="w-full h-full object-cover"
+            <video 
+              ref={videoRef}
+              src={videoUrl} 
+              autoPlay 
+              loop 
+              muted 
+              playsInline
+              className="w-full h-full object-cover animate-fade-in"
             />
           )}
         </div>
