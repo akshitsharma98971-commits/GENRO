@@ -176,7 +176,7 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
       {/* Main Unified Glassmorphic Card containing both Video & Form */}
       <div 
         ref={formColumnRef} 
-        className="w-full max-w-[850px] glass-panel rounded-[32px] border border-white/10 bg-white/[0.02] shadow-[0_45px_90px_-25px_rgba(0,0,0,0.95)] backdrop-blur-2xl overflow-hidden grid grid-cols-1 md:grid-cols-12 relative z-10"
+        className="w-full max-w-[850px] glass-panel rounded-[32px] border border-white/10 bg-white/[0.02] shadow-[0_45px_90px_-25px_rgba(0,0,0,0.95)] overflow-hidden grid grid-cols-1 md:grid-cols-12 relative z-10"
       >
         <div className="absolute top-0 right-0 w-32 h-32 bg-purple-500/10 blur-3xl rounded-full pointer-events-none"></div>
         <div className="absolute bottom-0 left-0 w-32 h-32 bg-cyan-500/5 blur-3xl rounded-full pointer-events-none"></div>
@@ -196,7 +196,7 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
         </div>
 
         {/* Right Column: Form Container inside the Card (7 cols) */}
-        <div className="col-span-12 md:col-span-7 flex flex-col justify-center p-8 md:p-10 space-y-6 relative z-10">
+        <div className="col-span-12 md:col-span-7 flex flex-col justify-center p-8 md:p-10 space-y-6 relative z-10 backdrop-blur-2xl">
           
           {/* Header Brand */}
           <div className="flex flex-col items-center text-center space-y-2.5">
