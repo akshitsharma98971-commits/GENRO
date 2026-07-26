@@ -32,28 +32,14 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
   const otpRefs = [otpRef0, otpRef1, otpRef2, otpRef3];
 
   const videoRef = useRef(null);
-  const [videoUrl, setVideoUrl] = useState(null);
-
-  // Fetch video as blob to prevent network stuttering during playback
-  useEffect(() => {
-    let isCancelled = false;
-    fetch('/login-video.mp4')
-      .then(res => res.blob())
-      .then(blob => {
-        if (!isCancelled) setVideoUrl(URL.createObjectURL(blob));
-      })
-      .catch(err => console.log("Video preload failed:", err));
-    
-    return () => { isCancelled = true; };
-  }, []);
 
   useEffect(() => {
-    if (videoRef.current && videoUrl) {
+    if (videoRef.current) {
       videoRef.current.defaultMuted = true;
       videoRef.current.muted = true;
-      videoRef.current.play().catch(e => console.log("Video autoplay blocked:", e));
+      // We don't catch the promise here to avoid noise, but let the browser try to autoplay
     }
-  }, [videoUrl]);
+  }, []);
 
   useEffect(() => {
     setAuthMode(initialMode);
@@ -197,22 +183,16 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
 
         {/* Left Column: Video Animation Loop inside the Card (5 cols) */}
         <div className="hidden md:block md:col-span-5 relative overflow-hidden bg-black/30 border-r border-white/5 select-none pointer-events-none">
-          {!videoUrl ? (
-            <div className="absolute inset-0 flex flex-col items-center justify-center text-white/40">
-              <div className="w-8 h-8 border-[3px] border-white/10 border-t-purple-500 rounded-full animate-spin mb-3" />
-              <p className="text-[10px] font-semibold tracking-widest uppercase">Loading Video...</p>
-            </div>
-          ) : (
-            <video 
-              ref={videoRef}
-              src={videoUrl} 
-              autoPlay 
-              loop 
-              muted 
-              playsInline
-              className="w-full h-full object-cover animate-fade-in"
-            />
-          )}
+          <video 
+            ref={videoRef}
+            src="/login-video.mp4" 
+            autoPlay 
+            loop 
+            muted 
+            playsInline
+            preload="auto"
+            className="w-full h-full object-cover animate-fade-in"
+          />
         </div>
 
         {/* Right Column: Form Container inside the Card (7 cols) */}
