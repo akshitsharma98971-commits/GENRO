@@ -179,10 +179,8 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
         className="w-full max-w-[850px] glass-panel rounded-[32px] border border-white/10 bg-white/[0.02] shadow-[0_45px_90px_-25px_rgba(0,0,0,0.95)] overflow-hidden grid grid-cols-1 md:grid-cols-12 relative z-10"
       >
         <div className="absolute top-0 right-0 w-32 h-32 bg-purple-500/10 blur-3xl rounded-full pointer-events-none"></div>
-        <div className="absolute bottom-0 left-0 w-32 h-32 bg-cyan-500/5 blur-3xl rounded-full pointer-events-none"></div>
 
-        {/* Left Column: Video Animation Loop inside the Card (5 cols) */}
-        <div className="hidden md:block md:col-span-5 relative overflow-hidden bg-black/30 border-r border-white/5 select-none pointer-events-none">
+        <div className="hidden md:block md:col-span-5 relative overflow-hidden bg-black/30 border-r border-white/5 select-none pointer-events-none" style={{ transform: 'translateZ(0)' }}>
           <video 
             ref={videoRef}
             src="/login-video.mp4" 
@@ -191,7 +189,8 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
             muted 
             playsInline
             preload="auto"
-            className="w-full h-full object-cover animate-fade-in"
+            style={{ willChange: 'transform' }}
+            className="w-full h-full object-cover"
           />
         </div>
 
