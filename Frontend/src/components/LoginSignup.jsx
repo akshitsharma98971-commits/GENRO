@@ -37,6 +37,7 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
     if (videoRef.current) {
       videoRef.current.defaultMuted = true;
       videoRef.current.muted = true;
+      videoRef.current.loop = true;
       // We don't catch the promise here to avoid noise, but let the browser try to autoplay
     }
   }, []);
@@ -191,6 +192,12 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
             muted 
             playsInline
             preload="auto"
+            onEnded={() => {
+              if (videoRef.current) {
+                videoRef.current.currentTime = 0;
+                videoRef.current.play().catch(() => {});
+              }
+            }}
             className="w-full h-full object-cover animate-fade-in"
           />
         </div>
