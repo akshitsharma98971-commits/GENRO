@@ -11,6 +11,7 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
   
   // Animation loop frame state
   const [frame, setFrame] = useState(1);
+  const [imagesLoaded, setImagesLoaded] = useState(false);
 
   // Form States
   const [username, setUsername] = useState(''); // Used for Login (Email/Username)
@@ -34,19 +35,39 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
 
   // Preload all 150 animation frames to ensure smooth, flicker-free playback
   useEffect(() => {
-    for (let i = 1; i <= 150; i++) {
-      const img = new Image();
-      img.src = `/ezgif-73489313f0313338-png-split/ezgif-frame-${String(i).padStart(3, '0')}.png`;
-    }
+    let loadedCount = 0;
+    let isCancelled = false;
+    const totalFrames = 150;
+
+    // Defer massive network request by 1.5s so the rest of the site loads instantly
+    const timer = setTimeout(() => {
+      for (let i = 1; i <= totalFrames; i++) {
+        const img = new Image();
+        const handleLoad = () => {
+          if (isCancelled) return;
+          loadedCount++;
+          if (loadedCount === totalFrames) setImagesLoaded(true);
+        };
+        img.onload = handleLoad;
+        img.onerror = handleLoad; // Proceed even on error to avoid infinite loading
+        img.src = `/ezgif-73489313f0313338-png-split/ezgif-frame-${String(i).padStart(3, '0')}.png`;
+      }
+    }, 1500);
+    
+    return () => { 
+      isCancelled = true; 
+      clearTimeout(timer);
+    };
   }, []);
 
   // Frame sequence loop (25 FPS)
   useEffect(() => {
+    if (!imagesLoaded) return;
     const interval = setInterval(() => {
       setFrame((prev) => (prev % 150) + 1);
     }, 40);
     return () => clearInterval(interval);
-  }, []);
+  }, [imagesLoaded]);
 
   useEffect(() => {
     setAuthMode(initialMode);
@@ -190,11 +211,18 @@ export default function LoginSignup({ onLogin, initialMode = 'signup' }) {
 
         {/* Left Column: Video Animation Loop inside the Card (5 cols) */}
         <div className="hidden md:block md:col-span-5 relative overflow-hidden bg-black/30 border-r border-white/5 select-none pointer-events-none">
-          <img 
-            src={`/ezgif-73489313f0313338-png-split/ezgif-frame-${String(frame).padStart(3, '0')}.png`} 
-            alt="Genro App Demo Video" 
-            className="w-full h-full object-cover"
-          />
+          {!imagesLoaded ? (
+            <div className="absolute inset-0 flex flex-col items-center justify-center text-white/40">
+              <div className="w-8 h-8 border-[3px] border-white/10 border-t-purple-500 rounded-full animate-spin mb-3" />
+              <p className="text-[10px] font-semibold tracking-widest uppercase">Loading Video...</p>
+            </div>
+          ) : (
+            <img 
+              src={`/ezgif-73489313f0313338-png-split/ezgif-frame-${String(frame).padStart(3, '0')}.png`} 
+              alt="Genro App Demo Video" 
+              className="w-full h-full object-cover"
+            />
+          )}
         </div>
 
         {/* Right Column: Form Container inside the Card (7 cols) */}
